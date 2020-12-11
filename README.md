@@ -1,4 +1,5 @@
-Kubernetes Developer, Soccer Fan & PUBG Fan
+Kubernetes Member, Soccer Fan & PUBG Fan
+
 Work in **DaoCloud Enterprise Team**
 
 <a href="https://pacoxu.wordpress.com/">
