@@ -1,5 +1,7 @@
 Kubernetes Member, Soccer Fan & PUBG Fan
+ 
  🔭 I’m currently working on Kubernetes & Docker & Containerd
+ 
  🌱 I’m currently learning Go & Knative & CoreDNS
 
 Work in **DaoCloud Enterprise Team**
@@ -24,4 +26,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://gist.github.com/pacoxu/e29df805a8546a42982c954d9f113b9e.js"></script>
