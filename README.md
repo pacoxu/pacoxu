@@ -1,3 +1,11 @@
+<a href="https://pacoxu.wordpress.com/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
+</a>
+
+<a href="https://pacoxu.wordpress.com/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacoxu&hide=html,ruby" />
+</a>
+
 Kubernetes Member, Soccer Fan & PUBG Fan
  
  🔭 I’m currently working on Kubernetes & Docker & Containerd
@@ -6,17 +14,7 @@ Kubernetes Member, Soccer Fan & PUBG Fan
 
 Work in **DaoCloud Enterprise Team**
 
-<a href="https://pacoxu.wordpress.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
-</a>
-<a href="https://pacoxu.wordpress.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacoxu&hide=html,ruby" />
-</a>
-
-
-<a></a>
-
-### Trivial Edits
+### Don't do too many Trivial Edits!!!
 Each incoming Pull Request needs to be reviewed, checked, and then merged.
 
 While automation helps with this, each contribution also has an engineering cost. Therefore it is appreciated if you do NOT make trivial edits and fixes, but instead focus on giving the entire file a review.
