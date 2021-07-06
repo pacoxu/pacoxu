@@ -1,8 +1,10 @@
 ### Kubernetes Member, Soccer Fan & PUBG Fan
  
- 🔭 I’m currently working on Kubernetes & Docker & Containerd
+ 🇨🇳 I know is that I know nothing. 
  
- 🌱 I’m currently learning Go & Knative & CoreDNS
+ 🔭 Working on Kubernetes & Containerd & Docker
+ 
+ 🌱 learning Go & Knative & CoreDNS
 
 Work in **DaoCloud Enterprise Team**
 
