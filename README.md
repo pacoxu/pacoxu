@@ -1,5 +1,4 @@
 ### Kubernetes Member, Soccer Fan & PUBG Fan
-![](https://komarev.com/ghpvc/?username=pacoxu)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
 
  
@@ -15,3 +14,5 @@
 <a href="https://pacoxu.wordpress.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
 </a>
+
+Backup ![](https://komarev.com/ghpvc/?username=pacoxu)
