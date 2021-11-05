@@ -6,9 +6,10 @@
  
  🔭 Working on Kubernetes & Containerd & Docker
  
- 🌱 learning Go & Knative & CoreDNS
+ 🌱 Learning Go & Knative & CoreDNS
 
-Work in **DaoCloud Enterprise Team**
+- Work in **DaoCloud Enterprise Team**
+- Kubernetes SIG-Node & Kubeadm reviewer
 
 <a href="https://pacoxu.wordpress.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
