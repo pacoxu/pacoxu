@@ -1,4 +1,6 @@
 ### Kubernetes Member, Soccer Fan & PUBG Fan
+![](https://komarev.com/ghpvc/?username=pacoxu)
+
  
  🇨🇳 I know is that I know nothing. 
  
