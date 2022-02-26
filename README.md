@@ -1,4 +1,4 @@
-### Kubernetes Member, Soccer Fan & PUBG Fan
+### Kubernetes Reviewer, Soccer Fan & PUBG Fan
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
 
 https://mp.weixin.qq.com/s/N3sPRJ7zIXQKuUor-L0fjw KCD 成都报名开启。 线上也会有直播。
