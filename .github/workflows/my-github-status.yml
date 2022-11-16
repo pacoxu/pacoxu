@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@v2.0
+        uses: pacoxu/github-readme-stats@main
         with:
           REPOS_NUM: 5
           STARRED_NUM: 5
