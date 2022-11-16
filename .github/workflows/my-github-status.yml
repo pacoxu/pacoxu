@@ -11,7 +11,6 @@ on:
 env:
   GITHUB_NAME: pacoxu-bot
   GITHUB_EMAIL: paco2023@163.com
-  STARED_NUMBER: 10
 
 jobs:
   build:
@@ -22,7 +21,7 @@ jobs:
       - name: My GitHub Status
         uses: pacoxu/github-readme-stats@main
         with:
-          REPOS_NUM: 5
+          REPOS_NUM: 8
           STARRED_NUM: 5
 #           WITH_STARED: false
 #           TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
