@@ -19,8 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: My GitHub Status
-        uses: pacoxu/pacoxu@main
+      - name: Github Repos Stats
+        uses: pacoxu/github-repos-stats@main
       - name: Push README
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
