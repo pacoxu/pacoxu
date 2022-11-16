@@ -1,7 +1,5 @@
 ### Kubernetes Reviewer, Soccer Fan & PUBG Fan
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
-
-https://mp.weixin.qq.com/s/N3sPRJ7zIXQKuUor-L0fjw KCD 成都报名开启。 线上也会有直播。
  
  🇨🇳 I know is that I know nothing. 
  
@@ -9,8 +7,14 @@ https://mp.weixin.qq.com/s/N3sPRJ7zIXQKuUor-L0fjw KCD 成都报名开启。 线�
  
  🌱 Learning Go & Knative & CoreDNS
 
-- Work in **DaoCloud Enterprise Team**
+- Work in **DaoCloud Enterprise Team**: [DCE 5.0](https://www.daocloud.io/dce_5.0).
 - Kubernetes SIG-Node & Kubeadm reviewer
+
+
+See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
+<!--START_SECTION:github_repos-->
+
+ 
 
 <a href="https://pacoxu.wordpress.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
