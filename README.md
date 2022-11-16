@@ -11,10 +11,15 @@
 - Kubernetes SIG-Node & Kubeadm reviewer
 
 
-See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 <!--START_SECTION:github_repos-->
 
- 
+<!--END_SECTION:github_repos-->
+See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
+
+
+<!--START_SECTION:my_github-->
+
+<!--END_SECTION:my_github-->
 
 <a href="https://pacoxu.wordpress.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
@@ -22,4 +27,3 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 
 Backup ![](https://komarev.com/ghpvc/?username=pacoxu)
 
-More details in https://github.com/pacoxu/my-github-status
