@@ -1,14 +1,15 @@
 ### Kubernetes Reviewer, Soccer Fan & PUBG Fan
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
  
- 🇨🇳 I know is that I know nothing. 
+ 🇨🇳 **The only thing that I know is that I know nothing**. 
  
- 🔭 Working on Kubernetes & Containerd & Docker
+ 🔭 Working on Kubernetes & Containerd & Docker/Moby
  
  🌱 Learning Go & Knative & CoreDNS
 
 - Work in **DaoCloud Enterprise Team**: [DCE 5.0](https://www.daocloud.io/dce_5.0).
-- Kubernetes SIG-Node & Kubeadm reviewer
+- Kubernetes [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) & [Kubeadm](https://github.com/kubernetes/kubeadm/) reviewer
+- [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
 
 
 <!--START_SECTION:github_repos-->
