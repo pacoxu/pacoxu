@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                            REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | 2022-01-20 | Shell      | 2022-11-09   |
-|  2 | [etcd3-py](https://github.com/Revolution1/etcd3-py)         | 2021-01-21 | Python     | 2022-10-14   |
-|  3 | [mysql](https://github.com/tutumcloud/mysql)                | 2016-09-20 | Shell      | 2022-05-14   |
-|  4 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal) | 2018-05-13 | JavaScript | 2022-11-05   |
-|  5 | [solo](https://github.com/b3log/solo)                       | 2017-04-05 | Java       | 2022-11-15   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [spring-social-weibo](https://github.com/Orange-OpenSource/spring-social-weibo) | 2017-03-14 | Java     | 2022-10-20   |
+|  2 | [ScaleIO](https://github.com/wlan0/ScaleIO)                                     | 2016-07-26 | Shell    | 2017-10-27   |
+|  3 | [falco](https://github.com/falcosecurity/falco)                                 | 2020-04-17 | C++      | 2022-11-18   |
+|  4 | [pgtracer](https://github.com/aiven/pgtracer)                                   | 2022-11-01 | Python   | 2022-11-05   |
+|  5 | [pocsuite3](https://github.com/knownsec/pocsuite3)                              | 2019-04-19 | Python   | 2022-11-18   |
 
 <!--END_SECTION:my_github-->
 
