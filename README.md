@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [consul](https://github.com/hashicorp/consul)                                      | 2019-10-19 | Go       | 2022-11-19   |
-|  2 | [Similarity](https://github.com/bbc/Similarity)                                    | 2019-10-08 | Ruby     | 2022-10-22   |
-|  3 | [orchestration-workshop](https://github.com/docker-archive/orchestration-workshop) | 2016-09-23 | Shell    | 2021-07-14   |
-|  4 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image)           | 2016-11-16 | Python   | 2016-11-16   |
-|  5 | [spec](https://github.com/oam-dev/spec)                                            | 2020-05-08 | md       | 2022-11-18   |
+| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [2022](https://github.com/yihong0618/2022)                                             | 2022-08-10 | Python   | 2022-11-09   |
+|  2 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)                          | 2022-03-10 | Go       | 2022-11-19   |
+|  3 | [graal](https://github.com/oracle/graal)                                               | 2019-10-11 | Java     | 2022-11-20   |
+|  4 | [istio-dce](https://github.com/yangchuansheng/istio-dce)                               | 2019-07-12 | Shell    | 2019-07-26   |
+|  5 | [jenkins-pipeline-scripts](https://github.com/docker-archive/jenkins-pipeline-scripts) | 2017-03-06 | Groovy   | 2022-04-12   |
 
 <!--END_SECTION:my_github-->
 
