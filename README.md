@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [node_note](https://github.com/lemonhall/node_note)                                       | 2016-11-22 | md               | 2018-06-12   |
-|  2 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                           | 2019-01-09 | Go               | 2022-11-25   |
-|  3 | [calico](https://github.com/projectcalico/calico)                                         | 2017-10-20 | Go               | 2022-11-25   |
-|  4 | [aws-virtual-gpu-device-plugin](https://github.com/awslabs/aws-virtual-gpu-device-plugin) | 2020-06-11 | Jupyter Notebook | 2022-11-17   |
-|  5 | [summer](https://github.com/Charlie17Li/summer)                                           | 2022-10-20 | Shell            | 2022-10-20   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [spring-social-weibo](https://github.com/Orange-OpenSource/spring-social-weibo) | 2017-03-14 | Java       | 2022-10-20   |
+|  2 | [tag-runtime](https://github.com/cncf/tag-runtime)                              | 2021-10-12 | md         | 2022-11-15   |
+|  3 | [kubeadm](https://github.com/kubernetes/kubeadm)                                | 2017-06-07 | Go         | 2022-11-24   |
+|  4 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image)        | 2016-11-16 | Python     | 2016-11-16   |
+|  5 | [docker-nodeclub](https://github.com/Carrotzpc/docker-nodeclub)                 | 2016-05-19 | JavaScript | 2019-03-09   |
 
 <!--END_SECTION:my_github-->
 
