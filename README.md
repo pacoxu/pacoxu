@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy)                        | 2020-08-17 | Go       | 2022-11-24   |
-|  2 | [kubedoom](https://github.com/storax/kubedoom)                                           | 2020-10-13 | C++      | 2022-11-26   |
-|  3 | [makisu](https://github.com/uber-archive/makisu)                                         | 2019-03-14 | Go       | 2022-11-23   |
-|  4 | [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) | 2022-05-30 | Python   | 2022-11-21   |
-|  5 | [toc](https://github.com/cncf/toc)                                                       | 2022-01-26 | md       | 2022-11-28   |
+| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kube-ops-view](https://github.com/hjacobs/kube-ops-view)             | 2020-11-13 | JavaScript | 2022-11-18   |
+|  2 | [kubexit](https://github.com/karlkfi/kubexit)                         | 2020-09-27 | Go         | 2022-11-07   |
+|  3 | [my-scheduling-jobs](https://github.com/wzshiming/my-scheduling-jobs) | 2022-11-10 | md         | 2022-11-10   |
+|  4 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)    | 2020-12-24 | Go         | 2021-03-08   |
+|  5 | [charts](https://github.com/helm/charts)                              | 2019-04-01 | Go         | 2022-11-29   |
 
 <!--END_SECTION:my_github-->
 
