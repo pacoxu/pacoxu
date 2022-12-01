@@ -46,18 +46,18 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go       |    10 |
 |   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-10-31 | Go       |     9 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-11-08 | md       |     3 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-11-30 | md       |     4 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2021-04-07 | Python   |     1 |
-| sum |                                                                    |            |            |          |    29 |
+| sum |                                                                    |            |            |          |    30 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-11-24](https://github.com/kubernetes/kubernetes/pull/114108)     | [315](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-11-30](https://github.com/kubernetes/kubernetes/pull/114204)     | [316](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2022-11-16](https://github.com/kubernetes/website/pull/37925)         | [29](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2022-10-12](https://github.com/kubernetes/enhancements/pull/3612)     | [17](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kube-ops-view](https://github.com/hjacobs/kube-ops-view)             | 2020-11-13 | JavaScript | 2022-11-18   |
-|  2 | [kubexit](https://github.com/karlkfi/kubexit)                         | 2020-09-27 | Go         | 2022-11-07   |
-|  3 | [my-scheduling-jobs](https://github.com/wzshiming/my-scheduling-jobs) | 2022-11-10 | md         | 2022-11-10   |
-|  4 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)    | 2020-12-24 | Go         | 2021-03-08   |
-|  5 | [charts](https://github.com/helm/charts)                              | 2019-04-01 | Go         | 2022-11-29   |
+| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [jcseg](https://github.com/lionsoul2014/jcseg)                                                      | 2016-08-19 | Java     | 2022-11-30   |
+|  2 | [vagrant](https://github.com/hashicorp/vagrant)                                                     | 2019-10-19 | Ruby     | 2022-11-30   |
+|  3 | [makisu](https://github.com/uber-archive/makisu)                                                    | 2019-03-14 | Go       | 2022-11-23   |
+|  4 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL      | 2022-11-11   |
+|  5 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs)                                          | 2016-04-02 | Python   | 2022-11-29   |
 
 <!--END_SECTION:my_github-->
 
