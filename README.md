@@ -57,7 +57,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-11-30](https://github.com/kubernetes/kubernetes/pull/114204)     | [316](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-12-01](https://github.com/kubernetes/kubernetes/pull/114232)     | [317](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2022-11-16](https://github.com/kubernetes/website/pull/37925)         | [29](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2022-10-12](https://github.com/kubernetes/enhancements/pull/3612)     | [17](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [jcseg](https://github.com/lionsoul2014/jcseg)                                                      | 2016-08-19 | Java     | 2022-11-30   |
-|  2 | [vagrant](https://github.com/hashicorp/vagrant)                                                     | 2019-10-19 | Ruby     | 2022-11-30   |
-|  3 | [makisu](https://github.com/uber-archive/makisu)                                                    | 2019-03-14 | Go       | 2022-11-23   |
-|  4 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL      | 2022-11-11   |
-|  5 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs)                                          | 2016-04-02 | Python   | 2022-11-29   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator)                | 2022-06-14 | Go       | 2022-06-14   |
+|  2 | [dumb-init](https://github.com/Yelp/dumb-init)                                  | 2019-04-18 | Python   | 2022-11-30   |
+|  3 | [brigade](https://github.com/brigadecore/brigade)                               | 2018-05-14 | Go       | 2022-11-28   |
+|  4 | [ecm1240-monitor-docker](https://github.com/tenstartups/ecm1240-monitor-docker) | 2016-05-02 | Python   | 2018-01-02   |
+|  5 | [ismyk8ssecure](https://github.com/ismyk8ssecure/ismyk8ssecure)                 | 2022-01-14 | Python   | 2022-11-08   |
 
 <!--END_SECTION:my_github-->
 
