@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator)                | 2022-06-14 | Go       | 2022-06-14   |
-|  2 | [dumb-init](https://github.com/Yelp/dumb-init)                                  | 2019-04-18 | Python   | 2022-11-30   |
-|  3 | [brigade](https://github.com/brigadecore/brigade)                               | 2018-05-14 | Go       | 2022-11-28   |
-|  4 | [ecm1240-monitor-docker](https://github.com/tenstartups/ecm1240-monitor-docker) | 2016-05-02 | Python   | 2018-01-02   |
-|  5 | [ismyk8ssecure](https://github.com/ismyk8ssecure/ismyk8ssecure)                 | 2022-01-14 | Python   | 2022-11-08   |
+| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|------------|--------------|
+|  1 | [moby](https://github.com/moby/moby)                         | 2016-04-20 | Go         | 2022-12-02   |
+|  2 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany) | 2019-03-29 | JavaScript | 2022-12-01   |
+|  3 | [kueue](https://github.com/kubernetes-sigs/kueue)            | 2022-04-24 | Go         | 2022-11-29   |
+|  4 | [foxtrick](https://github.com/minj/foxtrick)                 | 2016-09-23 | JavaScript | 2022-11-03   |
+|  5 | [FastGithub](https://github.com/dotnetcore/FastGithub)       | 2022-04-12 | C#         | 2022-12-02   |
 
 <!--END_SECTION:my_github-->
 
