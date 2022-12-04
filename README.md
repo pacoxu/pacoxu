@@ -57,7 +57,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-12-01](https://github.com/kubernetes/kubernetes/pull/114232)     | [317](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-12-03](https://github.com/kubernetes/kubernetes/pull/114272)     | [319](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2022-11-16](https://github.com/kubernetes/website/pull/37925)         | [29](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2022-10-12](https://github.com/kubernetes/enhancements/pull/3612)     | [17](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|------------|--------------|
-|  1 | [moby](https://github.com/moby/moby)                         | 2016-04-20 | Go         | 2022-12-02   |
-|  2 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany) | 2019-03-29 | JavaScript | 2022-12-01   |
-|  3 | [kueue](https://github.com/kubernetes-sigs/kueue)            | 2022-04-24 | Go         | 2022-11-29   |
-|  4 | [foxtrick](https://github.com/minj/foxtrick)                 | 2016-09-23 | JavaScript | 2022-11-03   |
-|  5 | [FastGithub](https://github.com/dotnetcore/FastGithub)       | 2022-04-12 | C#         | 2022-12-02   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [gardener](https://github.com/gardener/gardener)                     | 2020-07-28 | Go       | 2022-12-02   |
+|  2 | [logrotee](https://github.com/singalen/logrotee)                     | 2019-07-19 | C++      | 2022-04-12   |
+|  3 | [incubator-kvrocks](https://github.com/apache/incubator-kvrocks)     | 2022-05-24 | C++      | 2022-12-03   |
+|  4 | [v1.10-migrator](https://github.com/docker-archive/v1.10-migrator)   | 2016-08-09 | Go       | 2021-02-15   |
+|  5 | [kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip) | 2019-02-01 | Go       | 2022-12-02   |
 
 <!--END_SECTION:my_github-->
 
