@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-09-16](https://github.com/kubernetes/k8s.io/pull/4222)           | [7](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gardener](https://github.com/gardener/gardener)                     | 2020-07-28 | Go       | 2022-12-02   |
-|  2 | [logrotee](https://github.com/singalen/logrotee)                     | 2019-07-19 | C++      | 2022-04-12   |
-|  3 | [incubator-kvrocks](https://github.com/apache/incubator-kvrocks)     | 2022-05-24 | C++      | 2022-12-03   |
-|  4 | [v1.10-migrator](https://github.com/docker-archive/v1.10-migrator)   | 2016-08-09 | Go       | 2021-02-15   |
-|  5 | [kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip) | 2019-02-01 | Go       | 2022-12-02   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [open-source-guides](https://github.com/tisonkun/open-source-guides)            | 2022-05-24 | HTML       | 2022-09-12   |
+|  2 | [lighttpd-docker](https://github.com/spujadas/lighttpd-docker)                  | 2016-11-17 | Dockerfile | 2022-11-15   |
+|  3 | [kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide) | 2020-05-22 | Shell      | 2022-11-28   |
+|  4 | [my-scheduling-jobs](https://github.com/wzshiming/my-scheduling-jobs)           | 2022-11-10 | md         | 2022-11-10   |
+|  5 | [gocker](https://github.com/markbates/gocker)                                   | 2020-07-15 | Go         | 2020-07-15   |
 
 <!--END_SECTION:my_github-->
 
