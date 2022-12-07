@@ -1,3 +1,5 @@
+**持续招新，实习生正式都联系 paco.xu@daocloud.io。**
+
 ### Kubernetes Reviewer, Soccer Fan & PUBG Fan
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
  
