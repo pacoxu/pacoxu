@@ -45,14 +45,14 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go       |    10 |
-|   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-10-31 | Go       |     9 |
+|   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-12-06 | Go       |    10 |
 |   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-11-30 | md       |     4 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2021-04-07 | Python   |     1 |
-| sum |                                                                    |            |            |          |    30 |
+| sum |                                                                    |            |            |          |    31 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -68,13 +68,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tgik](https://github.com/vmware-tanzu/tgik)                       | 2019-11-01 | Shell    | 2022-11-23   |
-|  2 | [cluster-api](https://github.com/kubernetes-sigs/cluster-api)      | 2020-08-06 | Go       | 2022-12-05   |
-|  3 | [meta-balena](https://github.com/balena-os/meta-balena)            | 2020-09-14 | BitBake  | 2022-12-02   |
-|  4 | [oam-go-sdk](https://github.com/oam-dev/oam-go-sdk)                | 2020-05-08 | Go       | 2022-12-01   |
-|  5 | [kubernetes](https://github.com/AliyunContainerService/kubernetes) | 2017-05-22 | Go       | 2021-11-19   |
+| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [keep-open-deleted](https://github.com/Ottovsky/keep-open-deleted)                            | 2022-04-02 | Go       | 2022-04-02   |
+|  2 | [modern-unix](https://github.com/ibraheemdev/modern-unix)                                     | 2021-04-23 | md       | 2022-12-06   |
+|  3 | [xupaco](https://github.com/pacoxu/xupaco)                                                    | 2012-07-24 | Python   | 2021-04-07   |
+|  4 | [worldcup](https://github.com/fatiherikli/worldcup)                                           | 2018-05-13 | Python   | 2021-11-25   |
+|  5 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile | 2022-10-21   |
 
 <!--END_SECTION:my_github-->
 
