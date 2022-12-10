@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa) | 2019-03-19 | Makefile | 2022-12-07   |
-|  2 | [datakit](https://github.com/moby/datakit)                   | 2016-05-18 | OCaml    | 2022-11-22   |
-|  3 | [pdns](https://github.com/PowerDNS/pdns)                     | 2020-07-16 | C++      | 2022-12-07   |
-|  4 | [kubernetes-py](https://github.com/mnubo/kubernetes-py)      | 2017-06-07 | Python   | 2022-12-05   |
-|  5 | [kube-entropy](https://github.com/alexlokshin/kube-entropy)  | 2019-10-14 | Go       | 2022-11-23   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [my-github-status](https://github.com/MrCoder/my-github-status)                          | 2022-04-28 | md       | 2022-04-28   |
+|  2 | [drbd-installer](https://github.com/hwameistor/drbd-installer)                           | 2022-03-18 | Go       | 2022-06-22   |
+|  3 | [devstats](https://github.com/cncf/devstats)                                             | 2021-07-01 | Shell    | 2022-12-09   |
+|  4 | [usernetes](https://github.com/rootless-containers/usernetes)                            | 2019-02-25 | Shell    | 2022-12-05   |
+|  5 | [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) | 2021-06-24 | Go       | 2022-12-04   |
 
 <!--END_SECTION:my_github-->
 
