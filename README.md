@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                                REPO                                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip)                                | 2019-02-01 | Go         | 2022-12-07   |
-|  2 | [px-dev](https://github.com/portworx/px-dev)                                                        | 2017-04-10 | Dockerfile | 2022-10-17   |
-|  3 | [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) | 2019-01-20 | Shell      | 2022-10-27   |
-|  4 | [volplugin](https://github.com/contiv-experimental/volplugin)                                       | 2016-06-29 | Go         | 2022-07-12   |
-|  5 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)                                                | 2019-03-04 | Shell      | 2022-11-23   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [mysql-operator](https://github.com/oracle/mysql-operator)           | 2019-05-15 | Go         | 2022-10-28   |
+|  2 | [Similarity](https://github.com/bbc/Similarity)                      | 2019-10-08 | Ruby       | 2022-10-22   |
+|  3 | [open-source-guides](https://github.com/tisonkun/open-source-guides) | 2022-05-24 | HTML       | 2022-09-12   |
+|  4 | [px-dev](https://github.com/portworx/px-dev)                         | 2017-04-10 | Dockerfile | 2022-10-17   |
+|  5 | [rikka](https://github.com/7sDream/rikka)                            | 2016-09-14 | Go         | 2022-09-26   |
 
 <!--END_SECTION:my_github-->
 
