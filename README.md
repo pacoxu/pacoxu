@@ -47,14 +47,14 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go       |    10 |
-|   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-12-06 | Go       |    10 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-11-30 | md       |     4 |
+|   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-12-15 | Go       |     9 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-12-15 | md       |     3 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2021-04-07 | Python   |     1 |
-| sum |                                                                    |            |            |          |    31 |
+| sum |                                                                    |            |            |          |    29 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------|------------|----------|--------------|
-|  1 | [brigade](https://github.com/brigadecore/brigade)       | 2018-05-14 | Go       | 2022-12-13   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)        | 2020-04-29 | Go       | 2022-12-14   |
-|  3 | [kube-fencing](https://github.com/kvaps/kube-fencing)   | 2020-09-10 | Go       | 2022-11-27   |
-|  4 | [multicluster](https://github.com/coredns/multicluster) | 2021-12-07 | Go       | 2022-12-03   |
-|  5 | [pgtracer](https://github.com/aiven/pgtracer)           | 2022-11-01 | Python   | 2022-12-14   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [dapr](https://github.com/dapr/dapr)                                 | 2021-02-18 | Go         | 2022-12-15   |
+|  2 | [github-todos](https://github.com/naholyr/github-todos)              | 2020-12-13 | JavaScript | 2022-09-26   |
+|  3 | [containerd](https://github.com/containerd/containerd)               | 2017-05-31 | Go         | 2022-12-15   |
+|  4 | [kube-gce](https://github.com/rimusz/kube-gce)                       | 2017-06-08 | Shell      | 2019-03-15   |
+|  5 | [system-validators](https://github.com/kubernetes/system-validators) | 2021-02-26 | Go         | 2022-11-24   |
 
 <!--END_SECTION:my_github-->
 
