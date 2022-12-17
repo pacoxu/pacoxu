@@ -59,7 +59,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-12-12](https://github.com/kubernetes/kubernetes/pull/114430)     | [322](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-12-16](https://github.com/kubernetes/kubernetes/pull/114542)     | [325](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2022-11-16](https://github.com/kubernetes/website/pull/37925)         | [29](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2022-10-12](https://github.com/kubernetes/enhancements/pull/3612)     | [17](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dapr](https://github.com/dapr/dapr)                                 | 2021-02-18 | Go         | 2022-12-15   |
-|  2 | [github-todos](https://github.com/naholyr/github-todos)              | 2020-12-13 | JavaScript | 2022-09-26   |
-|  3 | [containerd](https://github.com/containerd/containerd)               | 2017-05-31 | Go         | 2022-12-15   |
-|  4 | [kube-gce](https://github.com/rimusz/kube-gce)                       | 2017-06-08 | Shell      | 2019-03-15   |
-|  5 | [system-validators](https://github.com/kubernetes/system-validators) | 2021-02-26 | Go         | 2022-11-24   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [plugins](https://github.com/containernetworking/plugins)          | 2017-12-19 | Go       | 2022-12-15   |
+|  2 | [AkkaSamples](https://github.com/mariogleichmann/AkkaSamples)      | 2013-07-03 | Scala    | 2016-04-25   |
+|  3 | [keda](https://github.com/kedacore/keda)                           | 2021-09-09 | Go       | 2022-12-16   |
+|  4 | [datakit](https://github.com/moby/datakit)                         | 2016-05-18 | OCaml    | 2022-11-22   |
+|  5 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli) | 2018-01-15 | Python   | 2022-12-09   |
 
 <!--END_SECTION:my_github-->
 
