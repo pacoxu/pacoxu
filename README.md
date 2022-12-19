@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [contrib](https://github.com/kubernetes-retired/contrib)        | 2018-09-29 | Go       | 2022-12-12   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia) | 2022-04-20 | Go       | 2022-12-14   |
-|  3 | [xcluster](https://github.com/Nordix/xcluster)                  | 2021-01-23 | Roff     | 2022-12-14   |
-|  4 | [kubeless](https://github.com/vmware-archive/kubeless)          | 2019-09-30 | Go       | 2022-12-14   |
-|  5 | [gods](https://github.com/emirpasic/gods)                       | 2019-09-29 | Go       | 2022-12-17   |
+| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go       | 2022-12-14   |
+|  2 | [docker-demo-java-mongo](https://github.com/DaoCloud/docker-demo-java-mongo)                                      | 2016-05-01 | Java     | 2022-09-25   |
+|  3 | [container-transform](https://github.com/micahhausler/container-transform)                                        | 2016-08-24 | Python   | 2022-12-15   |
+|  4 | [openshift-docs](https://github.com/openshift/openshift-docs)                                                     | 2017-06-06 | HTML     | 2022-12-15   |
+|  5 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)                                              | 2019-10-14 | Java     | 2022-12-18   |
 
 <!--END_SECTION:my_github-->
 
