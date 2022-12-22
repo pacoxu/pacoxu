@@ -59,7 +59,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-12-19](https://github.com/kubernetes/kubernetes/pull/114581)     | [327](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2022-12-20](https://github.com/kubernetes/kubernetes/pull/114594)     | [328](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2022-11-16](https://github.com/kubernetes/website/pull/37925)         | [29](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2022-10-12](https://github.com/kubernetes/enhancements/pull/3612)     | [17](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile   | 2022-10-21   |
-|  2 | [kurator](https://github.com/kurator-dev/kurator)                                             | 2022-06-23 | Go         | 2022-11-15   |
-|  3 | [cross-cluster-connectivity](https://github.com/vmware-tanzu/cross-cluster-connectivity)      | 2021-02-18 | Go         | 2021-11-16   |
-|  4 | [distribution](https://github.com/distribution/distribution)                                  | 2021-12-24 | Go         | 2022-12-19   |
-|  5 | [chocolatey](https://github.com/chocolatey-archive/chocolatey)                                | 2013-12-25 | PowerShell | 2022-12-02   |
+| ID |                                                      REPO                                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost) | 2022-09-22 | Go       | 2022-12-14   |
+|  2 | [endless](https://github.com/fvbock/endless)                                                                   | 2020-11-27 | Go       | 2022-12-21   |
+|  3 | [nacos](https://github.com/alibaba/nacos)                                                                      | 2018-12-28 | Java     | 2022-12-21   |
+|  4 | [kube-no-trouble](https://github.com/doitintl/kube-no-trouble)                                                 | 2021-01-16 | Go       | 2022-12-21   |
+|  5 | [cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager)                                   | 2022-10-17 | Rust     | 2022-12-07   |
 
 <!--END_SECTION:my_github-->
 
