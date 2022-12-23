@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                                      REPO                                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost) | 2022-09-22 | Go       | 2022-12-14   |
-|  2 | [endless](https://github.com/fvbock/endless)                                                                   | 2020-11-27 | Go       | 2022-12-21   |
-|  3 | [nacos](https://github.com/alibaba/nacos)                                                                      | 2018-12-28 | Java     | 2022-12-21   |
-|  4 | [kube-no-trouble](https://github.com/doitintl/kube-no-trouble)                                                 | 2021-01-16 | Go       | 2022-12-21   |
-|  5 | [cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager)                                   | 2022-10-17 | Rust     | 2022-12-07   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [draino](https://github.com/planetlabs/draino)                                        | 2019-04-25 | Go       | 2022-12-11   |
+|  2 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)                                  | 2019-03-04 | Shell    | 2022-11-23   |
+|  3 | [containerd-lts](https://github.com/klts-io/containerd-lts)                           | 2021-10-15 | Shell    | 2022-09-02   |
+|  4 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend) | 2019-09-06 | Python   | 2022-11-07   |
+|  5 | [maybe](https://github.com/p-e-w/maybe)                                               | 2017-12-21 | Python   | 2022-12-17   |
 
 <!--END_SECTION:my_github-->
 
