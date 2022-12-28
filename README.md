@@ -72,11 +72,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I stared (random 5)
 | ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [same](https://github.com/rking/same)                              | 2020-12-17 | Java     | 2020-12-17   |
-|  2 | [etcdadm](https://github.com/kubernetes-sigs/etcdadm)              | 2021-07-08 | Go       | 2022-12-22   |
-|  3 | [community](https://github.com/open-feature/community)             | 2022-03-05 | md       | 2022-12-26   |
-|  4 | [docker-slapd](https://github.com/nickstenning/docker-slapd)       | 2017-02-16 | Shell    | 2022-11-08   |
-|  5 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative) | 2021-09-22 | md       | 2022-11-14   |
+|  1 | [elasticsearch](https://github.com/pacoxu/elasticsearch)           | 2014-04-18 | Java     | 2021-04-07   |
+|  2 | [composer](https://github.com/composer/composer)                   | 2016-10-19 | PHP      | 2022-12-27   |
+|  3 | [kuryr-kubernetes](https://github.com/openstack/kuryr-kubernetes)  | 2019-02-28 | Python   | 2022-11-24   |
+|  4 | [keda](https://github.com/kedacore/keda)                           | 2021-09-09 | Go       | 2022-12-27   |
+|  5 | [keep-open-deleted](https://github.com/Ottovsky/keep-open-deleted) | 2022-04-02 | Go       | 2022-04-02   |
 
 <!--END_SECTION:my_github-->
 
