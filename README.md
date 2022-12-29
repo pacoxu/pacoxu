@@ -47,14 +47,14 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go       |    10 |
-|   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-12-15 | Go       |     9 |
+|   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-12-28 | Go       |    10 |
 |   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-12-15 | md       |     3 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2021-04-07 | Python   |     1 |
-| sum |                                                                    |            |            |          |    29 |
+| sum |                                                                    |            |            |          |    30 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [elasticsearch](https://github.com/pacoxu/elasticsearch)           | 2014-04-18 | Java     | 2021-04-07   |
-|  2 | [composer](https://github.com/composer/composer)                   | 2016-10-19 | PHP      | 2022-12-27   |
-|  3 | [kuryr-kubernetes](https://github.com/openstack/kuryr-kubernetes)  | 2019-02-28 | Python   | 2022-11-24   |
-|  4 | [keda](https://github.com/kedacore/keda)                           | 2021-09-09 | Go       | 2022-12-27   |
-|  5 | [keep-open-deleted](https://github.com/Ottovsky/keep-open-deleted) | 2022-04-02 | Go       | 2022-04-02   |
+| ID |                                              REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [docker-alpine](https://github.com/alpinelinux/docker-alpine)                                   | 2021-04-14 | Lua        | 2022-12-28   |
+|  2 | [k3v](https://github.com/ibuildthecloud/k3v)                                                    | 2020-10-20 | Go         | 2022-12-27   |
+|  3 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) | 2020-12-09 | Go         | 2022-12-28   |
+|  4 | [ant-design](https://github.com/ant-design/ant-design)                                          | 2021-02-18 | TypeScript | 2022-12-28   |
+|  5 | [summer](https://github.com/Charlie17Li/summer)                                                 | 2022-10-20 | Shell      | 2022-10-20   |
 
 <!--END_SECTION:my_github-->
 
