@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [exo-addon-cartopins](https://github.com/Ampliato/exo-addon-cartopins)             | 2016-05-20 | JavaScript | 2017-03-30   |
-|  2 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)                          | 2022-11-03 | md         | 2022-11-21   |
-|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-28 | CSS        | 2022-12-27   |
-|  4 | [rocketmq-docker](https://github.com/yohanesws/rocketmq-docker)                    | 2017-04-12 | Shell      | 2018-08-31   |
-|  5 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal)                        | 2018-05-13 | JavaScript | 2022-12-15   |
+| ID |                          REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------|------------|----------|--------------|
+|  1 | [lxd](https://github.com/lxc/lxd)                       | 2017-04-06 | Go       | 2022-12-30   |
+|  2 | [alluxio](https://github.com/Alluxio/alluxio)           | 2021-04-08 | Java     | 2022-12-30   |
+|  3 | [libstorage](https://github.com/thecodeteam/libstorage) | 2016-05-10 | Go       | 2022-12-30   |
+|  4 | [go-toml](https://github.com/pelletier/go-toml)         | 2021-06-21 | Go       | 2022-12-27   |
+|  5 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)  | 2022-03-05 | Go       | 2022-12-30   |
 
 <!--END_SECTION:my_github-->
 
