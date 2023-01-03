@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|----------|--------------|
-|  1 | [dockerPractice](https://github.com/wrfly/dockerPractice) | 2016-05-21 | Shell    | 2018-12-11   |
-|  2 | [go-toml](https://github.com/pelletier/go-toml)           | 2021-06-21 | Go       | 2022-12-27   |
-|  3 | [terminal](https://github.com/microsoft/terminal)         | 2019-05-07 | C++      | 2023-01-01   |
-|  4 | [gods](https://github.com/emirpasic/gods)                 | 2019-09-29 | Go       | 2023-01-01   |
-|  5 | [singularity](https://github.com/apptainer/singularity)   | 2021-06-28 | Go       | 2022-12-29   |
+| ID |                                         REPO                                          | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist)                             | 2021-03-03 | Go               | 2023-01-01   |
+|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)                       | 2022-04-20 | Go               | 2022-12-27   |
+|  3 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)                       | 2022-10-21 | Jupyter Notebook | 2023-01-03   |
+|  4 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend) | 2019-09-06 | Python           | 2022-11-07   |
+|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-03-28 | md               | 2023-01-02   |
 
 <!--END_SECTION:my_github-->
 
