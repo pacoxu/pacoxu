@@ -46,15 +46,15 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go       |    10 |
-|   2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2022-12-28 | Go       |    10 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-01-03 | Go       |    11 |
+|   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go       |    10 |
 |   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-12-15 | md       |     3 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2021-04-07 | Python   |     1 |
-| sum |                                                                    |            |            |          |    30 |
+| sum |                                                                    |            |            |          |    31 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist)                             | 2021-03-03 | Go               | 2023-01-01   |
-|  2 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)                       | 2022-04-20 | Go               | 2022-12-27   |
-|  3 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)                       | 2022-10-21 | Jupyter Notebook | 2023-01-03   |
-|  4 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend) | 2019-09-06 | Python           | 2022-11-07   |
-|  5 | [996.ICU](https://github.com/996icu/996.ICU)                                          | 2019-03-28 | md               | 2023-01-02   |
+| ID |                                   REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative)        | 2021-09-22 | md       | 2022-11-14   |
+|  2 | [sample-vpa-controller](https://github.com/zhouya0/sample-vpa-controller) | 2020-10-30 | Go       | 2020-10-30   |
+|  3 | [toc](https://github.com/cncf/toc)                                        | 2022-01-26 | md       | 2023-01-01   |
+|  4 | [azure-powershell](https://github.com/Azure/azure-powershell)             | 2020-06-08 | C#       | 2022-12-30   |
+|  5 | [HackFlowy](https://github.com/abhshkdz/HackFlowy)                        | 2014-09-02 | CSS      | 2022-12-31   |
 
 <!--END_SECTION:my_github-->
 
