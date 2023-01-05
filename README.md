@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative)        | 2021-09-22 | md       | 2022-11-14   |
-|  2 | [sample-vpa-controller](https://github.com/zhouya0/sample-vpa-controller) | 2020-10-30 | Go       | 2020-10-30   |
-|  3 | [toc](https://github.com/cncf/toc)                                        | 2022-01-26 | md       | 2023-01-01   |
-|  4 | [azure-powershell](https://github.com/Azure/azure-powershell)             | 2020-06-08 | C#       | 2022-12-30   |
-|  5 | [HackFlowy](https://github.com/abhshkdz/HackFlowy)                        | 2014-09-02 | CSS      | 2022-12-31   |
+| ID |                                REPO                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [SXFiveScoreShow](https://github.com/dsxNiubility/SXFiveScoreShow)  | 2016-09-23 | Objective-C | 2022-04-02   |
+|  2 | [rocketmq-docker](https://github.com/yohanesws/rocketmq-docker)     | 2017-04-12 | Shell       | 2018-08-31   |
+|  3 | [metrics-server](https://github.com/kubernetes-sigs/metrics-server) | 2019-03-19 | Go          | 2023-01-04   |
+|  4 | [kubernetes](https://github.com/klts-io/kubernetes)                 | 2022-01-11 | md          | 2022-01-11   |
+|  5 | [dockerPractice](https://github.com/wrfly/dockerPractice)           | 2016-05-21 | Shell       | 2018-12-11   |
 
 <!--END_SECTION:my_github-->
 
