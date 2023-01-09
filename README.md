@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)            | 2022-03-05 | Go       | 2023-01-07   |
-|  2 | [python-requests-aws](https://github.com/tax/python-requests-aws) | 2016-09-26 | Python   | 2022-10-03   |
-|  3 | [kubetools](https://github.com/collabnix/kubetools)               | 2022-02-28 | HTML     | 2023-01-07   |
-|  4 | [sig-release](https://github.com/kubernetes/sig-release)          | 2021-01-13 | Shell    | 2023-01-06   |
-|  5 | [usernetes](https://github.com/rootless-containers/usernetes)     | 2019-02-25 | Shell    | 2023-01-03   |
+| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [tgik](https://github.com/vmware-tanzu/tgik)                               | 2019-11-01 | Shell    | 2022-12-06   |
+|  2 | [container-transform](https://github.com/micahhausler/container-transform) | 2016-08-24 | Python   | 2023-01-08   |
+|  3 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng) | 2018-01-16 | Java     | 2022-11-20   |
+|  4 | [go](https://github.com/golang/go)                                         | 2021-09-09 | Go       | 2023-01-08   |
+|  5 | [website](https://github.com/servicemesher/website)                        | 2019-10-10 | CSS      | 2022-09-22   |
 
 <!--END_SECTION:my_github-->
 
