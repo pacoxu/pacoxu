@@ -58,7 +58,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-01-05](https://github.com/kubernetes/kubernetes/pull/114847)     | [329](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-01-09](https://github.com/kubernetes/kubernetes/pull/114921)     | [331](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2022-12-23](https://github.com/kubernetes/website/pull/38614)         | [30](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2022-10-12](https://github.com/kubernetes/enhancements/pull/3612)     | [17](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -69,13 +69,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tgik](https://github.com/vmware-tanzu/tgik)                               | 2019-11-01 | Shell    | 2022-12-06   |
-|  2 | [container-transform](https://github.com/micahhausler/container-transform) | 2016-08-24 | Python   | 2023-01-08   |
-|  3 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng) | 2018-01-16 | Java     | 2022-11-20   |
-|  4 | [go](https://github.com/golang/go)                                         | 2021-09-09 | Go       | 2023-01-08   |
-|  5 | [website](https://github.com/servicemesher/website)                        | 2019-10-10 | CSS      | 2022-09-22   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [dapr](https://github.com/dapr/dapr)                                                      | 2021-02-18 | Go         | 2023-01-10   |
+|  2 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | 2022-12-01 | Java       | 2022-12-22   |
+|  3 | [ckube](https://github.com/DaoCloud/ckube)                                                | 2022-03-18 | Go         | 2022-09-19   |
+|  4 | [Blogs](https://github.com/kerthcet/Blogs)                                                | 2021-09-22 | md         | 2022-08-06   |
+|  5 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal)                               | 2018-05-13 | JavaScript | 2022-12-15   |
 
 <!--END_SECTION:my_github-->
 
