@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [octant](https://github.com/vmware-tanzu/octant)                   | 2019-10-11 | Go       | 2023-01-10   |
-|  2 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli) | 2018-01-15 | Python   | 2023-01-06   |
-|  3 | [ttrpc](https://github.com/containerd/ttrpc)                       | 2022-06-09 | Go       | 2023-01-08   |
-|  4 | [project](https://github.com/containerd/project)                   | 2021-03-15 | Shell    | 2022-12-27   |
-|  5 | [viper](https://github.com/spf13/viper)                            | 2020-06-16 | Go       | 2023-01-10   |
+| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|----------|--------------|
+|  1 | [logrotee](https://github.com/singalen/logrotee)             | 2019-07-19 | C++      | 2023-01-10   |
+|  2 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa) | 2019-03-19 | Makefile | 2023-01-05   |
+|  3 | [k8s.io](https://github.com/kubernetes/k8s.io)               | 2021-03-16 | Shell    | 2023-01-11   |
+|  4 | [node_note](https://github.com/lemonhall/node_note)          | 2016-11-22 | md       | 2018-06-12   |
+|  5 | [kubectl-trace](https://github.com/iovisor/kubectl-trace)    | 2021-01-19 | Go       | 2023-01-08   |
 
 <!--END_SECTION:my_github-->
 
