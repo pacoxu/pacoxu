@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [hostroutes](https://github.com/kubeup/hostroutes)                            | 2017-11-27 | Go       | 2022-11-23   |
-|  2 | [ebpf](https://github.com/nccgroup/ebpf)                                      | 2020-12-02 | Python   | 2022-11-26   |
-|  3 | [spring-social-google](https://github.com/spring-social/spring-social-google) | 2012-07-20 | Java     | 2022-11-21   |
-|  4 | [cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager)  | 2022-10-17 | Rust     | 2022-12-07   |
-|  5 | [weekly](https://github.com/ruanyf/weekly)                                    | 2022-04-28 | md       | 2023-01-13   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcd](https://github.com/etcd-io/etcd)                                            | 2016-07-04 | Go       | 2023-01-14   |
+|  2 | [atlas](https://github.com/alibaba/atlas)                                          | 2017-03-18 | Java     | 2023-01-13   |
+|  3 | [world_cup_json](https://github.com/estiens/world_cup_json)                        | 2018-05-13 | Ruby     | 2023-01-11   |
+|  4 | [ChineseNgoKnowledgeGraph](https://github.com/liyi193328/ChineseNgoKnowledgeGraph) | 2017-11-03 | Python   | 2022-08-14   |
+|  5 | [drbd-installer](https://github.com/hwameistor/drbd-installer)                     | 2022-03-18 | Go       | 2022-06-22   |
 
 <!--END_SECTION:my_github-->
 
