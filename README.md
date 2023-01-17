@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dao-2048](https://github.com/DaoCloud/dao-2048)                                       | 2016-04-18 | JavaScript | 2023-01-01   |
-|  2 | [kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide)        | 2020-05-22 | Shell      | 2023-01-13   |
-|  3 | [octant-plugin-for-knative](https://github.com/vmware-tanzu/octant-plugin-for-knative) | 2020-09-16 | TypeScript | 2023-01-09   |
-|  4 | [incubator-kvrocks](https://github.com/apache/incubator-kvrocks)                       | 2022-05-24 | C++        | 2023-01-13   |
-|  5 | [powerfulseal](https://github.com/powerfulseal/powerfulseal)                           | 2020-09-14 | Python     | 2023-01-13   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kaniuse](https://github.com/kaniuse/kaniuse)                                            | 2023-01-01 | Go       | 2023-01-05   |
+|  2 | [kube-fencing](https://github.com/kvaps/kube-fencing)                                    | 2020-09-10 | Go       | 2022-11-27   |
+|  3 | [spiderpool](https://github.com/spidernet-io/spiderpool)                                 | 2022-12-20 | Go       | 2023-01-03   |
+|  4 | [pgtracer](https://github.com/aiven/pgtracer)                                            | 2022-11-01 | Python   | 2022-12-20   |
+|  5 | [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) | 2021-06-24 | Go       | 2023-01-13   |
 
 <!--END_SECTION:my_github-->
 
