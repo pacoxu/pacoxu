@@ -59,7 +59,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-01-15](https://github.com/kubernetes/kubernetes/pull/115085)     | [334](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-01-17](https://github.com/kubernetes/kubernetes/pull/115117)     | [335](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-01-12](https://github.com/kubernetes/website/pull/38900)         | [31](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2022-10-12](https://github.com/kubernetes/enhancements/pull/3612)     | [17](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kaniuse](https://github.com/kaniuse/kaniuse)                                            | 2023-01-01 | Go       | 2023-01-05   |
-|  2 | [kube-fencing](https://github.com/kvaps/kube-fencing)                                    | 2020-09-10 | Go       | 2022-11-27   |
-|  3 | [spiderpool](https://github.com/spidernet-io/spiderpool)                                 | 2022-12-20 | Go       | 2023-01-03   |
-|  4 | [pgtracer](https://github.com/aiven/pgtracer)                                            | 2022-11-01 | Python   | 2022-12-20   |
-|  5 | [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) | 2021-06-24 | Go       | 2023-01-13   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kwok](https://github.com/kubernetes-sigs/kwok)                      | 2023-01-12 | Go       | 2023-01-17   |
+|  2 | [distribution](https://github.com/distribution/distribution)         | 2021-12-24 | Go       | 2023-01-17   |
+|  3 | [kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip) | 2019-02-01 | Go       | 2022-12-30   |
+|  4 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)                 | 2019-03-04 | Shell    | 2022-11-23   |
+|  5 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)   | 2022-03-11 | md       | 2022-12-15   |
 
 <!--END_SECTION:my_github-->
 
