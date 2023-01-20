@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kwok](https://github.com/kubernetes-sigs/kwok)                      | 2023-01-12 | Go       | 2023-01-17   |
-|  2 | [distribution](https://github.com/distribution/distribution)         | 2021-12-24 | Go       | 2023-01-17   |
-|  3 | [kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip) | 2019-02-01 | Go       | 2022-12-30   |
-|  4 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)                 | 2019-03-04 | Shell    | 2022-11-23   |
-|  5 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)   | 2022-03-11 | md       | 2022-12-15   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kudo](https://github.com/kudobuilder/kudo)                                               | 2019-10-22 | Go       | 2023-01-14   |
+|  2 | [cloud-provider-baiducloud](https://github.com/kubernetes-sigs/cloud-provider-baiducloud) | 2020-06-17 | Go       | 2022-11-26   |
+|  3 | [gardener](https://github.com/gardener/gardener)                                          | 2020-07-28 | Go       | 2023-01-19   |
+|  4 | [gocker](https://github.com/markbates/gocker)                                             | 2020-07-15 | Go       | 2020-07-15   |
+|  5 | [scope](https://github.com/weaveworks/scope)                                              | 2017-11-27 | Go       | 2023-01-19   |
 
 <!--END_SECTION:my_github-->
 
