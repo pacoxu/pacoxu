@@ -69,13 +69,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeless](https://github.com/vmware-archive/kubeless)            | 2019-09-30 | Go       | 2023-01-21   |
-|  2 | [node-disk-manager](https://github.com/openebs/node-disk-manager) | 2021-04-14 | Go       | 2022-11-26   |
-|  3 | [devstats](https://github.com/cncf/devstats)                      | 2021-07-01 | Shell    | 2023-01-18   |
-|  4 | [kaniuse](https://github.com/kaniuse/kaniuse)                     | 2023-01-01 | Go       | 2023-01-05   |
-|  5 | [UIMessage](https://github.com/pacoxu/UIMessage)                  | 2012-08-02 | Java     | 2021-04-07   |
+| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin) | 2020-06-11 | Go       | 2022-11-23   |
+|  2 | [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)        | 2022-03-03 | HTML     | 2023-01-20   |
+|  3 | [putingh](https://github.com/wzshiming/putingh)                                   | 2022-03-08 | Go       | 2022-03-10   |
+|  4 | [consul](https://github.com/hashicorp/consul)                                     | 2019-10-19 | Go       | 2023-01-23   |
+|  5 | [conjure-up](https://github.com/conjure-up/conjure-up)                            | 2017-06-07 | Python   | 2023-01-23   |
 
 <!--END_SECTION:my_github-->
 
