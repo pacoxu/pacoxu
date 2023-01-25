@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin) | 2020-06-11 | Go       | 2022-11-23   |
-|  2 | [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)        | 2022-03-03 | HTML     | 2023-01-20   |
-|  3 | [putingh](https://github.com/wzshiming/putingh)                                   | 2022-03-08 | Go       | 2022-03-10   |
-|  4 | [consul](https://github.com/hashicorp/consul)                                     | 2019-10-19 | Go       | 2023-01-23   |
-|  5 | [conjure-up](https://github.com/conjure-up/conjure-up)                            | 2017-06-07 | Python   | 2023-01-23   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [singularity](https://github.com/apptainer/singularity)            | 2021-06-28 | Go       | 2023-01-24   |
+|  2 | [mock-kubelet](https://github.com/cyclinder/mock-kubelet)          | 2022-03-03 | Go       | 2022-03-03   |
+|  3 | [presentations](https://github.com/cncf/presentations)             | 2022-11-01 | md       | 2023-01-24   |
+|  4 | [kubernetes-design](https://github.com/kerthcet/kubernetes-design) | 2022-03-29 | md       | 2022-10-08   |
+|  5 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)  | 2021-08-03 | C        | 2023-01-22   |
 
 <!--END_SECTION:my_github-->
 
