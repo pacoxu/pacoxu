@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2022-12-05](https://github.com/kubernetes/k8s.io/pull/4520)           | [8](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)             |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [modgv](https://github.com/lucasepe/modgv)                                   | 2021-05-21 | Go       | 2023-01-18   |
-|  2 | [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) | 2020-07-15 | Go       | 2023-01-28   |
-|  3 | [run](https://github.com/The-Run-Philosophy-Organization/run)                | 2022-05-20 | md       | 2023-01-29   |
-|  4 | [thanos](https://github.com/thanos-io/thanos)                                | 2021-04-19 | Go       | 2023-01-29   |
-|  5 | [ebpf](https://github.com/nccgroup/ebpf)                                     | 2020-12-02 | Python   | 2023-01-16   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [skywalking-tutorials](https://github.com/JaredTan95/skywalking-tutorials) | 2022-01-20 | Java       | 2022-08-30   |
+|  2 | [karmada](https://github.com/karmada-io/karmada)                           | 2021-07-06 | Go         | 2023-01-30   |
+|  3 | [official-images](https://github.com/docker-library/official-images)       | 2020-09-04 | Shell      | 2023-01-30   |
+|  4 | [dapr](https://github.com/dapr/dapr)                                       | 2021-02-18 | Go         | 2023-01-30   |
+|  5 | [dotemacs](https://github.com/marun/dotemacs)                              | 2020-01-10 | Emacs Lisp | 2023-01-07   |
 
 <!--END_SECTION:my_github-->
 
