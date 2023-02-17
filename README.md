@@ -7,7 +7,7 @@
  
  🔭 Working on Kubernetes & Containerd & Docker/Moby
  
- 🌱 Learning Go & Knative & CoreDNS
+ 🌱 Learning Go & CoreDNS & Knative
 
 - Work in **DaoCloud Enterprise Team**: [DCE 5.0](https://www.daocloud.io/dce_5.0).
 - Kubernetes [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) & [Kubeadm](https://github.com/kubernetes/kubeadm/) reviewer
