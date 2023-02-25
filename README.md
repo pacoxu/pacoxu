@@ -66,17 +66,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  5 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-02-23](https://github.com/kubernetes/test-infra/pull/28827)      | [17](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  7 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
-|  8 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-01-28](https://github.com/kubernetes/kubeadm/pull/2807)          | [10](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  9 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-01-28](https://github.com/kubernetes/kubeadm/pull/2807)          | [10](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dubbox](https://github.com/dangdangdotcom/dubbox)                                    | 2016-10-31 | Java       | 2023-02-21   |
-|  2 | [knative-inspect](https://github.com/nimakaviani/knative-inspect)                     | 2019-11-13 | Go         | 2023-02-19   |
-|  3 | [kubectx](https://github.com/ahmetb/kubectx)                                          | 2021-01-24 | Go         | 2023-02-24   |
-|  4 | [parse-prometheus-text-format](https://github.com/yunyu/parse-prometheus-text-format) | 2019-01-09 | JavaScript | 2022-12-07   |
-|  5 | [elasticsearch](https://github.com/elastic/elasticsearch)                             | 2012-07-20 | Java       | 2023-02-23   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubenav](https://github.com/kubenav/kubenav)                    | 2020-11-13 | Dart       | 2023-02-24   |
+|  2 | [github-todos](https://github.com/naholyr/github-todos)          | 2020-12-13 | JavaScript | 2023-02-15   |
+|  3 | [embedshim](https://github.com/fuweid/embedshim)                 | 2022-03-29 | Go         | 2023-02-17   |
+|  4 | [awesome-cloud-run](https://github.com/steren/awesome-cloud-run) | 2019-11-28 | Dockerfile | 2023-02-21   |
+|  5 | [libcloud](https://github.com/apache/libcloud)                   | 2016-06-30 | Python     | 2023-02-17   |
 
 <!--END_SECTION:my_github-->
 
