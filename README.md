@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dex](https://github.com/dexidp/dex)                         | 2020-07-15 | Go         | 2023-02-25   |
-|  2 | [go-toml](https://github.com/pelletier/go-toml)              | 2021-06-21 | Go         | 2023-02-25   |
-|  3 | [mysql](https://github.com/tutumcloud/mysql)                 | 2016-09-20 | Shell      | 2023-01-28   |
-|  4 | [vault-action](https://github.com/hashicorp/vault-action)    | 2020-09-15 | JavaScript | 2023-02-25   |
-|  5 | [powerfulseal](https://github.com/powerfulseal/powerfulseal) | 2020-09-14 | Python     | 2023-02-24   |
+| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-py](https://github.com/mnubo/kubernetes-py)                                     | 2017-06-07 | Python   | 2022-12-13   |
+|  2 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C        | 2023-02-26   |
+|  3 | [kwok](https://github.com/kubernetes-sigs/kwok)                                             | 2023-02-13 | Go       | 2023-02-26   |
+|  4 | [gotype](https://github.com/wzshiming/gotype)                                               | 2022-06-21 | Go       | 2022-12-09   |
+|  5 | [calico](https://github.com/projectcalico/calico)                                           | 2017-10-20 | Go       | 2023-02-26   |
 
 <!--END_SECTION:my_github-->
 
