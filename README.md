@@ -61,7 +61,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-03-01](https://github.com/kubernetes/kubernetes/pull/116174)     | [356](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-03-01](https://github.com/kubernetes/website/pull/39740)         | [32](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  3 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-02-02](https://github.com/kubernetes/enhancements/pull/3821)     | [19](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
+|  3 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-03-02](https://github.com/kubernetes/enhancements/pull/3897)     | [20](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  5 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-02-23](https://github.com/kubernetes/test-infra/pull/28827)      | [17](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [vitess](https://github.com/vitessio/vitess)                                      | 2018-04-19 | Go       | 2023-03-01   |
-|  2 | [kubeasz](https://github.com/easzlab/kubeasz)                                     | 2017-12-19 | Jinja    | 2023-03-01   |
-|  3 | [scope](https://github.com/weaveworks/scope)                                      | 2017-11-27 | Go       | 2023-03-01   |
-|  4 | [interviews](https://github.com/kdn251/interviews)                                | 2017-03-23 | Java     | 2023-03-01   |
-|  5 | [talk-knative-vs-openfaas](https://github.com/carsonoid/talk-knative-vs-openfaas) | 2019-10-17 | md       | 2022-03-14   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator)                | 2022-06-14 | Go       | 2022-06-14   |
+|  2 | [discovery](https://github.com/bilibili/discovery)                              | 2018-05-31 | Go       | 2023-02-28   |
+|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)                 | 2022-04-20 | Go       | 2023-03-01   |
+|  4 | [spring-social-weibo](https://github.com/Orange-OpenSource/spring-social-weibo) | 2017-03-14 | Java     | 2023-01-27   |
+|  5 | [utils](https://github.com/kubernetes/utils)                                    | 2021-02-01 | Go       | 2023-02-24   |
 
 <!--END_SECTION:my_github-->
 
