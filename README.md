@@ -66,17 +66,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  5 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-02-23](https://github.com/kubernetes/test-infra/pull/28827)      | [17](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  7 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
-|  8 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-01-28](https://github.com/kubernetes/kubeadm/pull/2807)          | [10](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  9 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-01-28](https://github.com/kubernetes/kubeadm/pull/2807)          | [10](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator)                | 2022-06-14 | Go       | 2022-06-14   |
-|  2 | [discovery](https://github.com/bilibili/discovery)                              | 2018-05-31 | Go       | 2023-02-28   |
-|  3 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)                 | 2022-04-20 | Go       | 2023-03-01   |
-|  4 | [spring-social-weibo](https://github.com/Orange-OpenSource/spring-social-weibo) | 2017-03-14 | Java     | 2023-01-27   |
-|  5 | [utils](https://github.com/kubernetes/utils)                                    | 2021-02-01 | Go       | 2023-02-24   |
+| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler) | 2020-09-16 | Go       | 2023-03-01   |
+|  2 | [kube-bench](https://github.com/aquasecurity/kube-bench)          | 2022-06-21 | Go       | 2023-03-03   |
+|  3 | [dubbox](https://github.com/dangdangdotcom/dubbox)                | 2016-10-31 | Java     | 2023-02-27   |
+|  4 | [gotype](https://github.com/wzshiming/gotype)                     | 2022-06-21 | Go       | 2022-12-09   |
+|  5 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)      | 2019-03-19 | Makefile | 2023-03-02   |
 
 <!--END_SECTION:my_github-->
 
