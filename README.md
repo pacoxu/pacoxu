@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-01-28](https://github.com/kubernetes/kubeadm/pull/2807)          | [10](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler) | 2020-09-16 | Go       | 2023-03-01   |
-|  2 | [kube-bench](https://github.com/aquasecurity/kube-bench)          | 2022-06-21 | Go       | 2023-03-03   |
-|  3 | [dubbox](https://github.com/dangdangdotcom/dubbox)                | 2016-10-31 | Java     | 2023-02-27   |
-|  4 | [gotype](https://github.com/wzshiming/gotype)                     | 2022-06-21 | Go       | 2022-12-09   |
-|  5 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)      | 2019-03-19 | Makefile | 2023-03-02   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2021-03-23 | Java     | 2023-03-04   |
+|  2 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)                        | 2022-03-10 | Go       | 2023-03-04   |
+|  3 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                      | 2019-01-09 | Go       | 2023-03-04   |
+|  4 | [k8s.io](https://github.com/kubernetes/k8s.io)                                       | 2021-03-16 | Shell    | 2023-03-04   |
+|  5 | [kubenav](https://github.com/kubenav/kubenav)                                        | 2020-11-13 | Dart     | 2023-03-04   |
 
 <!--END_SECTION:my_github-->
 
