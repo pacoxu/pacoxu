@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-01-28](https://github.com/kubernetes/kubeadm/pull/2807)          | [10](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------|------------|------------|--------------|
-|  1 | [webiny-js](https://github.com/webiny/webiny-js)        | 2020-11-30 | TypeScript | 2023-03-06   |
-|  2 | [wrk](https://github.com/wg/wrk)                        | 2022-03-22 | C          | 2023-03-07   |
-|  3 | [cadvisor](https://github.com/google/cadvisor)          | 2022-12-02 | Go         | 2023-03-06   |
-|  4 | [kubernetes-py](https://github.com/mnubo/kubernetes-py) | 2017-06-07 | Python     | 2022-12-13   |
-|  5 | [helm-diff](https://github.com/databus23/helm-diff)     | 2019-09-03 | Go         | 2023-03-06   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend) | 2019-09-06 | Python   | 2023-02-25   |
+|  2 | [docker-slapd](https://github.com/nickstenning/docker-slapd)                          | 2017-02-16 | Shell    | 2022-11-08   |
+|  3 | [org](https://github.com/kubernetes/org)                                              | 2021-01-29 | Go       | 2023-03-06   |
+|  4 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)                  | 2021-04-14 | Go       | 2023-02-03   |
+|  5 | [delve](https://github.com/go-delve/delve)                                            | 2020-06-01 | Go       | 2023-03-07   |
 
 <!--END_SECTION:my_github-->
 
