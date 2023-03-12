@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------|--------------|
-|  1 | [velero](https://github.com/vmware-tanzu/velero)              | 2020-04-29 | Go         | 2023-03-10   |
-|  2 | [runc-lts](https://github.com/klts-io/runc-lts)               | 2021-11-25 | Shell      | 2022-09-02   |
-|  3 | [dao-2048](https://github.com/DaoCloud/dao-2048)              | 2016-04-18 | JavaScript | 2023-03-02   |
-|  4 | [person-blocker](https://github.com/minimaxir/person-blocker) | 2019-10-24 | Python     | 2023-03-03   |
-|  5 | [FastGithub](https://github.com/dotnetcore/FastGithub)        | 2022-04-12 | C#         | 2023-03-10   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)                    | 2019-04-19 | Go       | 2023-03-11   |
+|  2 | [node-disk-manager](https://github.com/openebs/node-disk-manager)                        | 2021-04-14 | Go       | 2023-02-08   |
+|  3 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery)              | 2021-04-07 | Go       | 2022-01-10   |
+|  4 | [kivy](https://github.com/kivy/kivy)                                                     | 2019-04-18 | Python   | 2023-03-11   |
+|  5 | [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) | 2021-06-24 | Go       | 2023-02-13   |
 
 <!--END_SECTION:my_github-->
 
