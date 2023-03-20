@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [embedshim](https://github.com/fuweid/embedshim)                                          | 2022-03-29 | Go               | 2023-03-13   |
-|  2 | [elasticsearch](https://github.com/pacoxu/elasticsearch)                                  | 2014-04-18 | Java             | 2021-04-07   |
-|  3 | [website](https://github.com/ferryproxy/website)                                          | 2022-03-03 | md               | 2022-07-12   |
-|  4 | [cni](https://github.com/containernetworking/cni)                                         | 2017-12-19 | Go               | 2023-03-18   |
-|  5 | [aws-virtual-gpu-device-plugin](https://github.com/awslabs/aws-virtual-gpu-device-plugin) | 2020-06-11 | Jupyter Notebook | 2023-03-16   |
+| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [skywalking-tutorials](https://github.com/JaredTan95/skywalking-tutorials) | 2022-01-20 | Java     | 2022-08-30   |
+|  2 | [falco](https://github.com/falcosecurity/falco)                            | 2020-04-17 | C++      | 2023-03-19   |
+|  3 | [website](https://github.com/kubernetes/website)                           | 2021-09-28 | HTML     | 2023-03-18   |
+|  4 | [website](https://github.com/servicemesher/website)                        | 2019-10-10 | CSS      | 2023-01-28   |
+|  5 | [docker-openldap](https://github.com/dinkel/docker-openldap)               | 2016-09-23 | Shell    | 2023-02-25   |
 
 <!--END_SECTION:my_github-->
 
