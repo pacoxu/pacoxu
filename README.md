@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [protobuf](https://github.com/protocolbuffers/protobuf)                             | 2021-11-03 | C++        | 2023-03-21   |
-|  2 | [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) | 2019-04-01 | HTML       | 2023-03-21   |
-|  3 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                     | 2019-01-09 | Go         | 2023-03-21   |
-|  4 | [dotemacs](https://github.com/marun/dotemacs)                                       | 2020-01-10 | Emacs Lisp | 2023-01-07   |
-|  5 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin)   | 2020-06-11 | Go         | 2023-01-28   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cfssl](https://github.com/cloudflare/cfssl)                       | 2019-09-02 | Go       | 2023-03-22   |
+|  2 | [modern-unix](https://github.com/ibraheemdev/modern-unix)          | 2021-04-23 | md       | 2023-03-22   |
+|  3 | [distroless](https://github.com/GoogleContainerTools/distroless)   | 2022-05-07 | Starlark | 2023-03-22   |
+|  4 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative) | 2021-09-22 | md       | 2022-11-14   |
+|  5 | [velero](https://github.com/vmware-tanzu/velero)                   | 2020-04-29 | Go       | 2023-03-22   |
 
 <!--END_SECTION:my_github-->
 
