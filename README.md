@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [my-github-status](https://github.com/yanggangtony/my-github-status) | 2022-11-07 | md       | 2022-12-28   |
-|  2 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)        | 2022-03-10 | Go       | 2023-03-28   |
-|  3 | [kubeasz](https://github.com/easzlab/kubeasz)                        | 2017-12-19 | Jinja    | 2023-03-28   |
-|  4 | [docker-glusterfs](https://github.com/paulczar/docker-glusterfs)     | 2016-09-19 | Ruby     | 2019-07-15   |
-|  5 | [ginkgo](https://github.com/onsi/ginkgo)                             | 2020-10-09 | Go       | 2023-03-28   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubectl-ai](https://github.com/sozercan/kubectl-ai)              | 2023-03-21 | Go         | 2023-03-29   |
+|  2 | [keda](https://github.com/kedacore/keda)                          | 2021-09-09 | Go         | 2023-03-29   |
+|  3 | [node-disk-manager](https://github.com/openebs/node-disk-manager) | 2021-04-14 | Go         | 2023-02-08   |
+|  4 | [hostroutes](https://github.com/kubeup/hostroutes)                | 2017-11-27 | Go         | 2022-11-23   |
+|  5 | [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)      | 2017-11-27 | Dockerfile | 2023-03-17   |
 
 <!--END_SECTION:my_github-->
 
