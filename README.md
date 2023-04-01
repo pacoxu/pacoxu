@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [community](https://github.com/kubernetes/community)          | 2019-06-24 | Jupyter Notebook | 2023-03-30   |
-|  2 | [glances](https://github.com/nicolargo/glances)               | 2016-05-14 | Python           | 2023-03-30   |
-|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)              | 2021-03-24 | Go               | 2023-03-30   |
-|  4 | [gloo-mesh](https://github.com/solo-io/gloo-mesh)             | 2020-09-27 | Go               | 2023-03-29   |
-|  5 | [docker-alpine](https://github.com/alpinelinux/docker-alpine) | 2021-04-14 | Lua              | 2023-03-30   |
+| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)        | 2022-11-03 | md       | 2022-11-21   |
+|  2 | [sig-release](https://github.com/kubernetes/sig-release)         | 2021-01-13 | Shell    | 2023-03-29   |
+|  3 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes) | 2019-11-13 | Shell    | 2021-11-16   |
+|  4 | [vitess](https://github.com/vitessio/vitess)                     | 2018-04-19 | Go       | 2023-03-31   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                 | 2021-03-24 | Go       | 2023-03-31   |
 
 <!--END_SECTION:my_github-->
 
