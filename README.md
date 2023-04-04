@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd3-py](https://github.com/Revolution1/etcd3-py)               | 2021-01-21 | Python   | 2023-02-12   |
-|  2 | [multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) | 2020-08-17 | Go       | 2023-03-31   |
-|  3 | [cni](https://github.com/containernetworking/cni)                 | 2017-12-19 | Go       | 2023-04-01   |
-|  4 | [kubeasz](https://github.com/easzlab/kubeasz)                     | 2017-12-19 | Jinja    | 2023-04-02   |
-|  5 | [ThreatMapper](https://github.com/deepfence/ThreatMapper)         | 2022-08-26 | Go       | 2023-04-02   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [calculators](https://github.com/pacoxu/calculators)   | 2014-01-08 | Java     | 2021-04-07   |
+|  2 | [discovery](https://github.com/bilibili/discovery)     | 2018-05-31 | Go       | 2023-04-03   |
+|  3 | [toc](https://github.com/cncf/toc)                     | 2022-01-26 | md       | 2023-03-28   |
+|  4 | [lb](https://github.com/lherrera/lb)                   | 2016-05-23 | Shell    | 2022-01-16   |
+|  5 | [floopcli](https://github.com/ForwardLoopLLC/floopcli) | 2020-09-14 | Python   | 2020-10-21   |
 
 <!--END_SECTION:my_github-->
 
