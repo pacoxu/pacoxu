@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ)                  | 2014-09-15 | JavaScript | 2023-04-04   |
-|  2 | [hwameistor](https://github.com/hwameistor/hwameistor)                             | 2022-08-22 | Go         | 2023-03-31   |
-|  3 | [harbor](https://github.com/goharbor/harbor)                                       | 2016-08-25 | Go         | 2023-04-04   |
-|  4 | [kube-mesos-framework](https://github.com/kubernetes-retired/kube-mesos-framework) | 2017-09-29 | HTML       | 2023-01-28   |
-|  5 | [website](https://github.com/kubernetes/website)                                   | 2021-09-28 | HTML       | 2023-04-04   |
+| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|----------|--------------|
+|  1 | [ginkgo](https://github.com/onsi/ginkgo)                     | 2020-10-09 | Go       | 2023-04-05   |
+|  2 | [powerfulseal](https://github.com/powerfulseal/powerfulseal) | 2020-09-14 | Python   | 2023-04-05   |
+|  3 | [ropee](https://github.com/DaoCloud/ropee)                   | 2019-07-08 | Go       | 2022-03-27   |
+|  4 | [draino](https://github.com/planetlabs/draino)               | 2019-04-25 | Go       | 2023-04-05   |
+|  5 | [kubexit](https://github.com/karlkfi/kubexit)                | 2020-09-27 | Go       | 2023-04-04   |
 
 <!--END_SECTION:my_github-->
 
