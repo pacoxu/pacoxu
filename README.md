@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kratos](https://github.com/go-kratos/kratos)                                                                     | 2019-05-15 | Go       | 2023-04-07   |
-|  2 | [jenkins-pipeline-scripts](https://github.com/docker-archive/jenkins-pipeline-scripts)                            | 2017-03-06 | Groovy   | 2023-01-28   |
-|  3 | [sample-vpa-controller](https://github.com/zhouya0/sample-vpa-controller)                                         | 2020-10-30 | Go       | 2020-10-30   |
-|  4 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go       | 2023-04-07   |
-|  5 | [kubeval](https://github.com/instrumenta/kubeval)                                                                 | 2022-02-25 | Go       | 2023-03-24   |
+| ID |                                               REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [flask](https://github.com/pallets/flask)                                                        | 2016-04-21 | Python   | 2023-04-08   |
+|  2 | [website](https://github.com/kubernetes/website)                                                 | 2021-09-28 | HTML     | 2023-04-08   |
+|  3 | [kqr-pay](https://github.com/markito/kqr-pay)                                                    | 2019-10-08 | Java     | 2022-09-12   |
+|  4 | [awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) | 2022-10-20 | HTML     | 2023-04-04   |
+|  5 | [bcc](https://github.com/iovisor/bcc)                                                            | 2021-09-06 | C        | 2023-04-08   |
 
 <!--END_SECTION:my_github-->
 
