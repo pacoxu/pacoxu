@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [flask](https://github.com/pallets/flask)                                                        | 2016-04-21 | Python   | 2023-04-08   |
-|  2 | [website](https://github.com/kubernetes/website)                                                 | 2021-09-28 | HTML     | 2023-04-08   |
-|  3 | [kqr-pay](https://github.com/markito/kqr-pay)                                                    | 2019-10-08 | Java     | 2022-09-12   |
-|  4 | [awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) | 2022-10-20 | HTML     | 2023-04-04   |
-|  5 | [bcc](https://github.com/iovisor/bcc)                                                            | 2021-09-06 | C        | 2023-04-08   |
+| ID |                                     REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)           | 2020-11-05 | Shell    | 2023-04-06   |
+|  2 | [cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager) | 2022-10-17 | Rust     | 2023-03-24   |
+|  3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)           | 2022-03-11 | md       | 2022-12-15   |
+|  4 | [ebpf](https://github.com/nccgroup/ebpf)                                     | 2020-12-02 | Python   | 2023-03-06   |
+|  5 | [oniguruma](https://github.com/kkos/oniguruma)                               | 2019-03-19 | C        | 2023-04-06   |
 
 <!--END_SECTION:my_github-->
 
