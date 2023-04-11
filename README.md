@@ -46,20 +46,20 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-01-26 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-04-10 | Go       |    11 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go       |    10 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2022-12-15 | md       |     3 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-04-10 | md       |     2 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2021-04-07 | Python   |     1 |
-| sum |                                                                    |            |            |          |    32 |
+| sum |                                                                    |            |            |          |    30 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-04-07](https://github.com/kubernetes/kubernetes/pull/117156)     | [383](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-04-10](https://github.com/kubernetes/kubernetes/pull/117183)     | [384](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-04-04](https://github.com/kubernetes/website/pull/40513)         | [38](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-03-30](https://github.com/kubernetes/enhancements/pull/3930)     | [21](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  4 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-03-24](https://github.com/kubernetes/test-infra/pull/29127)      | [20](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
@@ -72,11 +72,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I stared (random 5)
 | ID |                                     REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)           | 2020-11-05 | Shell    | 2023-04-06   |
-|  2 | [cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager) | 2022-10-17 | Rust     | 2023-03-24   |
-|  3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)           | 2022-03-11 | md       | 2022-12-15   |
-|  4 | [ebpf](https://github.com/nccgroup/ebpf)                                     | 2020-12-02 | Python   | 2023-03-06   |
-|  5 | [oniguruma](https://github.com/kkos/oniguruma)                               | 2019-03-19 | C        | 2023-04-06   |
+|  1 | [k3s](https://github.com/k3s-io/k3s)                                         | 2020-10-26 | Go       | 2023-04-10   |
+|  2 | [cfssl](https://github.com/cloudflare/cfssl)                                 | 2019-09-02 | Go       | 2023-04-10   |
+|  3 | [dapr](https://github.com/dapr/dapr)                                         | 2021-02-18 | Go       | 2023-04-10   |
+|  4 | [otelsql](https://github.com/XSAM/otelsql)                                   | 2023-02-02 | Go       | 2023-03-29   |
+|  5 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector) | 2019-05-03 | Go       | 2023-04-10   |
 
 <!--END_SECTION:my_github-->
 
