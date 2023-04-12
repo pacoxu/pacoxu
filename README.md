@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k3s](https://github.com/k3s-io/k3s)                                         | 2020-10-26 | Go       | 2023-04-10   |
-|  2 | [cfssl](https://github.com/cloudflare/cfssl)                                 | 2019-09-02 | Go       | 2023-04-10   |
-|  3 | [dapr](https://github.com/dapr/dapr)                                         | 2021-02-18 | Go       | 2023-04-10   |
-|  4 | [otelsql](https://github.com/XSAM/otelsql)                                   | 2023-02-02 | Go       | 2023-03-29   |
-|  5 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector) | 2019-05-03 | Go       | 2023-04-10   |
+| ID |                                              REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [sig-release](https://github.com/kubernetes/sig-release)                                        | 2021-01-13 | Shell    | 2023-04-11   |
+|  2 | [logrotee](https://github.com/singalen/logrotee)                                                | 2019-07-19 | C++      | 2023-01-10   |
+|  3 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) | 2020-12-09 | Go       | 2023-04-11   |
+|  4 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)                              | 2020-11-05 | Shell    | 2023-04-10   |
+|  5 | [ovn-kubernetes](https://github.com/ovn-org/ovn-kubernetes)                                     | 2019-05-06 | Go       | 2023-04-11   |
 
 <!--END_SECTION:my_github-->
 
