@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                              REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [sig-release](https://github.com/kubernetes/sig-release)                                        | 2021-01-13 | Shell    | 2023-04-11   |
-|  2 | [logrotee](https://github.com/singalen/logrotee)                                                | 2019-07-19 | C++      | 2023-01-10   |
-|  3 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) | 2020-12-09 | Go       | 2023-04-11   |
-|  4 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)                              | 2020-11-05 | Shell    | 2023-04-10   |
-|  5 | [ovn-kubernetes](https://github.com/ovn-org/ovn-kubernetes)                                     | 2019-05-06 | Go       | 2023-04-11   |
+| ID |                                REPO                                | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart)   | 2020-10-30 | Shell            | 2023-04-07   |
+|  2 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-03-11 | md               | 2023-04-10   |
+|  3 | [karmada-operator1](https://github.com/DaoCloud/karmada-operator1) | 2022-10-12 | Go               | 2023-03-23   |
+|  4 | [community](https://github.com/kubernetes/community)               | 2019-06-24 | Jupyter Notebook | 2023-04-12   |
+|  5 | [kudo](https://github.com/kudobuilder/kudo)                        | 2019-10-22 | Go               | 2023-04-11   |
 
 <!--END_SECTION:my_github-->
 
