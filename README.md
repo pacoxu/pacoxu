@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [docker-keepalived](https://github.com/osixia/docker-keepalived)     | 2019-03-05 | Shell      | 2023-03-30   |
-|  2 | [system-validators](https://github.com/kubernetes/system-validators) | 2021-02-26 | Go         | 2023-04-13   |
-|  3 | [kubespray](https://github.com/kubernetes-sigs/kubespray)            | 2022-08-05 | Jinja      | 2023-04-16   |
-|  4 | [libstorage](https://github.com/thecodeteam/libstorage)              | 2016-05-10 | Go         | 2023-02-16   |
-|  5 | [browser-extension](https://github.com/TaxyAI/browser-extension)     | 2023-03-29 | TypeScript | 2023-04-16   |
+| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [plugins](https://github.com/containernetworking/plugins)                | 2017-12-19 | Go       | 2023-04-17   |
+|  2 | [otelsql](https://github.com/XSAM/otelsql)                               | 2023-02-02 | Go       | 2023-04-17   |
+|  3 | [k8s-netchecker-agent](https://github.com/Mirantis/k8s-netchecker-agent) | 2017-06-07 | Go       | 2023-03-29   |
+|  4 | [cadvisor](https://github.com/google/cadvisor)                           | 2022-12-02 | Go       | 2023-04-17   |
+|  5 | [github-readme-stats](https://github.com/pacoxu/github-readme-stats)     | 2023-01-29 | Go       | 2023-01-29   |
 
 <!--END_SECTION:my_github-->
 
