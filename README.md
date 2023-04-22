@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gvisor](https://github.com/google/gvisor)                               | 2020-06-03 | Go       | 2023-04-20   |
-|  2 | [kratos](https://github.com/go-kratos/kratos)                            | 2019-05-15 | Go       | 2023-04-20   |
-|  3 | [cobra](https://github.com/spf13/cobra)                                  | 2020-06-04 | Go       | 2023-04-20   |
-|  4 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image) | 2016-11-16 | Python   | 2016-11-16   |
-|  5 | [mysql](https://github.com/tutumcloud/mysql)                             | 2016-09-20 | Shell    | 2023-01-28   |
+| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)              | 2021-10-19 | md       | 2023-04-21   |
+|  2 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)                        | 2021-04-14 | Go       | 2023-02-03   |
+|  3 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C        | 2023-04-21   |
+|  4 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)        | 2021-10-18 | Smarty   | 2023-04-14   |
+|  5 | [Kyodai](https://github.com/andever/Kyodai)                                                 | 2014-10-15 | Java     | 2018-03-03   |
 
 <!--END_SECTION:my_github-->
 
