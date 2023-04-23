@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)              | 2021-10-19 | md       | 2023-04-21   |
-|  2 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)                        | 2021-04-14 | Go       | 2023-02-03   |
-|  3 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C        | 2023-04-21   |
-|  4 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)        | 2021-10-18 | Smarty   | 2023-04-14   |
-|  5 | [Kyodai](https://github.com/andever/Kyodai)                                                 | 2014-10-15 | Java     | 2018-03-03   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [utils](https://github.com/kubernetes/utils)                       | 2021-02-01 | Go       | 2023-04-22   |
+|  2 | [kubectl-ai](https://github.com/sozercan/kubectl-ai)               | 2023-03-21 | Go       | 2023-04-22   |
+|  3 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes) | 2020-11-05 | Shell    | 2023-04-18   |
+|  4 | [cortex](https://github.com/cortexproject/cortex)                  | 2021-04-19 | Go       | 2023-04-21   |
+|  5 | [scala-tour](https://github.com/yankay/scala-tour)                 | 2013-08-06 | Scala    | 2022-11-28   |
 
 <!--END_SECTION:my_github-->
 
