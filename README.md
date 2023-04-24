@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [utils](https://github.com/kubernetes/utils)                       | 2021-02-01 | Go       | 2023-04-22   |
-|  2 | [kubectl-ai](https://github.com/sozercan/kubectl-ai)               | 2023-03-21 | Go       | 2023-04-22   |
-|  3 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes) | 2020-11-05 | Shell    | 2023-04-18   |
-|  4 | [cortex](https://github.com/cortexproject/cortex)                  | 2021-04-19 | Go       | 2023-04-21   |
-|  5 | [scala-tour](https://github.com/yankay/scala-tour)                 | 2013-08-06 | Scala    | 2022-11-28   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [distroless](https://github.com/GoogleContainerTools/distroless) | 2022-05-07 | Starlark   | 2023-04-23   |
+|  2 | [xxhash](https://github.com/cespare/xxhash)                      | 2021-09-20 | Go         | 2023-04-22   |
+|  3 | [ant-design](https://github.com/ant-design/ant-design)           | 2021-02-18 | TypeScript | 2023-04-23   |
+|  4 | [charts](https://github.com/helm/charts)                         | 2019-04-01 | Go         | 2023-04-23   |
+|  5 | [cfssl](https://github.com/cloudflare/cfssl)                     | 2019-09-02 | Go         | 2023-04-23   |
 
 <!--END_SECTION:my_github-->
 
