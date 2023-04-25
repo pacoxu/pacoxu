@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [distroless](https://github.com/GoogleContainerTools/distroless) | 2022-05-07 | Starlark   | 2023-04-23   |
-|  2 | [xxhash](https://github.com/cespare/xxhash)                      | 2021-09-20 | Go         | 2023-04-22   |
-|  3 | [ant-design](https://github.com/ant-design/ant-design)           | 2021-02-18 | TypeScript | 2023-04-23   |
-|  4 | [charts](https://github.com/helm/charts)                         | 2019-04-01 | Go         | 2023-04-23   |
-|  5 | [cfssl](https://github.com/cloudflare/cfssl)                     | 2019-09-02 | Go         | 2023-04-23   |
+| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [berrypost](https://github.com/realityone/berrypost)                              | 2021-12-21 | Go       | 2023-04-14   |
+|  2 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin) | 2020-06-11 | Go       | 2023-01-28   |
+|  3 | [Blogs](https://github.com/kerthcet/Blogs)                                        | 2021-09-22 | md       | 2022-08-06   |
+|  4 | [github-queries](https://github.com/SergeyKanzhelev/github-queries)               | 2021-04-14 | Go       | 2023-04-10   |
+|  5 | [volplugin](https://github.com/contiv-experimental/volplugin)                     | 2016-06-29 | Go       | 2023-03-01   |
 
 <!--END_SECTION:my_github-->
 
