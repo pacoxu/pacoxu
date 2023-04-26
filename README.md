@@ -53,13 +53,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
-|   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2021-04-07 | Python   |     1 |
+|   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md       |     1 |
 | sum |                                                                    |            |            |          |    30 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-04-18](https://github.com/kubernetes/kubernetes/pull/117438)     | [386](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-04-25](https://github.com/kubernetes/kubernetes/pull/117573)     | [387](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-04-04](https://github.com/kubernetes/website/pull/40513)         | [38](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-03-30](https://github.com/kubernetes/enhancements/pull/3930)     | [21](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  4 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-03-24](https://github.com/kubernetes/test-infra/pull/29127)      | [20](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [berrypost](https://github.com/realityone/berrypost)                              | 2021-12-21 | Go       | 2023-04-14   |
-|  2 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin) | 2020-06-11 | Go       | 2023-01-28   |
-|  3 | [Blogs](https://github.com/kerthcet/Blogs)                                        | 2021-09-22 | md       | 2022-08-06   |
-|  4 | [github-queries](https://github.com/SergeyKanzhelev/github-queries)               | 2021-04-14 | Go       | 2023-04-10   |
-|  5 | [volplugin](https://github.com/contiv-experimental/volplugin)                     | 2016-06-29 | Go       | 2023-03-01   |
+| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [life](https://github.com/gawen/life)                                                                                             | 2020-04-08 | md         | 2022-02-01   |
+|  2 | [sdn](https://github.com/openshift/sdn)                                                                                           | 2021-03-23 | Go         | 2023-04-11   |
+|  3 | [kubenav](https://github.com/kubenav/kubenav)                                                                                     | 2020-11-13 | Dart       | 2023-04-21   |
+|  4 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
+|  5 | [mysql](https://github.com/tutumcloud/mysql)                                                                                      | 2016-09-20 | Shell      | 2023-04-25   |
 
 <!--END_SECTION:my_github-->
 
