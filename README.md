@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tgik](https://github.com/vmware-archive/tgik)                           | 2019-11-01 | Shell    | 2023-04-21   |
-|  2 | [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2023-03-08 | C        | 2023-04-25   |
-|  3 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)     | 2019-10-14 | Java     | 2023-04-26   |
-|  4 | [etcd3-py](https://github.com/Revolution1/etcd3-py)                      | 2021-01-21 | Python   | 2023-02-12   |
-|  5 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats)       | 2022-02-23 | Go       | 2023-04-10   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [plasto-icons](https://github.com/jamiefang/plasto-icons)                  | 2019-05-22 | md          | 2022-08-04   |
+|  2 | [docker-openldap](https://github.com/dinkel/docker-openldap)               | 2016-09-23 | Shell       | 2023-02-25   |
+|  3 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | 2023-03-04 | Python      | 2023-04-27   |
+|  4 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)           | 2019-11-13 | Shell       | 2021-11-16   |
+|  5 | [SXFiveScoreShow](https://github.com/dsxNiubility/SXFiveScoreShow)         | 2016-09-23 | Objective-C | 2022-04-02   |
 
 <!--END_SECTION:my_github-->
 
