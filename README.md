@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-cloud-run](https://github.com/steren/awesome-cloud-run)                | 2019-11-28 | Dockerfile | 2023-04-20   |
-|  2 | [community](https://github.com/klts-io/community)                               | 2021-11-17 | md         | 2021-12-01   |
-|  3 | [ecm1240-monitor-docker](https://github.com/tenstartups/ecm1240-monitor-docker) | 2016-05-02 | Python     | 2023-01-28   |
-|  4 | [lxd](https://github.com/lxc/lxd)                                               | 2017-04-06 | Go         | 2023-04-28   |
-|  5 | [kubedoom](https://github.com/storax/kubedoom)                                  | 2020-10-13 | C++        | 2023-04-28   |
+| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [community](https://github.com/klts-io/community)                                      | 2021-11-17 | md         | 2021-12-01   |
+|  2 | [kyverno](https://github.com/kyverno/kyverno)                                          | 2021-05-31 | Go         | 2023-04-29   |
+|  3 | [k8s-sched-perf-stat](https://github.com/Huang-Wei/k8s-sched-perf-stat)                | 2021-03-10 | Go         | 2023-01-11   |
+|  4 | [modgv](https://github.com/lucasepe/modgv)                                             | 2021-05-21 | Go         | 2023-04-27   |
+|  5 | [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2023-04-29   |
 
 <!--END_SECTION:my_github-->
 
