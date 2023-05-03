@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------|--------------|
-|  1 | [elasticsearch](https://github.com/pacoxu/elasticsearch)      | 2014-04-18 | Java       | 2021-04-07   |
-|  2 | [summer](https://github.com/Charlie17Li/summer)               | 2022-10-20 | Shell      | 2022-10-20   |
-|  3 | [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) | 2016-11-21 | HTML       | 2023-05-01   |
-|  4 | [dao-2048](https://github.com/DaoCloud/dao-2048)              | 2016-04-18 | JavaScript | 2023-04-24   |
-|  5 | [xiaogpt](https://github.com/yihong0618/xiaogpt)              | 2023-02-17 | Python     | 2023-05-01   |
+| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [sample-vpa-controller](https://github.com/zhouya0/sample-vpa-controller)              | 2020-10-30 | Go         | 2020-10-30   |
+|  2 | [vagrant](https://github.com/thecodeteam/vagrant)                                      | 2016-04-24 | Shell      | 2020-12-17   |
+|  3 | [presentations](https://github.com/cncf/presentations)                                 | 2022-11-01 | md         | 2023-04-28   |
+|  4 | [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2023-05-02   |
+|  5 | [Kyodai](https://github.com/andever/Kyodai)                                            | 2014-10-15 | Java       | 2018-03-03   |
 
 <!--END_SECTION:my_github-->
 
