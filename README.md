@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [sample-vpa-controller](https://github.com/zhouya0/sample-vpa-controller)              | 2020-10-30 | Go         | 2020-10-30   |
-|  2 | [vagrant](https://github.com/thecodeteam/vagrant)                                      | 2016-04-24 | Shell      | 2020-12-17   |
-|  3 | [presentations](https://github.com/cncf/presentations)                                 | 2022-11-01 | md         | 2023-04-28   |
-|  4 | [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2023-05-02   |
-|  5 | [Kyodai](https://github.com/andever/Kyodai)                                            | 2014-10-15 | Java       | 2018-03-03   |
+| ID |                            REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------|------------|------------|--------------|
+|  1 | [datakit](https://github.com/moby/datakit)                  | 2016-05-18 | OCaml      | 2023-04-28   |
+|  2 | [endless](https://github.com/fvbock/endless)                | 2020-11-27 | Go         | 2023-05-03   |
+|  3 | [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)               | 2023-04-20 | Go         | 2023-05-03   |
+|  4 | [etcd-browser](https://github.com/henszey/etcd-browser)     | 2019-06-18 | JavaScript | 2023-04-25   |
+|  5 | [kube-entropy](https://github.com/alexlokshin/kube-entropy) | 2019-10-14 | Go         | 2022-11-23   |
 
 <!--END_SECTION:my_github-->
 
