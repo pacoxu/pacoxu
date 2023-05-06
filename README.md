@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                                   REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go       | 2023-04-15   |
-|  2 | [datakit](https://github.com/moby/datakit)                                                                | 2016-05-18 | OCaml    | 2023-05-04   |
-|  3 | [goscaleio](https://github.com/thecodeteam/goscaleio)                                                     | 2016-04-24 | Go       | 2023-01-28   |
-|  4 | [enhancements](https://github.com/kubernetes/enhancements)                                                | 2019-06-17 | Go       | 2023-05-02   |
-|  5 | [velero](https://github.com/vmware-tanzu/velero)                                                          | 2020-04-29 | Go       | 2023-05-04   |
+| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)                                      | 2022-06-10 | Go       | 2022-08-08   |
+|  2 | [go](https://github.com/golang/go)                                                                  | 2021-09-09 | Go       | 2023-05-06   |
+|  3 | [dns](https://github.com/kubernetes/dns)                                                            | 2019-07-19 | Go       | 2023-04-23   |
+|  4 | [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) | 2019-01-20 | Shell    | 2023-05-05   |
+|  5 | [my-github-status](https://github.com/yanggangtony/my-github-status)                                | 2022-11-07 | md       | 2022-12-28   |
 
 <!--END_SECTION:my_github-->
 
