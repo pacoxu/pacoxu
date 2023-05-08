@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                                                        REPO                                                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                                                                                                             | 2016-07-04 | Go       | 2023-05-06   |
-|  2 | [container-object-storage-interface-provisioner-sidecar](https://github.com/kubernetes-sigs/container-object-storage-interface-provisioner-sidecar) | 2021-03-23 | Go       | 2023-04-05   |
-|  3 | [duo](https://github.com/duo-rs/duo)                                                                                                                | 2022-11-02 | Rust     | 2023-03-14   |
-|  4 | [iWhat](https://github.com/yihong0618/iWhat)                                                                                                        | 2023-03-08 | Python   | 2023-05-05   |
-|  5 | [btree](https://github.com/teepark/btree)                                                                                                           | 2017-11-14 | C        | 2019-07-15   |
+| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|----------|--------------|
+|  1 | [btree](https://github.com/teepark/btree)                 | 2017-11-14 | C        | 2019-07-15   |
+|  2 | [logr](https://github.com/go-logr/logr)                   | 2021-01-23 | Go       | 2023-05-02   |
+|  3 | [plasto-icons](https://github.com/jamiefang/plasto-icons) | 2019-05-22 | md       | 2022-08-04   |
+|  4 | [pgtracer](https://github.com/aiven/pgtracer)             | 2022-11-01 | Python   | 2023-04-25   |
+|  5 | [ansible](https://github.com/ansible/ansible)             | 2016-05-18 | Python   | 2023-05-07   |
 
 <!--END_SECTION:my_github-->
 
