@@ -61,8 +61,8 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-05-06](https://github.com/kubernetes/kubernetes/pull/117839)     | [391](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-04-04](https://github.com/kubernetes/website/pull/40513)         | [38](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  3 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-03-30](https://github.com/kubernetes/enhancements/pull/3930)     | [21](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
-|  4 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-05-08](https://github.com/kubernetes/test-infra/pull/29454)      | [21](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-05-08](https://github.com/kubernetes/test-infra/pull/29454)      | [21](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-03-30](https://github.com/kubernetes/enhancements/pull/3930)     | [21](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-03-28](https://github.com/kubernetes/kubeadm/pull/2850)          | [13](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                  | STAREDDATE |        LAUGUAGE         | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|-------------------------|--------------|
-|  1 | [etcd](https://github.com/etcd-io/etcd)                                | 2016-07-04 | Go                      | 2023-05-08   |
-|  2 | [community](https://github.com/kubernetes/community)                   | 2019-06-24 | Jupyter Notebook        | 2023-05-08   |
-|  3 | [community-edition](https://github.com/vmware-tanzu/community-edition) | 2021-10-05 | Go                      | 2023-05-05   |
-|  4 | [youth-soccer](https://github.com/pacoxu/youth-soccer)                 | 2016-12-25 | GCC Machine Description | 2021-04-07   |
-|  5 | [kueue](https://github.com/kubernetes-sigs/kueue)                      | 2022-04-24 | Go                      | 2023-05-08   |
+| ID |                                                       REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [logr](https://github.com/go-logr/logr)                                                                           | 2021-01-23 | Go         | 2023-05-08   |
+|  2 | [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)                            | 2023-03-07 | JavaScript | 2023-05-09   |
+|  3 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm)             | 2023-04-20 | Go         | 2023-05-05   |
+|  4 | [sig-release](https://github.com/kubernetes/sig-release)                                                          | 2021-01-13 | Shell      | 2023-05-09   |
+|  5 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go         | 2023-04-07   |
 
 <!--END_SECTION:my_github-->
 
