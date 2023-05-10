@@ -1,6 +1,6 @@
 **持续招新，实习生正式都联系 paco.xu@daocloud.io。**
 
-### Kubernetes Contributor, Valencia CF Fan & PUBG 17Gaming Fan
+### Kubernetes Contributor, [Valencia CF](https://www.valenciacf.com/en) Fan & PUBG [17Gaming](https://liquipedia.net/pubg/17_Gaming) Fan
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
  
  🇨🇳 **The only thing that I know is that I know nothing**. 
@@ -10,8 +10,8 @@
  🌱 Learning Rust & ebpf & CoreDNS
 
 - Work in **DaoCloud Enterprise Team**: [DCE 5.0](https://www.daocloud.io/dce_5.0).
-- Kubernetes [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) & [Kubeadm](https://github.com/kubernetes/kubeadm/) reviewer
-- KubeCon Speaker & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
+- Kubernetes [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) & [Kubeadm](https://github.com/kubernetes/kubeadm/) Reviewer
+- [KubeCon Speaker](https://sched.co/1Iki0) & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
 
 <!--START_SECTION:github_repos-->
 ### The intersted repos
