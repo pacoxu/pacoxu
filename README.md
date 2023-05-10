@@ -1,7 +1,8 @@
 **持续招新，实习生正式都联系 paco.xu@daocloud.io。**
 
 ### Kubernetes Contributor, [Valencia CF](https://www.valenciacf.com/en) Fan & PUBG [17Gaming](https://liquipedia.net/pubg/17_Gaming) Fan
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
+
+![](https://komarev.com/ghpvc/?username=pacoxu)
  
  🇨🇳 **The only thing that I know is that I know nothing**. 
  
@@ -82,6 +83,4 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 <a href="https://pacoxu.wordpress.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
 </a>
-
-Backup ![](https://komarev.com/ghpvc/?username=pacoxu)
 
