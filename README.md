@@ -1,18 +1,17 @@
 **持续招新，实习生正式都联系 paco.xu@daocloud.io。**
 
-### Kubernetes Reviewer, Soccer Fan & PUBG Fan
+### Kubernetes Contributor, Valencia CF Fan & PUBG 17Gaming Fan
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pacoxu.pacoxu&left_color=green&right_color=red)
  
  🇨🇳 **The only thing that I know is that I know nothing**. 
  
- 🔭 Working on Kubernetes & Containerd & Docker/Moby
+ 🔭 Working on Kubernetes & Containerd & Docker
  
- 🌱 Learning Go & CoreDNS & Knative
+ 🌱 Learning Rust & ebpf & CoreDNS
 
 - Work in **DaoCloud Enterprise Team**: [DCE 5.0](https://www.daocloud.io/dce_5.0).
 - Kubernetes [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) & [Kubeadm](https://github.com/kubernetes/kubeadm/) reviewer
-- [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
-
+- KubeCon Speaker & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
 
 <!--START_SECTION:github_repos-->
 ### The intersted repos
