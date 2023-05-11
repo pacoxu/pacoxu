@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                                       REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [logr](https://github.com/go-logr/logr)                                                                           | 2021-01-23 | Go         | 2023-05-08   |
-|  2 | [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)                            | 2023-03-07 | JavaScript | 2023-05-09   |
-|  3 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm)             | 2023-04-20 | Go         | 2023-05-05   |
-|  4 | [sig-release](https://github.com/kubernetes/sig-release)                                                          | 2021-01-13 | Shell      | 2023-05-09   |
-|  5 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go         | 2023-04-07   |
+| ID |                           REPO                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|------------|--------------|
+|  1 | [cool-github](https://github.com/alejandrox1/cool-github) | 2021-01-04 | Go         | 2021-01-04   |
+|  2 | [worldcup](https://github.com/openfootball/worldcup)      | 2018-05-13 | md         | 2023-05-01   |
+|  3 | [hugo](https://github.com/gohugoio/hugo)                  | 2016-06-06 | Go         | 2023-05-10   |
+|  4 | [goshop](https://github.com/pzhgugu/goshop)               | 2016-12-08 | JavaScript | 2023-04-29   |
+|  5 | [modern-unix](https://github.com/ibraheemdev/modern-unix) | 2021-04-23 | md         | 2023-05-10   |
 
 <!--END_SECTION:my_github-->
 
