@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dapr](https://github.com/dapr/dapr)                                         | 2021-02-18 | Go         | 2023-05-13   |
-|  2 | [v1.10-migrator](https://github.com/docker-archive/v1.10-migrator)           | 2016-08-09 | Go         | 2023-01-28   |
-|  3 | [goshop](https://github.com/pzhgugu/goshop)                                  | 2016-12-08 | JavaScript | 2023-04-29   |
-|  4 | [tgik](https://github.com/vmware-archive/tgik)                               | 2019-11-01 | Shell      | 2023-04-21   |
-|  5 | [python-semanticversion](https://github.com/rbarrois/python-semanticversion) | 2017-03-07 | Python     | 2023-05-11   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [pgtracer](https://github.com/aiven/pgtracer)                  | 2022-11-01 | Python   | 2023-04-25   |
+|  2 | [kubescape](https://github.com/kubescape/kubescape)            | 2023-04-25 | Go       | 2023-05-14   |
+|  3 | [releaseTracker](https://github.com/pikeszfish/releaseTracker) | 2018-04-22 | Shell    | 2021-06-15   |
+|  4 | [knative-demos](https://github.com/mchmarny/knative-demos)     | 2019-10-21 | Shell    | 2023-05-12   |
+|  5 | [kubenav](https://github.com/kubenav/kubenav)                  | 2020-11-13 | Dart     | 2023-05-12   |
 
 <!--END_SECTION:my_github-->
 
