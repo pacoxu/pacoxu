@@ -67,16 +67,16 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-03-28](https://github.com/kubernetes/kubeadm/pull/2850)          | [13](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  8 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
-|  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-02-14](https://github.com/kubernetes/k8s.io/pull/4761)           | [10](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-05-17](https://github.com/kubernetes/k8s.io/pull/5290)           | [11](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [dd-agent](https://github.com/DataDog/dd-agent)                    | 2016-05-18 | Python   | 2023-05-13   |
-|  2 | [my-github-status](https://github.com/pacoxu/my-github-status)     | 2023-01-29 | md       | 2023-01-29   |
-|  3 | [kubectl-openai](https://github.com/CirillaQL/kubectl-openai)      | 2023-03-23 | Go       | 2023-03-23   |
-|  4 | [thanos](https://github.com/thanos-io/thanos)                      | 2021-04-19 | Go       | 2023-05-16   |
-|  5 | [kubernetes](https://github.com/AliyunContainerService/kubernetes) | 2017-05-22 | Go       | 2021-11-19   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator) | 2022-06-14 | Go         | 2023-04-19   |
+|  2 | [ecapture](https://github.com/gojue/ecapture)                    | 2022-08-03 | C          | 2023-05-17   |
+|  3 | [hyperkit](https://github.com/moby/hyperkit)                     | 2016-05-18 | C          | 2023-05-17   |
+|  4 | [foxtrick](https://github.com/minj/foxtrick)                     | 2016-09-23 | JavaScript | 2023-04-11   |
+|  5 | [embedshim](https://github.com/fuweid/embedshim)                 | 2022-03-29 | Go         | 2023-04-20   |
 
 <!--END_SECTION:my_github-->
 
