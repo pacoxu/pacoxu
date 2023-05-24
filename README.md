@@ -18,27 +18,26 @@
 ### The intersted repos
 | ID |                                REPO                                | STARS | UPDATEDAT  | CREATEDAT  | FORKSCOUNT |                                  DESCRIPTIONS                                  |
 |----|--------------------------------------------------------------------|-------|------------|------------|------------|--------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)             | 98549 | 2023-05-23 | 2014-06-06 |      36177 | Production-Grade Container Scheduling and Management                           |
-|  2 | [containerd](https://github.com/containerd/containerd)             | 13999 | 2023-05-23 | 2015-11-13 |       2881 | An open and reliable container runtime                                         |
-|  3 | [coredns](https://github.com/coredns/coredns)                      | 10685 | 2023-05-23 | 2016-03-18 |       1922 | CoreDNS is a DNS server that chains plugins                                    |
-|  4 | [kubeadm](https://github.com/kubernetes/kubeadm)                   |  3443 | 2023-05-21 | 2016-11-22 |        672 | Aggregator for issues filed against kubeadm                                    |
-|  5 | [enhancements](https://github.com/kubernetes/enhancements)         |  2876 | 2023-05-23 | 2016-05-02 |       1317 | Enhancements tracking repo for Kubernetes                                      |
-|  6 | [kwok](https://github.com/kubernetes-sigs/kwok)                    |  1481 | 2023-05-23 | 2022-07-28 |        114 | Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.       |
-|  7 | [merbridge](https://github.com/merbridge/merbridge)                |   612 | 2023-05-21 | 2022-01-12 |         81 | Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge. |
-|  8 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)    |   585 | 2023-05-22 | 2021-10-08 |         96 | The Encyclopedia of Kubernetes clusters                                        |
-|  9 | [hwameistor](https://github.com/hwameistor/hwameistor)             |   381 | 2023-05-16 | 2022-03-07 |         44 | Hwameistor is an HA local storage system for cloud-native stateful workloads.  |
-| 10 | [cloudtty](https://github.com/cloudtty/cloudtty)                   |   339 | 2023-05-23 | 2022-04-28 |         45 | A Friendly Kubernetes CloudShell (Web Terminal) !                              |
-| 11 | [spiderpool](https://github.com/spidernet-io/spiderpool)           |   310 | 2023-05-18 | 2022-03-07 |         48 | underlay network solution with IPAM and meta plugins                           |
-| 12 | [kubean](https://github.com/kubean-io/kubean)                      |   246 | 2023-05-19 | 2022-07-05 |         45 |  :seedling: Kubernetes lifecycle management operator based on kubespray.       |
-| 13 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)        |   205 | 2023-05-17 | 2021-07-16 |         19 | Kubernetes LTS(long term support)                                              |
-| 14 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) |    11 | 2023-04-10 | 2022-02-22 |          0 | Collect Repos Star/Fork/Watch Counts Everyday                                  |
-| 15 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     |    10 | 2022-09-26 | 2022-03-10 |          2 | Test work on the design of kubeadm operator                                    |
-| 16 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) |     2 | 2023-04-10 | 2022-02-21 |          1 | record my learning CNCF related path                                           |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)             | 98592 | 2023-05-24 | 2014-06-06 |      36194 | Production-Grade Container Scheduling and Management                           |
+|  2 | [enhancements](https://github.com/kubernetes/enhancements)         |  2881 | 2023-05-24 | 2016-05-02 |       1317 | Enhancements tracking repo for Kubernetes                                      |
+|  3 | [kwok](https://github.com/kubernetes-sigs/kwok)                    |  1502 | 2023-05-24 | 2022-07-28 |        115 | Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.       |
+|  4 | [merbridge](https://github.com/merbridge/merbridge)                |   612 | 2023-05-23 | 2022-01-12 |         82 | Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge. |
+|  5 | [hwameistor](https://github.com/hwameistor/hwameistor)             |   381 | 2023-05-16 | 2022-03-07 |         44 | Hwameistor is an HA local storage system for cloud-native stateful workloads.  |
+|  6 | [cloudtty](https://github.com/cloudtty/cloudtty)                   |   339 | 2023-05-23 | 2022-04-28 |         43 | A Friendly Kubernetes CloudShell (Web Terminal) !                              |
+|  7 | [kubean](https://github.com/kubean-io/kubean)                      |   246 | 2023-05-19 | 2022-07-05 |         45 |  :seedling: Kubernetes lifecycle management operator based on kubespray.       |
+|  8 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) |    11 | 2023-04-10 | 2022-02-22 |          0 | Collect Repos Star/Fork/Watch Counts Everyday                                  |
+|  9 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) |     2 | 2023-04-10 | 2022-02-21 |          1 | record my learning CNCF related path                                           |
 
 
 
 #### Skipped repos
-<!--END_SECTION:github_repos-->
+klts-io/kubernetes-lts
+containerd/containerd
+kubernetes/kubeadm
+coredns/coredns
+pacoxu/kubeadm-operator
+spidernet-io/spiderpool
+clusterpedia-io/clusterpedia<!--END_SECTION:github_repos-->
 See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 
 
