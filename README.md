@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                            REPO                                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [distroless](https://github.com/GoogleContainerTools/distroless)                            | 2022-05-07 | Starlark   | 2023-05-26   |
-|  2 | [docker-tc](https://github.com/lukaszlach/docker-tc)                                        | 2019-04-22 | Shell      | 2023-05-23   |
-|  3 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C          | 2023-05-26   |
-|  4 | [kubexit](https://github.com/karlkfi/kubexit)                                               | 2020-09-27 | Go         | 2023-05-20   |
-|  5 | [dotemacs](https://github.com/marun/dotemacs)                                               | 2020-01-10 | Emacs Lisp | 2023-04-10   |
+| ID |                                       REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubenav](https://github.com/kubenav/kubenav)                                     | 2020-11-13 | Dart       | 2023-05-27   |
+|  2 | [k8s-conformance](https://github.com/cncf/k8s-conformance)                        | 2021-01-16 | md         | 2023-05-14   |
+|  3 | [gpt4all](https://github.com/nomic-ai/gpt4all)                                    | 2023-03-29 | C++        | 2023-05-27   |
+|  4 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)                      | 2019-03-29 | JavaScript | 2023-05-23   |
+|  5 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue        | 2023-05-27   |
 
 <!--END_SECTION:my_github-->
 
