@@ -66,17 +66,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-03-28](https://github.com/kubernetes/kubeadm/pull/2850)          | [13](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-05-17](https://github.com/kubernetes/k8s.io/pull/5290)           | [11](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
-|  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
+|  8 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
+|  9 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-05-17](https://github.com/kubernetes/k8s.io/pull/5290)           | [11](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubenav](https://github.com/kubenav/kubenav)                                     | 2020-11-13 | Dart       | 2023-05-27   |
-|  2 | [k8s-conformance](https://github.com/cncf/k8s-conformance)                        | 2021-01-16 | md         | 2023-05-14   |
-|  3 | [gpt4all](https://github.com/nomic-ai/gpt4all)                                    | 2023-03-29 | C++        | 2023-05-27   |
-|  4 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)                      | 2019-03-29 | JavaScript | 2023-05-23   |
-|  5 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue        | 2023-05-27   |
+| ID |                                REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [libstorage](https://github.com/thecodeteam/libstorage)             | 2016-05-10 | Go         | 2023-02-16   |
+|  2 | [book-searcher](https://github.com/book-searcher-org/book-searcher) | 2022-11-30 | TypeScript | 2023-05-28   |
+|  3 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)              | 2022-03-05 | Go         | 2023-05-28   |
+|  4 | [website](https://github.com/ferryproxy/website)                    | 2022-03-03 | md         | 2022-07-12   |
+|  5 | [node_note](https://github.com/lemonhall/node_note)                 | 2016-11-22 | md         | 2018-06-12   |
 
 <!--END_SECTION:my_github-->
 
