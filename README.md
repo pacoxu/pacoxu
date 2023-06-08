@@ -70,13 +70,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile   | 2023-05-02   |
-|  2 | [dotemacs](https://github.com/marun/dotemacs)                                                 | 2020-01-10 | Emacs Lisp | 2023-04-10   |
-|  3 | [stackoverflow](https://github.com/pacoxu/stackoverflow)                                      | 2014-10-09 | md         | 2021-04-07   |
-|  4 | [toc](https://github.com/cncf/toc)                                                            | 2022-01-26 | md         | 2023-06-04   |
-|  5 | [coredns](https://github.com/coredns/coredns)                                                 | 2019-05-30 | Go         | 2023-06-06   |
+| ID |                         REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcdadm](https://github.com/kubernetes-sigs/etcdadm) | 2021-07-08 | Go       | 2023-06-06   |
+|  2 | [ebpf](https://github.com/nccgroup/ebpf)              | 2020-12-02 | Python   | 2023-06-05   |
+|  3 | [octant](https://github.com/vmware-archive/octant)    | 2019-10-11 | Go       | 2023-06-01   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)      | 2021-03-24 | Go       | 2023-06-07   |
+|  5 | [keda](https://github.com/kedacore/keda)              | 2021-09-09 | Go       | 2023-06-07   |
 
 <!--END_SECTION:my_github-->
 
