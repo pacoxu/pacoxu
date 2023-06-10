@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [putingh](https://github.com/wzshiming/putingh)                                                  | 2022-03-08 | Go       | 2022-03-10   |
-|  2 | [todos](https://github.com/izqui/todos)                                                          | 2020-12-13 | Go       | 2023-01-03   |
-|  3 | [umoci](https://github.com/opencontainers/umoci)                                                 | 2021-09-02 | Go       | 2023-06-06   |
-|  4 | [awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) | 2022-10-20 | HTML     | 2023-06-08   |
-|  5 | [keep-open-deleted](https://github.com/Ottovsky/keep-open-deleted)                               | 2022-04-02 | Go       | 2022-04-02   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [v1.10-migrator](https://github.com/docker-archive/v1.10-migrator) | 2016-08-09 | Go       | 2023-01-28   |
+|  2 | [mysql](https://github.com/tutumcloud/mysql)                       | 2016-09-20 | Shell    | 2023-04-25   |
+|  3 | [volplugin](https://github.com/contiv-experimental/volplugin)      | 2016-06-29 | Go       | 2023-03-01   |
+|  4 | [release](https://github.com/kubernetes/release)                   | 2021-02-20 | Go       | 2023-06-09   |
+|  5 | [origin](https://github.com/openshift/origin)                      | 2019-03-06 | Go       | 2023-06-09   |
 
 <!--END_SECTION:my_github-->
 
