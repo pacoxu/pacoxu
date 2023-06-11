@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [v1.10-migrator](https://github.com/docker-archive/v1.10-migrator) | 2016-08-09 | Go       | 2023-01-28   |
-|  2 | [mysql](https://github.com/tutumcloud/mysql)                       | 2016-09-20 | Shell    | 2023-04-25   |
-|  3 | [volplugin](https://github.com/contiv-experimental/volplugin)      | 2016-06-29 | Go       | 2023-03-01   |
-|  4 | [release](https://github.com/kubernetes/release)                   | 2021-02-20 | Go       | 2023-06-09   |
-|  5 | [origin](https://github.com/openshift/origin)                      | 2019-03-06 | Go       | 2023-06-09   |
+| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)             | 2022-05-20 | Python     | 2023-06-07   |
+|  2 | [exo-addon-cartopins](https://github.com/Ampliato/exo-addon-cartopins) | 2016-05-20 | JavaScript | 2017-03-30   |
+|  3 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)     | 2020-11-05 | Shell      | 2023-06-07   |
+|  4 | [coredns](https://github.com/coredns/coredns)                          | 2019-05-30 | Go         | 2023-06-10   |
+|  5 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)           | 2019-03-29 | JavaScript | 2023-06-07   |
 
 <!--END_SECTION:my_github-->
 
