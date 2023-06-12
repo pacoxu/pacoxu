@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)             | 2022-05-20 | Python     | 2023-06-07   |
-|  2 | [exo-addon-cartopins](https://github.com/Ampliato/exo-addon-cartopins) | 2016-05-20 | JavaScript | 2017-03-30   |
-|  3 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)     | 2020-11-05 | Shell      | 2023-06-07   |
-|  4 | [coredns](https://github.com/coredns/coredns)                          | 2019-05-30 | Go         | 2023-06-10   |
-|  5 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)           | 2019-03-29 | JavaScript | 2023-06-07   |
+| ID |                                  REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [GitHub520](https://github.com/521xueweihan/GitHub520)                  | 2023-03-29 | Python   | 2023-06-11   |
+|  2 | [browser-agent](https://github.com/m1guelpf/browser-agent)              | 2023-03-29 | Rust     | 2023-06-11   |
+|  3 | [oneinfra](https://github.com/oneinfra/oneinfra)                        | 2020-07-28 | Go       | 2023-05-24   |
+|  4 | [ktop](https://github.com/vladimirvivien/ktop)                          | 2023-05-10 | Go       | 2023-06-08   |
+|  5 | [cvelist-public](https://github.com/kubernetes-security/cvelist-public) | 2023-06-05 | md       | 2023-06-05   |
 
 <!--END_SECTION:my_github-->
 
