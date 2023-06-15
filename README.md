@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [runc-lts](https://github.com/klts-io/runc-lts)                 | 2021-11-25 | Shell    | 2023-03-30   |
-|  2 | [LearnCloudNative](https://github.com/carlory/LearnCloudNative) | 2023-01-29 | md       | 2023-01-29   |
-|  3 | [graal](https://github.com/oracle/graal)                        | 2019-10-11 | Java     | 2023-06-13   |
-|  4 | [HanziToPinyin](https://github.com/fanglijun/HanziToPinyin)     | 2022-10-14 | PHP      | 2022-10-14   |
-|  5 | [contrib](https://github.com/kubernetes-retired/contrib)        | 2018-09-29 | Go       | 2023-05-25   |
+| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------|------------|----------|--------------|
+|  1 | [fake-kubelet](https://github.com/wzshiming/fake-kubelet)   | 2022-05-19 | Go       | 2023-05-10   |
+|  2 | [release](https://github.com/kubernetes/release)            | 2021-02-20 | Go       | 2023-06-13   |
+|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)      | 2021-12-15 | Go       | 2023-06-14   |
+|  4 | [helmfile](https://github.com/helmfile/helmfile)            | 2022-09-28 | Go       | 2023-06-14   |
+|  5 | [ovn-kubernetes](https://github.com/ovn-org/ovn-kubernetes) | 2019-05-06 | Go       | 2023-06-14   |
 
 <!--END_SECTION:my_github-->
 
