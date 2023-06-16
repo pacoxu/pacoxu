@@ -10,9 +10,9 @@
  
  🌱 Learning Rust & ebpf & CoreDNS
 
-- Work in **DaoCloud Enterprise Team**: [DCE 5.0](https://www.daocloud.io/dce_5.0).
+- Work in **DaoCloud Enterprise Team**: [DCE](https://www.daocloud.io/dce_5.0).
 - Kubernetes [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer & [Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
-- [KubeCon Speaker](https://sched.co/1Iki0) & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
+- [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
 
 <!--START_SECTION:github_repos-->
 ### The intersted repos
