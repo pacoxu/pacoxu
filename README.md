@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------|------------|----------|--------------|
-|  1 | [fake-kubelet](https://github.com/wzshiming/fake-kubelet)   | 2022-05-19 | Go       | 2023-05-10   |
-|  2 | [release](https://github.com/kubernetes/release)            | 2021-02-20 | Go       | 2023-06-13   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)      | 2021-12-15 | Go       | 2023-06-14   |
-|  4 | [helmfile](https://github.com/helmfile/helmfile)            | 2022-09-28 | Go       | 2023-06-14   |
-|  5 | [ovn-kubernetes](https://github.com/ovn-org/ovn-kubernetes) | 2019-05-06 | Go       | 2023-06-14   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [terminal](https://github.com/microsoft/terminal)                    | 2019-05-07 | C++      | 2023-06-16   |
+|  2 | [metrics-server](https://github.com/kubernetes-sigs/metrics-server)  | 2019-03-19 | Go       | 2023-06-15   |
+|  3 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook) | 2021-04-14 | Go       | 2023-05-01   |
+|  4 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)        | 2019-03-19 | Mustache | 2023-06-11   |
+|  5 | [xiaogpt](https://github.com/yihong0618/xiaogpt)                     | 2023-02-17 | Python   | 2023-06-15   |
 
 <!--END_SECTION:my_github-->
 
