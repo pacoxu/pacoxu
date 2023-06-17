@@ -55,8 +55,8 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-06-08](https://github.com/kubernetes/kubernetes/pull/118569)     | [397](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
-|  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-01](https://github.com/kubernetes/website/pull/41402)         | [39](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-06-16](https://github.com/kubernetes/kubernetes/pull/118707)     | [400](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-16](https://github.com/kubernetes/website/pull/41655)         | [40](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-05-31](https://github.com/kubernetes/test-infra/pull/29642)      | [23](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [terminal](https://github.com/microsoft/terminal)                    | 2019-05-07 | C++      | 2023-06-16   |
-|  2 | [metrics-server](https://github.com/kubernetes-sigs/metrics-server)  | 2019-03-19 | Go       | 2023-06-15   |
-|  3 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook) | 2021-04-14 | Go       | 2023-05-01   |
-|  4 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)        | 2019-03-19 | Mustache | 2023-06-11   |
-|  5 | [xiaogpt](https://github.com/yihong0618/xiaogpt)                     | 2023-02-17 | Python   | 2023-06-15   |
+| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [etcdadm](https://github.com/kubernetes-sigs/etcdadm)                                                                             | 2021-07-08 | Go         | 2023-06-16   |
+|  2 | [kubeadm](https://github.com/kubernetes/kubeadm)                                                                                  | 2017-06-07 | Go         | 2023-06-16   |
+|  3 | [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions)                               | 2019-01-20 | Shell      | 2023-06-02   |
+|  4 | [python-semanticversion](https://github.com/rbarrois/python-semanticversion)                                                      | 2017-03-07 | Python     | 2023-06-16   |
+|  5 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
 
 <!--END_SECTION:my_github-->
 
