@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [etcdadm](https://github.com/kubernetes-sigs/etcdadm)                                                                             | 2021-07-08 | Go         | 2023-06-16   |
-|  2 | [kubeadm](https://github.com/kubernetes/kubeadm)                                                                                  | 2017-06-07 | Go         | 2023-06-16   |
-|  3 | [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions)                               | 2019-01-20 | Shell      | 2023-06-02   |
-|  4 | [python-semanticversion](https://github.com/rbarrois/python-semanticversion)                                                      | 2017-03-07 | Python     | 2023-06-16   |
-|  5 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kudo](https://github.com/kudobuilder/kudo)                       | 2019-10-22 | Go         | 2023-06-16   |
+|  2 | [knative-inspect](https://github.com/nimakaviani/knative-inspect) | 2019-11-13 | Go         | 2023-06-14   |
+|  3 | [trust-dns](https://github.com/bluejekyll/trust-dns)              | 2023-04-04 | Rust       | 2023-06-17   |
+|  4 | [dotemacs](https://github.com/marun/dotemacs)                     | 2020-01-10 | Emacs Lisp | 2023-04-10   |
+|  5 | [bcc](https://github.com/iovisor/bcc)                             | 2021-09-06 | C          | 2023-06-17   |
 
 <!--END_SECTION:my_github-->
 
