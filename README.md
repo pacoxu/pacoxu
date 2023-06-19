@@ -62,17 +62,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-05](https://github.com/kubernetes/k8s.io/pull/5361)           | [12](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-18](https://github.com/kubernetes/k8s.io/pull/5440)           | [14](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
 | ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kudo](https://github.com/kudobuilder/kudo)                       | 2019-10-22 | Go         | 2023-06-16   |
-|  2 | [knative-inspect](https://github.com/nimakaviani/knative-inspect) | 2019-11-13 | Go         | 2023-06-14   |
-|  3 | [trust-dns](https://github.com/bluejekyll/trust-dns)              | 2023-04-04 | Rust       | 2023-06-17   |
-|  4 | [dotemacs](https://github.com/marun/dotemacs)                     | 2020-01-10 | Emacs Lisp | 2023-04-10   |
-|  5 | [bcc](https://github.com/iovisor/bcc)                             | 2021-09-06 | C          | 2023-06-17   |
+|  1 | [hyperkit](https://github.com/moby/hyperkit)                      | 2016-05-18 | C          | 2023-06-17   |
+|  2 | [clomonitor](https://github.com/cncf/clomonitor)                  | 2022-02-15 | TypeScript | 2023-05-22   |
+|  3 | [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) | 2014-09-15 | JavaScript | 2023-06-13   |
+|  4 | [oniguruma](https://github.com/kkos/oniguruma)                    | 2019-03-19 | C          | 2023-06-17   |
+|  5 | [release](https://github.com/kubernetes/release)                  | 2021-02-20 | Go         | 2023-06-13   |
 
 <!--END_SECTION:my_github-->
 
