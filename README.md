@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [hyperkit](https://github.com/moby/hyperkit)                      | 2016-05-18 | C          | 2023-06-17   |
-|  2 | [clomonitor](https://github.com/cncf/clomonitor)                  | 2022-02-15 | TypeScript | 2023-05-22   |
-|  3 | [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) | 2014-09-15 | JavaScript | 2023-06-13   |
-|  4 | [oniguruma](https://github.com/kkos/oniguruma)                    | 2019-03-19 | C          | 2023-06-17   |
-|  5 | [release](https://github.com/kubernetes/release)                  | 2021-02-20 | Go         | 2023-06-13   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [polaris-scheduler](https://github.com/polaris-slo-cloud/polaris-scheduler) | 2022-10-20 | Go       | 2023-04-28   |
+|  2 | [virtlet](https://github.com/Mirantis/virtlet)                              | 2020-09-30 | Go       | 2023-06-15   |
+|  3 | [calico](https://github.com/projectcalico/calico)                           | 2017-10-20 | Go       | 2023-06-19   |
+|  4 | [k8s-netchecker-agent](https://github.com/Mirantis/k8s-netchecker-agent)    | 2017-06-07 | Go       | 2023-05-18   |
+|  5 | [viper](https://github.com/spf13/viper)                                     | 2020-06-16 | Go       | 2023-06-20   |
 
 <!--END_SECTION:my_github-->
 
