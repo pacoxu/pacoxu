@@ -56,23 +56,23 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-06-20](https://github.com/kubernetes/kubernetes/pull/118754)     | [401](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
-|  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-16](https://github.com/kubernetes/website/pull/41655)         | [40](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-21](https://github.com/kubernetes/website/pull/41711)         | [41](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-05-31](https://github.com/kubernetes/test-infra/pull/29642)      | [23](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-18](https://github.com/kubernetes/k8s.io/pull/5440)           | [14](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-21](https://github.com/kubernetes/k8s.io/pull/5455)           | [15](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio-dce](https://github.com/yangchuansheng/istio-dce)          | 2019-07-12 | Shell    | 2019-07-26   |
-|  2 | [kuryr-kubernetes](https://github.com/openstack/kuryr-kubernetes) | 2019-02-28 | Python   | 2023-05-18   |
-|  3 | [mock-kubelet](https://github.com/cyclinder/mock-kubelet)         | 2022-03-03 | Go       | 2022-03-03   |
-|  4 | [hwameistor](https://github.com/hwameistor/hwameistor)            | 2022-08-22 | Go       | 2023-06-20   |
-|  5 | [LearnCloudNative](https://github.com/carlory/LearnCloudNative)   | 2023-01-29 | md       | 2023-01-29   |
+| ID |                                                        REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ)                                                  | 2014-09-15 | JavaScript | 2023-06-19   |
+|  2 | [Docker-and-Kubernetes-Mirror-Synchronizer](https://github.com/KofClubs/Docker-and-Kubernetes-Mirror-Synchronizer) | 2021-07-09 | Shell      | 2021-07-09   |
+|  3 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm)              | 2023-04-20 | Go         | 2023-06-16   |
+|  4 | [kubectl-trace](https://github.com/iovisor/kubectl-trace)                                                          | 2021-01-19 | Go         | 2023-06-20   |
+|  5 | [rikka](https://github.com/7sDream/rikka)                                                                          | 2016-09-14 | Go         | 2023-05-29   |
 
 <!--END_SECTION:my_github-->
 
