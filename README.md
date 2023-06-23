@@ -61,18 +61,18 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
-|  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-21](https://github.com/kubernetes/k8s.io/pull/5455)           | [15](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  7 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-21](https://github.com/kubernetes/k8s.io/pull/5455)           | [15](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                        REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ)                                                  | 2014-09-15 | JavaScript | 2023-06-19   |
-|  2 | [Docker-and-Kubernetes-Mirror-Synchronizer](https://github.com/KofClubs/Docker-and-Kubernetes-Mirror-Synchronizer) | 2021-07-09 | Shell      | 2021-07-09   |
-|  3 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm)              | 2023-04-20 | Go         | 2023-06-16   |
-|  4 | [kubectl-trace](https://github.com/iovisor/kubectl-trace)                                                          | 2021-01-19 | Go         | 2023-06-20   |
-|  5 | [rikka](https://github.com/7sDream/rikka)                                                                          | 2016-09-14 | Go         | 2023-05-29   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [nginmesh](https://github.com/nginxinc/nginmesh)                                         | 2018-10-25 | Go         | 2023-03-17   |
+|  2 | [learning-knative](https://github.com/skyao/learning-knative)                            | 2019-09-06 | HTML       | 2023-01-28   |
+|  3 | [awesome-cloud-run](https://github.com/steren/awesome-cloud-run)                         | 2019-11-28 | Dockerfile | 2023-06-07   |
+|  4 | [weekly](https://github.com/ruanyf/weekly)                                               | 2022-04-28 | md         | 2023-06-22   |
+|  5 | [octant-plugin-for-knative](https://github.com/vmware-archive/octant-plugin-for-knative) | 2020-09-16 | TypeScript | 2023-03-21   |
 
 <!--END_SECTION:my_github-->
 
