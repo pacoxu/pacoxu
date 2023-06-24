@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [nginmesh](https://github.com/nginxinc/nginmesh)                                         | 2018-10-25 | Go         | 2023-03-17   |
-|  2 | [learning-knative](https://github.com/skyao/learning-knative)                            | 2019-09-06 | HTML       | 2023-01-28   |
-|  3 | [awesome-cloud-run](https://github.com/steren/awesome-cloud-run)                         | 2019-11-28 | Dockerfile | 2023-06-07   |
-|  4 | [weekly](https://github.com/ruanyf/weekly)                                               | 2022-04-28 | md         | 2023-06-22   |
-|  5 | [octant-plugin-for-knative](https://github.com/vmware-archive/octant-plugin-for-knative) | 2020-09-16 | TypeScript | 2023-03-21   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [toc](https://github.com/cncf/toc)                                                    | 2022-01-26 | md         | 2023-06-23   |
+|  2 | [xupaco](https://github.com/pacoxu/xupaco)                                            | 2012-07-24 | md         | 2023-04-25   |
+|  3 | [parse-prometheus-text-format](https://github.com/yunyu/parse-prometheus-text-format) | 2019-01-09 | JavaScript | 2023-05-21   |
+|  4 | [serving](https://github.com/knative/serving)                                         | 2019-10-28 | Go         | 2023-06-22   |
+|  5 | [world_cup_json](https://github.com/estiens/world_cup_json)                           | 2018-05-13 | Ruby       | 2023-05-27   |
 
 <!--END_SECTION:my_github-->
 
