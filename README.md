@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [worldcup](https://github.com/openfootball/worldcup)                               | 2018-05-13 | md         | 2023-06-14   |
-|  2 | [elasticsearch](https://github.com/elastic/elasticsearch)                          | 2012-07-20 | Java       | 2023-06-25   |
-|  3 | [ChineseNgoKnowledgeGraph](https://github.com/liyi193328/ChineseNgoKnowledgeGraph) | 2017-11-03 | Python     | 2023-06-07   |
-|  4 | [px-dev](https://github.com/portworx/px-dev)                                       | 2017-04-10 | Dockerfile | 2023-06-18   |
-|  5 | [kwok](https://github.com/kubernetes-sigs/kwok)                                    | 2023-02-13 | Go         | 2023-06-25   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [summer](https://github.com/Charlie17Li/summer)                             | 2022-10-20 | Shell    | 2022-10-20   |
+|  2 | [fake-k8s](https://github.com/wzshiming/fake-k8s)                           | 2022-03-14 | Go       | 2023-01-06   |
+|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                            | 2022-10-27 | Go       | 2023-06-16   |
+|  4 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery) | 2021-04-07 | Go       | 2022-01-10   |
+|  5 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial)          | 2019-10-07 | C#       | 2023-06-23   |
 
 <!--END_SECTION:my_github-->
 
