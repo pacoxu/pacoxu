@@ -61,18 +61,18 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
-|  7 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-21](https://github.com/kubernetes/k8s.io/pull/5455)           | [15](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
-|  8 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-21](https://github.com/kubernetes/k8s.io/pull/5455)           | [15](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [summer](https://github.com/Charlie17Li/summer)                             | 2022-10-20 | Shell    | 2022-10-20   |
-|  2 | [fake-k8s](https://github.com/wzshiming/fake-k8s)                           | 2022-03-14 | Go       | 2023-01-06   |
-|  3 | [cloudtty](https://github.com/cloudtty/cloudtty)                            | 2022-10-27 | Go       | 2023-06-16   |
-|  4 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery) | 2021-04-07 | Go       | 2022-01-10   |
-|  5 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial)          | 2019-10-07 | C#       | 2023-06-23   |
+| ID |                                     REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [logr](https://github.com/go-logr/logr)                                       | 2021-01-23 | Go       | 2023-06-26   |
+|  2 | [git-log-weekly-report](https://github.com/yeatse/git-log-weekly-report)      | 2023-06-26 | Shell    | 2023-06-26   |
+|  3 | [Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)             | 2019-03-07 | md       | 2023-04-29   |
+|  4 | [distribution](https://github.com/distribution/distribution)                  | 2021-12-24 | Go       | 2023-06-27   |
+|  5 | [spring-social-google](https://github.com/spring-social/spring-social-google) | 2012-07-20 | Java     | 2023-03-16   |
 
 <!--END_SECTION:my_github-->
 
