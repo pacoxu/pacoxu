@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [logr](https://github.com/go-logr/logr)                                       | 2021-01-23 | Go       | 2023-06-26   |
-|  2 | [git-log-weekly-report](https://github.com/yeatse/git-log-weekly-report)      | 2023-06-26 | Shell    | 2023-06-26   |
-|  3 | [Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)             | 2019-03-07 | md       | 2023-04-29   |
-|  4 | [distribution](https://github.com/distribution/distribution)                  | 2021-12-24 | Go       | 2023-06-27   |
-|  5 | [spring-social-google](https://github.com/spring-social/spring-social-google) | 2012-07-20 | Java     | 2023-03-16   |
+| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes](https://github.com/openai/kubernetes)       | 2023-03-24 | Go       | 2023-06-24   |
+|  2 | [learninggo](https://github.com/miekg/learninggo)        | 2019-04-25 | Go       | 2023-06-22   |
+|  3 | [dubbox](https://github.com/dangdangdotcom/dubbox)       | 2016-10-31 | Java     | 2023-06-24   |
+|  4 | [elasticsearch](https://github.com/pacoxu/elasticsearch) | 2014-04-18 | Java     | 2021-04-07   |
+|  5 | [pluto](https://github.com/FairwindsOps/pluto)           | 2023-03-13 | Go       | 2023-06-28   |
 
 <!--END_SECTION:my_github-->
 
