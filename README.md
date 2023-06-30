@@ -65,13 +65,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/openai/kubernetes)       | 2023-03-24 | Go       | 2023-06-24   |
-|  2 | [learninggo](https://github.com/miekg/learninggo)        | 2019-04-25 | Go       | 2023-06-22   |
-|  3 | [dubbox](https://github.com/dangdangdotcom/dubbox)       | 2016-10-31 | Java     | 2023-06-24   |
-|  4 | [elasticsearch](https://github.com/pacoxu/elasticsearch) | 2014-04-18 | Java     | 2021-04-07   |
-|  5 | [pluto](https://github.com/FairwindsOps/pluto)           | 2023-03-13 | Go       | 2023-06-28   |
+| ID |                         REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------|------------|----------|--------------|
+|  1 | [volcano](https://github.com/volcano-sh/volcano)     | 2022-09-27 | Go       | 2023-06-29   |
+|  2 | [mysql](https://github.com/tutumcloud/mysql)         | 2016-09-20 | Shell    | 2023-04-25   |
+|  3 | [modgv](https://github.com/lucasepe/modgv)           | 2021-05-21 | Go       | 2023-06-16   |
+|  4 | [kourier](https://github.com/3scale-archive/kourier) | 2019-11-13 | Go       | 2023-04-10   |
+|  5 | [rio](https://github.com/rancher/rio)                | 2019-07-02 | Go       | 2023-06-29   |
 
 <!--END_SECTION:my_github-->
 
