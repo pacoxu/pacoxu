@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [docker-volumes](https://github.com/cpuguy83/docker-volumes)                  | 2016-06-15 | Go         | 2023-05-01   |
-|  2 | [ChatGPT-Reviewer](https://github.com/feiskyer/ChatGPT-Reviewer)              | 2023-02-14 | Python     | 2023-06-08   |
-|  3 | [presentations](https://github.com/Iceber/presentations)                      | 2023-06-20 | md         | 2023-06-20   |
-|  4 | [spring-social-google](https://github.com/spring-social/spring-social-google) | 2012-07-20 | Java       | 2023-03-16   |
-|  5 | [example-voting-app](https://github.com/DaoCloud/example-voting-app)          | 2016-09-06 | JavaScript | 2022-03-19   |
+| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery) | 2021-04-07 | Go         | 2022-01-10   |
+|  2 | [nacos](https://github.com/alibaba/nacos)                                   | 2018-12-28 | Java       | 2023-07-01   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)                        | 2021-10-12 | HTML       | 2023-06-29   |
+|  4 | [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)                | 2017-11-27 | Dockerfile | 2023-06-29   |
+|  5 | [cobra](https://github.com/spf13/cobra)                                     | 2020-06-04 | Go         | 2023-07-01   |
 
 <!--END_SECTION:my_github-->
 
