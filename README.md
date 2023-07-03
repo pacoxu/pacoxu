@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery) | 2021-04-07 | Go         | 2022-01-10   |
-|  2 | [nacos](https://github.com/alibaba/nacos)                                   | 2018-12-28 | Java       | 2023-07-01   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)                        | 2021-10-12 | HTML       | 2023-06-29   |
-|  4 | [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)                | 2017-11-27 | Dockerfile | 2023-06-29   |
-|  5 | [cobra](https://github.com/spf13/cobra)                                     | 2020-06-04 | Go         | 2023-07-01   |
+| ID |                                              REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [triage-party](https://github.com/google/triage-party)                                          | 2021-04-14 | Go         | 2023-06-17   |
+|  2 | [cluster-api](https://github.com/kubernetes-sigs/cluster-api)                                   | 2020-08-06 | Go         | 2023-07-02   |
+|  3 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng)                      | 2018-01-16 | Java       | 2023-04-15   |
+|  4 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) | 2020-12-09 | Go         | 2023-07-01   |
+|  5 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)                                    | 2019-03-29 | JavaScript | 2023-06-07   |
 
 <!--END_SECTION:my_github-->
 
