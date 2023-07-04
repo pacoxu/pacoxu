@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                              REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [triage-party](https://github.com/google/triage-party)                                          | 2021-04-14 | Go         | 2023-06-17   |
-|  2 | [cluster-api](https://github.com/kubernetes-sigs/cluster-api)                                   | 2020-08-06 | Go         | 2023-07-02   |
-|  3 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng)                      | 2018-01-16 | Java       | 2023-04-15   |
-|  4 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) | 2020-12-09 | Go         | 2023-07-01   |
-|  5 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)                                    | 2019-03-29 | JavaScript | 2023-06-07   |
+| ID |                                       REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [serverless-landingpage](https://github.com/phodal/serverless-landingpage)        | 2019-10-21 | JavaScript | 2022-07-26   |
+|  2 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue        | 2023-07-03   |
+|  3 | [docker-slapd](https://github.com/nickstenning/docker-slapd)                      | 2017-02-16 | Shell      | 2022-11-08   |
+|  4 | [kubernetes](https://github.com/openai/kubernetes)                                | 2023-03-24 | Go         | 2023-06-24   |
+|  5 | [sig-release](https://github.com/kubernetes/sig-release)                          | 2021-01-13 | Shell      | 2023-06-29   |
 
 <!--END_SECTION:my_github-->
 
