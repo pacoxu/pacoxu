@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                              REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)                                     | 2022-01-20 | Shell    | 2023-06-15   |
-|  2 | [consul](https://github.com/hashicorp/consul)                                                   | 2019-10-19 | Go       | 2023-07-09   |
-|  3 | [insights-bot](https://github.com/nekomeowww/insights-bot)                                      | 2023-06-05 | Go       | 2023-07-07   |
-|  4 | [world_cup_learning](https://github.com/fisadev/world_cup_learning)                             | 2018-05-11 | Python   | 2023-02-09   |
-|  5 | [nexentastor-docker-volume-plugin](https://github.com/Nexenta/nexentastor-docker-volume-plugin) | 2017-03-28 | Go       | 2020-08-14   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [berrypost](https://github.com/realityone/berrypost)                                  | 2021-12-21 | Go         | 2023-07-07   |
+|  2 | [gitblog](https://github.com/yihong0618/gitblog)                                      | 2023-04-27 | Python     | 2023-07-08   |
+|  3 | [parse-prometheus-text-format](https://github.com/yunyu/parse-prometheus-text-format) | 2019-01-09 | JavaScript | 2023-05-21   |
+|  4 | [fedstate](https://github.com/fedstate/fedstate)                                      | 2023-06-05 | Go         | 2023-06-08   |
+|  5 | [meta-balena](https://github.com/balena-os/meta-balena)                               | 2020-09-14 | BitBake    | 2023-07-03   |
 
 <!--END_SECTION:my_github-->
 
