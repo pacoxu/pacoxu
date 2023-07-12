@@ -55,7 +55,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-07-06](https://github.com/kubernetes/kubernetes/pull/119123)     | [406](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-07-11](https://github.com/kubernetes/kubernetes/pull/119218)     | [407](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-25](https://github.com/kubernetes/website/pull/41754)         | [43](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-06-30](https://github.com/kubernetes/test-infra/pull/29981)      | [24](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [worldcup](https://github.com/fatiherikli/worldcup)                      | 2018-05-13 | Python   | 2023-05-15   |
-|  2 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image) | 2016-11-16 | Python   | 2016-11-16   |
-|  3 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)             | 2019-03-19 | Makefile | 2023-07-10   |
-|  4 | [docker-glusterfs](https://github.com/paulczar/docker-glusterfs)         | 2016-09-19 | Ruby     | 2019-07-15   |
-|  5 | [compose](https://github.com/docker/compose)                             | 2021-02-20 | Go       | 2023-07-10   |
+| ID |                                REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)     | 2023-04-28 | Go         | 2023-07-11   |
+|  2 | [openshift-windows](https://github.com/openshift/openshift-windows) | 2018-12-26 | PowerShell | 2022-01-04   |
+|  3 | [ScaleIO](https://github.com/wlan0/ScaleIO)                         | 2016-07-26 | Shell      | 2017-10-27   |
+|  4 | [contrib](https://github.com/kubernetes-retired/contrib)            | 2018-09-29 | Go         | 2023-07-02   |
+|  5 | [vagrant](https://github.com/hashicorp/vagrant)                     | 2019-10-19 | Ruby       | 2023-07-11   |
 
 <!--END_SECTION:my_github-->
 
