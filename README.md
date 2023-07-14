@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-28 | CSS        | 2023-07-12   |
-|  2 | [kdoctor](https://github.com/kdoctor-io/kdoctor)                                   | 2023-06-15 | Go         | 2023-07-12   |
-|  3 | [meta-balena](https://github.com/balena-os/meta-balena)                            | 2020-09-14 | BitBake    | 2023-07-12   |
-|  4 | [dapr](https://github.com/dapr/dapr)                                               | 2021-02-18 | Go         | 2023-07-13   |
-|  5 | [serverless-landingpage](https://github.com/phodal/serverless-landingpage)         | 2019-10-21 | JavaScript | 2022-07-26   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [todos](https://github.com/izqui/todos)                            | 2020-12-13 | Go       | 2023-01-03   |
+|  2 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli) | 2018-01-15 | Python   | 2023-07-07   |
+|  3 | [life](https://github.com/gawen/life)                              | 2020-04-08 | md       | 2022-02-01   |
+|  4 | [atlas](https://github.com/alibaba/atlas)                          | 2017-03-18 | Java     | 2023-07-07   |
+|  5 | [mysql](https://github.com/tutumcloud/mysql)                       | 2016-09-20 | Shell    | 2023-04-25   |
 
 <!--END_SECTION:my_github-->
 
