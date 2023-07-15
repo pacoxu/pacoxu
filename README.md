@@ -55,7 +55,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-07-11](https://github.com/kubernetes/kubernetes/pull/119218)     | [407](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-07-14](https://github.com/kubernetes/kubernetes/pull/119312)     | [408](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-25](https://github.com/kubernetes/website/pull/41754)         | [43](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-06-30](https://github.com/kubernetes/test-infra/pull/29981)      | [24](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [todos](https://github.com/izqui/todos)                            | 2020-12-13 | Go       | 2023-01-03   |
-|  2 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli) | 2018-01-15 | Python   | 2023-07-07   |
-|  3 | [life](https://github.com/gawen/life)                              | 2020-04-08 | md       | 2022-02-01   |
-|  4 | [atlas](https://github.com/alibaba/atlas)                          | 2017-03-18 | Java     | 2023-07-07   |
-|  5 | [mysql](https://github.com/tutumcloud/mysql)                       | 2016-09-20 | Shell    | 2023-04-25   |
+| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubedoom](https://github.com/storax/kubedoom)                                                                                    | 2020-10-13 | C++        | 2023-07-14   |
+|  2 | [cri-resource-manager](https://github.com/intel/cri-resource-manager)                                                             | 2023-05-22 | Go         | 2023-07-14   |
+|  3 | [debezium](https://github.com/debezium/debezium)                                                                                  | 2022-04-27 | Java       | 2023-07-14   |
+|  4 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
+|  5 | [ovn-kubernetes](https://github.com/ovn-org/ovn-kubernetes)                                                                       | 2019-05-06 | Go         | 2023-07-06   |
 
 <!--END_SECTION:my_github-->
 
