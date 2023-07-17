@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [test-infra](https://github.com/kubernetes/test-infra)                      | 2020-11-27 | Go         | 2023-07-14   |
-|  2 | [kyverno](https://github.com/kyverno/kyverno)                               | 2021-05-31 | Go         | 2023-07-15   |
-|  3 | [openai-translator](https://github.com/openai-translator/openai-translator) | 2023-03-06 | TypeScript | 2023-07-15   |
-|  4 | [kubecon-slides](https://github.com/sbueringer/kubecon-slides)              | 2023-02-17 | PHP        | 2023-05-26   |
-|  5 | [powerfulseal](https://github.com/powerfulseal/powerfulseal)                | 2020-09-14 | Python     | 2023-07-13   |
+| ID |                                            REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kvrocks](https://github.com/apache/kvrocks)                                               | 2022-05-24 | C++      | 2023-07-16   |
+|  2 | [vsphere-storage-for-docker](https://github.com/vmware-archive/vsphere-storage-for-docker) | 2016-08-17 | Python   | 2023-04-28   |
+|  3 | [docker-glusterfs](https://github.com/paulczar/docker-glusterfs)                           | 2016-09-19 | Ruby     | 2019-07-15   |
+|  4 | [cilium](https://github.com/cilium/cilium)                                                 | 2019-05-13 | Go       | 2023-07-16   |
+|  5 | [libstorage](https://github.com/thecodeteam/libstorage)                                    | 2016-05-10 | Go       | 2023-06-28   |
 
 <!--END_SECTION:my_github-->
 
