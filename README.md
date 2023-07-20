@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [quic-go](https://github.com/quic-go/quic-go)                               | 2021-11-29 | Go         | 2023-07-18   |
-|  2 | [downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) | 2023-06-26 | Go         | 2023-07-12   |
-|  3 | [external-dns](https://github.com/kubernetes-sigs/external-dns)             | 2019-01-09 | Go         | 2023-07-18   |
-|  4 | [life](https://github.com/gawen/life)                                       | 2020-04-08 | md         | 2022-02-01   |
-|  5 | [resume.github.com](https://github.com/resume/resume.github.com)            | 2023-01-03 | JavaScript | 2023-07-19   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [terminal](https://github.com/microsoft/terminal)                  | 2019-05-07 | C++      | 2023-07-19   |
+|  2 | [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)             | 2022-02-21 | Go       | 2023-07-19   |
+|  3 | [keda](https://github.com/kedacore/keda)                           | 2021-09-09 | Go       | 2023-07-19   |
+|  4 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-23 | Go       | 2023-04-10   |
+|  5 | [kopilot](https://github.com/knight42/kopilot)                     | 2023-03-23 | Go       | 2023-07-13   |
 
 <!--END_SECTION:my_github-->
 
