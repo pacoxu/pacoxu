@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                      | 2019-08-12 | Go       | 2023-07-22   |
-|  2 | [TranslateProject](https://github.com/LCTT/TranslateProject) | 2019-02-21 | Shell    | 2023-07-20   |
-|  3 | [jepsen](https://github.com/jepsen-io/jepsen)                | 2017-12-12 | Clojure  | 2023-07-22   |
-|  4 | [test-infra](https://github.com/kubernetes/test-infra)       | 2020-11-27 | Go       | 2023-07-20   |
-|  5 | [delve](https://github.com/go-delve/delve)                   | 2020-06-01 | Go       | 2023-07-22   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [spiderpool](https://github.com/spidernet-io/spiderpool)                              | 2023-04-11 | Go         | 2023-07-20   |
+|  2 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal)                           | 2018-05-13 | JavaScript | 2023-07-11   |
+|  3 | [Kyodai](https://github.com/andever/Kyodai)                                           | 2014-10-15 | Java       | 2018-03-03   |
+|  4 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector)          | 2019-05-03 | Go         | 2023-07-24   |
+|  5 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 2017-06-08 | md         | 2023-07-24   |
 
 <!--END_SECTION:my_github-->
 
