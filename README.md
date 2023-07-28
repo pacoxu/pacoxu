@@ -61,18 +61,18 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
-|  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-21](https://github.com/kubernetes/k8s.io/pull/5455)           | [15](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  7 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-06-21](https://github.com/kubernetes/k8s.io/pull/5455)           | [15](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-06-13](https://github.com/kubernetes/kubeadm/pull/2893)          | [15](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [ecapture](https://github.com/gojue/ecapture)                                        | 2022-08-03 | C        | 2023-07-26   |
-|  2 | [etcdadm](https://github.com/kubernetes-sigs/etcdadm)                                | 2021-07-08 | Go       | 2023-07-22   |
-|  3 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) | 2021-10-18 | Smarty   | 2023-07-25   |
-|  4 | [kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip)                 | 2019-02-01 | Go       | 2023-06-13   |
-|  5 | [scaleio-docker](https://github.com/djannot/scaleio-docker)                          | 2016-04-24 | md       | 2020-10-29   |
+| ID |                                                        REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd)                            | 2021-03-17 | Go       | 2023-07-27   |
+|  2 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)                                                  | 2021-08-03 | C        | 2023-07-27   |
+|  3 | [oam-go-sdk](https://github.com/oam-dev/oam-go-sdk)                                                                | 2020-05-08 | Go       | 2023-02-01   |
+|  4 | [python-requests-aws](https://github.com/tax/python-requests-aws)                                                  | 2016-09-26 | Python   | 2023-02-17   |
+|  5 | [Docker-and-Kubernetes-Mirror-Synchronizer](https://github.com/KofClubs/Docker-and-Kubernetes-Mirror-Synchronizer) | 2021-07-09 | Shell    | 2021-07-09   |
 
 <!--END_SECTION:my_github-->
 
