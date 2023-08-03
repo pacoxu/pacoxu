@@ -80,3 +80,6 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
 </a>
 
+
+<!--  If a trivial fix such as a broken link, typo, or grammar mistake, review the entire document for other potential mistakes. Do not open multiple PRs for small fixes in the same document.
+https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#trivial-edits -->
