@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [foxtrick](https://github.com/minj/foxtrick)           | 2016-09-23 | JavaScript | 2023-07-25   |
-|  2 | [kubesphere](https://github.com/kubesphere/kubesphere) | 2021-10-08 | Go         | 2023-08-01   |
-|  3 | [aikdocs](https://github.com/aikdocs/aikdocs)          | 2023-07-19 | Python     | 2023-07-26   |
-|  4 | [cni](https://github.com/containernetworking/cni)      | 2017-12-19 | Go         | 2023-08-01   |
-|  5 | [nacos](https://github.com/alibaba/nacos)              | 2018-12-28 | Java       | 2023-08-01   |
+| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [996.ICU](https://github.com/996icu/996.ICU)                             | 2019-03-28 | md       | 2023-08-02   |
+|  2 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage) | 2023-01-27 | Mustache | 2023-06-07   |
+|  3 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs)               | 2016-04-02 | Python   | 2023-08-02   |
+|  4 | [btree](https://github.com/teepark/btree)                                | 2017-11-14 | C        | 2019-07-15   |
+|  5 | [protobuf](https://github.com/protocolbuffers/protobuf)                  | 2021-11-03 | C++      | 2023-08-02   |
 
 <!--END_SECTION:my_github-->
 
