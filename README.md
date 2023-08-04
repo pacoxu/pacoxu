@@ -57,7 +57,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-07-30](https://github.com/kubernetes/kubernetes/pull/119674)     | [413](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-25](https://github.com/kubernetes/website/pull/41754)         | [43](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-07-29](https://github.com/kubernetes/test-infra/pull/30239)      | [29](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-08-03](https://github.com/kubernetes/test-infra/pull/30284)      | [30](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-07-31](https://github.com/kubernetes/kubeadm/pull/2909)          | [16](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [996.ICU](https://github.com/996icu/996.ICU)                             | 2019-03-28 | md       | 2023-08-02   |
-|  2 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage) | 2023-01-27 | Mustache | 2023-06-07   |
-|  3 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs)               | 2016-04-02 | Python   | 2023-08-02   |
-|  4 | [btree](https://github.com/teepark/btree)                                | 2017-11-14 | C        | 2019-07-15   |
-|  5 | [protobuf](https://github.com/protocolbuffers/protobuf)                  | 2021-11-03 | C++      | 2023-08-02   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [discovery](https://github.com/bilibili/discovery)                   | 2018-05-31 | Go       | 2023-08-02   |
+|  2 | [official-images](https://github.com/docker-library/official-images) | 2020-09-04 | Shell    | 2023-08-03   |
+|  3 | [resume-vue](https://github.com/nusr/resume-vue)                     | 2023-01-03 | Vue      | 2023-06-17   |
+|  4 | [SubscribeIt](https://github.com/kerthcet/SubscribeIt)               | 2023-07-25 | md       | 2023-07-25   |
+|  5 | [triage-party](https://github.com/google/triage-party)               | 2021-04-14 | Go       | 2023-06-17   |
 
 <!--END_SECTION:my_github-->
 
