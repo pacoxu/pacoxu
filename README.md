@@ -55,7 +55,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-07-30](https://github.com/kubernetes/kubernetes/pull/119674)     | [413](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-08-04](https://github.com/kubernetes/kubernetes/pull/119753)     | [414](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-25](https://github.com/kubernetes/website/pull/41754)         | [43](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-08-03](https://github.com/kubernetes/test-infra/pull/30284)      | [30](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [discovery](https://github.com/bilibili/discovery)                   | 2018-05-31 | Go       | 2023-08-02   |
-|  2 | [official-images](https://github.com/docker-library/official-images) | 2020-09-04 | Shell    | 2023-08-03   |
-|  3 | [resume-vue](https://github.com/nusr/resume-vue)                     | 2023-01-03 | Vue      | 2023-06-17   |
-|  4 | [SubscribeIt](https://github.com/kerthcet/SubscribeIt)               | 2023-07-25 | md       | 2023-07-25   |
-|  5 | [triage-party](https://github.com/google/triage-party)               | 2021-04-14 | Go       | 2023-06-17   |
+| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [SubscribeIt](https://github.com/TechTrek-io/SubscribeIt)                              | 2023-07-25 | md       | 2023-07-25   |
+|  2 | [ttrpc](https://github.com/containerd/ttrpc)                                           | 2022-06-09 | Go       | 2023-08-04   |
+|  3 | [k8s-specific-knowledge-base](https://github.com/kerthcet/k8s-specific-knowledge-base) | 2023-07-28 | HTML     | 2023-08-01   |
+|  4 | [kubernetes](https://github.com/AliyunContainerService/kubernetes)                     | 2017-05-22 | Go       | 2021-11-19   |
+|  5 | [elasticsearch](https://github.com/elastic/elasticsearch)                              | 2012-07-20 | Java     | 2023-08-04   |
 
 <!--END_SECTION:my_github-->
 
