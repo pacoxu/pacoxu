@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                       REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------|------------|----------|--------------|
-|  1 | [flask](https://github.com/pallets/flask)         | 2016-04-21 | Python   | 2023-08-06   |
-|  2 | [kueue](https://github.com/kubernetes-sigs/kueue) | 2022-04-24 | Go       | 2023-08-04   |
-|  3 | [runc-lts](https://github.com/klts-io/runc-lts)   | 2021-11-25 | Shell    | 2023-03-30   |
-|  4 | [k8s-sql](https://github.com/rancher/k8s-sql)     | 2020-11-16 | Go       | 2023-06-28   |
-|  5 | [spec](https://github.com/oam-dev/spec)           | 2020-05-08 | md       | 2023-08-06   |
+| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------|------------|----------|--------------|
+|  1 | [todos](https://github.com/izqui/todos)                     | 2020-12-13 | Go       | 2023-01-03   |
+|  2 | [mysql](https://github.com/docker-library/mysql)            | 2016-09-08 | Shell    | 2023-08-07   |
+|  3 | [oniguruma](https://github.com/kkos/oniguruma)              | 2019-03-19 | C        | 2023-08-05   |
+|  4 | [scaleio-docker](https://github.com/djannot/scaleio-docker) | 2016-04-24 | md       | 2020-10-29   |
+|  5 | [logrotee](https://github.com/singalen/logrotee)            | 2019-07-19 | C++      | 2023-01-10   |
 
 <!--END_SECTION:my_github-->
 
