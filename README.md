@@ -56,7 +56,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-08-04](https://github.com/kubernetes/kubernetes/pull/119753)     | [414](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
-|  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-06-25](https://github.com/kubernetes/website/pull/41754)         | [43](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-08-08](https://github.com/kubernetes/website/pull/42446)         | [44](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-08-03](https://github.com/kubernetes/test-infra/pull/30284)      | [30](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-06-08](https://github.com/kubernetes/enhancements/pull/4068)     | [22](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------|------------|----------|--------------|
-|  1 | [todos](https://github.com/izqui/todos)                     | 2020-12-13 | Go       | 2023-01-03   |
-|  2 | [mysql](https://github.com/docker-library/mysql)            | 2016-09-08 | Shell    | 2023-08-07   |
-|  3 | [oniguruma](https://github.com/kkos/oniguruma)              | 2019-03-19 | C        | 2023-08-05   |
-|  4 | [scaleio-docker](https://github.com/djannot/scaleio-docker) | 2016-04-24 | md       | 2020-10-29   |
-|  5 | [logrotee](https://github.com/singalen/logrotee)            | 2019-07-19 | C++      | 2023-01-10   |
+| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [lighthouse](https://github.com/submariner-io/lighthouse)                                                         | 2022-04-25 | Go       | 2023-08-08   |
+|  2 | [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) | 2017-06-08 | Shell    | 2023-07-20   |
+|  3 | [kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)                                    | 2021-10-19 | md       | 2023-08-08   |
+|  4 | [ecapture](https://github.com/gojue/ecapture)                                                                     | 2022-08-03 | C        | 2023-08-08   |
+|  5 | [website](https://github.com/kubernetes/website)                                                                  | 2021-09-28 | HTML     | 2023-08-08   |
 
 <!--END_SECTION:my_github-->
 
