@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [lighthouse](https://github.com/submariner-io/lighthouse)                                                         | 2022-04-25 | Go       | 2023-08-08   |
-|  2 | [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) | 2017-06-08 | Shell    | 2023-07-20   |
-|  3 | [kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)                                    | 2021-10-19 | md       | 2023-08-08   |
-|  4 | [ecapture](https://github.com/gojue/ecapture)                                                                     | 2022-08-03 | C        | 2023-08-08   |
-|  5 | [website](https://github.com/kubernetes/website)                                                                  | 2021-09-28 | HTML     | 2023-08-08   |
+| ID |                            REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------|------------|----------|--------------|
+|  1 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs) | 2016-04-02 | Python   | 2023-08-04   |
+|  2 | [engine-api](https://github.com/docker/engine-api)         | 2016-08-12 | Go       | 2023-07-03   |
+|  3 | [xadmin](https://github.com/sshwsfc/xadmin)                | 2014-02-27 | Python   | 2023-08-06   |
+|  4 | [compose](https://github.com/docker/compose)               | 2021-02-20 | Go       | 2023-08-09   |
+|  5 | [gitblog](https://github.com/yihong0618/gitblog)           | 2023-04-27 | Python   | 2023-08-09   |
 
 <!--END_SECTION:my_github-->
 
