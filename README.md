@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-alfresco](https://github.com/gui81/docker-alfresco)      | 2016-05-24 | Shell    | 2023-03-29   |
-|  2 | [runtime-copilot](https://github.com/copilot-io/runtime-copilot) | 2023-05-15 | Go       | 2023-08-01   |
-|  3 | [wrk](https://github.com/wg/wrk)                                 | 2022-03-22 | C        | 2023-08-11   |
-|  4 | [docker-alpine](https://github.com/alpinelinux/docker-alpine)    | 2021-04-14 | Lua      | 2023-08-10   |
-|  5 | [velero](https://github.com/vmware-tanzu/velero)                 | 2020-04-29 | Go       | 2023-08-11   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kube-fencing](https://github.com/kvaps/kube-fencing)                                    | 2020-09-10 | Go         | 2023-07-05   |
+|  2 | [octant-plugin-for-knative](https://github.com/vmware-archive/octant-plugin-for-knative) | 2020-09-16 | TypeScript | 2023-07-13   |
+|  3 | [cfssl](https://github.com/cloudflare/cfssl)                                             | 2019-09-02 | Go         | 2023-08-12   |
+|  4 | [autoscaler](https://github.com/kubernetes/autoscaler)                                   | 2020-07-21 | Go         | 2023-08-12   |
+|  5 | [ntplib](https://github.com/Tipoca/ntplib)                                               | 2016-07-31 | Python     | 2021-04-06   |
 
 <!--END_SECTION:my_github-->
 
