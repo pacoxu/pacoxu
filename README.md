@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kube-fencing](https://github.com/kvaps/kube-fencing)                                    | 2020-09-10 | Go         | 2023-07-05   |
-|  2 | [octant-plugin-for-knative](https://github.com/vmware-archive/octant-plugin-for-knative) | 2020-09-16 | TypeScript | 2023-07-13   |
-|  3 | [cfssl](https://github.com/cloudflare/cfssl)                                             | 2019-09-02 | Go         | 2023-08-12   |
-|  4 | [autoscaler](https://github.com/kubernetes/autoscaler)                                   | 2020-07-21 | Go         | 2023-08-12   |
-|  5 | [ntplib](https://github.com/Tipoca/ntplib)                                               | 2016-07-31 | Python     | 2021-04-06   |
+| ID |                                              REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cluster-api-provider-maas](https://github.com/spectrocloud/cluster-api-provider-maas)         | 2022-03-11 | Go       | 2023-07-25   |
+|  2 | [kubeless](https://github.com/vmware-archive/kubeless)                                         | 2019-09-30 | Go       | 2023-08-11   |
+|  3 | [calico](https://github.com/projectcalico/calico)                                              | 2017-10-20 | Go       | 2023-08-13   |
+|  4 | [azure-powershell](https://github.com/Azure/azure-powershell)                                  | 2020-06-08 | md       | 2023-08-12   |
+|  5 | [Artistic-Image-Style-Transfer](https://github.com/hashmi-masif/Artistic-Image-Style-Transfer) | 2019-10-24 | Python   | 2019-10-24   |
 
 <!--END_SECTION:my_github-->
 
