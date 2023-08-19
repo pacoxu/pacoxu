@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------|------------|----------|--------------|
-|  1 | [runc-lts](https://github.com/klts-io/runc-lts)         | 2021-11-25 | Shell    | 2023-03-30   |
-|  2 | [ebpf-slide](https://github.com/gojue/ebpf-slide)       | 2022-06-07 | md       | 2023-08-17   |
-|  3 | [kubernetes-py](https://github.com/mnubo/kubernetes-py) | 2017-06-07 | Python   | 2023-08-07   |
-|  4 | [kubetools](https://github.com/collabnix/kubetools)     | 2022-02-28 | HTML     | 2023-08-17   |
-|  5 | [kube-s3](https://github.com/freegroup/kube-s3)         | 2020-07-13 | Shell    | 2023-08-14   |
+| ID |                                        REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [docker-openldap](https://github.com/dinkel/docker-openldap)                        | 2016-09-23 | Shell    | 2023-06-19   |
+|  2 | [kubernetes-workshops](https://github.com/GoogleCloudPlatform/kubernetes-workshops) | 2017-06-08 | Go       | 2023-07-02   |
+|  3 | [kube-entropy](https://github.com/alexlokshin/kube-entropy)                         | 2019-10-14 | Go       | 2023-05-14   |
+|  4 | [kubeval](https://github.com/instrumenta/kubeval)                                   | 2022-02-25 | Go       | 2023-08-15   |
+|  5 | [k8s-club](https://github.com/k8s-club/k8s-club)                                    | 2023-07-12 | md       | 2023-08-15   |
 
 <!--END_SECTION:my_github-->
 
