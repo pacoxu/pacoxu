@@ -44,13 +44,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|-------------------------|-------|
 |   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-04-10 | Go                      |    11 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2022-09-26 | Go                      |    10 |
-|   3 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go                      |     2 |
-|   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-04-10 | md                      |     2 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-08-19 | md                      |     3 |
+|   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go                      |     2 |
 |   5 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java                    |     1 |
 |   6 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md                      |     1 |
 |   7 | [youth-soccer](https://github.com/pacoxu/youth-soccer)             | 2016-12-21 | 2021-04-07 | GCC Machine Description |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md                      |     1 |
-| sum |                                                                    |            |            |                         |    30 |
+| sum |                                                                    |            |            |                         |    31 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-openldap](https://github.com/dinkel/docker-openldap)                        | 2016-09-23 | Shell    | 2023-06-19   |
-|  2 | [kubernetes-workshops](https://github.com/GoogleCloudPlatform/kubernetes-workshops) | 2017-06-08 | Go       | 2023-07-02   |
-|  3 | [kube-entropy](https://github.com/alexlokshin/kube-entropy)                         | 2019-10-14 | Go       | 2023-05-14   |
-|  4 | [kubeval](https://github.com/instrumenta/kubeval)                                   | 2022-02-25 | Go       | 2023-08-15   |
-|  5 | [k8s-club](https://github.com/k8s-club/k8s-club)                                    | 2023-07-12 | md       | 2023-08-15   |
+| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [cluster-api-provider-maas](https://github.com/spectrocloud/cluster-api-provider-maas) | 2022-03-11 | Go         | 2023-07-25   |
+|  2 | [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)                           | 2017-11-27 | Dockerfile | 2023-08-09   |
+|  3 | [org](https://github.com/kubernetes/org)                                               | 2021-01-29 | Go         | 2023-07-28   |
+|  4 | [skywalking-tutorials](https://github.com/JaredTan95/skywalking-tutorials)             | 2022-01-20 | Java       | 2023-07-11   |
+|  5 | [community](https://github.com/open-feature/community)                                 | 2022-03-05 | JavaScript | 2023-07-15   |
 
 <!--END_SECTION:my_github-->
 
