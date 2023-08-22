@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [k8s-sched-perf-stat](https://github.com/Huang-Wei/k8s-sched-perf-stat) | 2021-03-10 | Go         | 2023-01-11   |
-|  2 | [miragedebug](https://github.com/miragedebug/miragedebug)               | 2023-06-19 | Go         | 2023-08-07   |
-|  3 | [etcd3-py](https://github.com/Revolution1/etcd3-py)                     | 2021-01-21 | Python     | 2023-08-20   |
-|  4 | [Skill-Tree](https://github.com/linw7/Skill-Tree)                       | 2019-06-05 | C          | 2023-08-18   |
-|  5 | [goshop](https://github.com/pzhgugu/goshop)                             | 2016-12-08 | JavaScript | 2023-08-11   |
+| ID |                                     REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [rio](https://github.com/rancher/rio)                                        | 2019-07-02 | Go       | 2023-08-18   |
+|  2 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector) | 2019-05-03 | Go       | 2023-08-20   |
+|  3 | [same](https://github.com/rking/same)                                        | 2020-12-17 | Java     | 2023-04-11   |
+|  4 | [modgv](https://github.com/lucasepe/modgv)                                   | 2021-05-21 | Go       | 2023-08-13   |
+|  5 | [gotype](https://github.com/wzshiming/gotype)                                | 2022-06-21 | Go       | 2023-06-13   |
 
 <!--END_SECTION:my_github-->
 
