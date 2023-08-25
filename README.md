@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [graal](https://github.com/oracle/graal)                                              | 2019-10-11 | Java     | 2023-08-23   |
-|  2 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 2017-06-08 | md       | 2023-08-23   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                                               | 2016-07-04 | Go       | 2023-08-23   |
-|  4 | [istio-dce](https://github.com/yangchuansheng/istio-dce)                              | 2019-07-12 | Shell    | 2019-07-26   |
-|  5 | [kubernetes-py](https://github.com/mnubo/kubernetes-py)                               | 2017-06-07 | Python   | 2023-08-07   |
+| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|------------|--------------|
+|  1 | [karpenter](https://github.com/aws/karpenter)          | 2023-02-10 | Go         | 2023-08-24   |
+|  2 | [monokle](https://github.com/kubeshop/monokle)         | 2023-06-20 | TypeScript | 2023-08-24   |
+|  3 | [oniguruma](https://github.com/kkos/oniguruma)         | 2019-03-19 | C          | 2023-08-24   |
+|  4 | [996.ICU](https://github.com/996icu/996.ICU)           | 2019-03-28 | md         | 2023-08-24   |
+|  5 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | 2022-03-05 | Go         | 2023-08-24   |
 
 <!--END_SECTION:my_github-->
 
