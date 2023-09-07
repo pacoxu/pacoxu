@@ -60,19 +60,19 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-08-03](https://github.com/kubernetes/test-infra/pull/30284)      | [30](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-09-04](https://github.com/kubernetes/enhancements/pull/4173)     | [24](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
-|  6 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  6 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-08-28](https://github.com/kubernetes/k8s.io/pull/5764)           | [16](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 |  7 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-07-31](https://github.com/kubernetes/kubeadm/pull/2909)          | [16](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-08-28](https://github.com/kubernetes/k8s.io/pull/5764)           | [16](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                    REPO                                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)                                               | 2019-03-19 | Makefile   | 2023-08-24   |
-|  2 | [clomonitor](https://github.com/cncf/clomonitor)                                                           | 2022-02-15 | TypeScript | 2023-09-02   |
-|  3 | [paginate](https://github.com/Pylons/paginate)                                                             | 2016-07-05 | Python     | 2023-08-21   |
-|  4 | [cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) | 2021-08-07 | Go         | 2023-09-02   |
-|  5 | [slides](https://github.com/tao12345666333/slides)                                                         | 2023-01-03 | md         | 2023-09-01   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [common](https://github.com/containers/common)                       | 2021-02-08 | Go       | 2023-09-05   |
+|  2 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats)   | 2022-02-23 | Go       | 2023-04-10   |
+|  3 | [brigade](https://github.com/brigadecore/brigade)                    | 2018-05-14 | Go       | 2023-09-04   |
+|  4 | [thanos](https://github.com/thanos-io/thanos)                        | 2021-04-19 | Go       | 2023-09-06   |
+|  5 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 2019-10-14 | Java     | 2023-09-07   |
 
 <!--END_SECTION:my_github-->
 
