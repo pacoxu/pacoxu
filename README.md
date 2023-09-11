@@ -55,7 +55,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-09-09](https://github.com/kubernetes/kubernetes/pull/120541)     | [424](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-09-10](https://github.com/kubernetes/kubernetes/pull/120549)     | [425](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-09-04](https://github.com/kubernetes/website/pull/42862)         | [48](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-08-03](https://github.com/kubernetes/test-infra/pull/30284)      | [30](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-09-04](https://github.com/kubernetes/enhancements/pull/4173)     | [24](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                   REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-realtime](https://github.com/2b-t/docker-realtime)                                                | 2023-07-19 | Shell    | 2023-09-03   |
-|  2 | [dockerPractice](https://github.com/wrfly/dockerPractice)                                                 | 2016-05-21 | Shell    | 2018-12-11   |
-|  3 | [service-apis](https://github.com/akutz/service-apis)                                                     | 2020-04-16 | md       | 2020-04-16   |
-|  4 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go       | 2023-08-02   |
-|  5 | [github-trends](https://github.com/avgupta456/github-trends)                                              | 2023-01-11 | Python   | 2023-09-09   |
+| ID |                                  REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)                    | 2019-03-04 | Shell    | 2023-07-24   |
+|  2 | [community-edition](https://github.com/vmware-tanzu/community-edition)  | 2021-10-05 | Go       | 2023-09-08   |
+|  3 | [k8s-sched-perf-stat](https://github.com/Huang-Wei/k8s-sched-perf-stat) | 2021-03-10 | Go       | 2023-01-11   |
+|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)                  | 2021-10-08 | Go       | 2023-09-10   |
+|  5 | [github-trends](https://github.com/avgupta456/github-trends)            | 2023-01-11 | Python   | 2023-09-10   |
 
 <!--END_SECTION:my_github-->
 
