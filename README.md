@@ -11,7 +11,7 @@ I am now a Candidate for the **2023 Steering Committee**: **Vote** for me at htt
  🌱 Learning Rust & ebpf & CoreDNS
 
 - Work in **DaoCloud Enterprise Team**: [DCE](https://www.daocloud.io/dce_5.0).
-- Kubernetes [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer & [Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
+- Kubernetes v1.29 Release Team CI Signal Shadow, [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer & [Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
 - [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
 
 <!--START_SECTION:github_repos-->
