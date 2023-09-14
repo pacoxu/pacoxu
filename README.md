@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kube-ops-view](https://github.com/hjacobs/kube-ops-view)              | 2020-11-13 | JavaScript | 2023-09-11   |
-|  2 | [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) | 2017-11-30 | Makefile   | 2023-09-12   |
-|  3 | [scope](https://github.com/weaveworks/scope)                           | 2017-11-27 | Go         | 2023-09-12   |
-|  4 | [docs](https://github.com/DaoCloud-OpenSource/docs)                    | 2023-05-31 | md         | 2023-07-26   |
-|  5 | [learninggo](https://github.com/miekg/learninggo)                      | 2019-04-25 | Go         | 2023-09-11   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [xeol](https://github.com/xeol-io/xeol)                         | 2023-09-01 | Go       | 2023-09-08   |
+|  2 | [docker-tc](https://github.com/lukaszlach/docker-tc)            | 2019-04-22 | Shell    | 2023-09-08   |
+|  3 | [profile_stats](https://github.com/wzshiming/profile_stats)     | 2022-03-08 | Go       | 2022-03-08   |
+|  4 | [kubesphere](https://github.com/kubesphere/kubesphere)          | 2021-10-08 | Go       | 2023-09-13   |
+|  5 | [external-dns](https://github.com/kubernetes-sigs/external-dns) | 2019-01-09 | Go       | 2023-09-13   |
 
 <!--END_SECTION:my_github-->
 
