@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [protovalidate-go](https://github.com/bufbuild/protovalidate-go) | 2023-08-08 | Go         | 2023-09-15   |
-|  2 | [crossplane](https://github.com/crossplane/crossplane)           | 2022-02-23 | Go         | 2023-09-15   |
-|  3 | [k8s.io](https://github.com/kubernetes/k8s.io)                   | 2021-03-16 | HCL        | 2023-09-13   |
-|  4 | [chocolatey](https://github.com/chocolatey-archive/chocolatey)   | 2013-12-25 | PowerShell | 2023-09-12   |
-|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                 | 2021-03-24 | Go         | 2023-09-15   |
+| ID |                                                   REPO                                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go         | 2023-08-02   |
+|  2 | [spegel](https://github.com/XenitAB/spegel)                                                               | 2023-09-01 | Go         | 2023-09-16   |
+|  3 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm)     | 2023-04-20 | Go         | 2023-09-14   |
+|  4 | [webiny-js](https://github.com/webiny/webiny-js)                                                          | 2020-11-30 | TypeScript | 2023-09-16   |
+|  5 | [solo](https://github.com/b3log/solo)                                                                     | 2017-04-05 | Java       | 2023-09-09   |
 
 <!--END_SECTION:my_github-->
 
