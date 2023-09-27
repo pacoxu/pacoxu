@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------|------------|----------|--------------|
-|  1 | [spiderpool](https://github.com/spidernet-io/spiderpool) | 2023-04-11 | Go       | 2023-09-21   |
-|  2 | [charts](https://github.com/helm/charts)                 | 2019-04-01 | Go       | 2023-09-25   |
-|  3 | [dd-agent](https://github.com/DataDog/dd-agent)          | 2016-05-18 | Python   | 2023-09-16   |
-|  4 | [gpt4all](https://github.com/nomic-ai/gpt4all)           | 2023-03-29 | C++      | 2023-09-26   |
-|  5 | [same](https://github.com/rking/same)                    | 2020-12-17 | Java     | 2023-04-11   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [browser-agent](https://github.com/m1guelpf/browser-agent)                   | 2023-03-29 | Rust       | 2023-09-26   |
+|  2 | [shipyard](https://github.com/ehazlett/shipyard)                             | 2016-06-07 | md         | 2023-09-19   |
+|  3 | [goshop](https://github.com/pzhgugu/goshop)                                  | 2016-12-08 | JavaScript | 2023-08-11   |
+|  4 | [docker-demo-java-mongo](https://github.com/DaoCloud/docker-demo-java-mongo) | 2016-05-01 | Java       | 2022-09-25   |
+|  5 | [my-github-status](https://github.com/MrCoder/my-github-status)              | 2022-04-28 | md         | 2022-04-28   |
 
 <!--END_SECTION:my_github-->
 
