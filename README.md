@@ -66,13 +66,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [FIFA-Ultimate-Team-Toolkit](https://github.com/trydis/FIFA-Ultimate-Team-Toolkit) | 2016-09-23 | C#       | 2023-09-11   |
-|  2 | [jmeter](https://github.com/apache/jmeter)                                         | 2018-10-22 | Java     | 2023-09-28   |
-|  3 | [downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes)        | 2023-06-26 | Go       | 2023-09-25   |
-|  4 | [java-in-docker](https://github.com/springjk/java-in-docker)                       | 2017-02-27 | Java     | 2022-06-23   |
-|  5 | [kubectx](https://github.com/ahmetb/kubectx)                                       | 2021-01-24 | Go       | 2023-09-28   |
+| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kdoctor](https://github.com/kdoctor-io/kdoctor)                                                                                  | 2023-06-15 | Go         | 2023-09-26   |
+|  2 | [consul](https://github.com/hashicorp/consul)                                                                                     | 2019-10-19 | Go         | 2023-09-29   |
+|  3 | [kube-gce](https://github.com/rimusz/kube-gce)                                                                                    | 2017-06-08 | Shell      | 2023-01-28   |
+|  4 | [terminal](https://github.com/microsoft/terminal)                                                                                 | 2019-05-07 | C++        | 2023-09-30   |
+|  5 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
 
 <!--END_SECTION:my_github-->
 
