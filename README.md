@@ -4,13 +4,22 @@
  
  🇨🇳 **The only thing that I know is that I know nothing**. 
  
- 🔭 Working on Kubernetes & Containerd & Docker
- 
- 🌱 Learning Rust & ebpf & CoreDNS
-
+ 🔭 Working on Kubernetes & Containerd
 - Work in **DaoCloud Enterprise Team**: [DCE](https://www.daocloud.io/dce_5.0).
-- Kubernetes v1.29 Release Team CI Signal Shadow, [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer & [Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
+- [Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
+- Kubernetes v1.29 Release Team CI Signal Shadow
+- [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer
+ 
+ 🌱 Learning and Sharing
+
 - [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
+  - 2023 KubeCon China:
+    - [Kubernetes SIG Node Intro and Deep Dive](https://kccncosschn2023.sched.com/event/4a2746baff6af89d668edc2eabbcf906) - Paco Xu, DaoCloud & Xiongxiong Yuan, Gitlab China
+    - [How Can Pod Start-up Be Accelerated on Nodes in Large Clusters?](https://sched.co/1PTFR)  - Paco Xu, DaoCloud & Byron Wang, Birentech
+  - 2023 KubeCon EU: [Kubeadm Deep Dive](https://kccnceu2023.sched.com/event/1Iki0/kubeadm-deep-dive-rohit-anand-nec-paco-xu-dao-cloud) - Rohit Anand, NEC & Paco Xu, Dao Cloud
+  - 2021 KubeCon China(Virtual): [Kubernetes SIG Node: Intro and Deep Dive](https://kccncosschn21.sched.com/event/pccE/kubernetes-sig-nodedaeptao-ye-ge-kubernetes-sig-node-intro-and-deep-dive-paco-daocloud) - Paco, DaoCloud
+  - 2021 KCD Shanghai: [Kubeadm & SIG Node Intro and How to Contribute](https://github.com/cncf/presentations/tree/main/chinese/kcd-shanghai)
+- New/Old interests:  Rust & eBPF & CoreDNS
 
 <!--START_SECTION:github_repos-->
 ### The intersted repos
