@@ -1,5 +1,3 @@
-I am now a Candidate for the **2023 Steering Committee**: **Vote** for me at https://elections.k8s.io/app/elections/steering---2023.
-
 ### Kubernetes Contributor, [Valencia CF](https://www.valenciacf.com/en) Fan & PUBG [17Gaming](https://liquipedia.net/pubg/17_Gaming) Fan
 
 ![](https://komarev.com/ghpvc/?username=pacoxu)
