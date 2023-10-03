@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                        REPO                                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)                                                    | 2019-11-13 | Shell    | 2021-11-16   |
-|  2 | [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement)                            | 2022-05-30 | Python   | 2023-09-28   |
-|  3 | [container-object-storage-interface-api](https://github.com/kubernetes-sigs/container-object-storage-interface-api) | 2021-02-23 | Go       | 2023-08-29   |
-|  4 | [kubernetes-py](https://github.com/mnubo/kubernetes-py)                                                             | 2017-06-07 | Python   | 2023-08-07   |
-|  5 | [berrypost](https://github.com/realityone/berrypost)                                                                | 2021-12-21 | Go       | 2023-08-04   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) | 2022-05-30 | Python   | 2023-10-02   |
+|  2 | [putingh](https://github.com/wzshiming/putingh)                                          | 2022-03-08 | Go       | 2022-03-10   |
+|  3 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)                                   | 2020-09-14 | Python   | 2020-10-21   |
+|  4 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)                    | 2023-09-11 | Go       | 2023-10-02   |
+|  5 | [containerd](https://github.com/containerd/containerd)                                   | 2017-05-31 | Go       | 2023-10-02   |
 
 <!--END_SECTION:my_github-->
 
