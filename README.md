@@ -51,13 +51,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|-------------------------|-------|
 |   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-04-10 | Go                      |    11 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go                      |    10 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-08-19 | md                      |     3 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md                      |     4 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go                      |     2 |
 |   5 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java                    |     1 |
 |   6 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md                      |     1 |
 |   7 | [youth-soccer](https://github.com/pacoxu/youth-soccer)             | 2016-12-21 | 2021-04-07 | GCC Machine Description |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md                      |     1 |
-| sum |                                                                    |            |            |                         |    31 |
+| sum |                                                                    |            |            |                         |    32 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) | 2022-05-30 | Python   | 2023-10-02   |
-|  2 | [putingh](https://github.com/wzshiming/putingh)                                          | 2022-03-08 | Go       | 2022-03-10   |
-|  3 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)                                   | 2020-09-14 | Python   | 2020-10-21   |
-|  4 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)                    | 2023-09-11 | Go       | 2023-10-02   |
-|  5 | [containerd](https://github.com/containerd/containerd)                                   | 2017-05-31 | Go       | 2023-10-02   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [node_note](https://github.com/lemonhall/node_note)                  | 2016-11-22 | md       | 2018-06-12   |
+|  2 | [official-images](https://github.com/docker-library/official-images) | 2020-09-04 | Shell    | 2023-10-03   |
+|  3 | [cilium](https://github.com/cilium/cilium)                           | 2019-05-13 | Go       | 2023-10-03   |
+|  4 | [mkcert](https://github.com/FiloSottile/mkcert)                      | 2020-07-16 | Go       | 2023-10-03   |
+|  5 | [service-apis](https://github.com/akutz/service-apis)                | 2020-04-16 | md       | 2020-04-16   |
 
 <!--END_SECTION:my_github-->
 
