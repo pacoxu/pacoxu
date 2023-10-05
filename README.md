@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [node_note](https://github.com/lemonhall/node_note)                  | 2016-11-22 | md       | 2018-06-12   |
-|  2 | [official-images](https://github.com/docker-library/official-images) | 2020-09-04 | Shell    | 2023-10-03   |
-|  3 | [cilium](https://github.com/cilium/cilium)                           | 2019-05-13 | Go       | 2023-10-03   |
-|  4 | [mkcert](https://github.com/FiloSottile/mkcert)                      | 2020-07-16 | Go       | 2023-10-03   |
-|  5 | [service-apis](https://github.com/akutz/service-apis)                | 2020-04-16 | md       | 2020-04-16   |
+| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)   | 2019-03-29 | JavaScript | 2023-09-30   |
+|  2 | [kompose](https://github.com/kubernetes/kompose)               | 2017-06-02 | Go         | 2023-10-04   |
+|  3 | [dns](https://github.com/kubernetes/dns)                       | 2019-07-19 | Go         | 2023-09-29   |
+|  4 | [graphdot](https://github.com/ewohltman/graphdot)              | 2021-05-21 | Go         | 2023-04-25   |
+|  5 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator) | 2022-03-11 | Go         | 2023-09-15   |
 
 <!--END_SECTION:my_github-->
 
