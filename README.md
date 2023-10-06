@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)   | 2019-03-29 | JavaScript | 2023-09-30   |
-|  2 | [kompose](https://github.com/kubernetes/kompose)               | 2017-06-02 | Go         | 2023-10-04   |
-|  3 | [dns](https://github.com/kubernetes/dns)                       | 2019-07-19 | Go         | 2023-09-29   |
-|  4 | [graphdot](https://github.com/ewohltman/graphdot)              | 2021-05-21 | Go         | 2023-04-25   |
-|  5 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator) | 2022-03-11 | Go         | 2023-09-15   |
+| ID |                                        REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) | 2021-11-23 | Go       | 2023-10-03   |
+|  2 | [HanziToPinyin](https://github.com/fanglijun/HanziToPinyin)                         | 2022-10-14 | PHP      | 2022-10-14   |
+|  3 | [gvisor](https://github.com/google/gvisor)                                          | 2020-06-03 | Go       | 2023-10-05   |
+|  4 | [elasticsearch](https://github.com/elastic/elasticsearch)                           | 2012-07-20 | Java     | 2023-10-06   |
+|  5 | [vagrant](https://github.com/hashicorp/vagrant)                                     | 2019-10-19 | Ruby     | 2023-10-05   |
 
 <!--END_SECTION:my_github-->
 
