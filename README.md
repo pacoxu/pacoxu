@@ -47,17 +47,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 
 <!--START_SECTION:my_github-->
 ## The repos I created
-| ID  |                                REPO                                |   START    |   UPDATE   |        LAUGUAGE         | STARS |
-|-----|--------------------------------------------------------------------|------------|------------|-------------------------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-04-10 | Go                      |    11 |
-|   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go                      |    10 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md                      |     4 |
-|   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go                      |     2 |
-|   5 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java                    |     1 |
-|   6 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md                      |     1 |
-|   7 | [youth-soccer](https://github.com/pacoxu/youth-soccer)             | 2016-12-21 | 2021-04-07 | GCC Machine Description |     1 |
-|   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md                      |     1 |
-| sum |                                                                    |            |            |                         |    32 |
+| ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
+|-----|--------------------------------------------------------------------|------------|------------|----------|-------|
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-04-10 | Go       |    11 |
+|   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md       |     4 |
+|   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
+|   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
+|   6 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
+|   7 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2023-10-07 | Python   |     1 |
+|   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md       |     1 |
+| sum |                                                                    |            |            |          |    33 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)  | 2019-03-29 | JavaScript | 2023-09-30   |
-|  2 | [logr](https://github.com/go-logr/logr)                       | 2021-01-23 | Go         | 2023-10-05   |
-|  3 | [docker-openldap](https://github.com/dinkel/docker-openldap)  | 2016-09-23 | Shell      | 2023-09-22   |
-|  4 | [containerd-lts](https://github.com/klts-io/containerd-lts)   | 2021-10-15 | Shell      | 2023-05-12   |
-|  5 | [gateway-api](https://github.com/kubernetes-sigs/gateway-api) | 2023-10-04 | Go         | 2023-10-04   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [LearnCloudNative](https://github.com/carlory/LearnCloudNative)                                       | 2023-01-29 | md         | 2023-01-29   |
+|  2 | [resume-vue](https://github.com/nusr/resume-vue)                                                      | 2023-01-03 | Vue        | 2023-06-17   |
+|  3 | [openai-translator](https://github.com/openai-translator/openai-translator)                           | 2023-03-06 | TypeScript | 2023-10-07   |
+|  4 | [kubeadm](https://github.com/kubernetes/kubeadm)                                                      | 2017-06-07 | Go         | 2023-10-07   |
+|  5 | [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) | 2019-07-23 | Go         | 2023-09-22   |
 
 <!--END_SECTION:my_github-->
 
