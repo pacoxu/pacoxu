@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cool-github](https://github.com/alejandrox1/cool-github)          | 2021-01-04 | Go       | 2021-01-04   |
-|  2 | [kubicorn](https://github.com/kubicorn/kubicorn)                   | 2017-10-13 | Go       | 2023-10-05   |
-|  3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-03-11 | md       | 2023-10-03   |
-|  4 | [kourier](https://github.com/3scale-archive/kourier)               | 2019-11-13 | Go       | 2023-04-10   |
-|  5 | [singularity](https://github.com/apptainer/singularity)            | 2021-06-28 | Go       | 2023-10-08   |
+| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [lighthouse](https://github.com/submariner-io/lighthouse)                                         | 2022-04-25 | Go         | 2023-10-05   |
+|  2 | [scala-tour](https://github.com/yankay/scala-tour)                                                | 2013-08-06 | Scala      | 2023-09-30   |
+|  3 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2023-10-09   |
+|  4 | [elasticsearch](https://github.com/elastic/elasticsearch)                                         | 2012-07-20 | Java       | 2023-10-09   |
+|  5 | [containerd-lts](https://github.com/klts-io/containerd-lts)                                       | 2021-10-15 | Shell      | 2023-05-12   |
 
 <!--END_SECTION:my_github-->
 
