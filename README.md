@@ -53,11 +53,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md       |     4 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
-|   5 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
-|   6 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
-|   7 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2023-10-07 | Python   |     1 |
+|   5 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2023-10-10 | Python   |     2 |
+|   6 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
+|   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md       |     1 |
-| sum |                                                                    |            |            |          |    33 |
+| sum |                                                                    |            |            |          |    34 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [lighthouse](https://github.com/submariner-io/lighthouse)                                         | 2022-04-25 | Go         | 2023-10-05   |
-|  2 | [scala-tour](https://github.com/yankay/scala-tour)                                                | 2013-08-06 | Scala      | 2023-09-30   |
-|  3 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2023-10-09   |
-|  4 | [elasticsearch](https://github.com/elastic/elasticsearch)                                         | 2012-07-20 | Java       | 2023-10-09   |
-|  5 | [containerd-lts](https://github.com/klts-io/containerd-lts)                                       | 2021-10-15 | Shell      | 2023-05-12   |
+| ID |                      REPO                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------|------------|----------|--------------|
+|  1 | [jepsen](https://github.com/jepsen-io/jepsen)  | 2017-12-12 | Clojure  | 2023-10-10   |
+|  2 | [etcd](https://github.com/etcd-io/etcd)        | 2016-07-04 | Go       | 2023-10-10   |
+|  3 | [jcseg](https://github.com/lionsoul2014/jcseg) | 2016-08-19 | Java     | 2023-10-09   |
+|  4 | [consul](https://github.com/hashicorp/consul)  | 2019-10-19 | Go       | 2023-10-10   |
+|  5 | [endless](https://github.com/fvbock/endless)   | 2020-11-27 | Go       | 2023-10-10   |
 
 <!--END_SECTION:my_github-->
 
