@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs)     | 2016-04-02 | Python     | 2023-10-13   |
-|  2 | [Attack_Code](https://github.com/Esonhugh/Attack_Code)         | 2023-09-07 | Shell      | 2023-09-28   |
-|  3 | [kube-fencing](https://github.com/kvaps/kube-fencing)          | 2020-09-10 | Go         | 2023-09-14   |
-|  4 | [lighttpd-docker](https://github.com/spujadas/lighttpd-docker) | 2016-11-17 | Dockerfile | 2023-06-07   |
-|  5 | [mock-kubelet](https://github.com/cyclinder/mock-kubelet)      | 2022-03-03 | Go         | 2022-03-03   |
+| ID |                                  REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cvelist-public](https://github.com/kubernetes-security/cvelist-public) | 2023-06-05 | md       | 2023-06-05   |
+|  2 | [jieba-analysis](https://github.com/huaban/jieba-analysis)              | 2016-03-10 | Java     | 2023-10-12   |
+|  3 | [insights-bot](https://github.com/nekomeowww/insights-bot)              | 2023-06-05 | Go       | 2023-10-09   |
+|  4 | [kor](https://github.com/yonahd/kor)                                    | 2023-10-13 | Go       | 2023-10-14   |
+|  5 | [iouring-go](https://github.com/Iceber/iouring-go)                      | 2021-10-19 | Go       | 2023-10-09   |
 
 <!--END_SECTION:my_github-->
 
