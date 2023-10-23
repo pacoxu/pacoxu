@@ -6,6 +6,7 @@
  
  🔭 Working on Kubernetes & Containerd
 - Work in **DaoCloud Enterprise Team**: [DCE](https://www.daocloud.io/dce_5.0).
+- @kubernetes Steering Committee
 - [Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
 - Kubernetes v1.29 Release Team CI Signal Shadow
 - [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer
