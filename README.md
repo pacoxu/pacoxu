@@ -69,18 +69,18 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-09-04](https://github.com/kubernetes/enhancements/pull/4173)     | [24](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  6 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-10-18](https://github.com/kubernetes/kubeadm/pull/2944)          | [19](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  7 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-08-28](https://github.com/kubernetes/k8s.io/pull/5764)           | [16](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
-|  8 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  7 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  8 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2023-08-28](https://github.com/kubernetes/k8s.io/pull/5764)           | [16](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)                   | 2022-03-05 | Go         | 2023-10-22   |
-|  2 | [my-github-status](https://github.com/MrCoder/my-github-status)          | 2022-04-28 | md         | 2022-04-28   |
-|  3 | [git-log-weekly-report](https://github.com/yeatse/git-log-weekly-report) | 2023-06-26 | Shell      | 2023-06-29   |
-|  4 | [kubeval](https://github.com/instrumenta/kubeval)                        | 2022-02-25 | Go         | 2023-10-22   |
-|  5 | [github-todos](https://github.com/naholyr/github-todos)                  | 2020-12-13 | JavaScript | 2023-09-08   |
+| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|----------|--------------|
+|  1 | [hubble-otel](https://github.com/cilium/hubble-otel)          | 2022-02-15 | Go       | 2023-10-09   |
+|  2 | [life](https://github.com/gawen/life)                         | 2020-04-08 | md       | 2022-02-01   |
+|  3 | [rio](https://github.com/rancher/rio)                         | 2019-07-02 | Go       | 2023-10-23   |
+|  4 | [jieba-analysis](https://github.com/huaban/jieba-analysis)    | 2016-03-10 | Java     | 2023-10-23   |
+|  5 | [run](https://github.com/The-Run-Philosophy-Organization/run) | 2022-05-20 | md       | 2023-10-23   |
 
 <!--END_SECTION:my_github-->
 
