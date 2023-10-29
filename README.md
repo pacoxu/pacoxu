@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)                       | 2022-03-11 | md       | 2023-10-03   |
-|  2 | [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter)                      | 2022-04-22 | Dart     | 2023-10-26   |
-|  3 | [talk-knative-vs-openfaas](https://github.com/carsonoid/talk-knative-vs-openfaas)        | 2019-10-17 | md       | 2022-03-14   |
-|  4 | [interlock](https://github.com/ehazlett/interlock)                                       | 2016-04-27 | Go       | 2023-10-20   |
-|  5 | [committee-security-response](https://github.com/kubernetes/committee-security-response) | 2023-10-26 | md       | 2023-10-26   |
+| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter)                                 | 2022-04-22 | Dart     | 2023-10-28   |
+|  2 | [jcseg](https://github.com/lionsoul2014/jcseg)                                                      | 2016-08-19 | Java     | 2023-10-23   |
+|  3 | [discovery](https://github.com/bilibili/discovery)                                                  | 2018-05-31 | Go       | 2023-10-17   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)                                                    | 2020-04-29 | Go       | 2023-10-27   |
+|  5 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL      | 2023-10-26   |
 
 <!--END_SECTION:my_github-->
 
