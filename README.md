@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [protovalidate-go](https://github.com/bufbuild/protovalidate-go)         | 2023-08-08 | Go       | 2023-10-31   |
-|  2 | [awesome4girls](https://github.com/cristianoliveira/awesome4girls)       | 2023-10-12 | Ruby     | 2023-10-19   |
-|  3 | [RocketBot](https://github.com/brianzhouzc/RocketBot)                    | 2019-03-08 | C#       | 2023-10-23   |
-|  4 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli)       | 2018-01-15 | Python   | 2023-10-13   |
-|  5 | [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) | 2023-03-22 | md       | 2023-11-02   |
+| ID |                                                        REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [miragedebug](https://github.com/miragedebug/miragedebug)                                                          | 2023-06-19 | Go       | 2023-10-11   |
+|  2 | [karpenter](https://github.com/aws/karpenter)                                                                      | 2023-02-10 | Go       | 2023-11-02   |
+|  3 | [Docker-and-Kubernetes-Mirror-Synchronizer](https://github.com/KofClubs/Docker-and-Kubernetes-Mirror-Synchronizer) | 2021-07-09 | Shell    | 2021-07-09   |
+|  4 | [kube-entropy](https://github.com/alexlokshin/kube-entropy)                                                        | 2019-10-14 | Go       | 2023-05-14   |
+|  5 | [kubicorn](https://github.com/kubicorn/kubicorn)                                                                   | 2017-10-13 | Go       | 2023-11-03   |
 
 <!--END_SECTION:my_github-->
 
