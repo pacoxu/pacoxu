@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [project-layout](https://github.com/golang-standards/project-layout) | 2020-06-05 | Makefile | 2023-11-03   |
-|  2 | [bolt](https://github.com/boltdb/bolt)                               | 2021-08-31 | Go       | 2023-11-03   |
-|  3 | [flask](https://github.com/pallets/flask)                            | 2016-04-21 | Python   | 2023-11-03   |
-|  4 | [rio](https://github.com/rancher/rio)                                | 2019-07-02 | Go       | 2023-10-23   |
-|  5 | [docker-image-py](https://github.com/realityone/docker-image-py)     | 2018-06-07 | Python   | 2023-05-23   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2021-03-23 | Java     | 2023-11-05   |
+|  2 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | 2022-12-01 | Java     | 2023-10-04   |
+|  3 | [multi-tenancy](https://github.com/kubernetes-retired/multi-tenancy)                      | 2020-08-17 | Go       | 2023-11-01   |
+|  4 | [Blogs](https://github.com/kerthcet/Blogs)                                                | 2021-09-22 | md       | 2022-08-06   |
+|  5 | [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)                          | 2020-09-21 | Go       | 2023-11-04   |
 
 <!--END_SECTION:my_github-->
 
