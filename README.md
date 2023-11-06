@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)      | 2021-03-23 | Java     | 2023-11-05   |
-|  2 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | 2022-12-01 | Java     | 2023-10-04   |
-|  3 | [multi-tenancy](https://github.com/kubernetes-retired/multi-tenancy)                      | 2020-08-17 | Go       | 2023-11-01   |
-|  4 | [Blogs](https://github.com/kerthcet/Blogs)                                                | 2021-09-22 | md       | 2022-08-06   |
-|  5 | [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)                          | 2020-09-21 | Go       | 2023-11-04   |
+| ID |                                  REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [youki](https://github.com/containers/youki)                            | 2023-06-20 | Rust     | 2023-11-05   |
+|  2 | [triage-party](https://github.com/google/triage-party)                  | 2021-04-14 | Go       | 2023-11-03   |
+|  3 | [github-pr-summary](https://github.com/flows-network/github-pr-summary) | 2023-06-25 | Rust     | 2023-10-21   |
+|  4 | [meta-balena](https://github.com/balena-os/meta-balena)                 | 2020-09-14 | BitBake  | 2023-10-31   |
+|  5 | [downkyi](https://github.com/leiurayer/downkyi)                         | 2022-09-12 | C#       | 2023-11-05   |
 
 <!--END_SECTION:my_github-->
 
