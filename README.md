@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|------------|--------------|
-|  1 | [kivy](https://github.com/kivy/kivy)                      | 2019-04-18 | Python     | 2023-11-06   |
-|  2 | [django-xadmin](https://github.com/pacoxu/django-xadmin)  | 2014-02-27 | Python     | 2021-04-07   |
-|  3 | [dockerPractice](https://github.com/wrfly/dockerPractice) | 2016-05-21 | Shell      | 2018-12-11   |
-|  4 | [runc-cve](https://github.com/rancher/runc-cve)           | 2019-04-10 | Dockerfile | 2022-04-27   |
-|  5 | [runc-lts](https://github.com/klts-io/runc-lts)           | 2021-11-25 | Shell      | 2023-03-30   |
+| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue      | 2023-11-07   |
+|  2 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)    | 2023-03-24 | Python   | 2023-11-07   |
+|  3 | [multicluster](https://github.com/coredns/multicluster)                           | 2021-12-07 | Go       | 2023-09-27   |
+|  4 | [karmada-operator](https://github.com/DaoCloud/karmada-operator)                  | 2022-10-12 | Go       | 2022-10-13   |
+|  5 | [talk-knative-vs-openfaas](https://github.com/carsonoid/talk-knative-vs-openfaas) | 2019-10-17 | md       | 2022-03-14   |
 
 <!--END_SECTION:my_github-->
 
