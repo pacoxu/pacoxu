@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue      | 2023-11-07   |
-|  2 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)    | 2023-03-24 | Python   | 2023-11-07   |
-|  3 | [multicluster](https://github.com/coredns/multicluster)                           | 2021-12-07 | Go       | 2023-09-27   |
-|  4 | [karmada-operator](https://github.com/DaoCloud/karmada-operator)                  | 2022-10-12 | Go       | 2022-10-13   |
-|  5 | [talk-knative-vs-openfaas](https://github.com/carsonoid/talk-knative-vs-openfaas) | 2019-10-17 | md       | 2022-03-14   |
+| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [stackoverflow](https://github.com/pacoxu/stackoverflow)                                  | 2014-10-09 | md         | 2021-04-07   |
+|  2 | [json-patch](https://github.com/evanphx/json-patch)                                       | 2021-01-21 | Go         | 2023-11-03   |
+|  3 | [daochain](https://github.com/DaoCloud/daochain)                                          | 2016-12-09 | JavaScript | 2023-01-14   |
+|  4 | [same](https://github.com/rking/same)                                                     | 2020-12-17 | Java       | 2023-04-11   |
+|  5 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | 2022-12-01 | Java       | 2023-10-04   |
 
 <!--END_SECTION:my_github-->
 
