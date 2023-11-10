@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [stackoverflow](https://github.com/pacoxu/stackoverflow)                                  | 2014-10-09 | md         | 2021-04-07   |
-|  2 | [json-patch](https://github.com/evanphx/json-patch)                                       | 2021-01-21 | Go         | 2023-11-03   |
-|  3 | [daochain](https://github.com/DaoCloud/daochain)                                          | 2016-12-09 | JavaScript | 2023-01-14   |
-|  4 | [same](https://github.com/rking/same)                                                     | 2020-12-17 | Java       | 2023-04-11   |
-|  5 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | 2022-12-01 | Java       | 2023-10-04   |
+| ID |                                                               REPO                                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [containerd-lts](https://github.com/klts-io/containerd-lts)                                                                       | 2021-10-15 | Shell    | 2023-05-12   |
+|  2 | [quic-go](https://github.com/quic-go/quic-go)                                                                                     | 2021-11-29 | Go       | 2023-11-10   |
+|  3 | [container-object-storage-interface-controller](https://github.com/kubernetes-sigs/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2023-10-11   |
+|  4 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage)                                                          | 2023-01-27 | Mustache | 2023-09-21   |
+|  5 | [kubeless](https://github.com/vmware-archive/kubeless)                                                                            | 2019-09-30 | Go       | 2023-11-07   |
 
 <!--END_SECTION:my_github-->
 
