@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                               REPO                                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [containerd-lts](https://github.com/klts-io/containerd-lts)                                                                       | 2021-10-15 | Shell    | 2023-05-12   |
-|  2 | [quic-go](https://github.com/quic-go/quic-go)                                                                                     | 2021-11-29 | Go       | 2023-11-10   |
-|  3 | [container-object-storage-interface-controller](https://github.com/kubernetes-sigs/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2023-10-11   |
-|  4 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage)                                                          | 2023-01-27 | Mustache | 2023-09-21   |
-|  5 | [kubeless](https://github.com/vmware-archive/kubeless)                                                                            | 2019-09-30 | Go       | 2023-11-07   |
+| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                            | 2019-06-05 | Python   | 2023-10-28   |
+|  2 | [kube-no-trouble](https://github.com/doitintl/kube-no-trouble)                         | 2021-01-16 | Go       | 2023-11-09   |
+|  3 | [dumb-init](https://github.com/Yelp/dumb-init)                                         | 2019-04-18 | Python   | 2023-11-10   |
+|  4 | [kube-bench](https://github.com/aquasecurity/kube-bench)                               | 2022-06-21 | Go       | 2023-11-10   |
+|  5 | [cluster-api-provider-kwok](https://github.com/capi-samples/cluster-api-provider-kwok) | 2023-08-27 | Go       | 2023-08-27   |
 
 <!--END_SECTION:my_github-->
 
