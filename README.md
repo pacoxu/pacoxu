@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                            | 2019-06-05 | Python   | 2023-10-28   |
-|  2 | [kube-no-trouble](https://github.com/doitintl/kube-no-trouble)                         | 2021-01-16 | Go       | 2023-11-09   |
-|  3 | [dumb-init](https://github.com/Yelp/dumb-init)                                         | 2019-04-18 | Python   | 2023-11-10   |
-|  4 | [kube-bench](https://github.com/aquasecurity/kube-bench)                               | 2022-06-21 | Go       | 2023-11-10   |
-|  5 | [cluster-api-provider-kwok](https://github.com/capi-samples/cluster-api-provider-kwok) | 2023-08-27 | Go       | 2023-08-27   |
+| ID |                                               REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [docker-image-py](https://github.com/realityone/docker-image-py)                                 | 2018-06-07 | Python   | 2023-05-23   |
+|  2 | [etcd-issues](https://github.com/ahrtr/etcd-issues)                                              | 2023-04-04 | Go       | 2023-09-11   |
+|  3 | [awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) | 2022-10-20 | HTML     | 2023-11-11   |
+|  4 | [kube-entropy](https://github.com/alexlokshin/kube-entropy)                                      | 2019-10-14 | Go       | 2023-05-14   |
+|  5 | [my-github-status](https://github.com/MrCoder/my-github-status)                                  | 2022-04-28 | md       | 2022-04-28   |
 
 <!--END_SECTION:my_github-->
 
