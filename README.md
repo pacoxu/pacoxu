@@ -63,7 +63,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-11-06](https://github.com/kubernetes/kubernetes/pull/121749)     | [440](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-11-06](https://github.com/kubernetes/kubernetes/pull/121749)     | [439](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-11-01](https://github.com/kubernetes/website/pull/43769)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-10-20](https://github.com/kubernetes/test-infra/pull/31081)      | [33](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-09-04](https://github.com/kubernetes/enhancements/pull/4173)     | [24](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-image-py](https://github.com/realityone/docker-image-py)                                 | 2018-06-07 | Python   | 2023-05-23   |
-|  2 | [etcd-issues](https://github.com/ahrtr/etcd-issues)                                              | 2023-04-04 | Go       | 2023-09-11   |
-|  3 | [awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) | 2022-10-20 | HTML     | 2023-11-11   |
-|  4 | [kube-entropy](https://github.com/alexlokshin/kube-entropy)                                      | 2019-10-14 | Go       | 2023-05-14   |
-|  5 | [my-github-status](https://github.com/MrCoder/my-github-status)                                  | 2022-04-28 | md       | 2022-04-28   |
+| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)                                       | 2016-04-24 | Ruby     | 2023-10-04   |
+|  2 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)                                    | 2022-03-11 | md       | 2023-10-03   |
+|  3 | [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) | 2019-07-23 | Go       | 2023-11-11   |
+|  4 | [resume-vue](https://github.com/nusr/resume-vue)                                                      | 2023-01-03 | Vue      | 2023-06-17   |
+|  5 | [landscape](https://github.com/cncf/landscape)                                                        | 2023-06-20 | CSS      | 2023-11-12   |
 
 <!--END_SECTION:my_github-->
 
