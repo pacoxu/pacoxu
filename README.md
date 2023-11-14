@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)                                       | 2016-04-24 | Ruby     | 2023-10-04   |
-|  2 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)                                    | 2022-03-11 | md       | 2023-10-03   |
-|  3 | [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) | 2019-07-23 | Go       | 2023-11-11   |
-|  4 | [resume-vue](https://github.com/nusr/resume-vue)                                                      | 2023-01-03 | Vue      | 2023-06-17   |
-|  5 | [landscape](https://github.com/cncf/landscape)                                                        | 2023-06-20 | CSS      | 2023-11-12   |
+| ID |                                           REPO                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [github-todos](https://github.com/naholyr/github-todos)                                   | 2020-12-13 | JavaScript       | 2023-11-09   |
+|  2 | [aws-virtual-gpu-device-plugin](https://github.com/awslabs/aws-virtual-gpu-device-plugin) | 2020-06-11 | Jupyter Notebook | 2023-10-30   |
+|  3 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)                           | 2016-04-24 | Ruby             | 2023-10-04   |
+|  4 | [cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager)              | 2022-10-17 | Rust             | 2023-10-27   |
+|  5 | [kqr-pay](https://github.com/markito/kqr-pay)                                             | 2019-10-08 | Java             | 2022-09-12   |
 
 <!--END_SECTION:my_github-->
 
