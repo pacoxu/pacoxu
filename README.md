@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [github-todos](https://github.com/naholyr/github-todos)                                   | 2020-12-13 | JavaScript       | 2023-11-09   |
-|  2 | [aws-virtual-gpu-device-plugin](https://github.com/awslabs/aws-virtual-gpu-device-plugin) | 2020-06-11 | Jupyter Notebook | 2023-10-30   |
-|  3 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)                           | 2016-04-24 | Ruby             | 2023-10-04   |
-|  4 | [cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager)              | 2022-10-17 | Rust             | 2023-10-27   |
-|  5 | [kqr-pay](https://github.com/markito/kqr-pay)                                             | 2019-10-08 | Java             | 2022-09-12   |
+| ID |                                                    REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver)                                | 2023-09-05 | Go       | 2023-09-12   |
+|  2 | [docker-demo-java-mongo](https://github.com/DaoCloud/docker-demo-java-mongo)                               | 2016-05-01 | Java     | 2022-09-25   |
+|  3 | [kube-green](https://github.com/kube-green/kube-green)                                                     | 2023-10-12 | Go       | 2023-11-14   |
+|  4 | [cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) | 2021-08-07 | Go       | 2023-11-09   |
+|  5 | [umoci](https://github.com/opencontainers/umoci)                                                           | 2021-09-02 | Go       | 2023-11-14   |
 
 <!--END_SECTION:my_github-->
 
