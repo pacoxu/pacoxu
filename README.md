@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [volcano](https://github.com/volcano-sh/volcano)                   | 2022-09-27 | Go       | 2023-11-16   |
-|  2 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli) | 2018-01-15 | Python   | 2023-10-13   |
-|  3 | [my-github-status](https://github.com/pacoxu/my-github-status)     | 2023-01-29 | md       | 2023-01-29   |
-|  4 | [scope](https://github.com/weaveworks/scope)                       | 2017-11-27 | Go       | 2023-11-15   |
-|  5 | [k8s-club](https://github.com/k8s-club/k8s-club)                   | 2023-07-12 | md       | 2023-11-09   |
+| ID |                                          REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubectl](https://github.com/kubernetes/kubectl)                                        | 2020-11-05 | Go       | 2023-11-16   |
+|  2 | [the-algorithm](https://github.com/twitter/the-algorithm)                               | 2023-04-04 | Scala    | 2023-11-17   |
+|  3 | [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) | 2021-03-17 | Go       | 2023-11-16   |
+|  4 | [iouring-go](https://github.com/Iceber/iouring-go)                                      | 2021-10-19 | Go       | 2023-11-16   |
+|  5 | [coredns](https://github.com/coredns/coredns)                                           | 2019-05-30 | Go       | 2023-11-16   |
 
 <!--END_SECTION:my_github-->
 
