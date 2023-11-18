@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubectl](https://github.com/kubernetes/kubectl)                                        | 2020-11-05 | Go       | 2023-11-16   |
-|  2 | [the-algorithm](https://github.com/twitter/the-algorithm)                               | 2023-04-04 | Scala    | 2023-11-17   |
-|  3 | [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) | 2021-03-17 | Go       | 2023-11-16   |
-|  4 | [iouring-go](https://github.com/Iceber/iouring-go)                                      | 2021-10-19 | Go       | 2023-11-16   |
-|  5 | [coredns](https://github.com/coredns/coredns)                                           | 2019-05-30 | Go       | 2023-11-16   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ebpf](https://github.com/nccgroup/ebpf)                                                 | 2020-12-02 | Python     | 2023-11-07   |
+|  2 | [protobuild](https://github.com/containerd/protobuild)                                   | 2021-03-19 | Go         | 2023-11-10   |
+|  3 | [webiny-js](https://github.com/webiny/webiny-js)                                         | 2020-11-30 | TypeScript | 2023-11-17   |
+|  4 | [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) | 2021-06-24 | Go         | 2023-10-30   |
+|  5 | [weekly](https://github.com/ruanyf/weekly)                                               | 2022-04-28 | md         | 2023-11-18   |
 
 <!--END_SECTION:my_github-->
 
