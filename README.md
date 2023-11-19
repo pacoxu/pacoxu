@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ebpf](https://github.com/nccgroup/ebpf)                                                 | 2020-12-02 | Python     | 2023-11-07   |
-|  2 | [protobuild](https://github.com/containerd/protobuild)                                   | 2021-03-19 | Go         | 2023-11-10   |
-|  3 | [webiny-js](https://github.com/webiny/webiny-js)                                         | 2020-11-30 | TypeScript | 2023-11-17   |
-|  4 | [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) | 2021-06-24 | Go         | 2023-10-30   |
-|  5 | [weekly](https://github.com/ruanyf/weekly)                                               | 2022-04-28 | md         | 2023-11-18   |
+| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [learning-knative](https://github.com/skyao/learning-knative)  | 2019-09-06 | HTML       | 2023-01-28   |
+|  2 | [asciiflow](https://github.com/lewish/asciiflow)               | 2023-06-15 | TypeScript | 2023-11-18   |
+|  3 | [atlas](https://github.com/alibaba/atlas)                      | 2017-03-18 | Java       | 2023-11-08   |
+|  4 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2013-12-25 | PowerShell | 2023-11-17   |
+|  5 | [volplugin](https://github.com/contiv-experimental/volplugin)  | 2016-06-29 | Go         | 2023-10-23   |
 
 <!--END_SECTION:my_github-->
 
