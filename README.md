@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kernel-module-management](https://github.com/kubernetes-sigs/kernel-module-management) | 2023-06-25 | Go       | 2023-11-07   |
-|  2 | [gatekeeper](https://github.com/open-policy-agent/gatekeeper)                           | 2020-05-21 | Go       | 2023-11-18   |
-|  3 | [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)                | 2023-03-22 | md       | 2023-11-19   |
-|  4 | [lighthouse](https://github.com/submariner-io/lighthouse)                               | 2022-04-25 | Go       | 2023-11-14   |
-|  5 | [audit2rbac](https://github.com/liggitt/audit2rbac)                                     | 2023-05-24 | Go       | 2023-11-14   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [protobuild](https://github.com/containerd/protobuild)                          | 2021-03-19 | Go         | 2023-11-10   |
+|  2 | [tgik](https://github.com/vmware-archive/tgik)                                  | 2019-11-01 | Shell      | 2023-11-10   |
+|  3 | [kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide) | 2020-05-22 | Shell      | 2023-10-25   |
+|  4 | [dotemacs](https://github.com/marun/dotemacs)                                   | 2020-01-10 | Emacs Lisp | 2023-04-10   |
+|  5 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)                   | 2022-03-10 | Go         | 2023-11-20   |
 
 <!--END_SECTION:my_github-->
 
