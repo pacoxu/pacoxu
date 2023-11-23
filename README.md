@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [hostroutes](https://github.com/kubeup/hostroutes)                 | 2017-11-27 | Go       | 2022-11-23   |
-|  2 | [docs](https://github.com/DaoCloud-OpenSource/docs)                | 2023-05-31 | md       | 2023-07-26   |
-|  3 | [interlock](https://github.com/ehazlett/interlock)                 | 2016-04-27 | Go       | 2023-10-20   |
-|  4 | [AkkaSamples](https://github.com/mariogleichmann/AkkaSamples)      | 2013-07-03 | Scala    | 2016-04-25   |
-|  5 | [contributor-site](https://github.com/kubernetes/contributor-site) | 2021-07-26 | HTML     | 2023-10-05   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [plugins](https://github.com/containernetworking/plugins)                            | 2017-12-19 | Go       | 2023-11-21   |
+|  2 | [jepsen](https://github.com/jepsen-io/jepsen)                                        | 2017-12-12 | Clojure  | 2023-11-22   |
+|  3 | [nagioscore](https://github.com/NagiosEnterprises/nagioscore)                        | 2017-12-08 | C        | 2023-11-20   |
+|  4 | [Fractional-GPUs](https://github.com/sakjain92/Fractional-GPUs)                      | 2020-06-11 | C        | 2023-11-05   |
+|  5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2021-03-23 | Java     | 2023-11-23   |
 
 <!--END_SECTION:my_github-->
 
