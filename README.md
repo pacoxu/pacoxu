@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [plugins](https://github.com/containernetworking/plugins)                            | 2017-12-19 | Go       | 2023-11-21   |
-|  2 | [jepsen](https://github.com/jepsen-io/jepsen)                                        | 2017-12-12 | Clojure  | 2023-11-22   |
-|  3 | [nagioscore](https://github.com/NagiosEnterprises/nagioscore)                        | 2017-12-08 | C        | 2023-11-20   |
-|  4 | [Fractional-GPUs](https://github.com/sakjain92/Fractional-GPUs)                      | 2020-06-11 | C        | 2023-11-05   |
-|  5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 2021-03-23 | Java     | 2023-11-23   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [istio-dce](https://github.com/yangchuansheng/istio-dce)                                 | 2019-07-12 | Shell    | 2019-07-26   |
+|  2 | [Python-Webscraping-Program](https://github.com/nicholls-git/Python-Webscraping-Program) | 2023-05-04 | Python   | 2023-05-04   |
+|  3 | [weekly](https://github.com/ruanyf/weekly)                                               | 2022-04-28 | md       | 2023-11-23   |
+|  4 | [cluster-api-provider-maas](https://github.com/spectrocloud/cluster-api-provider-maas)   | 2022-03-11 | Go       | 2023-11-20   |
+|  5 | [kaniuse](https://github.com/kaniuse/kaniuse)                                            | 2023-01-01 | Go       | 2023-10-17   |
 
 <!--END_SECTION:my_github-->
 
