@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio-dce](https://github.com/yangchuansheng/istio-dce)                                 | 2019-07-12 | Shell    | 2019-07-26   |
-|  2 | [Python-Webscraping-Program](https://github.com/nicholls-git/Python-Webscraping-Program) | 2023-05-04 | Python   | 2023-05-04   |
-|  3 | [weekly](https://github.com/ruanyf/weekly)                                               | 2022-04-28 | md       | 2023-11-23   |
-|  4 | [cluster-api-provider-maas](https://github.com/spectrocloud/cluster-api-provider-maas)   | 2022-03-11 | Go       | 2023-11-20   |
-|  5 | [kaniuse](https://github.com/kaniuse/kaniuse)                                            | 2023-01-01 | Go       | 2023-10-17   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [coredns](https://github.com/coredns/coredns)          | 2019-05-30 | Go       | 2023-11-24   |
+|  2 | [kubicorn](https://github.com/kubicorn/kubicorn)       | 2017-10-13 | Go       | 2023-11-24   |
+|  3 | [dumb-init](https://github.com/Yelp/dumb-init)         | 2019-04-18 | Python   | 2023-11-24   |
+|  4 | [gitdm.archive](https://github.com/cncf/gitdm.archive) | 2021-02-26 | Ruby     | 2023-08-31   |
+|  5 | [interlock](https://github.com/ehazlett/interlock)     | 2016-04-27 | Go       | 2023-10-20   |
 
 <!--END_SECTION:my_github-->
 
