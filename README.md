@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|----------|--------------|
-|  1 | [weekly](https://github.com/ruanyf/weekly)                    | 2022-04-28 | md       | 2023-11-25   |
-|  2 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)   | 2019-06-05 | Python   | 2023-10-28   |
-|  3 | [nginmesh](https://github.com/nginxinc/nginmesh)              | 2018-10-25 | Go       | 2023-07-07   |
-|  4 | [antrea](https://github.com/antrea-io/antrea)                 | 2020-10-09 | Go       | 2023-11-25   |
-|  5 | [person-blocker](https://github.com/minimaxir/person-blocker) | 2019-10-24 | Python   | 2023-11-24   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)               | 2021-03-24 | Go       | 2023-11-26   |
+|  2 | [egressgateway](https://github.com/spidernet-io/egressgateway) | 2023-06-15 | Go       | 2023-11-17   |
+|  3 | [kube-activator](https://github.com/wzshiming/kube-activator)  | 2023-09-25 | Go       | 2023-10-20   |
+|  4 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist)      | 2021-03-03 | Go       | 2023-10-18   |
+|  5 | [kubekit](https://github.com/Orientsoft/kubekit)               | 2017-08-31 | Go       | 2023-11-24   |
 
 <!--END_SECTION:my_github-->
 
