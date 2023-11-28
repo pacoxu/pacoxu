@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)               | 2021-03-24 | Go       | 2023-11-26   |
-|  2 | [egressgateway](https://github.com/spidernet-io/egressgateway) | 2023-06-15 | Go       | 2023-11-17   |
-|  3 | [kube-activator](https://github.com/wzshiming/kube-activator)  | 2023-09-25 | Go       | 2023-10-20   |
-|  4 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist)      | 2021-03-03 | Go       | 2023-10-18   |
-|  5 | [kubekit](https://github.com/Orientsoft/kubekit)               | 2017-08-31 | Go       | 2023-11-24   |
+| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|------------|--------------|
+|  1 | [goshop](https://github.com/pzhgugu/goshop)                  | 2016-12-08 | JavaScript | 2023-08-11   |
+|  2 | [argo-workflows](https://github.com/argoproj/argo-workflows) | 2020-07-28 | Go         | 2023-11-27   |
+|  3 | [solo](https://github.com/b3log/solo)                        | 2017-04-05 | Java       | 2023-11-27   |
+|  4 | [community](https://github.com/istio/community)              | 2023-10-02 | Go         | 2023-11-27   |
+|  5 | [profile_stats](https://github.com/wzshiming/profile_stats)  | 2022-03-08 | Go         | 2022-03-08   |
 
 <!--END_SECTION:my_github-->
 
