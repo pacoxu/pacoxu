@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                                        REPO                                                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [container-object-storage-interface-provisioner-sidecar](https://github.com/kubernetes-sigs/container-object-storage-interface-provisioner-sidecar) | 2021-03-23 | Go       | 2023-11-28   |
-|  2 | [spring-social-google](https://github.com/spring-social/spring-social-google)                                                                       | 2012-07-20 | Java     | 2023-10-23   |
-|  3 | [karmada-operator](https://github.com/DaoCloud/karmada-operator)                                                                                    | 2022-10-12 | Go       | 2022-10-13   |
-|  4 | [awesome4girls](https://github.com/cristianoliveira/awesome4girls)                                                                                  | 2023-10-12 | Ruby     | 2023-11-15   |
-|  5 | [AkkaSamples](https://github.com/mariogleichmann/AkkaSamples)                                                                                       | 2013-07-03 | Scala    | 2016-04-25   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubectl-trace](https://github.com/iovisor/kubectl-trace)            | 2021-01-19 | Go       | 2023-11-29   |
+|  2 | [open-source-guides](https://github.com/tisonkun/open-source-guides) | 2022-05-24 | HTML     | 2023-01-27   |
+|  3 | [karmada-operator](https://github.com/DaoCloud/karmada-operator)     | 2022-10-12 | Go       | 2022-10-13   |
+|  4 | [kaniuse](https://github.com/kaniuse/kaniuse)                        | 2023-01-01 | Go       | 2023-10-17   |
+|  5 | [fedstate](https://github.com/fedstate/fedstate)                     | 2023-06-05 | Go       | 2023-09-26   |
 
 <!--END_SECTION:my_github-->
 
