@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [github-queries](https://github.com/SergeyKanzhelev/github-queries)        | 2021-04-14 | Go       | 2023-04-10   |
-|  2 | [contributor-site](https://github.com/kubernetes/contributor-site)         | 2021-07-26 | HTML     | 2023-10-05   |
-|  3 | [kubernetes](https://github.com/AliyunContainerService/kubernetes)         | 2017-05-22 | Go       | 2021-11-19   |
-|  4 | [oniguruma](https://github.com/kkos/oniguruma)                             | 2019-03-19 | C        | 2023-12-01   |
-|  5 | [skywalking-tutorials](https://github.com/JaredTan95/skywalking-tutorials) | 2022-01-20 | Java     | 2023-10-31   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [example-voting-app](https://github.com/DaoCloud/example-voting-app) | 2016-09-06 | JavaScript | 2022-03-19   |
+|  2 | [landscape](https://github.com/cncf/landscape)                       | 2023-06-20 | CSS        | 2023-11-30   |
+|  3 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)        | 2019-03-19 | Mustache   | 2023-10-29   |
+|  4 | [llmlite](https://github.com/InftyAI/llmlite)                        | 2023-10-09 | Python     | 2023-11-28   |
+|  5 | [steering](https://github.com/pacoxu/steering)                       | 2023-10-04 | md         | 2023-10-04   |
 
 <!--END_SECTION:my_github-->
 
