@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [example-voting-app](https://github.com/DaoCloud/example-voting-app) | 2016-09-06 | JavaScript | 2022-03-19   |
-|  2 | [landscape](https://github.com/cncf/landscape)                       | 2023-06-20 | CSS        | 2023-11-30   |
-|  3 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)        | 2019-03-19 | Mustache   | 2023-10-29   |
-|  4 | [llmlite](https://github.com/InftyAI/llmlite)                        | 2023-10-09 | Python     | 2023-11-28   |
-|  5 | [steering](https://github.com/pacoxu/steering)                       | 2023-10-04 | md         | 2023-10-04   |
+| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [docker-atlassian-confluence](https://github.com/cptactionhank/docker-atlassian-confluence) | 2016-06-06 | Ruby     | 2023-11-22   |
+|  2 | [thanos](https://github.com/thanos-io/thanos)                                               | 2021-04-19 | Go       | 2023-12-02   |
+|  3 | [metrics-server](https://github.com/kubernetes-sigs/metrics-server)                         | 2019-03-19 | Go       | 2023-12-01   |
+|  4 | [docker-openldap](https://github.com/dinkel/docker-openldap)                                | 2016-09-23 | Shell    | 2023-11-26   |
+|  5 | [hyperkit](https://github.com/moby/hyperkit)                                                | 2016-05-18 | C        | 2023-12-02   |
 
 <!--END_SECTION:my_github-->
 
