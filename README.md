@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-atlassian-confluence](https://github.com/cptactionhank/docker-atlassian-confluence) | 2016-06-06 | Ruby     | 2023-11-22   |
-|  2 | [thanos](https://github.com/thanos-io/thanos)                                               | 2021-04-19 | Go       | 2023-12-02   |
-|  3 | [metrics-server](https://github.com/kubernetes-sigs/metrics-server)                         | 2019-03-19 | Go       | 2023-12-01   |
-|  4 | [docker-openldap](https://github.com/dinkel/docker-openldap)                                | 2016-09-23 | Shell    | 2023-11-26   |
-|  5 | [hyperkit](https://github.com/moby/hyperkit)                                                | 2016-05-18 | C        | 2023-12-02   |
+| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | 2023-03-04 | Python   | 2023-12-03   |
+|  2 | [calculators](https://github.com/pacoxu/calculators)                       | 2014-01-08 | Java     | 2021-04-07   |
+|  3 | [charts](https://github.com/helm/charts)                                   | 2019-04-01 | Go       | 2023-12-02   |
+|  4 | [fake-kubelet](https://github.com/wzshiming/fake-kubelet)                  | 2022-05-19 | Go       | 2023-08-23   |
+|  5 | [kubekit](https://github.com/Orientsoft/kubekit)                           | 2017-08-31 | Go       | 2023-11-24   |
 
 <!--END_SECTION:my_github-->
 
