@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | 2023-03-04 | Python   | 2023-12-03   |
-|  2 | [calculators](https://github.com/pacoxu/calculators)                       | 2014-01-08 | Java     | 2021-04-07   |
-|  3 | [charts](https://github.com/helm/charts)                                   | 2019-04-01 | Go       | 2023-12-02   |
-|  4 | [fake-kubelet](https://github.com/wzshiming/fake-kubelet)                  | 2022-05-19 | Go       | 2023-08-23   |
-|  5 | [kubekit](https://github.com/Orientsoft/kubekit)                           | 2017-08-31 | Go       | 2023-11-24   |
+| ID |                                            REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [gpt4all](https://github.com/nomic-ai/gpt4all)                                             | 2023-03-29 | C++      | 2023-12-04   |
+|  2 | [piraeus](https://github.com/piraeusdatastore/piraeus)                                     | 2021-03-24 | Shell    | 2023-12-04   |
+|  3 | [runtime-spec](https://github.com/opencontainers/runtime-spec)                             | 2021-09-23 | Go       | 2023-12-04   |
+|  4 | [vsphere-storage-for-docker](https://github.com/vmware-archive/vsphere-storage-for-docker) | 2016-08-17 | Python   | 2023-09-26   |
+|  5 | [hugo](https://github.com/gohugoio/hugo)                                                   | 2016-06-06 | Go       | 2023-12-04   |
 
 <!--END_SECTION:my_github-->
 
