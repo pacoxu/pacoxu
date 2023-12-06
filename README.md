@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                            REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gpt4all](https://github.com/nomic-ai/gpt4all)                                             | 2023-03-29 | C++      | 2023-12-04   |
-|  2 | [piraeus](https://github.com/piraeusdatastore/piraeus)                                     | 2021-03-24 | Shell    | 2023-12-04   |
-|  3 | [runtime-spec](https://github.com/opencontainers/runtime-spec)                             | 2021-09-23 | Go       | 2023-12-04   |
-|  4 | [vsphere-storage-for-docker](https://github.com/vmware-archive/vsphere-storage-for-docker) | 2016-08-17 | Python   | 2023-09-26   |
-|  5 | [hugo](https://github.com/gohugoio/hugo)                                                   | 2016-06-06 | Go       | 2023-12-04   |
+| ID |                                           REPO                                           | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [Python-Webscraping-Program](https://github.com/nicholls-git/Python-Webscraping-Program) | 2023-05-04 | Python           | 2023-05-04   |
+|  2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)                                   | 2023-10-11 | Python           | 2023-10-12   |
+|  3 | [community](https://github.com/kubernetes/community)                                     | 2019-06-24 | Jupyter Notebook | 2023-12-05   |
+|  4 | [k8s-netchecker-agent](https://github.com/Mirantis/k8s-netchecker-agent)                 | 2017-06-07 | Go               | 2023-05-18   |
+|  5 | [kubekit](https://github.com/Orientsoft/kubekit)                                         | 2017-08-31 | Go               | 2023-11-24   |
 
 <!--END_SECTION:my_github-->
 
