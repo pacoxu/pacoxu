@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                              REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-demo-java-mongo](https://github.com/DaoCloud/docker-demo-java-mongo)                    | 2016-05-01 | Java     | 2022-09-25   |
-|  2 | [piraeus](https://github.com/piraeusdatastore/piraeus)                                          | 2021-03-24 | Shell    | 2023-12-04   |
-|  3 | [elasticsearch](https://github.com/pacoxu/elasticsearch)                                        | 2014-04-18 | Java     | 2021-04-07   |
-|  4 | [kratos](https://github.com/go-kratos/kratos)                                                   | 2019-05-15 | Go       | 2023-12-07   |
-|  5 | [nexentastor-docker-volume-plugin](https://github.com/Nexenta/nexentastor-docker-volume-plugin) | 2017-03-28 | Go       | 2020-08-14   |
+| ID |                                                   REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories)                       | 2019-04-01 | HTML     | 2023-12-07   |
+|  2 | [oneinfra](https://github.com/oneinfra/oneinfra)                                                          | 2020-07-28 | Go       | 2023-11-24   |
+|  3 | [alluxio](https://github.com/Alluxio/alluxio)                                                             | 2021-04-08 | Java     | 2023-12-08   |
+|  4 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go       | 2023-08-02   |
+|  5 | [Attack_Code](https://github.com/Esonhugh/Attack_Code)                                                    | 2023-09-07 | Shell    | 2023-12-04   |
 
 <!--END_SECTION:my_github-->
 
