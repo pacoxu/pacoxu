@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                   REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories)                       | 2019-04-01 | HTML     | 2023-12-07   |
-|  2 | [oneinfra](https://github.com/oneinfra/oneinfra)                                                          | 2020-07-28 | Go       | 2023-11-24   |
-|  3 | [alluxio](https://github.com/Alluxio/alluxio)                                                             | 2021-04-08 | Java     | 2023-12-08   |
-|  4 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go       | 2023-08-02   |
-|  5 | [Attack_Code](https://github.com/Esonhugh/Attack_Code)                                                    | 2023-09-07 | Shell    | 2023-12-04   |
+| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)            | 2016-04-24 | Ruby     | 2023-10-04   |
+|  2 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | 2023-03-04 | Python   | 2023-12-09   |
+|  3 | [docker-slapd](https://github.com/nickstenning/docker-slapd)               | 2017-02-16 | Shell    | 2023-11-13   |
+|  4 | [oam-simple-demo](https://github.com/harmonycloud/oam-simple-demo)         | 2020-07-06 | md       | 2020-08-01   |
+|  5 | [my-github-status](https://github.com/MrCoder/my-github-status)            | 2022-04-28 | md       | 2022-04-28   |
 
 <!--END_SECTION:my_github-->
 
