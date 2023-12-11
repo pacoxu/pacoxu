@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)            | 2016-04-24 | Ruby     | 2023-10-04   |
-|  2 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | 2023-03-04 | Python   | 2023-12-09   |
-|  3 | [docker-slapd](https://github.com/nickstenning/docker-slapd)               | 2017-02-16 | Shell    | 2023-11-13   |
-|  4 | [oam-simple-demo](https://github.com/harmonycloud/oam-simple-demo)         | 2020-07-06 | md       | 2020-08-01   |
-|  5 | [my-github-status](https://github.com/MrCoder/my-github-status)            | 2022-04-28 | md       | 2022-04-28   |
+| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|----------|--------------|
+|  1 | [HackFlowy](https://github.com/abhshkdz/HackFlowy)           | 2014-09-02 | CSS      | 2023-11-18   |
+|  2 | [kubedev](https://github.com/zhouya0/kubedev)                | 2020-11-03 | Go       | 2021-06-04   |
+|  3 | [books-1](https://github.com/yowenter/books-1)               | 2019-04-02 | Python   | 2019-12-12   |
+|  4 | [kubekit](https://github.com/Orientsoft/kubekit)             | 2017-08-31 | Go       | 2023-11-24   |
+|  5 | [TranslateProject](https://github.com/LCTT/TranslateProject) | 2019-02-21 | Shell    | 2023-12-10   |
 
 <!--END_SECTION:my_github-->
 
