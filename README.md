@@ -74,13 +74,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [top-github-users](https://github.com/gayanvoice/top-github-users) | 2022-05-27 | md       | 2023-12-11   |
-|  2 | [composer](https://github.com/composer/composer)                   | 2016-10-19 | PHP      | 2023-12-11   |
-|  3 | [brigade](https://github.com/brigadecore/brigade)                  | 2018-05-14 | Go       | 2023-12-11   |
-|  4 | [nginmesh](https://github.com/nginxinc/nginmesh)                   | 2018-10-25 | Go       | 2023-12-11   |
-|  5 | [rikka](https://github.com/7sDream/rikka)                          | 2016-09-14 | Go       | 2023-11-15   |
+| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|----------|--------------|
+|  1 | [utils](https://github.com/kubernetes/utils)                 | 2021-02-01 | Go       | 2023-12-10   |
+|  2 | [vagrant](https://github.com/thecodeteam/vagrant)            | 2016-04-24 | Shell    | 2020-12-17   |
+|  3 | [ebpf-slide](https://github.com/gojue/ebpf-slide)            | 2022-06-07 | md       | 2023-12-11   |
+|  4 | [docker-volumes](https://github.com/cpuguy83/docker-volumes) | 2016-06-15 | Go       | 2023-07-07   |
+|  5 | [graphdot](https://github.com/ewohltman/graphdot)            | 2021-05-21 | Go       | 2023-11-07   |
 
 <!--END_SECTION:my_github-->
 
