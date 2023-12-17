@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [elasticsearch](https://github.com/pacoxu/elasticsearch)           | 2014-04-18 | Java     | 2021-04-07   |
-|  2 | [cni](https://github.com/containernetworking/cni)                  | 2017-12-19 | Go       | 2023-12-15   |
-|  3 | [nagioscore](https://github.com/NagiosEnterprises/nagioscore)      | 2017-12-08 | C        | 2023-12-15   |
-|  4 | [fedstate](https://github.com/fedstate/fedstate)                   | 2023-06-05 | Go       | 2023-12-11   |
-|  5 | [oam-simple-demo](https://github.com/harmonycloud/oam-simple-demo) | 2020-07-06 | md       | 2020-08-01   |
+| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|----------|--------------|
+|  1 | [gods](https://github.com/emirpasic/gods)                     | 2019-09-29 | Go       | 2023-12-16   |
+|  2 | [prsqlite](https://github.com/kawasin73/prsqlite)             | 2023-08-27 | Rust     | 2023-12-12   |
+|  3 | [kyverno](https://github.com/kyverno/kyverno)                 | 2021-05-31 | Go       | 2023-12-16   |
+|  4 | [Blogs](https://github.com/kerthcet/Blogs)                    | 2021-09-22 | md       | 2022-08-06   |
+|  5 | [kube-activator](https://github.com/wzshiming/kube-activator) | 2023-09-25 | Go       | 2023-10-20   |
 
 <!--END_SECTION:my_github-->
 
