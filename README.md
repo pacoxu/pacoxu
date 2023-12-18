@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gods](https://github.com/emirpasic/gods)                     | 2019-09-29 | Go       | 2023-12-16   |
-|  2 | [prsqlite](https://github.com/kawasin73/prsqlite)             | 2023-08-27 | Rust     | 2023-12-12   |
-|  3 | [kyverno](https://github.com/kyverno/kyverno)                 | 2021-05-31 | Go       | 2023-12-16   |
-|  4 | [Blogs](https://github.com/kerthcet/Blogs)                    | 2021-09-22 | md       | 2022-08-06   |
-|  5 | [kube-activator](https://github.com/wzshiming/kube-activator) | 2023-09-25 | Go       | 2023-10-20   |
+| ID |                                              REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Artistic-Image-Style-Transfer](https://github.com/hashmi-masif/Artistic-Image-Style-Transfer) | 2019-10-24 | Python     | 2019-10-24   |
+|  2 | [ant-design](https://github.com/ant-design/ant-design)                                         | 2021-02-18 | TypeScript | 2023-12-17   |
+|  3 | [ThreatMapper](https://github.com/deepfence/ThreatMapper)                                      | 2022-08-26 | TypeScript | 2023-12-17   |
+|  4 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver)                    | 2023-09-05 | Go         | 2023-11-16   |
+|  5 | [glances](https://github.com/nicolargo/glances)                                                | 2016-05-14 | Python     | 2023-12-18   |
 
 <!--END_SECTION:my_github-->
 
