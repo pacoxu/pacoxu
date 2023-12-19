@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                              REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Artistic-Image-Style-Transfer](https://github.com/hashmi-masif/Artistic-Image-Style-Transfer) | 2019-10-24 | Python     | 2019-10-24   |
-|  2 | [ant-design](https://github.com/ant-design/ant-design)                                         | 2021-02-18 | TypeScript | 2023-12-17   |
-|  3 | [ThreatMapper](https://github.com/deepfence/ThreatMapper)                                      | 2022-08-26 | TypeScript | 2023-12-17   |
-|  4 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver)                    | 2023-09-05 | Go         | 2023-11-16   |
-|  5 | [glances](https://github.com/nicolargo/glances)                                                | 2016-05-14 | Python     | 2023-12-18   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [consul](https://github.com/hashicorp/consul)                        | 2019-10-19 | Go         | 2023-12-18   |
+|  2 | [example-voting-app](https://github.com/DaoCloud/example-voting-app) | 2016-09-06 | JavaScript | 2022-03-19   |
+|  3 | [same](https://github.com/rking/same)                                | 2020-12-17 | Java       | 2023-04-11   |
+|  4 | [world_cup_json](https://github.com/estiens/world_cup_json)          | 2018-05-13 | Ruby       | 2023-12-10   |
+|  5 | [rikka](https://github.com/7sDream/rikka)                            | 2016-09-14 | Go         | 2023-11-15   |
 
 <!--END_SECTION:my_github-->
 
