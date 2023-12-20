@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [consul](https://github.com/hashicorp/consul)                        | 2019-10-19 | Go         | 2023-12-18   |
-|  2 | [example-voting-app](https://github.com/DaoCloud/example-voting-app) | 2016-09-06 | JavaScript | 2022-03-19   |
-|  3 | [same](https://github.com/rking/same)                                | 2020-12-17 | Java       | 2023-04-11   |
-|  4 | [world_cup_json](https://github.com/estiens/world_cup_json)          | 2018-05-13 | Ruby       | 2023-12-10   |
-|  5 | [rikka](https://github.com/7sDream/rikka)                            | 2016-09-14 | Go         | 2023-11-15   |
+| ID |                                                REPO                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [OpenSourceSoftwareCase-awesome](https://github.com/MorningSunKing/OpenSourceSoftwareCase-awesome) | 2023-08-04 | md       | 2023-09-17   |
+|  2 | [distroless](https://github.com/GoogleContainerTools/distroless)                                   | 2022-05-07 | Starlark | 2023-12-19   |
+|  3 | [profile_stats](https://github.com/wzshiming/profile_stats)                                        | 2022-03-08 | Go       | 2022-03-08   |
+|  4 | [community](https://github.com/klts-io/community)                                                  | 2021-11-17 | md       | 2021-12-01   |
+|  5 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)                               | 2019-10-14 | Java     | 2023-12-19   |
 
 <!--END_SECTION:my_github-->
 
