@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                REPO                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [OpenSourceSoftwareCase-awesome](https://github.com/MorningSunKing/OpenSourceSoftwareCase-awesome) | 2023-08-04 | md       | 2023-09-17   |
-|  2 | [distroless](https://github.com/GoogleContainerTools/distroless)                                   | 2022-05-07 | Starlark | 2023-12-19   |
-|  3 | [profile_stats](https://github.com/wzshiming/profile_stats)                                        | 2022-03-08 | Go       | 2022-03-08   |
-|  4 | [community](https://github.com/klts-io/community)                                                  | 2021-11-17 | md       | 2021-12-01   |
-|  5 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)                               | 2019-10-14 | Java     | 2023-12-19   |
+| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL      | 2023-12-03   |
+|  2 | [merbridge](https://github.com/merbridge/merbridge)                                                 | 2022-03-29 | Go       | 2023-12-15   |
+|  3 | [profile_stats](https://github.com/wzshiming/profile_stats)                                         | 2022-03-08 | Go       | 2022-03-08   |
+|  4 | [kqr-pay](https://github.com/markito/kqr-pay)                                                       | 2019-10-08 | Java     | 2022-09-12   |
+|  5 | [ctop](https://github.com/bcicen/ctop)                                                              | 2017-05-22 | Go       | 2023-12-20   |
 
 <!--END_SECTION:my_github-->
 
