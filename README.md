@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng)                          | 2018-01-16 | Java     | 2023-04-15   |
-|  2 | [kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide)                     | 2020-05-22 | Shell    | 2023-12-17   |
-|  3 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)                              | 2021-09-17 | Shell    | 2023-12-21   |
-|  4 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver)                         | 2023-09-05 | Go       | 2023-12-18   |
-|  5 | [jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) | 2019-01-20 | Shell    | 2023-12-18   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [knative-inspect](https://github.com/nimakaviani/knative-inspect)                        | 2019-11-13 | Go         | 2023-09-20   |
+|  2 | [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)                             | 2022-04-20 | md         | 2023-12-22   |
+|  3 | [committee-security-response](https://github.com/kubernetes/committee-security-response) | 2023-10-26 | md         | 2023-11-17   |
+|  4 | [kubectl](https://github.com/kubernetes/kubectl)                                         | 2020-11-05 | Go         | 2023-12-22   |
+|  5 | [dao-2048](https://github.com/DaoCloud/dao-2048)                                         | 2016-04-18 | JavaScript | 2023-12-12   |
 
 <!--END_SECTION:my_github-->
 
