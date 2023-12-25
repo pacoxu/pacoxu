@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [rikka](https://github.com/7sDream/rikka)                            | 2016-09-14 | Go       | 2023-11-15   |
-|  2 | [open-source-guides](https://github.com/tisonkun/open-source-guides) | 2022-05-24 | HTML     | 2023-01-27   |
-|  3 | [flow.ci](https://github.com/FIRHQ/flow.ci)                          | 2016-08-19 | md       | 2022-09-09   |
-|  4 | [bcc](https://github.com/iovisor/bcc)                                | 2021-09-06 | C        | 2023-12-23   |
-|  5 | [audit2rbac](https://github.com/liggitt/audit2rbac)                  | 2023-05-24 | Go       | 2023-12-09   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [istio](https://github.com/istio/istio)                                 | 2019-08-12 | Go         | 2023-12-24   |
+|  2 | [ThreatMapper](https://github.com/deepfence/ThreatMapper)               | 2022-08-26 | TypeScript | 2023-12-24   |
+|  3 | [github-pr-summary](https://github.com/flows-network/github-pr-summary) | 2023-06-25 | Rust       | 2023-12-22   |
+|  4 | [steering](https://github.com/pacoxu/steering)                          | 2023-10-04 | md         | 2023-10-04   |
+|  5 | [GitHub520](https://github.com/521xueweihan/GitHub520)                  | 2023-03-29 | Python     | 2023-12-24   |
 
 <!--END_SECTION:my_github-->
 
