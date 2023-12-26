@@ -61,7 +61,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-12-15](https://github.com/kubernetes/kubernetes/pull/122335)     | [444](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2023-12-25](https://github.com/kubernetes/kubernetes/pull/122475)     | [446](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-11-01](https://github.com/kubernetes/website/pull/43769)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2023-10-20](https://github.com/kubernetes/test-infra/pull/31081)      | [33](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-09-04](https://github.com/kubernetes/enhancements/pull/4173)     | [24](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                                 | 2019-08-12 | Go         | 2023-12-24   |
-|  2 | [ThreatMapper](https://github.com/deepfence/ThreatMapper)               | 2022-08-26 | TypeScript | 2023-12-24   |
-|  3 | [github-pr-summary](https://github.com/flows-network/github-pr-summary) | 2023-06-25 | Rust       | 2023-12-22   |
-|  4 | [steering](https://github.com/pacoxu/steering)                          | 2023-10-04 | md         | 2023-10-04   |
-|  5 | [GitHub520](https://github.com/521xueweihan/GitHub520)                  | 2023-03-29 | Python     | 2023-12-24   |
+| ID |                                           REPO                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [aws-virtual-gpu-device-plugin](https://github.com/awslabs/aws-virtual-gpu-device-plugin) | 2020-06-11 | Jupyter Notebook | 2023-12-20   |
+|  2 | [github-todos](https://github.com/naholyr/github-todos)                                   | 2020-12-13 | JavaScript       | 2023-11-09   |
+|  3 | [clomonitor](https://github.com/cncf/clomonitor)                                          | 2022-02-15 | TypeScript       | 2023-12-07   |
+|  4 | [kube-scheduler](https://github.com/kubernetes/kube-scheduler)                            | 2022-02-27 | Go               | 2023-12-16   |
+|  5 | [polaris-scheduler](https://github.com/polaris-slo-cloud/polaris-scheduler)               | 2022-10-20 | Go               | 2023-11-21   |
 
 <!--END_SECTION:my_github-->
 
