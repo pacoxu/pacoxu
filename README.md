@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [aws-virtual-gpu-device-plugin](https://github.com/awslabs/aws-virtual-gpu-device-plugin) | 2020-06-11 | Jupyter Notebook | 2023-12-20   |
-|  2 | [github-todos](https://github.com/naholyr/github-todos)                                   | 2020-12-13 | JavaScript       | 2023-11-09   |
-|  3 | [clomonitor](https://github.com/cncf/clomonitor)                                          | 2022-02-15 | TypeScript       | 2023-12-07   |
-|  4 | [kube-scheduler](https://github.com/kubernetes/kube-scheduler)                            | 2022-02-27 | Go               | 2023-12-16   |
-|  5 | [polaris-scheduler](https://github.com/polaris-slo-cloud/polaris-scheduler)               | 2022-10-20 | Go               | 2023-11-21   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) | 2023-11-07 | Go       | 2023-12-25   |
+|  2 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)                          | 2022-01-20 | Shell    | 2023-12-20   |
+|  3 | [alluxio](https://github.com/Alluxio/alluxio)                                        | 2021-04-08 | Java     | 2023-12-26   |
+|  4 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)                 | 2019-10-14 | Java     | 2023-12-26   |
+|  5 | [Fractional-GPUs](https://github.com/sakjain92/Fractional-GPUs)                      | 2020-06-11 | C        | 2023-11-05   |
 
 <!--END_SECTION:my_github-->
 
