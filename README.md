@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [harbor](https://github.com/goharbor/harbor)                                 | 2016-08-25 | Go       | 2023-12-27   |
-|  2 | [jieba-analysis](https://github.com/huaban/jieba-analysis)                   | 2016-03-10 | Java     | 2023-12-27   |
-|  3 | [participate-community](https://github.com/tanjunchen/participate-community) | 2021-03-12 | md       | 2023-11-11   |
-|  4 | [spec](https://github.com/oam-dev/spec)                                      | 2020-05-08 | md       | 2023-12-27   |
-|  5 | [moby](https://github.com/moby/moby)                                         | 2016-04-20 | Go       | 2023-12-27   |
+| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-for-soc](https://github.com/abdullahgarcia/kubernetes-for-soc) | 2023-12-12 | md       | 2023-12-19   |
+|  2 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                 | 2022-05-20 | Python   | 2023-12-27   |
+|  3 | [goscaleio](https://github.com/thecodeteam/goscaleio)                      | 2016-04-24 | Go       | 2023-10-04   |
+|  4 | [compose](https://github.com/docker/compose)                               | 2021-02-20 | Go       | 2023-12-28   |
+|  5 | [e2e-framework](https://github.com/kubernetes-sigs/e2e-framework)          | 2023-11-17 | Go       | 2023-12-23   |
 
 <!--END_SECTION:my_github-->
 
