@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)                          | 2020-09-21 | Go       | 2023-12-30   |
-|  2 | [xeol](https://github.com/xeol-io/xeol)                                                   | 2023-09-01 | Go       | 2023-12-29   |
-|  3 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | 2022-12-01 | Java     | 2023-10-04   |
-|  4 | [modgv](https://github.com/lucasepe/modgv)                                                | 2021-05-21 | Go       | 2023-12-20   |
-|  5 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)            | 2023-03-24 | Python   | 2023-12-30   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [releaseTracker](https://github.com/pikeszfish/releaseTracker) | 2018-04-22 | Shell    | 2021-06-15   |
+|  2 | [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf)  | 2022-03-31 | md       | 2023-12-31   |
+|  3 | [autoscaler](https://github.com/kubernetes/autoscaler)         | 2020-07-21 | Go       | 2023-12-29   |
+|  4 | [enhancements](https://github.com/kubernetes/enhancements)     | 2019-06-17 | Go       | 2023-12-29   |
+|  5 | [uus](https://github.com/yowenter/uus)                         | 2018-11-13 | Python   | 2018-11-13   |
 
 <!--END_SECTION:my_github-->
 
