@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli)      | 2018-01-15 | Python   | 2023-12-20   |
-|  2 | [iouring-go](https://github.com/Iceber/iouring-go)                      | 2021-10-19 | Go       | 2023-12-29   |
-|  3 | [kasmcloud](https://github.com/wasmCloud/kasmcloud)                     | 2023-09-08 | Rust     | 2023-12-13   |
-|  4 | [k8s-sched-perf-stat](https://github.com/Huang-Wei/k8s-sched-perf-stat) | 2021-03-10 | Go       | 2023-01-11   |
-|  5 | [pgtracer](https://github.com/Aiven-Open/pgtracer)                      | 2022-11-01 | Python   | 2023-12-16   |
+| ID |                                      REPO                                       | STAREDDATE |        LAUGUAGE         | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|-------------------------|--------------|
+|  1 | [github-trends](https://github.com/avgupta456/github-trends)                    | 2023-01-11 | Python                  | 2024-01-03   |
+|  2 | [oniguruma](https://github.com/kkos/oniguruma)                                  | 2019-03-19 | C                       | 2024-01-02   |
+|  3 | [scaleio-docker](https://github.com/djannot/scaleio-docker)                     | 2016-04-24 | md                      | 2020-10-29   |
+|  4 | [spring-social-weibo](https://github.com/Orange-OpenSource/spring-social-weibo) | 2017-03-14 | Java                    | 2023-01-27   |
+|  5 | [youth-soccer](https://github.com/pacoxu/youth-soccer)                          | 2016-12-25 | GCC Machine Description | 2021-04-07   |
 
 <!--END_SECTION:my_github-->
 
