@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                       | STAREDDATE |        LAUGUAGE         | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|-------------------------|--------------|
-|  1 | [github-trends](https://github.com/avgupta456/github-trends)                    | 2023-01-11 | Python                  | 2024-01-03   |
-|  2 | [oniguruma](https://github.com/kkos/oniguruma)                                  | 2019-03-19 | C                       | 2024-01-02   |
-|  3 | [scaleio-docker](https://github.com/djannot/scaleio-docker)                     | 2016-04-24 | md                      | 2020-10-29   |
-|  4 | [spring-social-weibo](https://github.com/Orange-OpenSource/spring-social-weibo) | 2017-03-14 | Java                    | 2023-01-27   |
-|  5 | [youth-soccer](https://github.com/pacoxu/youth-soccer)                          | 2016-12-25 | GCC Machine Description | 2021-04-07   |
+| ID |                                                   REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial)                                        | 2019-10-07 | C#       | 2024-01-02   |
+|  2 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)                                                 | 2022-11-03 | md       | 2023-11-30   |
+|  3 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go       | 2023-08-02   |
+|  4 | [otelsql](https://github.com/XSAM/otelsql)                                                                | 2023-02-02 | Go       | 2023-12-26   |
+|  5 | [gotype](https://github.com/wzshiming/gotype)                                                             | 2022-06-21 | Go       | 2023-11-10   |
 
 <!--END_SECTION:my_github-->
 
