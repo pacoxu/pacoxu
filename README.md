@@ -72,13 +72,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                   REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial)                                        | 2019-10-07 | C#       | 2024-01-02   |
-|  2 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)                                                 | 2022-11-03 | md       | 2023-11-30   |
-|  3 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go       | 2023-08-02   |
-|  4 | [otelsql](https://github.com/XSAM/otelsql)                                                                | 2023-02-02 | Go       | 2023-12-26   |
-|  5 | [gotype](https://github.com/wzshiming/gotype)                                                             | 2022-06-21 | Go       | 2023-11-10   |
+| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------|------------|----------|--------------|
+|  1 | [docker-alfresco](https://github.com/gui81/docker-alfresco) | 2016-05-24 | Shell    | 2023-03-29   |
+|  2 | [falco](https://github.com/falcosecurity/falco)             | 2020-04-17 | C++      | 2024-01-04   |
+|  3 | [ropee](https://github.com/kebe7jun/ropee)                  | 2019-06-29 | Go       | 2023-08-14   |
+|  4 | [istio-dce](https://github.com/yangchuansheng/istio-dce)    | 2019-07-12 | Shell    | 2019-07-26   |
+|  5 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)  | 2022-05-20 | Python   | 2024-01-04   |
 
 <!--END_SECTION:my_github-->
 
