@@ -3,15 +3,16 @@
  🇨🇳 **The only thing that I know is that I know nothing**. 
  
  🔭 Working on Kubernetes & Containerd
-- Work in **DaoCloud Enterprise Team**: [DCE](https://www.daocloud.io/dce_5.0).
-- [@kubernetes](https://github.com/kubernetes/) Steering Committee
+- Work in **DaoCloud Enterprise Team**: [DCE](https://docs.daocloud.io/).
+- [Kubernetes Steering](https://github.com/kubernetes/steering) Committee
 - [Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
 - Kubernetes [v1.30 Release Signal Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.30/release-team.md) Lead
 - [SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer
+- [2024 年LFAPAC 布道者](https://evangelists.linuxfoundation.cn/evangelists)
  
  🌱 Learning and Sharing
 
-- [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & [KCD Chengdu](https://community.cncf.io/kcd-chengdu/) Orgnazier
+- [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member for KubeCon EU 2024 and KubeCon China 2023 & [KCD Chengdu 2022](https://community.cncf.io/kcd-chengdu/) Orgnazier
   - 2023 KubeCon China:
     - [Kubernetes SIG Node Intro and Deep Dive](https://kccncosschn2023.sched.com/event/4a2746baff6af89d668edc2eabbcf906) - Paco Xu, DaoCloud & Xiongxiong Yuan, Gitlab China
     - [How Can Pod Start-up Be Accelerated on Nodes in Large Clusters?](https://sched.co/1PTFR)  - Paco Xu, DaoCloud & Byron Wang, Birentech
