@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                                                | 2021-12-15 | Go       | 2024-01-07   |
-|  2 | [drbd-installer](https://github.com/hwameistor/drbd-installer)                                        | 2022-03-18 | Go       | 2022-06-22   |
-|  3 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator) | 2023-09-15 | Go       | 2024-01-05   |
-|  4 | [terminal](https://github.com/microsoft/terminal)                                                     | 2019-05-07 | C++      | 2024-01-07   |
-|  5 | [steering](https://github.com/pacoxu/steering)                                                        | 2023-10-04 | md       | 2023-10-04   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal)                          | 2018-05-13 | JavaScript | 2023-12-26   |
+|  2 | [CNTK](https://github.com/microsoft/CNTK)                                            | 2016-01-27 | C++        | 2024-01-08   |
+|  3 | [ginkgo](https://github.com/onsi/ginkgo)                                             | 2020-10-09 | Go         | 2024-01-08   |
+|  4 | [solo](https://github.com/b3log/solo)                                                | 2017-04-05 | Java       | 2024-01-04   |
+|  5 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) | 2021-10-18 | Smarty     | 2024-01-06   |
 
 <!--END_SECTION:my_github-->
 
