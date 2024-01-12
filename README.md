@@ -62,7 +62,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-01-10](https://github.com/kubernetes/kubernetes/pull/122670)     | [447](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-01-11](https://github.com/kubernetes/kubernetes/pull/122707)     | [451](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-11-01](https://github.com/kubernetes/website/pull/43769)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-01-10](https://github.com/kubernetes/test-infra/pull/31586)      | [34](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2023-09-04](https://github.com/kubernetes/enhancements/pull/4173)     | [24](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                            REPO                                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [vsphere-storage-for-docker](https://github.com/vmware-archive/vsphere-storage-for-docker) | 2016-08-17 | Python     | 2023-09-26   |
-|  2 | [community-edition](https://github.com/vmware-tanzu/community-edition)                     | 2021-10-05 | Go         | 2024-01-04   |
-|  3 | [knative-inspect](https://github.com/nimakaviani/knative-inspect)                          | 2019-11-13 | Go         | 2023-09-20   |
-|  4 | [clomonitor](https://github.com/cncf/clomonitor)                                           | 2022-02-15 | TypeScript | 2023-12-07   |
-|  5 | [kurator](https://github.com/kurator-dev/kurator)                                          | 2022-06-23 | Go         | 2023-12-28   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [keep-open-deleted](https://github.com/Ottovsky/keep-open-deleted)                   | 2022-04-02 | Go       | 2022-04-02   |
+|  2 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) | 2021-10-18 | Smarty   | 2024-01-11   |
+|  3 | [compose](https://github.com/docker/compose)                                         | 2021-02-20 | Go       | 2024-01-11   |
+|  4 | [etcd](https://github.com/etcd-io/etcd)                                              | 2016-07-04 | Go       | 2024-01-12   |
+|  5 | [kompose](https://github.com/kubernetes/kompose)                                     | 2017-06-02 | Go       | 2024-01-11   |
 
 <!--END_SECTION:my_github-->
 
