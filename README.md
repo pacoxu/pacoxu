@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [wg-serverless](https://github.com/cncf/wg-serverless)           | 2019-10-22 | md       | 2024-01-06   |
-|  2 | [libcloud](https://github.com/apache/libcloud)                   | 2016-06-30 | Python   | 2024-01-12   |
-|  3 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator) | 2022-06-14 | Go       | 2023-04-19   |
-|  4 | [ingress-nginx](https://github.com/kubernetes/ingress-nginx)     | 2019-01-10 | Go       | 2024-01-12   |
-|  5 | [oniguruma](https://github.com/kkos/oniguruma)                   | 2019-03-19 | C        | 2024-01-12   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [libcloud](https://github.com/apache/libcloud)                                        | 2016-06-30 | Python   | 2024-01-12   |
+|  2 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts)                          | 2019-05-28 | Shell    | 2023-02-06   |
+|  3 | [container-device-interface](https://github.com/cncf-tags/container-device-interface) | 2023-09-05 | Go       | 2024-01-11   |
+|  4 | [helmfile](https://github.com/helmfile/helmfile)                                      | 2022-09-28 | Go       | 2024-01-12   |
+|  5 | [contributor-site](https://github.com/kubernetes/contributor-site)                    | 2021-07-26 | HTML     | 2023-12-18   |
 
 <!--END_SECTION:my_github-->
 
