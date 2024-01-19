@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                        REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [HackFlowy](https://github.com/abhshkdz/HackFlowy)                                                                 | 2014-09-02 | CSS      | 2024-01-02   |
-|  2 | [Docker-and-Kubernetes-Mirror-Synchronizer](https://github.com/KofClubs/Docker-and-Kubernetes-Mirror-Synchronizer) | 2021-07-09 | Shell    | 2021-07-09   |
-|  3 | [thanos](https://github.com/thanos-io/thanos)                                                                      | 2021-04-19 | Go       | 2024-01-17   |
-|  4 | [composer](https://github.com/composer/composer)                                                                   | 2016-10-19 | PHP      | 2024-01-17   |
-|  5 | [github-pr-summary](https://github.com/flows-network/github-pr-summary)                                            | 2023-06-25 | Rust     | 2024-01-12   |
+| ID |                                               REPO                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [bpfman](https://github.com/bpfman/bpfman)                                                        | 2023-05-30 | Rust     | 2024-01-18   |
+|  2 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)                             | 2019-04-19 | Go       | 2024-01-18   |
+|  3 | [multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) | 2023-11-09 | Go       | 2024-01-15   |
+|  4 | [2022](https://github.com/yihong0618/2022)                                                        | 2022-08-10 | Python   | 2024-01-16   |
+|  5 | [otelsql](https://github.com/XSAM/otelsql)                                                        | 2023-02-02 | Go       | 2024-01-12   |
 
 <!--END_SECTION:my_github-->
 
