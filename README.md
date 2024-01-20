@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [bpfman](https://github.com/bpfman/bpfman)                                                        | 2023-05-30 | Rust     | 2024-01-18   |
-|  2 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)                             | 2019-04-19 | Go       | 2024-01-18   |
-|  3 | [multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) | 2023-11-09 | Go       | 2024-01-15   |
-|  4 | [2022](https://github.com/yihong0618/2022)                                                        | 2022-08-10 | Python   | 2024-01-16   |
-|  5 | [otelsql](https://github.com/XSAM/otelsql)                                                        | 2023-02-02 | Go       | 2024-01-12   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [committee-security-response](https://github.com/kubernetes/committee-security-response) | 2023-10-26 | md       | 2023-11-17   |
+|  2 | [dockerPractice](https://github.com/wrfly/dockerPractice)                                | 2016-05-21 | Shell    | 2018-12-11   |
+|  3 | [kubeadm](https://github.com/kubernetes/kubeadm)                                         | 2017-06-07 | Go       | 2024-01-17   |
+|  4 | [kubeedge](https://github.com/kubeedge/kubeedge)                                         | 2021-03-24 | Go       | 2024-01-19   |
+|  5 | [ebpf-slide](https://github.com/gojue/ebpf-slide)                                        | 2022-06-07 | md       | 2024-01-19   |
 
 <!--END_SECTION:my_github-->
 
