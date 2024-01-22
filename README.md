@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) | 2021-10-18 | Smarty     | 2024-01-12   |
-|  2 | [world_cup_json](https://github.com/estiens/world_cup_json)                          | 2018-05-13 | Ruby       | 2023-12-26   |
-|  3 | [vault-action](https://github.com/hashicorp/vault-action)                            | 2020-09-15 | JavaScript | 2024-01-14   |
-|  4 | [etcd-issues](https://github.com/ahrtr/etcd-issues)                                  | 2023-04-04 | Go         | 2024-01-16   |
-|  5 | [interviews](https://github.com/kdn251/interviews)                                   | 2017-03-23 | Java       | 2024-01-20   |
+| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [polaris-scheduler](https://github.com/polaris-slo-cloud/polaris-scheduler) | 2022-10-20 | Go         | 2024-01-19   |
+|  2 | [kubedev](https://github.com/zhouya0/kubedev)                               | 2020-11-03 | Go         | 2021-06-04   |
+|  3 | [dnscache](https://github.com/yahoo/dnscache)                               | 2019-04-28 | JavaScript | 2023-09-08   |
+|  4 | [kftray](https://github.com/hcavarsan/kftray)                               | 2024-01-05 | TypeScript | 2024-01-18   |
+|  5 | [python-requests-aws](https://github.com/tax/python-requests-aws)           | 2016-09-26 | Python     | 2023-11-25   |
 
 <!--END_SECTION:my_github-->
 
