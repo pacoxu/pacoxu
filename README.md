@@ -62,7 +62,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-01-16](https://github.com/kubernetes/kubernetes/pull/122802)     | [459](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-01-22](https://github.com/kubernetes/kubernetes/pull/122901)     | [461](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-11-01](https://github.com/kubernetes/website/pull/43769)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-01-17](https://github.com/kubernetes/test-infra/pull/31647)      | [35](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2024-01-12](https://github.com/kubernetes/enhancements/pull/4400)     | [25](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [polaris-scheduler](https://github.com/polaris-slo-cloud/polaris-scheduler) | 2022-10-20 | Go         | 2024-01-19   |
-|  2 | [kubedev](https://github.com/zhouya0/kubedev)                               | 2020-11-03 | Go         | 2021-06-04   |
-|  3 | [dnscache](https://github.com/yahoo/dnscache)                               | 2019-04-28 | JavaScript | 2023-09-08   |
-|  4 | [kftray](https://github.com/hcavarsan/kftray)                               | 2024-01-05 | TypeScript | 2024-01-18   |
-|  5 | [python-requests-aws](https://github.com/tax/python-requests-aws)           | 2016-09-26 | Python     | 2023-11-25   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [ebpf-slide](https://github.com/gojue/ebpf-slide)               | 2022-06-07 | md       | 2024-01-19   |
+|  2 | [rexray](https://github.com/rexray/rexray)                      | 2016-05-10 | Go       | 2024-01-13   |
+|  3 | [cfssl](https://github.com/cloudflare/cfssl)                    | 2019-09-02 | Go       | 2024-01-21   |
+|  4 | [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)                   | 2023-04-20 | Go       | 2024-01-23   |
+|  5 | [LearnCloudNative](https://github.com/carlory/LearnCloudNative) | 2023-01-29 | md       | 2023-01-29   |
 
 <!--END_SECTION:my_github-->
 
