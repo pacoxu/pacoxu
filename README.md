@@ -51,13 +51,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-04-10 | Go       |    11 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
-|   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2023-10-12 | Python   |     5 |
+|   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md       |     4 |
 |   5 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   6 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md       |     1 |
-| sum |                                                                    |            |            |          |    37 |
+| sum |                                                                    |            |            |          |    38 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [devstats.archive](https://github.com/cncf/devstats.archive) | 2021-07-01 | Shell    | 2023-12-18   |
-|  2 | [delve](https://github.com/go-delve/delve)                   | 2020-06-01 | Go       | 2024-01-23   |
-|  3 | [opendal](https://github.com/apache/opendal)                 | 2024-01-03 | Rust     | 2024-01-23   |
-|  4 | [wg-serverless](https://github.com/cncf/wg-serverless)       | 2019-10-22 | md       | 2024-01-18   |
-|  5 | [kubesphere](https://github.com/kubesphere/kubesphere)       | 2021-10-08 | Go       | 2024-01-23   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kyverno](https://github.com/kyverno/kyverno)                                         | 2021-05-31 | Go       | 2024-01-24   |
+|  2 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend) | 2019-09-06 | Python   | 2023-12-03   |
+|  3 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)                    | 2020-12-24 | Go       | 2023-01-23   |
+|  4 | [ingress-nginx](https://github.com/kubernetes/ingress-nginx)                          | 2019-01-10 | Go       | 2024-01-24   |
+|  5 | [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget)              | 2023-03-08 | C        | 2024-01-24   |
 
 <!--END_SECTION:my_github-->
 
