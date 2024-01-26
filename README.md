@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kyverno](https://github.com/kyverno/kyverno)                                         | 2021-05-31 | Go       | 2024-01-24   |
-|  2 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend) | 2019-09-06 | Python   | 2023-12-03   |
-|  3 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)                    | 2020-12-24 | Go       | 2023-01-23   |
-|  4 | [ingress-nginx](https://github.com/kubernetes/ingress-nginx)                          | 2019-01-10 | Go       | 2024-01-24   |
-|  5 | [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget)              | 2023-03-08 | C        | 2024-01-24   |
+| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [spec](https://github.com/oam-dev/spec)                                  | 2020-05-08 | md       | 2024-01-24   |
+|  2 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image) | 2016-11-16 | Python   | 2016-11-16   |
+|  3 | [harbor](https://github.com/goharbor/harbor)                             | 2016-08-25 | Go       | 2024-01-25   |
+|  4 | [landscape](https://github.com/cncf/landscape)                           | 2023-06-20 | md       | 2024-01-25   |
+|  5 | [github-queries](https://github.com/SergeyKanzhelev/github-queries)      | 2021-04-14 | Go       | 2023-04-10   |
 
 <!--END_SECTION:my_github-->
 
