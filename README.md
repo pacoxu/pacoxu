@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [spec](https://github.com/oam-dev/spec)                                  | 2020-05-08 | md       | 2024-01-24   |
-|  2 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image) | 2016-11-16 | Python   | 2016-11-16   |
-|  3 | [harbor](https://github.com/goharbor/harbor)                             | 2016-08-25 | Go       | 2024-01-25   |
-|  4 | [landscape](https://github.com/cncf/landscape)                           | 2023-06-20 | md       | 2024-01-25   |
-|  5 | [github-queries](https://github.com/SergeyKanzhelev/github-queries)      | 2021-04-14 | Go       | 2023-04-10   |
+| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [common](https://github.com/containers/common)                                         | 2021-02-08 | Go       | 2024-01-26   |
+|  2 | [ginkgo](https://github.com/onsi/ginkgo)                                               | 2020-10-09 | Go       | 2024-01-26   |
+|  3 | [karmada](https://github.com/karmada-io/karmada)                                       | 2021-07-06 | Go       | 2024-01-26   |
+|  4 | [toc](https://github.com/cncf/toc)                                                     | 2022-01-26 | md       | 2024-01-26   |
+|  5 | [k8s-specific-knowledge-base](https://github.com/kerthcet/k8s-specific-knowledge-base) | 2023-07-28 | Python   | 2023-10-10   |
 
 <!--END_SECTION:my_github-->
 
