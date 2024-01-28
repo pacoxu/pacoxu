@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [common](https://github.com/containers/common)                                         | 2021-02-08 | Go       | 2024-01-26   |
-|  2 | [ginkgo](https://github.com/onsi/ginkgo)                                               | 2020-10-09 | Go       | 2024-01-26   |
-|  3 | [karmada](https://github.com/karmada-io/karmada)                                       | 2021-07-06 | Go       | 2024-01-26   |
-|  4 | [toc](https://github.com/cncf/toc)                                                     | 2022-01-26 | md       | 2024-01-26   |
-|  5 | [k8s-specific-knowledge-base](https://github.com/kerthcet/k8s-specific-knowledge-base) | 2023-07-28 | Python   | 2023-10-10   |
+| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)                       | 2023-02-10 | Go       | 2024-01-27   |
+|  2 | [node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery)           | 2021-11-23 | Go       | 2024-01-23   |
+|  3 | [python-requests-aws](https://github.com/tax/python-requests-aws)                             | 2016-09-26 | Python   | 2023-11-25   |
+|  4 | [git-log-weekly-report](https://github.com/yeatse/git-log-weekly-report)                      | 2023-06-26 | Shell    | 2023-06-29   |
+|  5 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile | 2023-11-14   |
 
 <!--END_SECTION:my_github-->
 
