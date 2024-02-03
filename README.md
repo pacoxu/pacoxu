@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                              REPO                                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ecapture](https://github.com/gojue/ecapture)                                                   | 2022-08-03 | C          | 2024-02-01   |
-|  2 | [vitess](https://github.com/vitessio/vitess)                                                    | 2018-04-19 | Go         | 2024-02-01   |
-|  3 | [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)                                    | 2017-11-27 | Dockerfile | 2024-01-31   |
-|  4 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) | 2020-12-09 | Go         | 2024-02-01   |
-|  5 | [kubernetes](https://github.com/kubernetes/kubernetes)                                          | 2021-12-15 | Go         | 2024-02-01   |
+| ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [azure-powershell](https://github.com/Azure/azure-powershell)       | 2020-06-08 | md       | 2024-02-02   |
+|  2 | [world_cup_learning](https://github.com/fisadev/world_cup_learning) | 2018-05-11 | Python   | 2023-02-09   |
+|  3 | [gvisor](https://github.com/google/gvisor)                          | 2020-06-03 | Go       | 2024-02-02   |
+|  4 | [kpng](https://github.com/kubernetes-sigs/kpng)                     | 2021-11-05 | Go       | 2024-01-22   |
+|  5 | [sriov-cni](https://github.com/openshift/sriov-cni)                 | 2023-12-04 | Go       | 2023-12-04   |
 
 <!--END_SECTION:my_github-->
 
