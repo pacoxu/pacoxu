@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ktop](https://github.com/vladimirvivien/ktop)                                      | 2023-05-10 | Go         | 2024-02-02   |
-|  2 | [ThreatMapper](https://github.com/deepfence/ThreatMapper)                           | 2022-08-26 | TypeScript | 2024-02-04   |
-|  3 | [bridge](https://github.com/wzshiming/bridge)                                       | 2021-02-22 | Go         | 2024-01-29   |
-|  4 | [daochain](https://github.com/DaoCloud/daochain)                                    | 2016-12-09 | JavaScript | 2023-01-14   |
-|  5 | [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) | 2019-04-01 | HTML       | 2024-02-03   |
+| ID |                            REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------|------------|----------|--------------|
+|  1 | [dex](https://github.com/dexidp/dex)                       | 2020-07-15 | Go       | 2024-02-05   |
+|  2 | [hostroutes](https://github.com/kubeup/hostroutes)         | 2017-11-27 | Go       | 2022-11-23   |
+|  3 | [insights-bot](https://github.com/nekomeowww/insights-bot) | 2023-06-05 | Go       | 2024-02-05   |
+|  4 | [kopilot](https://github.com/knight42/kopilot)             | 2023-03-23 | Go       | 2024-02-05   |
+|  5 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)       | 2019-03-04 | Shell    | 2023-07-24   |
 
 <!--END_SECTION:my_github-->
 
