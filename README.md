@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                            REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------|------------|----------|--------------|
-|  1 | [dex](https://github.com/dexidp/dex)                       | 2020-07-15 | Go       | 2024-02-05   |
-|  2 | [hostroutes](https://github.com/kubeup/hostroutes)         | 2017-11-27 | Go       | 2022-11-23   |
-|  3 | [insights-bot](https://github.com/nekomeowww/insights-bot) | 2023-06-05 | Go       | 2024-02-05   |
-|  4 | [kopilot](https://github.com/knight42/kopilot)             | 2023-03-23 | Go       | 2024-02-05   |
-|  5 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)       | 2019-03-04 | Shell    | 2023-07-24   |
+| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [ansible](https://github.com/ansible/ansible)                            | 2016-05-18 | Python   | 2024-02-07   |
+|  2 | [lighthouse](https://github.com/submariner-io/lighthouse)                | 2022-04-25 | Go       | 2024-01-25   |
+|  3 | [same](https://github.com/rking/same)                                    | 2020-12-17 | Java     | 2023-04-11   |
+|  4 | [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2023-03-08 | C        | 2024-02-06   |
+|  5 | [dubbox](https://github.com/dangdangdotcom/dubbox)                       | 2016-10-31 | Java     | 2024-02-04   |
 
 <!--END_SECTION:my_github-->
 
