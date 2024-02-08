@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [ansible](https://github.com/ansible/ansible)                            | 2016-05-18 | Python   | 2024-02-07   |
-|  2 | [lighthouse](https://github.com/submariner-io/lighthouse)                | 2022-04-25 | Go       | 2024-01-25   |
-|  3 | [same](https://github.com/rking/same)                                    | 2020-12-17 | Java     | 2023-04-11   |
-|  4 | [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2023-03-08 | C        | 2024-02-06   |
-|  5 | [dubbox](https://github.com/dangdangdotcom/dubbox)                       | 2016-10-31 | Java     | 2024-02-04   |
+| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------|------------|----------|--------------|
+|  1 | [ebpf-slide](https://github.com/gojue/ebpf-slide)        | 2022-06-07 | md       | 2024-02-07   |
+|  2 | [gods](https://github.com/emirpasic/gods)                | 2019-09-29 | Go       | 2024-02-07   |
+|  3 | [spegel](https://github.com/XenitAB/spegel)              | 2023-09-01 | Go       | 2024-02-07   |
+|  4 | [ansible](https://github.com/ansible/ansible)            | 2016-05-18 | Python   | 2024-02-08   |
+|  5 | [elasticsearch](https://github.com/pacoxu/elasticsearch) | 2014-04-18 | Java     | 2021-04-07   |
 
 <!--END_SECTION:my_github-->
 
