@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)                       | 2022-10-27 | Go       | 2024-02-05   |
-|  2 | [Kyodai](https://github.com/andever/Kyodai)                            | 2014-10-15 | Java     | 2018-03-03   |
-|  3 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 2021-09-17 | Shell    | 2024-02-05   |
-|  4 | [kudo](https://github.com/kudobuilder/kudo)                            | 2019-10-22 | Go       | 2024-02-07   |
-|  5 | [wg-serverless](https://github.com/cncf/wg-serverless)                 | 2019-10-22 | md       | 2024-02-09   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-cloud-run](https://github.com/steren/awesome-cloud-run) | 2019-11-28 | Dockerfile | 2024-02-08   |
+|  2 | [community](https://github.com/open-feature/community)           | 2022-03-05 | JavaScript | 2023-11-27   |
+|  3 | [TranslateProject](https://github.com/LCTT/TranslateProject)     | 2019-02-21 | Shell      | 2024-02-09   |
+|  4 | [GPT-Prompts](https://github.com/jesselau76/GPT-Prompts)         | 2023-04-08 | md         | 2024-02-06   |
+|  5 | [engine-api](https://github.com/docker/engine-api)               | 2016-08-12 | Go         | 2024-01-10   |
 
 <!--END_SECTION:my_github-->
 
