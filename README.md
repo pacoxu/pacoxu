@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------|------------|----------|--------------|
-|  1 | [sdn](https://github.com/openshift/sdn)                 | 2021-03-23 | Go       | 2024-02-05   |
-|  2 | [tag-runtime](https://github.com/cncf/tag-runtime)      | 2021-10-12 | HTML     | 2024-01-26   |
-|  3 | [kubexit](https://github.com/karlkfi/kubexit)           | 2020-09-27 | Go       | 2024-02-01   |
-|  4 | [gitblog](https://github.com/yihong0618/gitblog)        | 2023-04-27 | Python   | 2024-02-08   |
-|  5 | [meta-balena](https://github.com/balena-os/meta-balena) | 2020-09-14 | BitBake  | 2024-02-09   |
+| ID |                          REPO                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------|------------|------------|--------------|
+|  1 | [UIMessage](https://github.com/pacoxu/UIMessage)        | 2012-08-02 | Java       | 2021-04-07   |
+|  2 | [graal](https://github.com/oracle/graal)                | 2019-10-11 | Java       | 2024-02-12   |
+|  3 | [kubectl-ai](https://github.com/sozercan/kubectl-ai)    | 2023-03-21 | Go         | 2024-02-11   |
+|  4 | [gotype](https://github.com/wzshiming/gotype)           | 2022-06-21 | Go         | 2024-01-13   |
+|  5 | [etcd-browser](https://github.com/henszey/etcd-browser) | 2019-06-18 | JavaScript | 2024-01-29   |
 
 <!--END_SECTION:my_github-->
 
