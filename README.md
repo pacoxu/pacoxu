@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------|------------|------------|--------------|
-|  1 | [UIMessage](https://github.com/pacoxu/UIMessage)        | 2012-08-02 | Java       | 2021-04-07   |
-|  2 | [graal](https://github.com/oracle/graal)                | 2019-10-11 | Java       | 2024-02-12   |
-|  3 | [kubectl-ai](https://github.com/sozercan/kubectl-ai)    | 2023-03-21 | Go         | 2024-02-11   |
-|  4 | [gotype](https://github.com/wzshiming/gotype)           | 2022-06-21 | Go         | 2024-01-13   |
-|  5 | [etcd-browser](https://github.com/henszey/etcd-browser) | 2019-06-18 | JavaScript | 2024-01-29   |
+| ID |                                                                        REPO                                                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)                                                                | 2021-10-18 | Smarty   | 2024-02-05   |
+|  2 | [container-object-storage-interface-provisioner-sidecar](https://github.com/kubernetes-sigs/container-object-storage-interface-provisioner-sidecar) | 2021-03-23 | Go       | 2023-11-28   |
+|  3 | [python-requests-aws](https://github.com/tax/python-requests-aws)                                                                                   | 2016-09-26 | Python   | 2023-11-25   |
+|  4 | [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps)                                                                                         | 2024-01-08 | md       | 2024-01-30   |
+|  5 | [jib](https://github.com/GoogleContainerTools/jib)                                                                                                  | 2018-12-26 | Java     | 2024-02-12   |
 
 <!--END_SECTION:my_github-->
 
