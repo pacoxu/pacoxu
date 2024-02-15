@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                                        REPO                                                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)                                                                | 2021-10-18 | Smarty   | 2024-02-05   |
-|  2 | [container-object-storage-interface-provisioner-sidecar](https://github.com/kubernetes-sigs/container-object-storage-interface-provisioner-sidecar) | 2021-03-23 | Go       | 2023-11-28   |
-|  3 | [python-requests-aws](https://github.com/tax/python-requests-aws)                                                                                   | 2016-09-26 | Python   | 2023-11-25   |
-|  4 | [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps)                                                                                         | 2024-01-08 | md       | 2024-01-30   |
-|  5 | [jib](https://github.com/GoogleContainerTools/jib)                                                                                                  | 2018-12-26 | Java     | 2024-02-12   |
+| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|----------|--------------|
+|  1 | [java-in-docker](https://github.com/springjk/java-in-docker) | 2017-02-27 | Java     | 2022-06-23   |
+|  2 | [kudo](https://github.com/kudobuilder/kudo)                  | 2019-10-22 | Go       | 2024-02-07   |
+|  3 | [runc-lts](https://github.com/klts-io/runc-lts)              | 2021-11-25 | Shell    | 2023-03-30   |
+|  4 | [brigade](https://github.com/brigadecore/brigade)            | 2018-05-14 | Go       | 2024-02-11   |
+|  5 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts) | 2019-05-28 | Shell    | 2023-02-06   |
 
 <!--END_SECTION:my_github-->
 
