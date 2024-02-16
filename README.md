@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [java-in-docker](https://github.com/springjk/java-in-docker) | 2017-02-27 | Java     | 2022-06-23   |
-|  2 | [kudo](https://github.com/kudobuilder/kudo)                  | 2019-10-22 | Go       | 2024-02-07   |
-|  3 | [runc-lts](https://github.com/klts-io/runc-lts)              | 2021-11-25 | Shell    | 2023-03-30   |
-|  4 | [brigade](https://github.com/brigadecore/brigade)            | 2018-05-14 | Go       | 2024-02-11   |
-|  5 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts) | 2019-05-28 | Shell    | 2023-02-06   |
+| ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [SoccerAnalysis](https://github.com/joshuamataaraya/SoccerAnalysis) | 2016-09-23 | HTML     | 2017-11-06   |
+|  2 | [xadmin](https://github.com/sshwsfc/xadmin)                         | 2014-02-27 | Python   | 2024-02-08   |
+|  3 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator)    | 2022-06-14 | Go       | 2023-04-19   |
+|  4 | [knative-demos](https://github.com/mchmarny/knative-demos)          | 2019-10-21 | Shell    | 2023-10-17   |
+|  5 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)           | 2022-11-03 | md       | 2023-11-30   |
 
 <!--END_SECTION:my_github-->
 
