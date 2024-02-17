@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [SoccerAnalysis](https://github.com/joshuamataaraya/SoccerAnalysis) | 2016-09-23 | HTML     | 2017-11-06   |
-|  2 | [xadmin](https://github.com/sshwsfc/xadmin)                         | 2014-02-27 | Python   | 2024-02-08   |
-|  3 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator)    | 2022-06-14 | Go       | 2023-04-19   |
-|  4 | [knative-demos](https://github.com/mchmarny/knative-demos)          | 2019-10-21 | Shell    | 2023-10-17   |
-|  5 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)           | 2022-11-03 | md       | 2023-11-30   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [presentations](https://github.com/cncf/presentations) | 2022-11-01 | Go       | 2024-02-04   |
+|  2 | [k8s-sql](https://github.com/rancher/k8s-sql)          | 2020-11-16 | Go       | 2023-06-28   |
+|  3 | [containerd](https://github.com/containerd/containerd) | 2017-05-31 | Go       | 2024-02-16   |
+|  4 | [paginate](https://github.com/Pylons/paginate)         | 2016-07-05 | Python   | 2023-12-01   |
+|  5 | [compose](https://github.com/docker/compose)           | 2021-02-20 | Go       | 2024-02-16   |
 
 <!--END_SECTION:my_github-->
 
