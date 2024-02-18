@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [presentations](https://github.com/cncf/presentations) | 2022-11-01 | Go       | 2024-02-04   |
-|  2 | [k8s-sql](https://github.com/rancher/k8s-sql)          | 2020-11-16 | Go       | 2023-06-28   |
-|  3 | [containerd](https://github.com/containerd/containerd) | 2017-05-31 | Go       | 2024-02-16   |
-|  4 | [paginate](https://github.com/Pylons/paginate)         | 2016-07-05 | Python   | 2023-12-01   |
-|  5 | [compose](https://github.com/docker/compose)           | 2021-02-20 | Go       | 2024-02-16   |
+| ID |                                 REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [landscape](https://github.com/cncf/landscape)                        | 2023-06-20 | md       | 2024-02-16   |
+|  2 | [external-dns](https://github.com/kubernetes-sigs/external-dns)       | 2019-01-09 | Go       | 2024-02-17   |
+|  3 | [k3s](https://github.com/k3s-io/k3s)                                  | 2020-10-26 | Go       | 2024-02-17   |
+|  4 | [json-patch](https://github.com/evanphx/json-patch)                   | 2021-01-21 | Go       | 2024-02-17   |
+|  5 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 2019-04-19 | Go       | 2024-02-17   |
 
 <!--END_SECTION:my_github-->
 
