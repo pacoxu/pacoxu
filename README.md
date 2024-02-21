@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [btree](https://github.com/teepark/btree)                          | 2017-11-14 | C        | 2019-07-15   |
-|  2 | [ebpf](https://github.com/nccgroup/ebpf)                           | 2020-12-02 | Python   | 2024-02-12   |
-|  3 | [network](https://github.com/DaoCloud-OpenSource/network)          | 2021-09-06 | md       | 2023-06-03   |
-|  4 | [gptcommit](https://github.com/zurawiki/gptcommit)                 | 2023-03-23 | Rust     | 2024-02-18   |
-|  5 | [kubernetes-design](https://github.com/kerthcet/kubernetes-design) | 2022-03-29 | md       | 2023-12-22   |
+| ID |                                REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubeadmiral](https://github.com/kubewharf/kubeadmiral)            | 2024-01-30 | Go         | 2024-02-20   |
+|  2 | [monokle](https://github.com/kubeshop/monokle)                     | 2023-06-20 | TypeScript | 2024-02-17   |
+|  3 | [books-1](https://github.com/yowenter/books-1)                     | 2019-04-02 | Python     | 2019-12-12   |
+|  4 | [iouring-go](https://github.com/Iceber/iouring-go)                 | 2021-10-19 | Go         | 2024-02-19   |
+|  5 | [oam-simple-demo](https://github.com/harmonycloud/oam-simple-demo) | 2020-07-06 | md         | 2020-08-01   |
 
 <!--END_SECTION:my_github-->
 
