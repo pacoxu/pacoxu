@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-cloud-run](https://github.com/steren/awesome-cloud-run)                                  | 2019-11-28 | Dockerfile | 2024-02-21   |
-|  2 | [docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq)                                      | 2017-11-27 | Dockerfile | 2024-02-16   |
-|  3 | [stackoverflow](https://github.com/pacoxu/stackoverflow)                                          | 2014-10-09 | md         | 2021-04-07   |
-|  4 | [Skill-Tree](https://github.com/linw7/Skill-Tree)                                                 | 2019-06-05 | C          | 2024-02-21   |
-|  5 | [kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension) | 2023-05-17 | Go         | 2024-02-17   |
+| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend)               | 2019-09-06 | Python   | 2023-12-03   |
+|  2 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL      | 2024-02-15   |
+|  3 | [gpt4all](https://github.com/nomic-ai/gpt4all)                                                      | 2023-03-29 | C++      | 2024-02-22   |
+|  4 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)                                        | 2019-03-19 | Makefile | 2024-02-08   |
+|  5 | [person-blocker](https://github.com/minimaxir/person-blocker)                                       | 2019-10-24 | Python   | 2024-02-14   |
 
 <!--END_SECTION:my_github-->
 
