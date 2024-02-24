@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [lambda-refarch-iotbackend](https://github.com/aws-samples/lambda-refarch-iotbackend)               | 2019-09-06 | Python   | 2023-12-03   |
-|  2 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL      | 2024-02-15   |
-|  3 | [gpt4all](https://github.com/nomic-ai/gpt4all)                                                      | 2023-03-29 | C++      | 2024-02-22   |
-|  4 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)                                        | 2019-03-19 | Makefile | 2024-02-08   |
-|  5 | [person-blocker](https://github.com/minimaxir/person-blocker)                                       | 2019-10-24 | Python   | 2024-02-14   |
+| ID |                        REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------|------------|----------|--------------|
+|  1 | [pgtracer](https://github.com/Aiven-Open/pgtracer) | 2022-11-01 | Python   | 2024-02-14   |
+|  2 | [rexray](https://github.com/rexray/rexray)         | 2016-05-10 | Go       | 2024-02-15   |
+|  3 | [wrk](https://github.com/wg/wrk)                   | 2022-03-22 | C        | 2024-02-23   |
+|  4 | [gitblog](https://github.com/yihong0618/gitblog)   | 2023-04-27 | Python   | 2024-02-23   |
+|  5 | [coredns](https://github.com/coredns/coredns)      | 2019-05-30 | Go       | 2024-02-23   |
 
 <!--END_SECTION:my_github-->
 
