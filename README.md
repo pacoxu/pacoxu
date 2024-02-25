@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                        REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------|------------|----------|--------------|
-|  1 | [pgtracer](https://github.com/Aiven-Open/pgtracer) | 2022-11-01 | Python   | 2024-02-14   |
-|  2 | [rexray](https://github.com/rexray/rexray)         | 2016-05-10 | Go       | 2024-02-15   |
-|  3 | [wrk](https://github.com/wg/wrk)                   | 2022-03-22 | C        | 2024-02-23   |
-|  4 | [gitblog](https://github.com/yihong0618/gitblog)   | 2023-04-27 | Python   | 2024-02-23   |
-|  5 | [coredns](https://github.com/coredns/coredns)      | 2019-05-30 | Go       | 2024-02-23   |
+| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kpng](https://github.com/kubernetes-sigs/kpng)                                                                                   | 2021-11-05 | Go         | 2024-02-07   |
+|  2 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
+|  3 | [istio-dce](https://github.com/yangchuansheng/istio-dce)                                                                          | 2019-07-12 | Shell      | 2019-07-26   |
+|  4 | [datatunerx](https://github.com/DataTunerX/datatunerx)                                                                            | 2024-02-09 | Go         | 2024-02-22   |
+|  5 | [externalip-webhook](https://github.com/kubernetes-sigs/externalip-webhook)                                                       | 2020-12-11 | Go         | 2023-05-05   |
 
 <!--END_SECTION:my_github-->
 
