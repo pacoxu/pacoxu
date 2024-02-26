@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kpng](https://github.com/kubernetes-sigs/kpng)                                                                                   | 2021-11-05 | Go         | 2024-02-07   |
-|  2 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
-|  3 | [istio-dce](https://github.com/yangchuansheng/istio-dce)                                                                          | 2019-07-12 | Shell      | 2019-07-26   |
-|  4 | [datatunerx](https://github.com/DataTunerX/datatunerx)                                                                            | 2024-02-09 | Go         | 2024-02-22   |
-|  5 | [externalip-webhook](https://github.com/kubernetes-sigs/externalip-webhook)                                                       | 2020-12-11 | Go         | 2023-05-05   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kudo](https://github.com/kudobuilder/kudo)                     | 2019-10-22 | Go       | 2024-02-19   |
+|  2 | [my-github-status](https://github.com/MrCoder/my-github-status) | 2022-04-28 | md       | 2022-04-28   |
+|  3 | [terminal](https://github.com/microsoft/terminal)               | 2019-05-07 | C++      | 2024-02-25   |
+|  4 | [egressgateway](https://github.com/spidernet-io/egressgateway)  | 2023-06-15 | Go       | 2024-02-14   |
+|  5 | [nagioscore](https://github.com/NagiosEnterprises/nagioscore)   | 2017-12-08 | C        | 2024-02-25   |
 
 <!--END_SECTION:my_github-->
 
