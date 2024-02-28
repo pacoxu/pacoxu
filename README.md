@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [bolt](https://github.com/boltdb/bolt)                                            | 2021-08-31 | Go         | 2024-02-26   |
-|  2 | [monokle](https://github.com/kubeshop/monokle)                                    | 2023-06-20 | TypeScript | 2024-02-26   |
-|  3 | [node-maintenance-operator](https://github.com/medik8s/node-maintenance-operator) | 2024-01-17 | Go         | 2024-01-17   |
-|  4 | [awesome-cloud-run](https://github.com/steren/awesome-cloud-run)                  | 2019-11-28 | Dockerfile | 2024-02-21   |
-|  5 | [kyverno](https://github.com/kyverno/kyverno)                                     | 2021-05-31 | Go         | 2024-02-26   |
+| ID |                                REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [setup-cri-dockerd](https://github.com/klts-io/setup-cri-dockerd)   | 2022-04-01 | Shell      | 2024-02-27   |
+|  2 | [modern-unix](https://github.com/ibraheemdev/modern-unix)           | 2021-04-23 | md         | 2024-02-27   |
+|  3 | [jib](https://github.com/GoogleContainerTools/jib)                  | 2018-12-26 | Java       | 2024-02-27   |
+|  4 | [openshift-windows](https://github.com/openshift/openshift-windows) | 2018-12-26 | PowerShell | 2022-01-04   |
+|  5 | [etcd-browser](https://github.com/henszey/etcd-browser)             | 2019-06-18 | JavaScript | 2024-02-20   |
 
 <!--END_SECTION:my_github-->
 
