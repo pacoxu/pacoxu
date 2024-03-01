@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                REPO                                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [uus](https://github.com/yowenter/uus)                                                              | 2018-11-13 | Python     | 2018-11-13   |
-|  2 | [k8s-dra-driver](https://github.com/NVIDIA/k8s-dra-driver)                                          | 2023-12-08 | Go         | 2024-02-27   |
-|  3 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL        | 2024-02-15   |
-|  4 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli)                                  | 2018-01-15 | Python     | 2024-02-27   |
-|  5 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal)                                         | 2018-05-13 | JavaScript | 2023-12-26   |
+| ID |                                           REPO                                           | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [Python-Webscraping-Program](https://github.com/nicholls-git/Python-Webscraping-Program) | 2023-05-04 | Python           | 2023-05-04   |
+|  2 | [etcd-issues](https://github.com/ahrtr/etcd-issues)                                      | 2023-04-04 | Go               | 2024-02-16   |
+|  3 | [community](https://github.com/kubernetes/community)                                     | 2019-06-24 | Jupyter Notebook | 2024-02-29   |
+|  4 | [argo-workflows](https://github.com/argoproj/argo-workflows)                             | 2020-07-28 | Go               | 2024-02-29   |
+|  5 | [etcd-browser](https://github.com/henszey/etcd-browser)                                  | 2019-06-18 | JavaScript       | 2024-02-20   |
 
 <!--END_SECTION:my_github-->
 
