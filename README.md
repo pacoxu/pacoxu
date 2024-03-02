@@ -62,7 +62,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-02-28](https://github.com/kubernetes/kubernetes/pull/123550)     | [471](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-03-01](https://github.com/kubernetes/kubernetes/pull/123607)     | [475](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-11-01](https://github.com/kubernetes/website/pull/43769)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-02-01](https://github.com/kubernetes/test-infra/pull/31787)      | [37](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2024-01-29](https://github.com/kubernetes/enhancements/pull/4452)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [Python-Webscraping-Program](https://github.com/nicholls-git/Python-Webscraping-Program) | 2023-05-04 | Python           | 2023-05-04   |
-|  2 | [etcd-issues](https://github.com/ahrtr/etcd-issues)                                      | 2023-04-04 | Go               | 2024-02-16   |
-|  3 | [community](https://github.com/kubernetes/community)                                     | 2019-06-24 | Jupyter Notebook | 2024-02-29   |
-|  4 | [argo-workflows](https://github.com/argoproj/argo-workflows)                             | 2020-07-28 | Go               | 2024-02-29   |
-|  5 | [etcd-browser](https://github.com/henszey/etcd-browser)                                  | 2019-06-18 | JavaScript       | 2024-02-20   |
+| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) | 2020-10-30 | Shell    | 2024-02-22   |
+|  2 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)     | 2019-03-19 | Makefile | 2024-02-28   |
+|  3 | [helmfile](https://github.com/helmfile/helmfile)                 | 2022-09-28 | Go       | 2024-03-01   |
+|  4 | [istio](https://github.com/istio/istio)                          | 2019-08-12 | Go       | 2024-03-01   |
+|  5 | [duo](https://github.com/duo-rs/duo)                             | 2022-11-02 | Rust     | 2024-02-26   |
 
 <!--END_SECTION:my_github-->
 
