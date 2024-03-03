@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) | 2020-10-30 | Shell    | 2024-02-22   |
-|  2 | [k8s-prom-hpa](https://github.com/stefanprodan/k8s-prom-hpa)     | 2019-03-19 | Makefile | 2024-02-28   |
-|  3 | [helmfile](https://github.com/helmfile/helmfile)                 | 2022-09-28 | Go       | 2024-03-01   |
-|  4 | [istio](https://github.com/istio/istio)                          | 2019-08-12 | Go       | 2024-03-01   |
-|  5 | [duo](https://github.com/duo-rs/duo)                             | 2022-11-02 | Rust     | 2024-02-26   |
+| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|----------|--------------|
+|  1 | [powerfulseal](https://github.com/powerfulseal/powerfulseal)  | 2020-09-14 | Python   | 2024-02-27   |
+|  2 | [kubekit](https://github.com/Orientsoft/kubekit)              | 2017-08-31 | Go       | 2023-12-12   |
+|  3 | [weekly](https://github.com/ruanyf/weekly)                    | 2022-04-28 | md       | 2024-03-02   |
+|  4 | [todos](https://github.com/izqui/todos)                       | 2020-12-13 | Go       | 2023-08-17   |
+|  5 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | 2022-03-10 | Go       | 2024-03-02   |
 
 <!--END_SECTION:my_github-->
 
