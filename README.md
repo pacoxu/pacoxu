@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|----------|--------------|
-|  1 | [powerfulseal](https://github.com/powerfulseal/powerfulseal)  | 2020-09-14 | Python   | 2024-02-27   |
-|  2 | [kubekit](https://github.com/Orientsoft/kubekit)              | 2017-08-31 | Go       | 2023-12-12   |
-|  3 | [weekly](https://github.com/ruanyf/weekly)                    | 2022-04-28 | md       | 2024-03-02   |
-|  4 | [todos](https://github.com/izqui/todos)                       | 2020-12-13 | Go       | 2023-08-17   |
-|  5 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) | 2022-03-10 | Go       | 2024-03-02   |
+| ID |                         REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcdadm](https://github.com/kubernetes-sigs/etcdadm) | 2021-07-08 | Go       | 2024-03-02   |
+|  2 | [vagrant](https://github.com/thecodeteam/vagrant)     | 2016-04-24 | Shell    | 2020-12-17   |
+|  3 | [PR-Helper](https://github.com/kerthcet/PR-Helper)    | 2023-08-28 | Python   | 2023-09-16   |
+|  4 | [octant](https://github.com/vmware-archive/octant)    | 2019-10-11 | Go       | 2024-03-03   |
+|  5 | [summer](https://github.com/Charlie17Li/summer)       | 2022-10-20 | Shell    | 2022-10-20   |
 
 <!--END_SECTION:my_github-->
 
