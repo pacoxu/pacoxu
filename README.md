@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                         REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcdadm](https://github.com/kubernetes-sigs/etcdadm) | 2021-07-08 | Go       | 2024-03-02   |
-|  2 | [vagrant](https://github.com/thecodeteam/vagrant)     | 2016-04-24 | Shell    | 2020-12-17   |
-|  3 | [PR-Helper](https://github.com/kerthcet/PR-Helper)    | 2023-08-28 | Python   | 2023-09-16   |
-|  4 | [octant](https://github.com/vmware-archive/octant)    | 2019-10-11 | Go       | 2024-03-03   |
-|  5 | [summer](https://github.com/Charlie17Li/summer)       | 2022-10-20 | Shell    | 2022-10-20   |
+| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|----------|--------------|
+|  1 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts) | 2019-05-28 | Shell    | 2023-02-06   |
+|  2 | [youki](https://github.com/containers/youki)                 | 2023-06-20 | Rust     | 2024-03-04   |
+|  3 | [xcluster](https://github.com/Nordix/xcluster)               | 2021-01-23 | Roff     | 2023-12-21   |
+|  4 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)    | 2022-11-03 | md       | 2023-11-30   |
+|  5 | [community](https://github.com/klts-io/community)            | 2021-11-17 | md       | 2021-12-01   |
 
 <!--END_SECTION:my_github-->
 
