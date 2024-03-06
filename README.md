@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts) | 2019-05-28 | Shell    | 2023-02-06   |
-|  2 | [youki](https://github.com/containers/youki)                 | 2023-06-20 | Rust     | 2024-03-04   |
-|  3 | [xcluster](https://github.com/Nordix/xcluster)               | 2021-01-23 | Roff     | 2023-12-21   |
-|  4 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)    | 2022-11-03 | md       | 2023-11-30   |
-|  5 | [community](https://github.com/klts-io/community)            | 2021-11-17 | md       | 2021-12-01   |
+| ID |                                          REPO                                           | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [kernel-module-management](https://github.com/kubernetes-sigs/kernel-module-management) | 2023-06-25 | Go               | 2024-02-26   |
+|  2 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)                       | 2021-08-03 | C                | 2024-03-05   |
+|  3 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)                         | 2022-10-21 | Jupyter Notebook | 2024-03-05   |
+|  4 | [draino](https://github.com/planetlabs/draino)                                          | 2019-04-25 | Go               | 2024-02-28   |
+|  5 | [vscode](https://github.com/microsoft/vscode)                                           | 2019-11-20 | TypeScript       | 2024-03-05   |
 
 <!--END_SECTION:my_github-->
 
