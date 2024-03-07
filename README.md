@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                           | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [kernel-module-management](https://github.com/kubernetes-sigs/kernel-module-management) | 2023-06-25 | Go               | 2024-02-26   |
-|  2 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)                       | 2021-08-03 | C                | 2024-03-05   |
-|  3 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)                         | 2022-10-21 | Jupyter Notebook | 2024-03-05   |
-|  4 | [draino](https://github.com/planetlabs/draino)                                          | 2019-04-25 | Go               | 2024-02-28   |
-|  5 | [vscode](https://github.com/microsoft/vscode)                                           | 2019-11-20 | TypeScript       | 2024-03-05   |
+| ID |                                 REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) | 2022-10-26 | Go       | 2024-03-06   |
+|  2 | [solo](https://github.com/b3log/solo)                                 | 2017-04-05 | Java     | 2024-03-04   |
+|  3 | [federation](https://github.com/kubernetes-retired/federation)        | 2018-04-08 | Go       | 2024-02-23   |
+|  4 | [thanos](https://github.com/thanos-io/thanos)                         | 2021-04-19 | Go       | 2024-03-07   |
+|  5 | [docs](https://github.com/DaoCloud-OpenSource/docs)                   | 2023-05-31 | md       | 2023-07-26   |
 
 <!--END_SECTION:my_github-->
 
