@@ -62,7 +62,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-03-01](https://github.com/kubernetes/kubernetes/pull/123607)     | [475](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-03-07](https://github.com/kubernetes/kubernetes/pull/123788)     | [476](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2023-11-01](https://github.com/kubernetes/website/pull/43769)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-02-01](https://github.com/kubernetes/test-infra/pull/31787)      | [37](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2024-01-29](https://github.com/kubernetes/enhancements/pull/4452)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) | 2022-10-26 | Go       | 2024-03-06   |
-|  2 | [solo](https://github.com/b3log/solo)                                 | 2017-04-05 | Java     | 2024-03-04   |
-|  3 | [federation](https://github.com/kubernetes-retired/federation)        | 2018-04-08 | Go       | 2024-02-23   |
-|  4 | [thanos](https://github.com/thanos-io/thanos)                         | 2021-04-19 | Go       | 2024-03-07   |
-|  5 | [docs](https://github.com/DaoCloud-OpenSource/docs)                   | 2023-05-31 | md       | 2023-07-26   |
+| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [summer](https://github.com/Charlie17Li/summer)                | 2022-10-20 | Shell      | 2022-10-20   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)               | 2021-03-24 | Go         | 2024-03-07   |
+|  3 | [worldcup](https://github.com/fatiherikli/worldcup)            | 2018-05-13 | Python     | 2024-03-06   |
+|  4 | [wasmcloud-ollama](https://github.com/WasmAI/wasmcloud-ollama) | 2024-01-23 | Go         | 2024-02-07   |
+|  5 | [kube-ops-view](https://github.com/hjacobs/kube-ops-view)      | 2020-11-13 | JavaScript | 2024-02-22   |
 
 <!--END_SECTION:my_github-->
 
