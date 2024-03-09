@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [summer](https://github.com/Charlie17Li/summer)                | 2022-10-20 | Shell      | 2022-10-20   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)               | 2021-03-24 | Go         | 2024-03-07   |
-|  3 | [worldcup](https://github.com/fatiherikli/worldcup)            | 2018-05-13 | Python     | 2024-03-06   |
-|  4 | [wasmcloud-ollama](https://github.com/WasmAI/wasmcloud-ollama) | 2024-01-23 | Go         | 2024-02-07   |
-|  5 | [kube-ops-view](https://github.com/hjacobs/kube-ops-view)      | 2020-11-13 | JavaScript | 2024-02-22   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kube-scheduler](https://github.com/kubernetes/kube-scheduler) | 2022-02-27 | Go       | 2024-02-12   |
+|  2 | [org](https://github.com/kubernetes/org)                       | 2021-01-29 | Go       | 2024-02-23   |
+|  3 | [java-in-docker](https://github.com/springjk/java-in-docker)   | 2017-02-27 | Java     | 2022-06-23   |
+|  4 | [viper](https://github.com/spf13/viper)                        | 2020-06-16 | Go       | 2024-03-08   |
+|  5 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)           | 2019-03-04 | Shell    | 2023-07-24   |
 
 <!--END_SECTION:my_github-->
 
