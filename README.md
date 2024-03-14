@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) | 2021-06-24 | Go       | 2024-01-23   |
-|  2 | [cfssl](https://github.com/cloudflare/cfssl)                                             | 2019-09-02 | Go       | 2024-03-12   |
-|  3 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)     | 2021-10-18 | Smarty   | 2024-03-10   |
-|  4 | [atlas](https://github.com/alibaba/atlas)                                                | 2017-03-18 | Java     | 2024-03-10   |
-|  5 | [xadmin](https://github.com/sshwsfc/xadmin)                                              | 2014-02-27 | Python   | 2024-03-04   |
+| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubexit](https://github.com/karlkfi/kubexit)                | 2020-09-27 | Go       | 2024-02-01   |
+|  2 | [gpu-operator](https://github.com/NVIDIA/gpu-operator)       | 2024-02-23 | Go       | 2024-03-13   |
+|  3 | [aikdocs](https://github.com/aikdocs/aikdocs)                | 2023-07-19 | Python   | 2023-07-26   |
+|  4 | [github-trends](https://github.com/avgupta456/github-trends) | 2023-01-11 | Python   | 2024-03-13   |
+|  5 | [gvisor](https://github.com/google/gvisor)                   | 2020-06-03 | Go       | 2024-03-14   |
 
 <!--END_SECTION:my_github-->
 
