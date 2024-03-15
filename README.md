@@ -64,7 +64,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-03-07](https://github.com/kubernetes/kubernetes/pull/123788)     | [476](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2024-03-12](https://github.com/kubernetes/website/pull/45517)         | [57](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-03-11](https://github.com/kubernetes/test-infra/pull/32221)      | [38](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)      | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2024-01-29](https://github.com/kubernetes/enhancements/pull/4452)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-11-03](https://github.com/kubernetes/kubeadm/pull/2953)          | [21](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  6 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubexit](https://github.com/karlkfi/kubexit)                | 2020-09-27 | Go       | 2024-02-01   |
-|  2 | [gpu-operator](https://github.com/NVIDIA/gpu-operator)       | 2024-02-23 | Go       | 2024-03-13   |
-|  3 | [aikdocs](https://github.com/aikdocs/aikdocs)                | 2023-07-19 | Python   | 2023-07-26   |
-|  4 | [github-trends](https://github.com/avgupta456/github-trends) | 2023-01-11 | Python   | 2024-03-13   |
-|  5 | [gvisor](https://github.com/google/gvisor)                   | 2020-06-03 | Go       | 2024-03-14   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [mock-kubelet](https://github.com/cyclinder/mock-kubelet)      | 2022-03-03 | Go       | 2022-03-03   |
+|  2 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist)      | 2021-03-03 | Go       | 2024-02-29   |
+|  3 | [silver-surfer](https://github.com/devtron-labs/silver-surfer) | 2023-09-20 | Go       | 2024-03-04   |
+|  4 | [utils](https://github.com/kubernetes/utils)                   | 2021-02-01 | Go       | 2024-03-11   |
+|  5 | [cilium](https://github.com/cilium/cilium)                     | 2019-05-13 | Go       | 2024-03-14   |
 
 <!--END_SECTION:my_github-->
 
