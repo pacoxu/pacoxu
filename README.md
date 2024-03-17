@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [bolt](https://github.com/boltdb/bolt)                           | 2021-08-31 | Go       | 2024-03-14   |
-|  2 | [ktop](https://github.com/vladimirvivien/ktop)                   | 2023-05-10 | Go       | 2024-03-08   |
-|  3 | [singularity](https://github.com/apptainer/singularity)          | 2021-06-28 | Go       | 2024-03-13   |
-|  4 | [fake-k8s](https://github.com/wzshiming/fake-k8s)                | 2022-03-14 | Go       | 2023-01-06   |
-|  5 | [docker-keepalived](https://github.com/osixia/docker-keepalived) | 2019-03-05 | Shell    | 2024-03-12   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [helm-diff](https://github.com/databus23/helm-diff)                                       | 2019-09-03 | Go       | 2024-03-15   |
+|  2 | [milvus](https://github.com/milvus-io/milvus)                                             | 2024-01-03 | Go       | 2024-03-16   |
+|  3 | [docker-tc](https://github.com/lukaszlach/docker-tc)                                      | 2019-04-22 | Shell    | 2024-03-14   |
+|  4 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats) | 2024-01-04 | Go       | 2024-01-15   |
+|  5 | [CNTK](https://github.com/microsoft/CNTK)                                                 | 2016-01-27 | C++      | 2024-03-16   |
 
 <!--END_SECTION:my_github-->
 
