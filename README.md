@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [helm-diff](https://github.com/databus23/helm-diff)                                       | 2019-09-03 | Go       | 2024-03-15   |
-|  2 | [milvus](https://github.com/milvus-io/milvus)                                             | 2024-01-03 | Go       | 2024-03-16   |
-|  3 | [docker-tc](https://github.com/lukaszlach/docker-tc)                                      | 2019-04-22 | Shell    | 2024-03-14   |
-|  4 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats) | 2024-01-04 | Go       | 2024-01-15   |
-|  5 | [CNTK](https://github.com/microsoft/CNTK)                                                 | 2016-01-27 | C++      | 2024-03-16   |
+| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [world_cup_learning](https://github.com/fisadev/world_cup_learning)                                               | 2018-05-11 | Python   | 2023-02-09   |
+|  2 | [wg-serverless](https://github.com/cncf/wg-serverless)                                                            | 2019-10-22 | md       | 2024-03-16   |
+|  3 | [openshift-docs](https://github.com/openshift/openshift-docs)                                                     | 2017-06-06 | HTML     | 2024-03-16   |
+|  4 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go       | 2024-03-09   |
+|  5 | [runtime-spec](https://github.com/opencontainers/runtime-spec)                                                    | 2021-09-23 | Go       | 2024-03-17   |
 
 <!--END_SECTION:my_github-->
 
