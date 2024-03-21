@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                        REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [unvanished_memory](https://github.com/x13-caesar/unvanished_memory)                                               | 2022-04-23 | md         | 2022-04-23   |
-|  2 | [website](https://github.com/kubernetes/website)                                                                   | 2021-09-28 | HTML       | 2024-03-19   |
-|  3 | [transformer-debugger](https://github.com/openai/transformer-debugger)                                             | 2024-03-12 | Python     | 2024-03-20   |
-|  4 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal)                                                        | 2018-05-13 | JavaScript | 2023-12-26   |
-|  5 | [Docker-and-Kubernetes-Mirror-Synchronizer](https://github.com/KofClubs/Docker-and-Kubernetes-Mirror-Synchronizer) | 2021-07-09 | Shell      | 2021-07-09   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [istio](https://github.com/istio/istio)                         | 2019-08-12 | Go         | 2024-03-20   |
+|  2 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)          | 2020-09-14 | Python     | 2020-10-21   |
+|  3 | [gvisor](https://github.com/google/gvisor)                      | 2020-06-03 | Go         | 2024-03-20   |
+|  4 | [K8s-Chat](https://github.com/Jerry-Kon/K8s-Chat)               | 2023-10-30 | Python     | 2023-12-07   |
+|  5 | [docker-nodeclub](https://github.com/Carrotzpc/docker-nodeclub) | 2016-05-19 | JavaScript | 2019-03-09   |
 
 <!--END_SECTION:my_github-->
 
