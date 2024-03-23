@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [mkcert](https://github.com/FiloSottile/mkcert)                  | 2020-07-16 | Go       | 2024-03-21   |
-|  2 | [makisu](https://github.com/uber-archive/makisu)                 | 2019-03-14 | Go       | 2024-03-11   |
-|  3 | [jepsen](https://github.com/jepsen-io/jepsen)                    | 2017-12-12 | Clojure  | 2024-03-21   |
-|  4 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator) | 2022-06-14 | Go       | 2023-04-19   |
-|  5 | [gh-pr-summarize](https://github.com/wzshiming/gh-pr-summarize)  | 2024-01-17 | Go       | 2024-01-17   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [clomonitor](https://github.com/cncf/clomonitor)                           | 2022-02-15 | TypeScript | 2024-03-14   |
+|  2 | [etcd-browser](https://github.com/henszey/etcd-browser)                    | 2019-06-18 | JavaScript | 2024-02-20   |
+|  3 | [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) | 2022-03-03 | HTML       | 2024-03-20   |
+|  4 | [runc-cve](https://github.com/rancher/runc-cve)                            | 2019-04-10 | Dockerfile | 2023-11-13   |
+|  5 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)                  | 2022-11-03 | md         | 2023-11-30   |
 
 <!--END_SECTION:my_github-->
 
