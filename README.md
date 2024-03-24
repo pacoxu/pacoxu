@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [clomonitor](https://github.com/cncf/clomonitor)                           | 2022-02-15 | TypeScript | 2024-03-14   |
-|  2 | [etcd-browser](https://github.com/henszey/etcd-browser)                    | 2019-06-18 | JavaScript | 2024-02-20   |
-|  3 | [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) | 2022-03-03 | HTML       | 2024-03-20   |
-|  4 | [runc-cve](https://github.com/rancher/runc-cve)                            | 2019-04-10 | Dockerfile | 2023-11-13   |
-|  5 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)                  | 2022-11-03 | md         | 2023-11-30   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [landscape](https://github.com/cncf/landscape)                   | 2023-06-20 | md          | 2024-03-23   |
+|  2 | [nagioscore](https://github.com/NagiosEnterprises/nagioscore)    | 2017-12-08 | C           | 2024-03-24   |
+|  3 | [conjure-up](https://github.com/conjure-up/conjure-up)           | 2017-06-07 | Python      | 2024-01-24   |
+|  4 | [XDKAirMenu](https://github.com/XavierDK/XDKAirMenu)             | 2016-09-23 | Objective-C | 2023-07-06   |
+|  5 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes) | 2019-11-13 | Shell       | 2021-11-16   |
 
 <!--END_SECTION:my_github-->
 
