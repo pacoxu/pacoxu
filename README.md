@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [landscape](https://github.com/cncf/landscape)                   | 2023-06-20 | md          | 2024-03-23   |
-|  2 | [nagioscore](https://github.com/NagiosEnterprises/nagioscore)    | 2017-12-08 | C           | 2024-03-24   |
-|  3 | [conjure-up](https://github.com/conjure-up/conjure-up)           | 2017-06-07 | Python      | 2024-01-24   |
-|  4 | [XDKAirMenu](https://github.com/XavierDK/XDKAirMenu)             | 2016-09-23 | Objective-C | 2023-07-06   |
-|  5 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes) | 2019-11-13 | Shell       | 2021-11-16   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [protobuf-go](https://github.com/protocolbuffers/protobuf-go)                            | 2021-02-24 | Go       | 2024-03-22   |
+|  2 | [kubedev](https://github.com/zhouya0/kubedev)                                            | 2020-11-03 | Go       | 2021-06-04   |
+|  3 | [Python-Webscraping-Program](https://github.com/nicholls-git/Python-Webscraping-Program) | 2023-05-04 | Python   | 2023-05-04   |
+|  4 | [kubetools](https://github.com/collabnix/kubetools)                                      | 2022-02-28 | HTML     | 2024-03-24   |
+|  5 | [jmeter](https://github.com/apache/jmeter)                                               | 2018-10-22 | Java     | 2024-03-24   |
 
 <!--END_SECTION:my_github-->
 
