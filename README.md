@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tag-security](https://github.com/cncf/tag-security)                                    | 2021-10-12 | HTML     | 2024-03-25   |
-|  2 | [gh-pr-summarize](https://github.com/wzshiming/gh-pr-summarize)                         | 2024-01-17 | Go       | 2024-01-17   |
-|  3 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery)             | 2021-04-07 | Go       | 2022-01-10   |
-|  4 | [kernel-module-management](https://github.com/kubernetes-sigs/kernel-module-management) | 2023-06-25 | Go       | 2024-03-25   |
-|  5 | [k8s-sql](https://github.com/rancher/k8s-sql)                                           | 2020-11-16 | Go       | 2023-06-28   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [cri-tools](https://github.com/kubernetes-sigs/cri-tools)            | 2023-09-01 | Go         | 2024-03-26   |
+|  2 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook) | 2021-04-14 | Go         | 2023-11-13   |
+|  3 | [buf](https://github.com/bufbuild/buf)                               | 2024-01-15 | Go         | 2024-03-26   |
+|  4 | [learning-knative](https://github.com/skyao/learning-knative)        | 2019-09-06 | HTML       | 2023-01-28   |
+|  5 | [dotemacs](https://github.com/marun/dotemacs)                        | 2020-01-10 | Emacs Lisp | 2023-04-10   |
 
 <!--END_SECTION:my_github-->
 
