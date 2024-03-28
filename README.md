@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [cri-tools](https://github.com/kubernetes-sigs/cri-tools)            | 2023-09-01 | Go         | 2024-03-26   |
-|  2 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook) | 2021-04-14 | Go         | 2023-11-13   |
-|  3 | [buf](https://github.com/bufbuild/buf)                               | 2024-01-15 | Go         | 2024-03-26   |
-|  4 | [learning-knative](https://github.com/skyao/learning-knative)        | 2019-09-06 | HTML       | 2023-01-28   |
-|  5 | [dotemacs](https://github.com/marun/dotemacs)                        | 2020-01-10 | Emacs Lisp | 2023-04-10   |
+| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kasmcloud](https://github.com/wasmCloud/kasmcloud)                         | 2023-09-08 | Rust       | 2024-02-13   |
+|  2 | [lighthouse](https://github.com/submariner-io/lighthouse)                   | 2022-04-25 | Go         | 2024-03-14   |
+|  3 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)             | 2016-04-24 | Ruby       | 2023-10-04   |
+|  4 | [openai-translator](https://github.com/openai-translator/openai-translator) | 2023-03-06 | TypeScript | 2024-03-27   |
+|  5 | [vault-action](https://github.com/hashicorp/vault-action)                   | 2020-09-15 | JavaScript | 2024-03-21   |
 
 <!--END_SECTION:my_github-->
 
