@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                               REPO                                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [logr](https://github.com/go-logr/logr)                                                                                           | 2021-01-23 | Go         | 2024-03-26   |
-|  2 | [node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery)                                               | 2021-11-23 | Go         | 2024-03-27   |
-|  3 | [emcworld2016-hackathon-documentum-rest](https://github.com/Enterprise-Content-Management/emcworld2016-hackathon-documentum-rest) | 2016-05-20 | JavaScript | 2018-08-20   |
-|  4 | [bolt](https://github.com/boltdb/bolt)                                                                                            | 2021-08-31 | Go         | 2024-03-28   |
-|  5 | [interlock](https://github.com/ehazlett/interlock)                                                                                | 2016-04-27 | Go         | 2024-03-11   |
+| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [github-trends](https://github.com/avgupta456/github-trends)             | 2023-01-11 | Python   | 2024-03-29   |
+|  2 | [kudo](https://github.com/kudobuilder/kudo)                              | 2019-10-22 | Go       | 2024-03-26   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                         | 2021-03-24 | Go       | 2024-03-29   |
+|  4 | [usernetes](https://github.com/rootless-containers/usernetes)            | 2019-02-25 | Shell    | 2024-03-27   |
+|  5 | [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2023-03-08 | C        | 2024-03-29   |
 
 <!--END_SECTION:my_github-->
 
