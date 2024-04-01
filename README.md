@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                REPO                                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide)                     | 2020-05-22 | Shell       | 2023-12-17   |
-|  2 | [SXFiveScoreShow](https://github.com/dsxNiubility/SXFiveScoreShow)                                  | 2016-09-23 | Objective-C | 2023-07-19   |
-|  3 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL         | 2024-03-09   |
-|  4 | [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ)                                   | 2014-09-15 | JavaScript  | 2024-03-30   |
-|  5 | [ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape)                             | 2024-02-23 | HTML        | 2024-03-27   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubeadmiral](https://github.com/kubewharf/kubeadmiral)              | 2024-01-30 | Go       | 2024-03-31   |
+|  2 | [Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)    | 2019-03-07 | md       | 2024-01-14   |
+|  3 | [github-readme-stats](https://github.com/pacoxu/github-readme-stats) | 2023-01-29 | Go       | 2023-01-29   |
+|  4 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)     | 2019-11-13 | Shell    | 2021-11-16   |
+|  5 | [paginate](https://github.com/Pylons/paginate)                       | 2016-07-05 | Python   | 2024-03-17   |
 
 <!--END_SECTION:my_github-->
 
