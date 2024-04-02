@@ -73,13 +73,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeadmiral](https://github.com/kubewharf/kubeadmiral)              | 2024-01-30 | Go       | 2024-03-31   |
-|  2 | [Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)    | 2019-03-07 | md       | 2024-01-14   |
-|  3 | [github-readme-stats](https://github.com/pacoxu/github-readme-stats) | 2023-01-29 | Go       | 2023-01-29   |
-|  4 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)     | 2019-11-13 | Shell    | 2021-11-16   |
-|  5 | [paginate](https://github.com/Pylons/paginate)                       | 2016-07-05 | Python   | 2024-03-17   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [docker-alpine](https://github.com/alpinelinux/docker-alpine)     | 2021-04-14 | Lua        | 2024-03-31   |
+|  2 | [asciiflow](https://github.com/lewish/asciiflow)                  | 2023-06-15 | TypeScript | 2024-04-01   |
+|  3 | [python-requests-aws](https://github.com/tax/python-requests-aws) | 2016-09-26 | Python     | 2024-03-06   |
+|  4 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)     | 2019-03-19 | Mustache   | 2024-03-06   |
+|  5 | [resume.github.com](https://github.com/resume/resume.github.com)  | 2023-01-03 | JavaScript | 2024-04-01   |
 
 <!--END_SECTION:my_github-->
 
