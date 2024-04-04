@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2024-04-02   |
-|  2 | [browser-agent](https://github.com/m1guelpf/browser-agent)                                        | 2023-03-29 | Rust       | 2024-04-02   |
-|  3 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats)         | 2024-01-04 | Go         | 2024-01-15   |
-|  4 | [docker-slapd](https://github.com/nickstenning/docker-slapd)                                      | 2017-02-16 | Shell      | 2024-03-25   |
-|  5 | [hickory-dns](https://github.com/hickory-dns/hickory-dns)                                         | 2023-04-04 | Rust       | 2024-04-02   |
+| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------|------------|----------|--------------|
+|  1 | [istio](https://github.com/istio/istio)                     | 2019-08-12 | Go       | 2024-04-03   |
+|  2 | [dapr](https://github.com/dapr/dapr)                        | 2021-02-18 | Go       | 2024-04-03   |
+|  3 | [K8s-Chat](https://github.com/Jerry-Kon/K8s-Chat)           | 2023-10-30 | Python   | 2023-12-07   |
+|  4 | [containerd-lts](https://github.com/klts-io/containerd-lts) | 2021-10-15 | Shell    | 2023-05-12   |
+|  5 | [mock-kubelet](https://github.com/cyclinder/mock-kubelet)   | 2022-03-03 | Go       | 2022-03-03   |
 
 <!--END_SECTION:my_github-->
 
