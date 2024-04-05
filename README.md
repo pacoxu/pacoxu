@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------|------------|----------|--------------|
-|  1 | [istio](https://github.com/istio/istio)                     | 2019-08-12 | Go       | 2024-04-03   |
-|  2 | [dapr](https://github.com/dapr/dapr)                        | 2021-02-18 | Go       | 2024-04-03   |
-|  3 | [K8s-Chat](https://github.com/Jerry-Kon/K8s-Chat)           | 2023-10-30 | Python   | 2023-12-07   |
-|  4 | [containerd-lts](https://github.com/klts-io/containerd-lts) | 2021-10-15 | Shell    | 2023-05-12   |
-|  5 | [mock-kubelet](https://github.com/cyclinder/mock-kubelet)   | 2022-03-03 | Go       | 2022-03-03   |
+| ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [todos](https://github.com/izqui/todos)                             | 2020-12-13 | Go       | 2024-03-05   |
+|  2 | [github-queries](https://github.com/SergeyKanzhelev/github-queries) | 2021-04-14 | Go       | 2023-04-10   |
+|  3 | [gatekeeper](https://github.com/open-policy-agent/gatekeeper)       | 2020-05-21 | Go       | 2024-04-04   |
+|  4 | [octant](https://github.com/vmware-archive/octant)                  | 2019-10-11 | Go       | 2024-04-03   |
+|  5 | [ropee](https://github.com/DaoCloud/ropee)                          | 2019-07-08 | Go       | 2022-03-27   |
 
 <!--END_SECTION:my_github-->
 
