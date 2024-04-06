@@ -90,11 +90,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I stared (random 5)
 | ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|---------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [todos](https://github.com/izqui/todos)                             | 2020-12-13 | Go       | 2024-03-05   |
-|  2 | [github-queries](https://github.com/SergeyKanzhelev/github-queries) | 2021-04-14 | Go       | 2023-04-10   |
-|  3 | [gatekeeper](https://github.com/open-policy-agent/gatekeeper)       | 2020-05-21 | Go       | 2024-04-04   |
-|  4 | [octant](https://github.com/vmware-archive/octant)                  | 2019-10-11 | Go       | 2024-04-03   |
-|  5 | [ropee](https://github.com/DaoCloud/ropee)                          | 2019-07-08 | Go       | 2022-03-27   |
+|  1 | [SoccerAnalysis](https://github.com/joshuamataaraya/SoccerAnalysis) | 2016-09-23 | HTML     | 2017-11-06   |
+|  2 | [containerd](https://github.com/containerd/containerd)              | 2017-05-31 | Go       | 2024-04-05   |
+|  3 | [flow.ci](https://github.com/FIRHQ/flow.ci)                         | 2016-08-19 | md       | 2022-09-09   |
+|  4 | [ropee](https://github.com/kebe7jun/ropee)                          | 2019-06-29 | Go       | 2023-08-14   |
+|  5 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)              | 2020-09-14 | Python   | 2020-10-21   |
 
 <!--END_SECTION:my_github-->
 
