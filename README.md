@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [SoccerAnalysis](https://github.com/joshuamataaraya/SoccerAnalysis) | 2016-09-23 | HTML     | 2017-11-06   |
-|  2 | [containerd](https://github.com/containerd/containerd)              | 2017-05-31 | Go       | 2024-04-05   |
-|  3 | [flow.ci](https://github.com/FIRHQ/flow.ci)                         | 2016-08-19 | md       | 2022-09-09   |
-|  4 | [ropee](https://github.com/kebe7jun/ropee)                          | 2019-06-29 | Go       | 2023-08-14   |
-|  5 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)              | 2020-09-14 | Python   | 2020-10-21   |
+| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [glances](https://github.com/nicolargo/glances)                        | 2016-05-14 | Python   | 2024-04-06   |
+|  2 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 2021-09-17 | Shell    | 2024-04-06   |
+|  3 | [kube-fencing](https://github.com/kvaps/kube-fencing)                  | 2020-09-10 | Go       | 2024-03-03   |
+|  4 | [linkerd2](https://github.com/linkerd/linkerd2)                        | 2021-07-29 | Go       | 2024-04-05   |
+|  5 | [aikdocs](https://github.com/aikdocs/aikdocs)                          | 2023-07-19 | Python   | 2023-07-26   |
 
 <!--END_SECTION:my_github-->
 
