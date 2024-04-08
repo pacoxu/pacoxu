@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [glances](https://github.com/nicolargo/glances)                        | 2016-05-14 | Python   | 2024-04-06   |
-|  2 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 2021-09-17 | Shell    | 2024-04-06   |
-|  3 | [kube-fencing](https://github.com/kvaps/kube-fencing)                  | 2020-09-10 | Go       | 2024-03-03   |
-|  4 | [linkerd2](https://github.com/linkerd/linkerd2)                        | 2021-07-29 | Go       | 2024-04-05   |
-|  5 | [aikdocs](https://github.com/aikdocs/aikdocs)                          | 2023-07-19 | Python   | 2023-07-26   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [interlock](https://github.com/ehazlett/interlock)                   | 2016-04-27 | Go         | 2024-04-04   |
+|  2 | [istio](https://github.com/istio/istio)                              | 2019-08-12 | Go         | 2024-04-07   |
+|  3 | [silver-surfer](https://github.com/devtron-labs/silver-surfer)       | 2023-09-20 | Go         | 2024-03-27   |
+|  4 | [open-source-guides](https://github.com/tisonkun/open-source-guides) | 2022-05-24 | HTML       | 2023-01-27   |
+|  5 | [ReplayLastGoal](https://github.com/xdamman/ReplayLastGoal)          | 2018-05-13 | JavaScript | 2023-12-26   |
 
 <!--END_SECTION:my_github-->
 
