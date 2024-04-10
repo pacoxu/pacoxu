@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                        REPO                                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [clomonitor](https://github.com/cncf/clomonitor)                                                                    | 2022-02-15 | TypeScript | 2024-03-14   |
-|  2 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin)                                   | 2020-06-11 | Go         | 2023-08-21   |
-|  3 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                          | 2022-05-20 | Python     | 2024-04-08   |
-|  4 | [vpnkit](https://github.com/moby/vpnkit)                                                                            | 2016-05-18 | OCaml      | 2024-04-08   |
-|  5 | [container-object-storage-interface-api](https://github.com/kubernetes-sigs/container-object-storage-interface-api) | 2021-02-23 | Go         | 2024-01-19   |
+| ID |                        REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------|------------|----------|--------------|
+|  1 | [xxhash](https://github.com/cespare/xxhash)         | 2021-09-20 | Go       | 2024-04-09   |
+|  2 | [kubetools](https://github.com/collabnix/kubetools) | 2022-02-28 | HTML     | 2024-04-09   |
+|  3 | [common](https://github.com/containers/common)      | 2021-02-08 | Go       | 2024-03-25   |
+|  4 | [awards](https://github.com/cncf/awards)            | 2023-10-13 | md       | 2023-11-10   |
+|  5 | [k3v](https://github.com/ibuildthecloud/k3v)        | 2020-10-20 | Go       | 2024-04-03   |
 
 <!--END_SECTION:my_github-->
 
