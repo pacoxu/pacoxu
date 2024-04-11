@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                        REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------|------------|----------|--------------|
-|  1 | [xxhash](https://github.com/cespare/xxhash)         | 2021-09-20 | Go       | 2024-04-09   |
-|  2 | [kubetools](https://github.com/collabnix/kubetools) | 2022-02-28 | HTML     | 2024-04-09   |
-|  3 | [common](https://github.com/containers/common)      | 2021-02-08 | Go       | 2024-03-25   |
-|  4 | [awards](https://github.com/cncf/awards)            | 2023-10-13 | md       | 2023-11-10   |
-|  5 | [k3v](https://github.com/ibuildthecloud/k3v)        | 2020-10-20 | Go       | 2024-04-03   |
+| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kube-mesos-framework](https://github.com/kubernetes-retired/kube-mesos-framework)                    | 2017-09-29 | HTML     | 2024-04-02   |
+|  2 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) | 2023-04-20 | Go       | 2024-04-05   |
+|  3 | [hwameistor-operator](https://github.com/hwameistor/hwameistor-operator)                              | 2023-05-25 | Go       | 2024-04-08   |
+|  4 | [oam-simple-demo](https://github.com/harmonycloud/oam-simple-demo)                                    | 2020-07-06 | md       | 2020-08-01   |
+|  5 | [kubectx](https://github.com/ahmetb/kubectx)                                                          | 2021-01-24 | Go       | 2024-04-10   |
 
 <!--END_SECTION:my_github-->
 
