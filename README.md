@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [hwameistor](https://github.com/hwameistor/hwameistor)             | 2022-08-22 | Go       | 2024-04-08   |
-|  2 | [ginkgo](https://github.com/onsi/ginkgo)                           | 2020-10-09 | Go       | 2024-04-11   |
-|  3 | [releaseTracker](https://github.com/pikeszfish/releaseTracker)     | 2018-04-22 | Shell    | 2021-06-15   |
-|  4 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial) | 2019-10-07 | C#       | 2024-03-05   |
-|  5 | [nacos](https://github.com/alibaba/nacos)                          | 2018-12-28 | Java     | 2024-04-11   |
+| ID |                           REPO                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubean](https://github.com/kubean-io/kubean)             | 2022-08-17 | Go         | 2024-04-12   |
+|  2 | [elasticsearch](https://github.com/elastic/elasticsearch) | 2012-07-20 | Java       | 2024-04-12   |
+|  3 | [meta-balena](https://github.com/balena-os/meta-balena)   | 2020-09-14 | BitBake    | 2024-04-02   |
+|  4 | [foxtrick](https://github.com/minj/foxtrick)              | 2016-09-23 | JavaScript | 2024-04-10   |
+|  5 | [serverless](https://github.com/serverless/serverless)    | 2019-11-29 | JavaScript | 2024-04-12   |
 
 <!--END_SECTION:my_github-->
 
