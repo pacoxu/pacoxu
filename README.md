@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [maybe](https://github.com/p-e-w/maybe)                            | 2017-12-21 | Python   | 2024-04-02   |
-|  2 | [nri](https://github.com/containerd/nri)                           | 2023-06-20 | Go       | 2024-04-09   |
-|  3 | [xadmin](https://github.com/sshwsfc/xadmin)                        | 2014-02-27 | Python   | 2024-04-12   |
-|  4 | [kubernetes-design](https://github.com/kerthcet/kubernetes-design) | 2022-03-29 | md       | 2023-12-22   |
-|  5 | [kubectl-ai](https://github.com/sozercan/kubectl-ai)               | 2023-03-21 | Go       | 2024-04-11   |
+| ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)  | 2020-12-24 | Go       | 2023-01-23   |
+|  2 | [drbd-installer](https://github.com/hwameistor/drbd-installer)      | 2022-03-18 | Go       | 2022-06-22   |
+|  3 | [katalyst-core](https://github.com/kubewharf/katalyst-core)         | 2024-01-30 | Go       | 2024-04-13   |
+|  4 | [github-queries](https://github.com/SergeyKanzhelev/github-queries) | 2021-04-14 | Go       | 2023-04-10   |
+|  5 | [docker-realtime](https://github.com/2b-t/docker-realtime)          | 2023-07-19 | Shell    | 2024-03-31   |
 
 <!--END_SECTION:my_github-->
 
