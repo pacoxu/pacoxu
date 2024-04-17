@@ -64,7 +64,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2023-04-10 | Go       |    11 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-04-16 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md       |     4 |
@@ -72,7 +72,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |   6 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md       |     1 |
-| sum |                                                                    |            |            |          |    38 |
+| sum |                                                                    |            |            |          |    39 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeadm-operator](https://github.com/chendave/kubeadm-operator) | 2022-06-14 | Go       | 2023-04-19   |
-|  2 | [docker-realtime](https://github.com/2b-t/docker-realtime)       | 2023-07-19 | Shell    | 2024-03-31   |
-|  3 | [GPTZero](https://github.com/BurhanUlTayyab/GPTZero)             | 2023-10-15 | Python   | 2024-04-12   |
-|  4 | [llmlite](https://github.com/InftyAI/llmlite)                    | 2023-10-09 | Python   | 2024-04-10   |
-|  5 | [Kyodai](https://github.com/andever/Kyodai)                      | 2014-10-15 | Java     | 2018-03-03   |
+| ID |                                 REPO                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [kube-copilot](https://github.com/feiskyer/kube-copilot)              | 2023-03-29 | Go               | 2024-04-15   |
+|  2 | [football-crunching](https://github.com/rjtavares/football-crunching) | 2016-09-23 | Jupyter Notebook | 2024-03-25   |
+|  3 | [presentations](https://github.com/cncf/presentations)                | 2022-11-01 | Go               | 2024-04-11   |
+|  4 | [modgv](https://github.com/lucasepe/modgv)                            | 2021-05-21 | Go               | 2024-04-11   |
+|  5 | [docker-volumes](https://github.com/cpuguy83/docker-volumes)          | 2016-06-15 | Go               | 2024-01-22   |
 
 <!--END_SECTION:my_github-->
 
