@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [kube-copilot](https://github.com/feiskyer/kube-copilot)              | 2023-03-29 | Go               | 2024-04-15   |
-|  2 | [football-crunching](https://github.com/rjtavares/football-crunching) | 2016-09-23 | Jupyter Notebook | 2024-03-25   |
-|  3 | [presentations](https://github.com/cncf/presentations)                | 2022-11-01 | Go               | 2024-04-11   |
-|  4 | [modgv](https://github.com/lucasepe/modgv)                            | 2021-05-21 | Go               | 2024-04-11   |
-|  5 | [docker-volumes](https://github.com/cpuguy83/docker-volumes)          | 2016-06-15 | Go               | 2024-01-22   |
+| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------|------------|----------|--------------|
+|  1 | [gemma_pytorch](https://github.com/google/gemma_pytorch) | 2024-02-23 | Python   | 2024-04-17   |
+|  2 | [conjure-up](https://github.com/conjure-up/conjure-up)   | 2017-06-07 | Python   | 2024-01-24   |
+|  3 | [bcc](https://github.com/iovisor/bcc)                    | 2021-09-06 | C        | 2024-04-18   |
+|  4 | [simple_form](https://github.com/heartcombo/simple_form) | 2016-08-11 | Ruby     | 2024-04-09   |
+|  5 | [clusterpedia](https://github.com/ycsk02/clusterpedia)   | 2022-04-23 | Go       | 2022-05-06   |
 
 <!--END_SECTION:my_github-->
 
