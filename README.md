@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------|------------|----------|--------------|
-|  1 | [gemma_pytorch](https://github.com/google/gemma_pytorch) | 2024-02-23 | Python   | 2024-04-17   |
-|  2 | [conjure-up](https://github.com/conjure-up/conjure-up)   | 2017-06-07 | Python   | 2024-01-24   |
-|  3 | [bcc](https://github.com/iovisor/bcc)                    | 2021-09-06 | C        | 2024-04-18   |
-|  4 | [simple_form](https://github.com/heartcombo/simple_form) | 2016-08-11 | Ruby     | 2024-04-09   |
-|  5 | [clusterpedia](https://github.com/ycsk02/clusterpedia)   | 2022-04-23 | Go       | 2022-05-06   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cilium](https://github.com/cilium/cilium)                         | 2019-05-13 | Go       | 2024-04-18   |
+|  2 | [oam-simple-demo](https://github.com/harmonycloud/oam-simple-demo) | 2020-07-06 | md       | 2020-08-01   |
+|  3 | [arktos](https://github.com/CentaurusInfra/arktos)                 | 2023-09-26 | Go       | 2024-04-15   |
+|  4 | [composer](https://github.com/composer/composer)                   | 2016-10-19 | PHP      | 2024-04-18   |
+|  5 | [ttrpc](https://github.com/containerd/ttrpc)                       | 2022-06-09 | Go       | 2024-04-08   |
 
 <!--END_SECTION:my_github-->
 
