@@ -64,7 +64,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-04-19 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-04-22 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md       |     4 |
@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubenav](https://github.com/kubenav/kubenav)                      | 2020-11-13 | Dart     | 2024-04-21   |
-|  2 | [TranslateProject](https://github.com/LCTT/TranslateProject)       | 2019-02-21 | Shell    | 2024-04-19   |
-|  3 | [wasmcloud-ollama](https://github.com/WasmAI/wasmcloud-ollama)     | 2024-01-23 | Go       | 2024-02-07   |
-|  4 | [resume-vue](https://github.com/nusr/resume-vue)                   | 2023-01-03 | Vue      | 2023-06-17   |
-|  5 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 2023-03-22 | Python   | 2024-04-22   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [containerd-lts](https://github.com/klts-io/containerd-lts)          | 2021-10-15 | Shell    | 2023-05-12   |
+|  2 | [open-source-guides](https://github.com/tisonkun/open-source-guides) | 2022-05-24 | HTML     | 2023-01-27   |
+|  3 | [memorials](https://github.com/cncf/memorials)                       | 2023-11-08 | md       | 2024-04-11   |
+|  4 | [graphdot](https://github.com/ewohltman/graphdot)                    | 2021-05-21 | Go       | 2024-02-08   |
+|  5 | [Similarity](https://github.com/bbc/Similarity)                      | 2019-10-08 | Ruby     | 2023-07-06   |
 
 <!--END_SECTION:my_github-->
 
