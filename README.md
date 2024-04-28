@@ -88,13 +88,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                            REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------|------------|----------|--------------|
-|  1 | [pipeline](https://github.com/banzaicloud/pipeline)        | 2020-06-12 | Go       | 2024-04-13   |
-|  2 | [kraken](https://github.com/uber/kraken)                   | 2019-03-11 | Go       | 2024-04-26   |
-|  3 | [welcome](https://github.com/DaoCloud-OpenSource/welcome)  | 2022-11-03 | md       | 2023-11-30   |
-|  4 | [mysql-operator](https://github.com/oracle/mysql-operator) | 2019-05-15 | Go       | 2024-04-24   |
-|  5 | [elasticsearch](https://github.com/elastic/elasticsearch)  | 2012-07-20 | Java     | 2024-04-26   |
+| ID |                               REPO                               | STAREDDATE |        LAUGUAGE         | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|-------------------------|--------------|
+|  1 | [recognize](https://github.com/nextcloud/recognize)              | 2023-10-08 | PHP                     | 2024-04-27   |
+|  2 | [brigade](https://github.com/brigadecore/brigade)                | 2018-05-14 | Go                      | 2024-04-23   |
+|  3 | [cri-dockerd](https://github.com/Mirantis/cri-dockerd)           | 2022-03-03 | Go                      | 2024-04-25   |
+|  4 | [youth-soccer](https://github.com/pacoxu/youth-soccer)           | 2016-12-25 | GCC Machine Description | 2021-04-07   |
+|  5 | [resume.github.com](https://github.com/resume/resume.github.com) | 2023-01-03 | JavaScript              | 2024-04-27   |
 
 <!--END_SECTION:my_github-->
 
