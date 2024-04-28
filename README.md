@@ -13,6 +13,7 @@
  🌱 Learning and Sharing
 
 - Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member & Event Organizer
+  - 2024 KCD Shanghai: [Cloud Native Novice & OpenSource Education Track:01-Kubernetes Contributor Journeys](https://www.bilibili.com/video/BV1nD421T786/?spm_id_from=333.999.0.0)
   - 2024 KubeCon EU(Paris) as Program Committee Member:
     - [Kubernetes Steering Committee: Genesis, Bootstrap, Now & Future](https://sched.co/1YhgX) - Nabarun Pal, Broadcom & Paco Xu, DaoCloud
     - [Kubernetes Contributor Summit](https://www.kubernetes.dev/events/2024/kcseu/): [Steering AMA](https://youtu.be/1Ia75WgGC0g?si=5EjP7XlzgM1-q-8O) - Kubernetes Steering Committee
