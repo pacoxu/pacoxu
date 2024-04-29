@@ -92,13 +92,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE |        LAUGUAGE         | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|-------------------------|--------------|
-|  1 | [recognize](https://github.com/nextcloud/recognize)              | 2023-10-08 | PHP                     | 2024-04-27   |
-|  2 | [brigade](https://github.com/brigadecore/brigade)                | 2018-05-14 | Go                      | 2024-04-23   |
-|  3 | [cri-dockerd](https://github.com/Mirantis/cri-dockerd)           | 2022-03-03 | Go                      | 2024-04-25   |
-|  4 | [youth-soccer](https://github.com/pacoxu/youth-soccer)           | 2016-12-25 | GCC Machine Description | 2021-04-07   |
-|  5 | [resume.github.com](https://github.com/resume/resume.github.com) | 2023-01-03 | JavaScript              | 2024-04-27   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | 2022-02-21 | Go       | 2024-04-28   |
+|  2 | [ginkgo](https://github.com/onsi/ginkgo)               | 2020-10-09 | Go       | 2024-04-28   |
+|  3 | [kubescape](https://github.com/kubescape/kubescape)    | 2023-04-25 | Go       | 2024-04-28   |
+|  4 | [blixt](https://github.com/kubernetes-sigs/blixt)      | 2024-01-08 | Rust     | 2024-04-28   |
+|  5 | [dex](https://github.com/dexidp/dex)                   | 2020-07-15 | Go       | 2024-04-28   |
 
 <!--END_SECTION:my_github-->
 
