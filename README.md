@@ -68,7 +68,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-04-26 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-04-29 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md       |     4 |
@@ -92,13 +92,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | 2022-02-21 | Go       | 2024-04-28   |
-|  2 | [ginkgo](https://github.com/onsi/ginkgo)               | 2020-10-09 | Go       | 2024-04-28   |
-|  3 | [kubescape](https://github.com/kubescape/kubescape)    | 2023-04-25 | Go       | 2024-04-28   |
-|  4 | [blixt](https://github.com/kubernetes-sigs/blixt)      | 2024-01-08 | Rust     | 2024-04-28   |
-|  5 | [dex](https://github.com/dexidp/dex)                   | 2020-07-15 | Go       | 2024-04-28   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [duo](https://github.com/duo-rs/duo)                                               | 2022-11-02 | Rust     | 2024-03-25   |
+|  2 | [gh-pr-summarize](https://github.com/wzshiming/gh-pr-summarize)                    | 2024-01-17 | Go       | 2024-01-17   |
+|  3 | [consul](https://github.com/hashicorp/consul)                                      | 2019-10-19 | Go       | 2024-04-29   |
+|  4 | [FIFA-Ultimate-Team-Toolkit](https://github.com/trydis/FIFA-Ultimate-Team-Toolkit) | 2016-09-23 | C#       | 2024-03-31   |
+|  5 | [kubedev](https://github.com/zhouya0/kubedev)                                      | 2020-11-03 | Go       | 2021-06-04   |
 
 <!--END_SECTION:my_github-->
 
