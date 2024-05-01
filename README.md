@@ -68,7 +68,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-04-29 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-04-30 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2023-10-03 | md       |     4 |
@@ -92,13 +92,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [duo](https://github.com/duo-rs/duo)                                               | 2022-11-02 | Rust     | 2024-03-25   |
-|  2 | [gh-pr-summarize](https://github.com/wzshiming/gh-pr-summarize)                    | 2024-01-17 | Go       | 2024-01-17   |
-|  3 | [consul](https://github.com/hashicorp/consul)                                      | 2019-10-19 | Go       | 2024-04-29   |
-|  4 | [FIFA-Ultimate-Team-Toolkit](https://github.com/trydis/FIFA-Ultimate-Team-Toolkit) | 2016-09-23 | C#       | 2024-03-31   |
-|  5 | [kubedev](https://github.com/zhouya0/kubedev)                                      | 2020-11-03 | Go       | 2021-06-04   |
+| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [knative-demos](https://github.com/mchmarny/knative-demos)              | 2019-10-21 | Shell            | 2023-10-17   |
+|  2 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)         | 2022-10-21 | Jupyter Notebook | 2024-04-30   |
+|  3 | [ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) | 2024-02-23 | HTML             | 2024-04-19   |
+|  4 | [hickory-dns](https://github.com/hickory-dns/hickory-dns)               | 2023-04-04 | Rust             | 2024-04-30   |
+|  5 | [asciiflow](https://github.com/lewish/asciiflow)                        | 2023-06-15 | TypeScript       | 2024-04-30   |
 
 <!--END_SECTION:my_github-->
 
