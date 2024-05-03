@@ -68,7 +68,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-01 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-02 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-05-01 | md       |     4 |
@@ -92,13 +92,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [lxd](https://github.com/canonical/lxd)                                                     | 2017-04-06 | Go       | 2024-05-01   |
-|  2 | [contrib](https://github.com/kubernetes-retired/contrib)                                    | 2018-09-29 | Go       | 2024-04-18   |
-|  3 | [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)                            | 2020-09-21 | Go       | 2024-05-01   |
-|  4 | [kube-green](https://github.com/kube-green/kube-green)                                      | 2023-10-12 | Go       | 2024-04-30   |
-|  5 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C        | 2024-05-01   |
+| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [gods](https://github.com/emirpasic/gods)                                                 | 2019-09-29 | Go       | 2024-05-02   |
+|  2 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats) | 2024-01-04 | Go       | 2024-05-01   |
+|  3 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)                             | 2019-03-19 | Mustache | 2024-05-02   |
+|  4 | [cobra](https://github.com/spf13/cobra)                                                   | 2020-06-04 | Go       | 2024-05-02   |
+|  5 | [k8s-specific-knowledge-base](https://github.com/kerthcet/k8s-specific-knowledge-base)    | 2023-07-28 | Python   | 2023-10-10   |
 
 <!--END_SECTION:my_github-->
 
