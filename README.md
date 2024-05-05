@@ -92,13 +92,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-28 | CSS      | 2024-05-01   |
-|  2 | [coredns](https://github.com/coredns/coredns)                                      | 2019-05-30 | Go       | 2024-05-03   |
-|  3 | [hickory-dns](https://github.com/hickory-dns/hickory-dns)                          | 2023-04-04 | Rust     | 2024-05-03   |
-|  4 | [otelsql](https://github.com/XSAM/otelsql)                                         | 2023-02-02 | Go       | 2024-05-04   |
-|  5 | [kube](https://github.com/kube-rs/kube)                                            | 2024-03-14 | Rust     | 2024-05-03   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)          | 2020-09-14 | Python   | 2020-10-21   |
+|  2 | [miragedebug](https://github.com/miragedebug/miragedebug)       | 2023-06-19 | Go       | 2024-04-30   |
+|  3 | [my-github-status](https://github.com/MrCoder/my-github-status) | 2022-04-28 | md       | 2022-04-28   |
+|  4 | [terminal](https://github.com/microsoft/terminal)               | 2019-05-07 | C++      | 2024-05-05   |
+|  5 | [utils](https://github.com/kubernetes/utils)                    | 2021-02-01 | Go       | 2024-05-02   |
 
 <!--END_SECTION:my_github-->
 
