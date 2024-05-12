@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [legacy-python-cli](https://github.com/wakatime/legacy-python-cli) | 2018-01-15 | Python   | 2024-04-22   |
-|  2 | [miragedebug](https://github.com/miragedebug/miragedebug)          | 2023-06-19 | Go       | 2024-05-09   |
-|  3 | [kubectl-ai](https://github.com/sozercan/kubectl-ai)               | 2023-03-21 | Go       | 2024-05-09   |
-|  4 | [996.ICU](https://github.com/996icu/996.ICU)                       | 2019-03-28 | md       | 2024-05-10   |
-|  5 | [releaseTracker](https://github.com/pikeszfish/releaseTracker)     | 2018-04-22 | Shell    | 2021-06-15   |
+| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [steering](https://github.com/pacoxu/steering)                             | 2023-10-04 | md       | 2023-10-04   |
+|  2 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts)               | 2019-05-28 | Shell    | 2023-02-06   |
+|  3 | [skywalking-tutorials](https://github.com/JaredTan95/skywalking-tutorials) | 2022-01-20 | Java     | 2024-04-04   |
+|  4 | [the-algorithm](https://github.com/twitter/the-algorithm)                  | 2023-04-04 | Scala    | 2024-05-12   |
+|  5 | [community](https://github.com/klts-io/community)                          | 2021-11-17 | md       | 2021-12-01   |
 
 <!--END_SECTION:my_github-->
 
