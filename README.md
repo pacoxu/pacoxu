@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [steering](https://github.com/pacoxu/steering)                             | 2023-10-04 | md       | 2023-10-04   |
-|  2 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts)               | 2019-05-28 | Shell    | 2023-02-06   |
-|  3 | [skywalking-tutorials](https://github.com/JaredTan95/skywalking-tutorials) | 2022-01-20 | Java     | 2024-04-04   |
-|  4 | [the-algorithm](https://github.com/twitter/the-algorithm)                  | 2023-04-04 | Scala    | 2024-05-12   |
-|  5 | [community](https://github.com/klts-io/community)                          | 2021-11-17 | md       | 2021-12-01   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 2017-06-08 | md       | 2024-05-13   |
+|  2 | [system-validators](https://github.com/kubernetes/system-validators)                  | 2021-02-26 | Go       | 2024-04-22   |
+|  3 | [same](https://github.com/rking/same)                                                 | 2020-12-17 | Java     | 2023-04-11   |
+|  4 | [nri](https://github.com/containerd/nri)                                              | 2023-06-20 | Go       | 2024-05-12   |
+|  5 | [ubuntu-mainline-kernel.sh](https://github.com/pimlie/ubuntu-mainline-kernel.sh)      | 2024-01-19 | Shell    | 2024-05-11   |
 
 <!--END_SECTION:my_github-->
 
