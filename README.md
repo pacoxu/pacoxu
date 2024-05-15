@@ -69,7 +69,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-13 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-14 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-05-01 | md       |     4 |
@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                               | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [quic-go](https://github.com/quic-go/quic-go)                   | 2021-11-29 | Go               | 2024-05-13   |
-|  2 | [releaseTracker](https://github.com/pikeszfish/releaseTracker)  | 2018-04-22 | Shell            | 2021-06-15   |
-|  3 | [fedstate](https://github.com/fedstate/fedstate)                | 2023-06-05 | Go               | 2023-12-19   |
-|  4 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | 2022-10-21 | Jupyter Notebook | 2024-05-13   |
-|  5 | [k3v](https://github.com/ibuildthecloud/k3v)                    | 2020-10-20 | Go               | 2024-04-03   |
+| ID |                                   REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kuryr-kubernetes](https://github.com/openstack/kuryr-kubernetes)         | 2019-02-28 | Python   | 2024-05-14   |
+|  2 | [openbao](https://github.com/openbao/openbao)                             | 2024-04-25 | Go       | 2024-05-14   |
+|  3 | [kurator](https://github.com/kurator-dev/kurator)                         | 2022-06-23 | Go       | 2024-05-14   |
+|  4 | [sample-vpa-controller](https://github.com/zhouya0/sample-vpa-controller) | 2020-10-30 | Go       | 2020-10-30   |
+|  5 | [kube-s3](https://github.com/freegroup/kube-s3)                           | 2020-07-13 | Shell    | 2024-05-08   |
 
 <!--END_SECTION:my_github-->
 
