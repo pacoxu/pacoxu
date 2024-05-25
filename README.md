@@ -69,7 +69,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-23 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-24 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-05-01 | md       |     4 |
@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)               | 2019-11-13 | Shell      | 2021-11-16   |
-|  2 | [go-restful-api-example](https://github.com/kkamdooong/go-restful-api-example) | 2020-06-01 | Go         | 2024-03-21   |
-|  3 | [autoscaler](https://github.com/kubernetes/autoscaler)                         | 2020-07-21 | Go         | 2024-05-23   |
-|  4 | [the-algorithm](https://github.com/twitter/the-algorithm)                      | 2023-04-04 | Scala      | 2024-05-23   |
-|  5 | [openai-translator](https://github.com/openai-translator/openai-translator)    | 2023-03-06 | TypeScript | 2024-05-24   |
+| ID |                                      REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-workshop-old](https://github.com/krisnova/kubernetes-workshop-old) | 2017-10-13 | md       | 2022-11-23   |
+|  2 | [piraeus](https://github.com/piraeusdatastore/piraeus)                         | 2021-03-24 | Shell    | 2024-05-15   |
+|  3 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage)       | 2023-01-27 | Mustache | 2024-05-20   |
+|  4 | [sdn](https://github.com/openshift/sdn)                                        | 2021-03-23 | Go       | 2024-05-24   |
+|  5 | [nginmesh](https://github.com/nginxinc/nginmesh)                               | 2018-10-25 | Go       | 2024-04-13   |
 
 <!--END_SECTION:my_github-->
 
