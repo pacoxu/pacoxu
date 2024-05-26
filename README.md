@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-workshop-old](https://github.com/krisnova/kubernetes-workshop-old) | 2017-10-13 | md       | 2022-11-23   |
-|  2 | [piraeus](https://github.com/piraeusdatastore/piraeus)                         | 2021-03-24 | Shell    | 2024-05-15   |
-|  3 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage)       | 2023-01-27 | Mustache | 2024-05-20   |
-|  4 | [sdn](https://github.com/openshift/sdn)                                        | 2021-03-23 | Go       | 2024-05-24   |
-|  5 | [nginmesh](https://github.com/nginxinc/nginmesh)                               | 2018-10-25 | Go       | 2024-04-13   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [wg-serverless](https://github.com/cncf/wg-serverless)           | 2019-10-22 | md         | 2024-05-26   |
+|  2 | [resume.github.com](https://github.com/resume/resume.github.com) | 2023-01-03 | JavaScript | 2024-05-25   |
+|  3 | [fake-gpu-operator](https://github.com/run-ai/fake-gpu-operator) | 2024-03-29 | Go         | 2024-05-22   |
+|  4 | [monokle](https://github.com/kubeshop/monokle)                   | 2023-06-20 | TypeScript | 2024-05-24   |
+|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                 | 2022-10-27 | Go         | 2024-05-25   |
 
 <!--END_SECTION:my_github-->
 
