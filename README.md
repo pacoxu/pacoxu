@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [wg-serverless](https://github.com/cncf/wg-serverless)           | 2019-10-22 | md         | 2024-05-26   |
-|  2 | [resume.github.com](https://github.com/resume/resume.github.com) | 2023-01-03 | JavaScript | 2024-05-25   |
-|  3 | [fake-gpu-operator](https://github.com/run-ai/fake-gpu-operator) | 2024-03-29 | Go         | 2024-05-22   |
-|  4 | [monokle](https://github.com/kubeshop/monokle)                   | 2023-06-20 | TypeScript | 2024-05-24   |
-|  5 | [cloudtty](https://github.com/cloudtty/cloudtty)                 | 2022-10-27 | Go         | 2024-05-25   |
+| ID |                                      REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-community-days](https://github.com/cncf/kubernetes-community-days) | 2021-10-19 | md       | 2024-05-26   |
+|  2 | [ebpf-slide](https://github.com/gojue/ebpf-slide)                              | 2022-06-07 | md       | 2024-05-20   |
+|  3 | [website](https://github.com/ferryproxy/website)                               | 2022-03-03 | md       | 2022-07-12   |
+|  4 | [modgv](https://github.com/lucasepe/modgv)                                     | 2021-05-21 | Go       | 2024-04-11   |
+|  5 | [terminal](https://github.com/microsoft/terminal)                              | 2019-05-07 | C++      | 2024-05-26   |
 
 <!--END_SECTION:my_github-->
 
