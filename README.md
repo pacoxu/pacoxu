@@ -69,7 +69,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-27 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-28 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-05-01 | md       |     4 |
@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                       REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [octant-plugin-for-knative](https://github.com/vmware-archive/octant-plugin-for-knative)                          | 2020-09-16 | TypeScript | 2023-07-13   |
-|  2 | [containerd](https://github.com/containerd/containerd)                                                            | 2017-05-31 | Go         | 2024-05-27   |
-|  3 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go         | 2024-05-22   |
-|  4 | [django-xadmin](https://github.com/pacoxu/django-xadmin)                                                          | 2014-02-27 | Python     | 2021-04-07   |
-|  5 | [kubecon-slides](https://github.com/sbueringer/kubecon-slides)                                                    | 2023-02-17 | PHP        | 2024-05-03   |
+| ID |                                      REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip)           | 2019-02-01 | Go       | 2024-05-26   |
+|  2 | [github-pr-summary](https://github.com/flows-network/github-pr-summary)        | 2023-06-25 | Rust     | 2024-05-23   |
+|  3 | [presentations](https://github.com/cncf/presentations)                         | 2022-11-01 | Go       | 2024-05-14   |
+|  4 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 2023-03-24 | Python   | 2024-05-28   |
+|  5 | [buf](https://github.com/bufbuild/buf)                                         | 2024-01-15 | Go       | 2024-05-28   |
 
 <!--END_SECTION:my_github-->
 
