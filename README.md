@@ -72,7 +72,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-05-31 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
-|   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-05-01 | md       |     4 |
+|   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-06-01 | md       |     4 |
 |   5 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   6 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes) | 2020-11-05 | Shell    | 2024-05-29   |
-|  2 | [kurator](https://github.com/kurator-dev/kurator)                  | 2022-06-23 | Go       | 2024-05-31   |
-|  3 | [etcd-issues](https://github.com/ahrtr/etcd-issues)                | 2023-04-04 | Go       | 2024-05-10   |
-|  4 | [wasmcloud-ollama](https://github.com/Iceber/wasmcloud-ollama)     | 2024-03-27 | Go       | 2024-05-24   |
-|  5 | [TranslateProject](https://github.com/LCTT/TranslateProject)       | 2019-02-21 | Shell    | 2024-05-31   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [glances](https://github.com/nicolargo/glances)        | 2016-05-14 | Python   | 2024-06-01   |
+|  2 | [kubeless](https://github.com/vmware-archive/kubeless) | 2019-09-30 | Go       | 2024-05-28   |
+|  3 | [shipyard](https://github.com/ehazlett/shipyard)       | 2016-06-07 | md       | 2024-05-21   |
+|  4 | [kftray](https://github.com/hcavarsan/kftray)          | 2024-01-05 | Rust     | 2024-06-01   |
+|  5 | [debezium](https://github.com/debezium/debezium)       | 2022-04-27 | Java     | 2024-06-01   |
 
 <!--END_SECTION:my_github-->
 
