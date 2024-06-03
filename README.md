@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [glances](https://github.com/nicolargo/glances)        | 2016-05-14 | Python   | 2024-06-01   |
-|  2 | [kubeless](https://github.com/vmware-archive/kubeless) | 2019-09-30 | Go       | 2024-05-28   |
-|  3 | [shipyard](https://github.com/ehazlett/shipyard)       | 2016-06-07 | md       | 2024-05-21   |
-|  4 | [kftray](https://github.com/hcavarsan/kftray)          | 2024-01-05 | Rust     | 2024-06-01   |
-|  5 | [debezium](https://github.com/debezium/debezium)       | 2022-04-27 | Java     | 2024-06-01   |
+| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [steampipe-plugin-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes)                  | 2024-05-08 | Go       | 2024-05-31   |
+|  2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)                                        | 2022-03-11 | Go       | 2023-09-15   |
+|  3 | [kubenav](https://github.com/kubenav/kubenav)                                                         | 2020-11-13 | Dart     | 2024-06-01   |
+|  4 | [kubekit](https://github.com/Orientsoft/kubekit)                                                      | 2017-08-31 | Go       | 2024-04-12   |
+|  5 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator) | 2023-09-15 | Go       | 2024-01-05   |
 
 <!--END_SECTION:my_github-->
 
