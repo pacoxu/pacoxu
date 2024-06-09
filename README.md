@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [iWhat](https://github.com/yihong0618/iWhat)                    | 2023-03-08 | Python   | 2024-05-21   |
-|  2 | [octant](https://github.com/vmware-archive/octant)              | 2019-10-11 | Go       | 2024-06-04   |
-|  3 | [triage-party](https://github.com/google/triage-party)          | 2021-04-14 | Go       | 2024-06-02   |
-|  4 | [rocketmq-docker](https://github.com/yohanesws/rocketmq-docker) | 2017-04-12 | Shell    | 2018-08-31   |
-|  5 | [slides](https://github.com/tao12345666333/slides)              | 2023-01-03 | md       | 2024-05-11   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [autok3s](https://github.com/cnrancher/autok3s)                  | 2024-05-07 | Go         | 2024-06-05   |
+|  2 | [ChatGPT-Reviewer](https://github.com/feiskyer/ChatGPT-Reviewer) | 2023-02-14 | Python     | 2024-05-22   |
+|  3 | [books-1](https://github.com/yowenter/books-1)                   | 2019-04-02 | Python     | 2019-12-12   |
+|  4 | [rio](https://github.com/rancher/rio)                            | 2019-07-02 | Go         | 2024-05-20   |
+|  5 | [azure-powershell](https://github.com/Azure/azure-powershell)    | 2020-06-08 | PowerShell | 2024-06-08   |
 
 <!--END_SECTION:my_github-->
 
