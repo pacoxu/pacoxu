@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [autok3s](https://github.com/cnrancher/autok3s)                  | 2024-05-07 | Go         | 2024-06-05   |
-|  2 | [ChatGPT-Reviewer](https://github.com/feiskyer/ChatGPT-Reviewer) | 2023-02-14 | Python     | 2024-05-22   |
-|  3 | [books-1](https://github.com/yowenter/books-1)                   | 2019-04-02 | Python     | 2019-12-12   |
-|  4 | [rio](https://github.com/rancher/rio)                            | 2019-07-02 | Go         | 2024-05-20   |
-|  5 | [azure-powershell](https://github.com/Azure/azure-powershell)    | 2020-06-08 | PowerShell | 2024-06-08   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [jobset](https://github.com/kubernetes-sigs/jobset)                  | 2024-02-18 | Go       | 2024-06-07   |
+|  2 | [docker-alfresco](https://github.com/gui81/docker-alfresco)          | 2016-05-24 | Shell    | 2023-03-29   |
+|  3 | [github-readme-stats](https://github.com/pacoxu/github-readme-stats) | 2023-01-29 | Go       | 2023-01-29   |
+|  4 | [hyperkit](https://github.com/moby/hyperkit)                         | 2016-05-18 | C        | 2024-06-08   |
+|  5 | [hostroutes](https://github.com/kubeup/hostroutes)                   | 2017-11-27 | Go       | 2022-11-23   |
 
 <!--END_SECTION:my_github-->
 
