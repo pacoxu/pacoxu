@@ -13,7 +13,7 @@
 
 - Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member & Event Organizer
   - 2024
-    - KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰
+    - KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 Co-Chair
     - KCD Shanghai🇨🇳: [Cloud Native Novice & OpenSource Education Track: 01-Kubernetes Contributor Journeys](https://www.bilibili.com/video/BV1nD421T786/?spm_id_from=333.999.0.0) with Nikhita Raghunath & Madhav Jivrajani.
     - KubeCon EU(Paris🇫🇷) as Program Committee Member:
       - [Kubernetes Steering Committee: Genesis, Bootstrap, Now & Future](https://sched.co/1YhgX) - Nabarun Pal, Broadcom & Paco Xu, DaoCloud
