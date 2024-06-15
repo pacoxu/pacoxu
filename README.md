@@ -69,7 +69,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-06-13 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-06-14 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-06-01 | md       |     4 |
@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [bpfman](https://github.com/bpfman/bpfman)                   | 2023-05-30 | Rust     | 2024-06-13   |
-|  2 | [istio](https://github.com/istio/istio)                      | 2019-08-12 | Go       | 2024-06-14   |
-|  3 | [docker-slapd](https://github.com/nickstenning/docker-slapd) | 2017-02-16 | Shell    | 2024-03-25   |
-|  4 | [handbook](https://github.com/basecamp/handbook)             | 2019-01-13 | md       | 2024-06-10   |
-|  5 | [delve](https://github.com/go-delve/delve)                   | 2020-06-01 | Go       | 2024-06-13   |
+| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|------------|--------------|
+|  1 | [thanos](https://github.com/thanos-io/thanos)                | 2021-04-19 | Go         | 2024-06-14   |
+|  2 | [kubectx](https://github.com/ahmetb/kubectx)                 | 2021-01-24 | Go         | 2024-06-14   |
+|  3 | [infinity](https://github.com/infiniflow/infinity)           | 2024-04-26 | C++        | 2024-06-14   |
+|  4 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany) | 2019-03-29 | JavaScript | 2024-06-08   |
+|  5 | [LlamaIndex-k8s](https://github.com/kerthcet/LlamaIndex-k8s) | 2023-09-21 | Python     | 2023-09-21   |
 
 <!--END_SECTION:my_github-->
 
