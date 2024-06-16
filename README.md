@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|------------|--------------|
-|  1 | [thanos](https://github.com/thanos-io/thanos)                | 2021-04-19 | Go         | 2024-06-14   |
-|  2 | [kubectx](https://github.com/ahmetb/kubectx)                 | 2021-01-24 | Go         | 2024-06-14   |
-|  3 | [infinity](https://github.com/infiniflow/infinity)           | 2024-04-26 | C++        | 2024-06-14   |
-|  4 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany) | 2019-03-29 | JavaScript | 2024-06-08   |
-|  5 | [LlamaIndex-k8s](https://github.com/kerthcet/LlamaIndex-k8s) | 2023-09-21 | Python     | 2023-09-21   |
+| ID |                           REPO                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|------------|--------------|
+|  1 | [triage-party](https://github.com/google/triage-party)    | 2021-04-14 | Go         | 2024-06-13   |
+|  2 | [network](https://github.com/DaoCloud-OpenSource/network) | 2021-09-06 | md         | 2023-06-03   |
+|  3 | [ScaleIO](https://github.com/wlan0/ScaleIO)               | 2016-07-26 | Shell      | 2024-01-23   |
+|  4 | [headlamp](https://github.com/headlamp-k8s/headlamp)      | 2023-12-08 | TypeScript | 2024-06-15   |
+|  5 | [shipyard](https://github.com/ehazlett/shipyard)          | 2016-06-07 | md         | 2024-06-10   |
 
 <!--END_SECTION:my_github-->
 
