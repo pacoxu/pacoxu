@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|------------|--------------|
-|  1 | [triage-party](https://github.com/google/triage-party)    | 2021-04-14 | Go         | 2024-06-13   |
-|  2 | [network](https://github.com/DaoCloud-OpenSource/network) | 2021-09-06 | md         | 2023-06-03   |
-|  3 | [ScaleIO](https://github.com/wlan0/ScaleIO)               | 2016-07-26 | Shell      | 2024-01-23   |
-|  4 | [headlamp](https://github.com/headlamp-k8s/headlamp)      | 2023-12-08 | TypeScript | 2024-06-15   |
-|  5 | [shipyard](https://github.com/ehazlett/shipyard)          | 2016-06-07 | md         | 2024-06-10   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [daochain](https://github.com/DaoCloud/daochain)                             | 2016-12-09 | JavaScript | 2024-06-08   |
+|  2 | [karmada-operator1](https://github.com/DaoCloud/karmada-operator1)           | 2022-10-12 | Go         | 2023-06-07   |
+|  3 | [network](https://github.com/DaoCloud-OpenSource/network)                    | 2021-09-06 | md         | 2023-06-03   |
+|  4 | [TTS](https://github.com/coqui-ai/TTS)                                       | 2023-10-03 | Python     | 2024-06-16   |
+|  5 | [containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) | 2020-07-15 | Go         | 2024-05-31   |
 
 <!--END_SECTION:my_github-->
 
