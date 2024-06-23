@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) | 2023-04-20 | Go       | 2024-06-18   |
-|  2 | [go-restful-api-example](https://github.com/kkamdooong/go-restful-api-example)                        | 2020-06-01 | Go       | 2024-03-21   |
-|  3 | [summer](https://github.com/Charlie17Li/summer)                                                       | 2022-10-20 | Shell    | 2022-10-20   |
-|  4 | [silver-surfer](https://github.com/devtron-labs/silver-surfer)                                        | 2023-09-20 | Go       | 2024-06-17   |
-|  5 | [nolebase](https://github.com/nolebase/nolebase)                                                      | 2024-04-22 | Markdown | 2024-06-20   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)           | 2021-08-03 | C        | 2024-06-22   |
+|  2 | [downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) | 2023-06-26 | Go       | 2024-06-20   |
+|  3 | [duo](https://github.com/duo-rs/duo)                                        | 2022-11-02 | Rust     | 2024-05-09   |
+|  4 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)          | 2020-12-24 | Go       | 2024-06-10   |
+|  5 | [makisu](https://github.com/uber-archive/makisu)                            | 2019-03-14 | Go       | 2024-06-18   |
 
 <!--END_SECTION:my_github-->
 
