@@ -93,13 +93,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)           | 2021-08-03 | C        | 2024-06-22   |
-|  2 | [downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) | 2023-06-26 | Go       | 2024-06-20   |
-|  3 | [duo](https://github.com/duo-rs/duo)                                        | 2022-11-02 | Rust     | 2024-05-09   |
-|  4 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)          | 2020-12-24 | Go       | 2024-06-10   |
-|  5 | [makisu](https://github.com/uber-archive/makisu)                            | 2019-03-14 | Go       | 2024-06-18   |
+| ID |                                    REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [external-dns](https://github.com/kubernetes-sigs/external-dns)            | 2019-01-09 | Go       | 2024-06-24   |
+|  2 | [contrib](https://github.com/kubernetes-retired/contrib)                   | 2018-09-29 | Go       | 2024-05-17   |
+|  3 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | 2023-03-04 | Python   | 2024-06-23   |
+|  4 | [ktop](https://github.com/vladimirvivien/ktop)                             | 2023-05-10 | Go       | 2024-06-22   |
+|  5 | [bcc](https://github.com/iovisor/bcc)                                      | 2021-09-06 | C        | 2024-06-24   |
 
 <!--END_SECTION:my_github-->
 
