@@ -71,7 +71,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-06-24 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-06-25 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-06-01 | md       |     4 |
@@ -95,13 +95,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery)           | 2021-04-07 | Go       | 2022-01-10   |
-|  2 | [LlamaIndex-k8s](https://github.com/kerthcet/LlamaIndex-k8s)                          | 2023-09-21 | Python   | 2023-09-21   |
-|  3 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 2017-06-08 | md       | 2024-06-24   |
-|  4 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)                    | 2020-11-05 | Shell    | 2024-06-19   |
-|  5 | [lighthouse](https://github.com/submariner-io/lighthouse)                             | 2022-04-25 | Go       | 2024-06-18   |
+| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [delve](https://github.com/go-delve/delve)                       | 2020-06-01 | Go       | 2024-06-25   |
+|  2 | [distroless](https://github.com/GoogleContainerTools/distroless) | 2022-05-07 | Starlark | 2024-06-25   |
+|  3 | [goscaleio](https://github.com/thecodeteam/goscaleio)            | 2016-04-24 | Go       | 2023-10-04   |
+|  4 | [karmada](https://github.com/karmada-io/karmada)                 | 2021-07-06 | Go       | 2024-06-25   |
+|  5 | [containerd-lts](https://github.com/klts-io/containerd-lts)      | 2021-10-15 | Shell    | 2023-05-12   |
 
 <!--END_SECTION:my_github-->
 
