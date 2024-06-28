@@ -31,7 +31,6 @@
     - KCD Shanghai🇨🇳: [Kubeadm & SIG Node Intro and How to Contribute](https://github.com/cncf/presentations/tree/main/chinese/kcd-shanghai)
 - New/Old interests:  DRA & eBPF & CoreDNS
 
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/3d6273c0-ea6e-457a-8f8b-ac2492c9575f" width="200">
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="200">
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="200">
 <img width="200" alt="2024kcdspeaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d">
