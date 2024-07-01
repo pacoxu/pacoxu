@@ -97,11 +97,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I stared (random 5)
 | ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubedev](https://github.com/zhouya0/kubedev)                            | 2020-11-03 | Go       | 2021-06-04   |
-|  2 | [git-log-weekly-report](https://github.com/yeatse/git-log-weekly-report) | 2023-06-26 | Shell    | 2023-06-29   |
-|  3 | [python-requests-aws](https://github.com/tax/python-requests-aws)        | 2016-09-26 | Python   | 2024-03-06   |
-|  4 | [K8s-Chat](https://github.com/Jerry-Kon/K8s-Chat)                        | 2023-10-30 | Python   | 2024-05-10   |
-|  5 | [spegel](https://github.com/spegel-org/spegel)                           | 2023-09-01 | Go       | 2024-06-29   |
+|  1 | [gotype](https://github.com/wzshiming/gotype)                            | 2022-06-21 | Go       | 2024-06-18   |
+|  2 | [clusterpedia](https://github.com/ycsk02/clusterpedia)                   | 2022-04-23 | Go       | 2022-05-06   |
+|  3 | [ansible](https://github.com/ansible/ansible)                            | 2016-05-18 | Python   | 2024-06-30   |
+|  4 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image) | 2016-11-16 | Python   | 2016-11-16   |
+|  5 | [interlock](https://github.com/ehazlett/interlock)                       | 2016-04-27 | Go       | 2024-04-04   |
 
 <!--END_SECTION:my_github-->
 
