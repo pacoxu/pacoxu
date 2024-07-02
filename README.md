@@ -71,10 +71,10 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-06-28 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-01 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
-|   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-06-01 | md       |     4 |
+|   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-07-01 | md       |     4 |
 |   5 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go       |     2 |
 |   6 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
@@ -95,13 +95,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gotype](https://github.com/wzshiming/gotype)                            | 2022-06-21 | Go       | 2024-06-18   |
-|  2 | [clusterpedia](https://github.com/ycsk02/clusterpedia)                   | 2022-04-23 | Go       | 2022-05-06   |
-|  3 | [ansible](https://github.com/ansible/ansible)                            | 2016-05-18 | Python   | 2024-06-30   |
-|  4 | [sync-dockerhub-image](https://github.com/yowenter/sync-dockerhub-image) | 2016-11-16 | Python   | 2016-11-16   |
-|  5 | [interlock](https://github.com/ehazlett/interlock)                       | 2016-04-27 | Go       | 2024-04-04   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories) | 2022-03-15 | Python   | 2023-11-08   |
+|  2 | [sriov-cni](https://github.com/openshift/sriov-cni)                                | 2023-12-04 | Go       | 2024-06-22   |
+|  3 | [UIMessage](https://github.com/pacoxu/UIMessage)                                   | 2012-08-02 | Java     | 2021-04-07   |
+|  4 | [gitdm.archive](https://github.com/cncf/gitdm.archive)                             | 2021-02-26 | Ruby     | 2024-04-28   |
+|  5 | [resume-vue](https://github.com/nusr/resume-vue)                                   | 2023-01-03 | Vue      | 2024-06-14   |
 
 <!--END_SECTION:my_github-->
 
