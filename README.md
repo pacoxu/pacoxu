@@ -71,7 +71,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-02 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-03 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-07-01 | md       |     4 |
@@ -95,13 +95,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Easy-Graph](https://github.com/easy-graph/Easy-Graph)                                                | 2024-04-13 | Python   | 2024-06-14   |
-|  2 | [website](https://github.com/klts-io/website)                                                         | 2021-08-31 | HTML     | 2023-09-01   |
-|  3 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) | 2023-04-20 | Go       | 2024-06-27   |
-|  4 | [pipeline](https://github.com/banzaicloud/pipeline)                                                   | 2020-06-12 | Go       | 2024-06-12   |
-|  5 | [kubeadmiral](https://github.com/kubewharf/kubeadmiral)                                               | 2024-01-30 | Go       | 2024-07-01   |
+| ID |                                     REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [calculators](https://github.com/pacoxu/calculators)                         | 2014-01-08 | Java     | 2021-04-07   |
+|  2 | [viper](https://github.com/spf13/viper)                                      | 2020-06-16 | Go       | 2024-07-03   |
+|  3 | [distribution](https://github.com/distribution/distribution)                 | 2021-12-24 | Go       | 2024-07-03   |
+|  4 | [participate-community](https://github.com/tanjunchen/participate-community) | 2021-03-12 | md       | 2024-05-24   |
+|  5 | [LearnCloudNative](https://github.com/carlory/LearnCloudNative)              | 2023-01-29 | md       | 2023-01-29   |
 
 <!--END_SECTION:my_github-->
 
