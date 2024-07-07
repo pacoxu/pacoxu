@@ -95,13 +95,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [e2e-framework](https://github.com/kubernetes-sigs/e2e-framework)                  | 2023-11-17 | Go       | 2024-07-04   |
-|  2 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)     | 2023-03-24 | Python   | 2024-07-05   |
-|  3 | [godel-scheduler](https://github.com/kubewharf/godel-scheduler)                    | 2024-06-17 | Go       | 2024-07-05   |
-|  4 | [coredns](https://github.com/coredns/coredns)                                      | 2019-05-30 | Go       | 2024-07-05   |
-|  5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-28 | CSS      | 2024-07-05   |
+| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [octant](https://github.com/vmware-archive/octant)                     | 2019-10-11 | Go       | 2024-07-04   |
+|  2 | [audit2rbac](https://github.com/liggitt/audit2rbac)                    | 2023-05-24 | Go       | 2024-07-01   |
+|  3 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 2021-09-17 | Shell    | 2024-07-06   |
+|  4 | [scaleio-docker](https://github.com/djannot/scaleio-docker)            | 2016-04-24 | md       | 2020-10-29   |
+|  5 | [loft](https://github.com/loft-sh/loft)                                | 2020-10-19 | Go       | 2024-07-04   |
 
 <!--END_SECTION:my_github-->
 
