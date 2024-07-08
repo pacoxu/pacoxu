@@ -95,13 +95,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [octant](https://github.com/vmware-archive/octant)                     | 2019-10-11 | Go       | 2024-07-04   |
-|  2 | [audit2rbac](https://github.com/liggitt/audit2rbac)                    | 2023-05-24 | Go       | 2024-07-01   |
-|  3 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 2021-09-17 | Shell    | 2024-07-06   |
-|  4 | [scaleio-docker](https://github.com/djannot/scaleio-docker)            | 2016-04-24 | md       | 2020-10-29   |
-|  5 | [loft](https://github.com/loft-sh/loft)                                | 2020-10-19 | Go       | 2024-07-04   |
+| ID |                                          REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kube-copilot](https://github.com/feiskyer/kube-copilot)                                | 2023-03-29 | Go       | 2024-07-07   |
+|  2 | [hyperkit](https://github.com/moby/hyperkit)                                            | 2016-05-18 | C        | 2024-07-07   |
+|  3 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)                  | 2021-09-17 | Shell    | 2024-07-07   |
+|  4 | [falco](https://github.com/falcosecurity/falco)                                         | 2020-04-17 | C++      | 2024-07-07   |
+|  5 | [kernel-module-management](https://github.com/kubernetes-sigs/kernel-module-management) | 2023-06-25 | Go       | 2024-07-04   |
 
 <!--END_SECTION:my_github-->
 
