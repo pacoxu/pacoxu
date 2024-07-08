@@ -31,10 +31,13 @@
     - KCD Shanghai🇨🇳: [Kubeadm & SIG Node Intro and How to Contribute](https://github.com/cncf/presentations/tree/main/chinese/kcd-shanghai)
 - New/Old interests:  DRA & eBPF & CoreDNS
 
+![image]()
+
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/ff6a37a1-b3fc-4846-81cc-bd201caf03f9" width="200">
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="200">
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="200">
-<img width="200" alt="2024kcdspeaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d">
+<img width="200" alt="2024 KCD Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d">
+<img width="200" alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08">
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="200">
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/3aa41135-af51-4990-8227-e6f61f6c1700" width="200">
 <img src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="200">
