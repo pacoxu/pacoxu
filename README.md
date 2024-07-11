@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-09 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-10 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-07-01 | md       |     4 |
@@ -87,7 +87,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2018-03-12](https://github.com/kubernetes/kubernetes/pull/61040)     | [2024-06-26](https://github.com/kubernetes/kubernetes/pull/125713)     | [476](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-03-19](https://github.com/kubernetes/kubernetes/pull/89251)     | [2024-07-10](https://github.com/kubernetes/kubernetes/pull/125996)     | [476](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2019-07-04](https://github.com/kubernetes/website/pull/15285)        | [2024-03-12](https://github.com/kubernetes/website/pull/45517)         | [57](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)      | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2024-01-29](https://github.com/kubernetes/enhancements/pull/4452)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)                       | 2019-03-19 | Mustache | 2024-05-02   |
-|  2 | [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) | 2019-04-01 | HTML     | 2024-07-02   |
-|  3 | [libcloud](https://github.com/apache/libcloud)                                      | 2016-06-30 | Python   | 2024-07-05   |
-|  4 | [flocker-drivers](https://github.com/thecodeteam/flocker-drivers)                   | 2016-08-19 | Python   | 2018-02-01   |
-|  5 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                         | 2019-06-05 | Python   | 2024-05-27   |
+| ID |                                      REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [xxhash](https://github.com/cespare/xxhash)                                    | 2021-09-20 | Go       | 2024-07-09   |
+|  2 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 2023-03-24 | Python   | 2024-07-11   |
+|  3 | [github-pr-summary](https://github.com/flows-network/github-pr-summary)        | 2023-06-25 | Rust     | 2024-07-10   |
+|  4 | [paginate](https://github.com/Pylons/paginate)                                 | 2016-07-05 | Python   | 2024-07-04   |
+|  5 | [Easy-Graph](https://github.com/easy-graph/Easy-Graph)                         | 2024-04-13 | Python   | 2024-07-10   |
 
 <!--END_SECTION:my_github-->
 
