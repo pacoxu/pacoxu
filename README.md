@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------|------------|----------|--------------|
-|  1 | [kueue](https://github.com/kubernetes-sigs/kueue)        | 2022-04-24 | Go       | 2024-07-12   |
-|  2 | [kratos](https://github.com/go-kratos/kratos)            | 2019-05-15 | Go       | 2024-07-12   |
-|  3 | [aikdocs](https://github.com/aikdocs/aikdocs)            | 2023-07-19 | Python   | 2023-07-26   |
-|  4 | [jepsen](https://github.com/jepsen-io/jepsen)            | 2017-12-12 | Clojure  | 2024-07-12   |
-|  5 | [contrib](https://github.com/kubernetes-retired/contrib) | 2018-09-29 | Go       | 2024-07-09   |
+| ID |                                                  REPO                                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) | 2024-04-09 | Go       | 2024-07-10   |
+|  2 | [kubecon-slides](https://github.com/sbueringer/kubecon-slides)                                          | 2023-02-17 | PHP      | 2024-07-02   |
+|  3 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator)   | 2023-09-15 | Go       | 2024-01-05   |
+|  4 | [velero](https://github.com/vmware-tanzu/velero)                                                        | 2020-04-29 | Go       | 2024-07-13   |
+|  5 | [interviews](https://github.com/kdn251/interviews)                                                      | 2017-03-23 | Java     | 2024-07-13   |
 
 <!--END_SECTION:my_github-->
 
