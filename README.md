@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                  REPO                                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) | 2024-04-09 | Go       | 2024-07-10   |
-|  2 | [kubecon-slides](https://github.com/sbueringer/kubecon-slides)                                          | 2023-02-17 | PHP      | 2024-07-02   |
-|  3 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator)   | 2023-09-15 | Go       | 2024-01-05   |
-|  4 | [velero](https://github.com/vmware-tanzu/velero)                                                        | 2020-04-29 | Go       | 2024-07-13   |
-|  5 | [interviews](https://github.com/kdn251/interviews)                                                      | 2017-03-23 | Java     | 2024-07-13   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [youki](https://github.com/containers/youki)                    | 2023-06-20 | Rust       | 2024-07-14   |
+|  2 | [llmaz](https://github.com/InftyAI/llmaz)                       | 2024-04-02 | Go         | 2024-07-13   |
+|  3 | [dao-2048](https://github.com/DaoCloud/dao-2048)                | 2016-04-18 | JavaScript | 2024-07-01   |
+|  4 | [LearnCloudNative](https://github.com/carlory/LearnCloudNative) | 2023-01-29 | md         | 2023-01-29   |
+|  5 | [kvrocks](https://github.com/apache/kvrocks)                    | 2022-05-24 | C++        | 2024-07-14   |
 
 <!--END_SECTION:my_github-->
 
