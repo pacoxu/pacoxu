@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [RocketBot](https://github.com/brianzhouzc/RocketBot)                                 | 2019-03-08 | C#       | 2024-07-18   |
-|  2 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)                                | 2020-09-14 | Python   | 2020-10-21   |
-|  3 | [infinity](https://github.com/infiniflow/infinity)                                    | 2024-04-26 | C++      | 2024-07-19   |
-|  4 | [container-device-interface](https://github.com/cncf-tags/container-device-interface) | 2023-09-05 | Go       | 2024-07-09   |
-|  5 | [unvanished_memory](https://github.com/x13-caesar/unvanished_memory)                  | 2022-04-23 | md       | 2022-04-23   |
+| ID |                                   REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [node-disk-manager](https://github.com/openebs-archive/node-disk-manager) | 2021-04-14 | Go       | 2024-05-11   |
+|  2 | [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)           | 2023-04-28 | Go       | 2024-07-19   |
+|  3 | [kube-green](https://github.com/kube-green/kube-green)                    | 2023-10-12 | Go       | 2024-07-20   |
+|  4 | [ginkgo](https://github.com/onsi/ginkgo)                                  | 2020-10-09 | Go       | 2024-07-20   |
+|  5 | [duo](https://github.com/duo-rs/duo)                                      | 2022-11-02 | Rust     | 2024-05-09   |
 
 <!--END_SECTION:my_github-->
 
