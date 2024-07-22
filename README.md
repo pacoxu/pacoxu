@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [node-disk-manager](https://github.com/openebs-archive/node-disk-manager) | 2021-04-14 | Go       | 2024-05-11   |
-|  2 | [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)           | 2023-04-28 | Go       | 2024-07-19   |
-|  3 | [kube-green](https://github.com/kube-green/kube-green)                    | 2023-10-12 | Go       | 2024-07-20   |
-|  4 | [ginkgo](https://github.com/onsi/ginkgo)                                  | 2020-10-09 | Go       | 2024-07-20   |
-|  5 | [duo](https://github.com/duo-rs/duo)                                      | 2022-11-02 | Rust     | 2024-05-09   |
+| ID |                             REPO                              | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [kubectl-openai](https://github.com/CirillaQL/kubectl-openai) | 2023-03-23 | Go          | 2023-06-04   |
+|  2 | [lxd](https://github.com/canonical/lxd)                       | 2017-04-06 | Go          | 2024-07-21   |
+|  3 | [XDKAirMenu](https://github.com/XavierDK/XDKAirMenu)          | 2016-09-23 | Objective-C | 2023-07-06   |
+|  4 | [piraeus](https://github.com/piraeusdatastore/piraeus)        | 2021-03-24 | Shell       | 2024-07-15   |
+|  5 | [common](https://github.com/containers/common)                | 2021-02-08 | Go          | 2024-07-17   |
 
 <!--END_SECTION:my_github-->
 
