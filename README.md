@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-19 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-22 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-07-01 | md       |     4 |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [kubectl-openai](https://github.com/CirillaQL/kubectl-openai) | 2023-03-23 | Go          | 2023-06-04   |
-|  2 | [lxd](https://github.com/canonical/lxd)                       | 2017-04-06 | Go          | 2024-07-21   |
-|  3 | [XDKAirMenu](https://github.com/XavierDK/XDKAirMenu)          | 2016-09-23 | Objective-C | 2023-07-06   |
-|  4 | [piraeus](https://github.com/piraeusdatastore/piraeus)        | 2021-03-24 | Shell       | 2024-07-15   |
-|  5 | [common](https://github.com/containers/common)                | 2021-02-08 | Go          | 2024-07-17   |
+| ID |                                                    REPO                                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [node-feature-discovery-operator](https://github.com/kubernetes-sigs/node-feature-discovery-operator)       | 2024-06-14 | Go       | 2024-07-16   |
+|  2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)                                                      | 2023-10-11 | Python   | 2024-01-24   |
+|  3 | [documentum-rest-client-java](https://github.com/Enterprise-Content-Management/documentum-rest-client-java) | 2016-05-20 | Java     | 2024-06-07   |
+|  4 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)                                        | 2021-04-14 | Go       | 2024-06-03   |
+|  5 | [kubespray](https://github.com/kubernetes-sigs/kubespray)                                                   | 2022-08-05 | Jinja    | 2024-07-22   |
 
 <!--END_SECTION:my_github-->
 
