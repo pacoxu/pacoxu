@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                        REPO                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------|------------|------------|--------------|
-|  1 | [flow.ci](https://github.com/FIRHQ/flow.ci)        | 2016-08-19 | md         | 2024-06-17   |
-|  2 | [asciiflow](https://github.com/lewish/asciiflow)   | 2023-06-15 | TypeScript | 2024-07-27   |
-|  3 | [gotype](https://github.com/wzshiming/gotype)      | 2022-06-21 | Go         | 2024-06-18   |
-|  4 | [steering](https://github.com/kubernetes/steering) | 2021-06-11 | md         | 2024-07-02   |
-|  5 | [graal](https://github.com/oracle/graal)           | 2019-10-11 | Java       | 2024-07-27   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [vllm](https://github.com/vllm-project/vllm)           | 2024-03-29 | Python   | 2024-07-28   |
+|  2 | [ecapture](https://github.com/gojue/ecapture)          | 2022-08-03 | C        | 2024-07-28   |
+|  3 | [Easy-Graph](https://github.com/easy-graph/Easy-Graph) | 2024-04-13 | Python   | 2024-07-27   |
+|  4 | [ttrpc](https://github.com/containerd/ttrpc)           | 2022-06-09 | Go       | 2024-07-27   |
+|  5 | [wrk](https://github.com/wg/wrk)                       | 2022-03-22 | C        | 2024-07-28   |
 
 <!--END_SECTION:my_github-->
 
