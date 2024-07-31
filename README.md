@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-29 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-30 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-07-01 | md       |     4 |
@@ -87,8 +87,8 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-03-19](https://github.com/kubernetes/kubernetes/pull/89251)     | [2024-07-29](https://github.com/kubernetes/kubernetes/pull/126431)     | [484](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
-|  2 | [website](https://github.com/kubernetes/website)                       | [2020-03-23](https://github.com/kubernetes/website/pull/19798)        | [2024-07-24](https://github.com/kubernetes/website/pull/47248)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-06-03](https://github.com/kubernetes/kubernetes/pull/91718)     | [2024-07-30](https://github.com/kubernetes/kubernetes/pull/126461)     | [483](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  2 | [website](https://github.com/kubernetes/website)                       | [2020-09-14](https://github.com/kubernetes/website/pull/23865)        | [2024-07-24](https://github.com/kubernetes/website/pull/47248)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)      | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2024-01-29](https://github.com/kubernetes/enhancements/pull/4452)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-11-03](https://github.com/kubernetes/kubeadm/pull/2953)          | [21](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [mkcert](https://github.com/FiloSottile/mkcert)                                           | 2020-07-16 | Go       | 2024-07-29   |
-|  2 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats) | 2024-01-04 | Go       | 2024-06-21   |
-|  3 | [delve](https://github.com/go-delve/delve)                                                | 2020-06-01 | Go       | 2024-07-30   |
-|  4 | [docker-alpine](https://github.com/alpinelinux/docker-alpine)                             | 2021-04-14 | Lua      | 2024-07-28   |
-|  5 | [learning-knative](https://github.com/skyao/learning-knative)                             | 2019-09-06 | HTML     | 2024-07-24   |
+| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)                    | 2023-03-04 | Python   | 2024-07-30   |
+|  2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)                                        | 2023-10-11 | Python   | 2024-01-24   |
+|  3 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile | 2024-05-10   |
+|  4 | [consul](https://github.com/hashicorp/consul)                                                 | 2019-10-19 | Go       | 2024-07-30   |
+|  5 | [knative-demos](https://github.com/mchmarny/knative-demos)                                    | 2019-10-21 | Shell    | 2023-10-17   |
 
 <!--END_SECTION:my_github-->
 
