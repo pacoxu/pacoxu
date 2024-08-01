@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-30 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-07-31 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-07-01 | md       |     4 |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)                    | 2023-03-04 | Python   | 2024-07-30   |
-|  2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)                                        | 2023-10-11 | Python   | 2024-01-24   |
-|  3 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile | 2024-05-10   |
-|  4 | [consul](https://github.com/hashicorp/consul)                                                 | 2019-10-19 | Go       | 2024-07-30   |
-|  5 | [knative-demos](https://github.com/mchmarny/knative-demos)                                    | 2019-10-21 | Shell    | 2023-10-17   |
+| ID |                                                               REPO                                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [996.ICU](https://github.com/996icu/996.ICU)                                                                                      | 2019-03-28 | md       | 2024-07-31   |
+|  2 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator)                             | 2023-09-15 | Go       | 2024-01-05   |
+|  3 | [logrotee](https://github.com/singalen/logrotee)                                                                                  | 2019-07-19 | C++      | 2024-04-17   |
+|  4 | [cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)                    | 2022-09-22 | Go       | 2024-07-29   |
+|  5 | [container-object-storage-interface-controller](https://github.com/kubernetes-sigs/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2024-06-11   |
 
 <!--END_SECTION:my_github-->
 
