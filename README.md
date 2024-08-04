@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dao-2048](https://github.com/DaoCloud/dao-2048)                           | 2016-04-18 | JavaScript | 2024-07-26   |
-|  2 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng) | 2018-01-16 | Java       | 2023-04-15   |
-|  3 | [hwameistor](https://github.com/hwameistor/hwameistor)                     | 2022-08-22 | Go         | 2024-07-31   |
-|  4 | [flocker-drivers](https://github.com/thecodeteam/flocker-drivers)          | 2016-08-19 | Python     | 2018-02-01   |
-|  5 | [oniguruma](https://github.com/kkos/oniguruma)                             | 2019-03-19 | C          | 2024-08-02   |
+| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [docker-keepalived](https://github.com/osixia/docker-keepalived) | 2019-03-05 | Shell    | 2024-07-19   |
+|  2 | [utils](https://github.com/kubernetes/utils)                     | 2021-02-01 | Go       | 2024-07-30   |
+|  3 | [lb](https://github.com/lherrera/lb)                             | 2016-05-23 | Shell    | 2022-01-16   |
+|  4 | [gardener](https://github.com/gardener/gardener)                 | 2020-07-28 | Go       | 2024-08-02   |
+|  5 | [llmaz](https://github.com/InftyAI/llmaz)                        | 2024-04-02 | Go       | 2024-08-03   |
 
 <!--END_SECTION:my_github-->
 
