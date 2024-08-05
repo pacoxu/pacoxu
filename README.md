@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-keepalived](https://github.com/osixia/docker-keepalived) | 2019-03-05 | Shell    | 2024-07-19   |
-|  2 | [utils](https://github.com/kubernetes/utils)                     | 2021-02-01 | Go       | 2024-07-30   |
-|  3 | [lb](https://github.com/lherrera/lb)                             | 2016-05-23 | Shell    | 2022-01-16   |
-|  4 | [gardener](https://github.com/gardener/gardener)                 | 2020-07-28 | Go       | 2024-08-02   |
-|  5 | [llmaz](https://github.com/InftyAI/llmaz)                        | 2024-04-02 | Go       | 2024-08-03   |
+| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2024-08-04   |
+|  2 | [person-blocker](https://github.com/minimaxir/person-blocker)                                     | 2019-10-24 | Python     | 2024-07-16   |
+|  3 | [gatekeeper](https://github.com/open-policy-agent/gatekeeper)                                     | 2020-05-21 | Go         | 2024-08-03   |
+|  4 | [putingh](https://github.com/wzshiming/putingh)                                                   | 2022-03-08 | Go         | 2024-06-17   |
+|  5 | [logrotee](https://github.com/singalen/logrotee)                                                  | 2019-07-19 | C++        | 2024-04-17   |
 
 <!--END_SECTION:my_github-->
 
