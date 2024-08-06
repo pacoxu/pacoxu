@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-02 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-05 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-08-01 | md       |     4 |
@@ -87,8 +87,8 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-06-03](https://github.com/kubernetes/kubernetes/pull/91718)     | [2024-07-30](https://github.com/kubernetes/kubernetes/pull/126461)     | [483](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
-|  2 | [website](https://github.com/kubernetes/website)                       | [2020-09-14](https://github.com/kubernetes/website/pull/23865)        | [2024-08-02](https://github.com/kubernetes/website/pull/47342)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-06-12](https://github.com/kubernetes/kubernetes/pull/92068)     | [2024-07-30](https://github.com/kubernetes/kubernetes/pull/126461)     | [481](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  2 | [website](https://github.com/kubernetes/website)                       | [2020-09-14](https://github.com/kubernetes/website/pull/23865)        | [2024-08-05](https://github.com/kubernetes/website/pull/47363)         | [56](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)      | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-07-27](https://github.com/kubernetes/enhancements/pull/1907)    | [2024-01-29](https://github.com/kubernetes/enhancements/pull/4452)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-11-03](https://github.com/kubernetes/kubeadm/pull/2953)          | [21](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-07 | JavaScript | 2024-08-04   |
-|  2 | [person-blocker](https://github.com/minimaxir/person-blocker)                                     | 2019-10-24 | Python     | 2024-07-16   |
-|  3 | [gatekeeper](https://github.com/open-policy-agent/gatekeeper)                                     | 2020-05-21 | Go         | 2024-08-03   |
-|  4 | [putingh](https://github.com/wzshiming/putingh)                                                   | 2022-03-08 | Go         | 2024-06-17   |
-|  5 | [logrotee](https://github.com/singalen/logrotee)                                                  | 2019-07-19 | C++        | 2024-04-17   |
+| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [banzai-charts](https://github.com/banzaicloud/banzai-charts)                          | 2019-03-19 | Mustache | 2024-05-02   |
+|  2 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)                      | 2021-08-03 | C        | 2024-07-30   |
+|  3 | [same](https://github.com/rking/same)                                                  | 2020-12-17 | Java     | 2023-04-11   |
+|  4 | [jenkins-pipeline-scripts](https://github.com/docker-archive/jenkins-pipeline-scripts) | 2017-03-06 | Groovy   | 2024-05-15   |
+|  5 | [kube-green](https://github.com/kube-green/kube-green)                                 | 2023-10-12 | Go       | 2024-08-05   |
 
 <!--END_SECTION:my_github-->
 
