@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-09 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-12 | Go       |    12 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-08-01 | md       |     4 |
@@ -87,7 +87,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-09-30](https://github.com/kubernetes/kubernetes/pull/95181)     | [2024-08-08](https://github.com/kubernetes/kubernetes/pull/126595)     | [478](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-09-30](https://github.com/kubernetes/kubernetes/pull/95181)     | [2024-08-12](https://github.com/kubernetes/kubernetes/pull/126628)     | [479](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2020-11-23](https://github.com/kubernetes/website/pull/25182)        | [2024-08-05](https://github.com/kubernetes/website/pull/47363)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)      | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-12-16](https://github.com/kubernetes/enhancements/pull/2189)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [buf](https://github.com/bufbuild/buf)                                            | 2024-01-15 | Go       | 2024-08-11   |
-|  2 | [mkcert](https://github.com/FiloSottile/mkcert)                                   | 2020-07-16 | Go       | 2024-08-12   |
-|  3 | [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)                   | 2023-04-28 | Go       | 2024-08-08   |
-|  4 | [node-maintenance-operator](https://github.com/medik8s/node-maintenance-operator) | 2024-01-17 | Go       | 2024-08-02   |
-|  5 | [go](https://github.com/golang/go)                                                | 2021-09-09 | Go       | 2024-08-11   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [bridge](https://github.com/wzshiming/bridge)                    | 2021-02-22 | Go         | 2024-08-12   |
+|  2 | [kubernetes](https://github.com/openai/kubernetes)               | 2023-03-24 | Go         | 2024-07-18   |
+|  3 | [resume.github.com](https://github.com/resume/resume.github.com) | 2023-01-03 | JavaScript | 2024-08-12   |
+|  4 | [putingh](https://github.com/wzshiming/putingh)                  | 2022-03-08 | Go         | 2024-06-17   |
+|  5 | [logrotee](https://github.com/singalen/logrotee)                 | 2019-07-19 | C++        | 2024-04-17   |
 
 <!--END_SECTION:my_github-->
 
