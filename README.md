@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-16 | Go       |    12 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-17 | Go       |    13 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-08-01 | md       |     4 |
@@ -82,7 +82,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |   6 | [calculators](https://github.com/pacoxu/calculators)               | 2014-01-05 | 2021-04-07 | Java     |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md       |     1 |
 |   8 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md       |     1 |
-| sum |                                                                    |            |            |          |    39 |
+| sum |                                                                    |            |            |          |    40 |
 
 ## The repos I contributed to
 | ID |                            REPO                             |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [multi-tenancy](https://github.com/kubernetes-retired/multi-tenancy)     | 2020-08-17 | Go       | 2024-07-05   |
-|  2 | [k8s-netchecker-agent](https://github.com/Mirantis/k8s-netchecker-agent) | 2017-06-07 | Go       | 2024-02-20   |
-|  3 | [etcd-issues](https://github.com/ahrtr/etcd-issues)                      | 2023-04-04 | Go       | 2024-08-02   |
-|  4 | [k8s-club](https://github.com/k8s-club/k8s-club)                         | 2023-07-12 | md       | 2024-08-10   |
-|  5 | [hostport-allocator](https://github.com/rmb938/hostport-allocator)       | 2020-12-24 | Go       | 2024-07-30   |
+| ID |                                     REPO                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [protobuf-go](https://github.com/protocolbuffers/protobuf-go)                 | 2021-02-24 | Go         | 2024-08-17   |
+|  2 | [dubbox](https://github.com/dangdangdotcom/dubbox)                            | 2016-10-31 | Java       | 2024-08-16   |
+|  3 | [foxtrick](https://github.com/minj/foxtrick)                                  | 2016-09-23 | JavaScript | 2024-07-03   |
+|  4 | [vscode](https://github.com/microsoft/vscode)                                 | 2019-11-20 | TypeScript | 2024-08-18   |
+|  5 | [spring-social-google](https://github.com/spring-social/spring-social-google) | 2012-07-20 | Java       | 2024-07-13   |
 
 <!--END_SECTION:my_github-->
 
