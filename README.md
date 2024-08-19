@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
 
 ## The repos I stared (random 5)
-| ID |                                     REPO                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [protobuf-go](https://github.com/protocolbuffers/protobuf-go)                 | 2021-02-24 | Go         | 2024-08-17   |
-|  2 | [dubbox](https://github.com/dangdangdotcom/dubbox)                            | 2016-10-31 | Java       | 2024-08-16   |
-|  3 | [foxtrick](https://github.com/minj/foxtrick)                                  | 2016-09-23 | JavaScript | 2024-07-03   |
-|  4 | [vscode](https://github.com/microsoft/vscode)                                 | 2019-11-20 | TypeScript | 2024-08-18   |
-|  5 | [spring-social-google](https://github.com/spring-social/spring-social-google) | 2012-07-20 | Java       | 2024-07-13   |
+| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [rocketmq-docker](https://github.com/yohanesws/rocketmq-docker)   | 2017-04-12 | Shell    | 2018-08-31   |
+|  2 | [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf)     | 2022-03-31 | md       | 2024-08-18   |
+|  3 | [kube-node-tuning](https://github.com/kubean-io/kube-node-tuning) | 2024-01-08 | Mustache | 2024-06-28   |
+|  4 | [k8s-club](https://github.com/k8s-club/k8s-club)                  | 2023-07-12 | md       | 2024-08-10   |
+|  5 | [karmada-operator](https://github.com/DaoCloud/karmada-operator)  | 2022-10-12 | Go       | 2022-10-13   |
 
 <!--END_SECTION:my_github-->
 
