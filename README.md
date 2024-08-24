@@ -74,7 +74,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I created
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-22 | Go       |    13 |
+|   1 | [github-repos-stats](https://github.com/pacoxu/github-repos-stats) | 2022-02-22 | 2024-08-23 | Go       |    13 |
 |   2 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   3 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-01-24 | Python   |     6 |
 |   4 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-08-01 | md       |     4 |
@@ -98,13 +98,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) | 2023-08-05 | TypeScript | 2024-08-22   |
-|  2 | [loft](https://github.com/loft-sh/loft)                          | 2020-10-19 | Go         | 2024-08-22   |
-|  3 | [Blogs](https://github.com/kerthcet/Blogs)                       | 2021-09-22 | md         | 2022-08-06   |
-|  4 | [lws](https://github.com/kubernetes-sigs/lws)                    | 2024-03-05 | Go         | 2024-08-21   |
-|  5 | [my-github-status](https://github.com/pacoxu/my-github-status)   | 2023-01-29 | md         | 2024-08-22   |
+| ID |                                                    REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [berrypost](https://github.com/realityone/berrypost)                                                       | 2021-12-21 | Go       | 2024-01-25   |
+|  2 | [open-wonderland](https://github.com/X-lab2017/open-wonderland)                                            | 2024-04-22 | md       | 2024-08-22   |
+|  3 | [kuasar](https://github.com/kuasar-io/kuasar)                                                              | 2023-05-04 | Rust     | 2024-08-23   |
+|  4 | [cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) | 2021-08-07 | Go       | 2024-08-15   |
+|  5 | [ansible](https://github.com/ansible/ansible)                                                              | 2016-05-18 | Python   | 2024-08-23   |
 
 <!--END_SECTION:my_github-->
 
