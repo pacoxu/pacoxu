@@ -34,7 +34,7 @@
 - New/Old interests:  DRA & eBPF & CoreDNS
 
 <img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="200">
-<img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="200">
+<img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="200">
 <img alt="KubeCon China 2024 Speaker" src="https://github.com/user-attachments/assets/b67e1198-6ca7-4684-b87d-991f68957eee" width="200">
 <img alt="KubeCon EU 2024 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="200">
 <img alt="KubeCon EU 2024 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="200">
