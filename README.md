@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=pacoxu)
   
  🔭 Working on Kubernetes & Containerd
-- Work in **DaoCloud Enterprise & Open Source Team**: [DCE](https://docs.daocloud.io/).
+- Work in **DaoCloud Enterprise & Open Source Team**: [DCE](https://docs.daocloud.io/)([d.run](https://d.run/) infra).
 - [Kubernetes Steering](https://github.com/kubernetes/steering) Committee Member
 - [Kubernetes/Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
 - Kubernetes [v1.30 Release Signal Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.30/release-team.md) Lead
