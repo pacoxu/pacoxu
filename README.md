@@ -13,37 +13,39 @@
 
 - Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member & Event Organizer
   - 2024
-    - KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 Co-Chair
+    - KubeCon India🇮🇳 2024 as Program Committee Member
+    - KubeCon North America(🇺🇸Salt Lake City) 2024 as Track Chair
+    - [KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024](https://kccncossaidevchn2024.sched.com/) 🇨🇳(Hong Kong🇭🇰) Co-Chair
     - KCD Shanghai🇨🇳: [Cloud Native Novice & OpenSource Education Track: 01-Kubernetes Contributor Journeys](https://www.bilibili.com/video/BV1nD421T786/?spm_id_from=333.999.0.0) with Nikhita Raghunath & Madhav Jivrajani.
-    - KubeCon EU(Paris🇫🇷) as Program Committee Member:
+    - KubeCon EU(🇫🇷Paris) as Program Committee Member:
       - [Kubernetes Steering Committee: Genesis, Bootstrap, Now & Future](https://sched.co/1YhgX) - Nabarun Pal, Broadcom & Paco Xu, DaoCloud
       - [Kubernetes Contributor Summit](https://www.kubernetes.dev/events/2024/kcseu/): [Steering AMA](https://youtu.be/1Ia75WgGC0g?si=5EjP7XlzgM1-q-8O) - Kubernetes Steering Committee
   - 2023
     - OpenAtom Developer Conference Maintainer Track(Wuxi🇨🇳): [Kubernetes WG-LTS Update and Yearly Upgrade Support](https://www.openatom.org/journalism/detail/q8D7Rf8Cioam).
     - [Kubernetes Contributor Summit China🇨🇳](https://www.kubernetes.dev/events/2023/kcscn/) Organizer: Shanghai.
-    - KubeCon China🇨🇳 as Program Committee Member:
+    - KubeCon China(🇨🇳Shanghai) as Program Committee Member:
       - [Kubernetes SIG Node Intro and Deep Dive](https://kccncosschn2023.sched.com/event/4a2746baff6af89d668edc2eabbcf906) - Paco Xu, DaoCloud & Xiongxiong Yuan, Gitlab China
       - [How Can Pod Start-up Be Accelerated on Nodes in Large Clusters?](https://sched.co/1PTFR)  - Paco Xu, DaoCloud & Byron Wang, Birentech
-    - KubeCon EU(Amsterdam🇳🇱): [Kubeadm Deep Dive](https://kccnceu2023.sched.com/event/1Iki0/kubeadm-deep-dive-rohit-anand-nec-paco-xu-dao-cloud) - Rohit Anand, NEC & Paco Xu, Dao Cloud
-  - 2022 [KCD Chengdu🇨🇳🐼](https://community.cncf.io/kcd-chengdu/) Organizer
+    - KubeCon EU(🇳🇱Amsterdam): [Kubeadm Deep Dive](https://kccnceu2023.sched.com/event/1Iki0/kubeadm-deep-dive-rohit-anand-nec-paco-xu-dao-cloud) - Rohit Anand, NEC & Paco Xu, Dao Cloud
+  - 2022 [KCD 🇨🇳Chengdu🐼](https://community.cncf.io/kcd-chengdu/) Organizer
   - 2021
-    - KubeCon China🇨🇳: [Kubernetes SIG Node: Intro and Deep Dive](https://kccncosschn21.sched.com/event/pccE/kubernetes-sig-nodedaeptao-ye-ge-kubernetes-sig-node-intro-and-deep-dive-paco-daocloud) - Paco, DaoCloud
+    - KubeCon China(Virtual🇨🇳): [Kubernetes SIG Node: Intro and Deep Dive](https://kccncosschn21.sched.com/event/pccE/kubernetes-sig-nodedaeptao-ye-ge-kubernetes-sig-node-intro-and-deep-dive-paco-daocloud) - Paco, DaoCloud
     - KCD Shanghai🇨🇳: [Kubeadm & SIG Node Intro and How to Contribute](https://github.com/cncf/presentations/tree/main/chinese/kcd-shanghai)
 - New/Old interests:  DRA & eBPF & CoreDNS
 
-![image]()
-
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/ff6a37a1-b3fc-4846-81cc-bd201caf03f9" width="200">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="200">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="200">
-<img width="200" alt="2024 KCD Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d">
-<img width="200" alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="200">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/3aa41135-af51-4990-8227-e6f61f6c1700" width="200">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="200">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/ec4a7785-216a-456c-ade7-67df2b517bb4" width="200">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/496e7308-d8c9-4f64-81ca-be25552b0916" width="200">
-<img src="https://github.com/pacoxu/pacoxu/assets/2010320/56cabc78-06d2-41d2-8f19-ac93d1ea931f" width="200">
+<img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="200">
+<img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="200">
+<img alt="KubeCon China 2024 Speaker" src="https://github.com/user-attachments/assets/b67e1198-6ca7-4684-b87d-991f68957eee" width="200">
+<img alt="KubeCon EU 2024 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="200">
+<img alt="KubeCon EU 2024 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="200">
+<img alt="KCD 2024 Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d" width="200">
+<img alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08" width="200">
+<img alt="KubeCon China 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="200">
+<img alt="KubeCon China 2023 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/3aa41135-af51-4990-8227-e6f61f6c1700" width="200">
+<img alt="KubeCon EU 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="200">
+<img alt="KCD Chengdu 2022 Orginzer(Program Committee)" src="https://github.com/pacoxu/pacoxu/assets/2010320/ec4a7785-216a-456c-ade7-67df2b517bb4" width="200">
+<img alt="KubeCon China 2021 Virtual Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/496e7308-d8c9-4f64-81ca-be25552b0916" width="200">
+<img alt="LFC102: Inclusive Open Source Community Orientation" src="https://github.com/user-attachments/assets/6ad503ac-4dfd-445a-a12f-440c3ff4ed6c" width="200">
 
 
 <!--START_SECTION:github_repos-->
