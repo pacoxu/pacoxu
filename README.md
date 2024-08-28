@@ -77,14 +77,14 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | ID  |                                REPO                                |   START    |   UPDATE   |        LAUGUAGE         | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|-------------------------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go                      |    10 |
-|   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-08-26 | Python                  |     6 |
+|   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-08-27 | Python                  |     7 |
 |   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-08-01 | md                      |     4 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go                      |     2 |
 |   5 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md                      |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java                    |     1 |
 |   7 | [stackoverflow](https://github.com/pacoxu/stackoverflow)           | 2014-10-09 | 2021-04-07 | md                      |     1 |
 |   8 | [youth-soccer](https://github.com/pacoxu/youth-soccer)             | 2016-12-21 | 2021-04-07 | GCC Machine Description |     1 |
-| sum |                                                                    |            |            |                         |    27 |
+| sum |                                                                    |            |            |                         |    28 |
 
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
@@ -100,13 +100,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)                   | 2023-08-05 | TypeScript | 2024-08-26   |
-|  2 | [karmada-operator1](https://github.com/DaoCloud/karmada-operator1)                 | 2022-10-12 | Go         | 2023-06-07   |
-|  3 | [steering](https://github.com/kubernetes/steering)                                 | 2021-06-11 | md         | 2024-08-25   |
-|  4 | [openai-translator](https://github.com/openai-translator/openai-translator)        | 2023-03-06 | TypeScript | 2024-08-26   |
-|  5 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories) | 2022-03-15 | Python     | 2023-11-08   |
+| ID |                                     REPO                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [profile_stats](https://github.com/wzshiming/profile_stats)                   | 2022-03-08 | Go               | 2022-03-08   |
+|  2 | [spring-social-google](https://github.com/spring-social/spring-social-google) | 2012-07-20 | Java             | 2024-07-13   |
+|  3 | [mount-utils](https://github.com/kubernetes/mount-utils)                      | 2021-02-19 | Go               | 2024-08-28   |
+|  4 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)               | 2022-10-21 | Jupyter Notebook | 2024-08-27   |
+|  5 | [conjure-up](https://github.com/conjure-up/conjure-up)                        | 2017-06-07 | Python           | 2024-06-27   |
 
 <!--END_SECTION:my_github-->
 
