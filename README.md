@@ -100,13 +100,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
 
 ## The repos I stared (random 5)
-| ID |                                                    REPO                                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [daochain](https://github.com/DaoCloud/daochain)                                                           | 2016-12-09 | JavaScript | 2024-06-08   |
-|  2 | [cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) | 2021-08-07 | Go         | 2024-08-15   |
-|  3 | [insights-bot](https://github.com/nekomeowww/insights-bot)                                                 | 2023-06-05 | Go         | 2024-08-12   |
-|  4 | [release](https://github.com/kubernetes/release)                                                           | 2021-02-20 | Go         | 2024-08-28   |
-|  5 | [etcd-rs](https://github.com/zarvd/etcd-rs)                                                                | 2024-03-14 | Rust       | 2024-08-28   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [scala-tour](https://github.com/yankay/scala-tour)                                   | 2013-08-06 | Scala    | 2024-08-01   |
+|  2 | [Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)                    | 2019-03-07 | md       | 2024-06-26   |
+|  3 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver)          | 2023-09-05 | Go       | 2024-08-21   |
+|  4 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) | 2021-10-18 | Smarty   | 2024-08-24   |
+|  5 | [moby](https://github.com/moby/moby)                                                 | 2016-04-20 | Go       | 2024-08-30   |
 
 <!--END_SECTION:my_github-->
 
