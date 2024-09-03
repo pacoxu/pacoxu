@@ -89,7 +89,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-11-26](https://github.com/kubernetes/kubernetes/pull/96883)     | [2024-08-26](https://github.com/kubernetes/kubernetes/pull/126913)     | [477](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-11-26](https://github.com/kubernetes/kubernetes/pull/96883)     | [2024-09-02](https://github.com/kubernetes/kubernetes/pull/127063)     | [478](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2020-12-22](https://github.com/kubernetes/website/pull/25764)        | [2024-08-05](https://github.com/kubernetes/website/pull/47363)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)      | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-12-16](https://github.com/kubernetes/enhancements/pull/2189)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -100,13 +100,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------|--------------|
-|  1 | [learning-knative](https://github.com/skyao/learning-knative) | 2019-09-06 | HTML       | 2024-07-24   |
-|  2 | [github-todos](https://github.com/naholyr/github-todos)       | 2020-12-13 | JavaScript | 2024-09-01   |
-|  3 | [website](https://github.com/ferryproxy/website)              | 2022-03-03 | md         | 2022-07-12   |
-|  4 | [runc](https://github.com/opencontainers/runc)                | 2020-12-25 | Go         | 2024-09-01   |
-|  5 | [bridge](https://github.com/wzshiming/bridge)                 | 2021-02-22 | Go         | 2024-08-26   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader) | 2022-06-10 | Go       | 2022-08-08   |
+|  2 | [volplugin](https://github.com/contiv-experimental/volplugin)  | 2016-06-29 | Go       | 2024-04-13   |
+|  3 | [nagioscore](https://github.com/NagiosEnterprises/nagioscore)  | 2017-12-08 | C        | 2024-09-02   |
+|  4 | [cyy8](https://github.com/cyy8/cyy8)                           | 2024-08-09 | md       | 2024-08-09   |
+|  5 | [containerd](https://github.com/containerd/containerd)         | 2017-05-31 | Go       | 2024-09-03   |
 
 <!--END_SECTION:my_github-->
 
