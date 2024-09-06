@@ -102,11 +102,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I stared (random 5)
 | ID |                                 REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
 |----|-----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 2023-09-11 | Go       | 2024-09-04   |
-|  2 | [etcdadm](https://github.com/kubernetes-retired/etcdadm)              | 2021-07-08 | Go       | 2024-08-06   |
-|  3 | [puppet-scaleio](https://github.com/thecodeteam/puppet-scaleio)       | 2016-04-24 | Ruby     | 2023-10-04   |
-|  4 | [octant](https://github.com/vmware-archive/octant)                    | 2019-10-11 | Go       | 2024-09-03   |
-|  5 | [world_cup_json](https://github.com/estiens/world_cup_json)           | 2018-05-13 | Ruby     | 2024-07-18   |
+|  1 | [mysql](https://github.com/docker-library/mysql)                      | 2016-09-08 | Shell    | 2024-09-05   |
+|  2 | [worldcup](https://github.com/openfootball/worldcup)                  | 2018-05-13 | md       | 2024-08-24   |
+|  3 | [goscaleio](https://github.com/thecodeteam/goscaleio)                 | 2016-04-24 | Go       | 2023-10-04   |
+|  4 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | 2023-09-11 | Go       | 2024-09-05   |
+|  5 | [cri-dockerd](https://github.com/Mirantis/cri-dockerd)                | 2022-03-03 | Go       | 2024-09-05   |
 
 <!--END_SECTION:my_github-->
 
