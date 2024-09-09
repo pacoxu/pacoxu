@@ -100,13 +100,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin) | 2020-06-11 | Go       | 2023-08-21   |
-|  2 | [kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide)   | 2020-05-22 | Shell    | 2024-07-11   |
-|  3 | [keep-open-deleted](https://github.com/Ottovsky/keep-open-deleted)                | 2022-04-02 | Go       | 2022-04-02   |
-|  4 | [community](https://github.com/klts-io/community)                                 | 2021-11-17 | md       | 2021-12-01   |
-|  5 | [wrk](https://github.com/wg/wrk)                                                  | 2022-03-22 | C        | 2024-09-07   |
+| ID |                                                    REPO                                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cri-tools](https://github.com/kubernetes-sigs/cri-tools)                                                   | 2023-09-01 | Go       | 2024-09-08   |
+|  2 | [documentum-rest-client-java](https://github.com/Enterprise-Content-Management/documentum-rest-client-java) | 2016-05-20 | Java     | 2024-08-28   |
+|  3 | [mysql](https://github.com/docker-library/mysql)                                                            | 2016-09-08 | Shell    | 2024-09-08   |
+|  4 | [RouteLLM](https://github.com/lm-sys/RouteLLM)                                                              | 2024-07-08 | Python   | 2024-09-08   |
+|  5 | [plasto-icons](https://github.com/jamiefang/plasto-icons)                                                   | 2019-05-22 | md       | 2022-08-04   |
 
 <!--END_SECTION:my_github-->
 
