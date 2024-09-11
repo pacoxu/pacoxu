@@ -100,13 +100,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
 
 ## The repos I stared (random 5)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) | 2022-03-31 | md         | 2024-09-09   |
-|  2 | [worldcup](https://github.com/fatiherikli/worldcup)           | 2018-05-13 | Python     | 2024-03-06   |
-|  3 | [CNTK](https://github.com/microsoft/CNTK)                     | 2016-01-27 | C++        | 2024-09-08   |
-|  4 | [ant-design](https://github.com/ant-design/ant-design)        | 2021-02-18 | TypeScript | 2024-09-10   |
-|  5 | [gemma_pytorch](https://github.com/google/gemma_pytorch)      | 2024-02-23 | Python     | 2024-09-09   |
+| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [dotemacs](https://github.com/marun/dotemacs)                            | 2020-01-10 | Emacs Lisp | 2023-04-10   |
+|  2 | [viper](https://github.com/spf13/viper)                                  | 2020-06-16 | Go         | 2024-09-10   |
+|  3 | [operator-sdk](https://github.com/operator-framework/operator-sdk)       | 2022-03-10 | Go         | 2024-09-10   |
+|  4 | [metallb](https://github.com/metallb/metallb)                            | 2019-02-27 | Go         | 2024-09-10   |
+|  5 | [hwameistor-operator](https://github.com/hwameistor/hwameistor-operator) | 2023-05-25 | Go         | 2024-09-03   |
 
 <!--END_SECTION:my_github-->
 
