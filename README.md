@@ -89,7 +89,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                            REPO                             |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
 |----|-------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2020-11-26](https://github.com/kubernetes/kubernetes/pull/96883)  | [2024-09-02](https://github.com/kubernetes/kubernetes/pull/127063) | [478](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2020-11-27](https://github.com/kubernetes/kubernetes/pull/96907)  | [2024-09-11](https://github.com/kubernetes/kubernetes/pull/127284) | [478](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
 |  2 | [website](https://github.com/kubernetes/website)            | [2020-12-22](https://github.com/kubernetes/website/pull/25764)     | [2024-08-05](https://github.com/kubernetes/website/pull/47363)     | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)      | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)  | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)  | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)  | [2020-12-16](https://github.com/kubernetes/enhancements/pull/2189) | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782) | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
@@ -100,13 +100,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dotemacs](https://github.com/marun/dotemacs)                            | 2020-01-10 | Emacs Lisp | 2023-04-10   |
-|  2 | [viper](https://github.com/spf13/viper)                                  | 2020-06-16 | Go         | 2024-09-10   |
-|  3 | [operator-sdk](https://github.com/operator-framework/operator-sdk)       | 2022-03-10 | Go         | 2024-09-10   |
-|  4 | [metallb](https://github.com/metallb/metallb)                            | 2019-02-27 | Go         | 2024-09-10   |
-|  5 | [hwameistor-operator](https://github.com/hwameistor/hwameistor-operator) | 2023-05-25 | Go         | 2024-09-03   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)     | 2023-03-07 | TypeScript | 2024-09-11   |
+|  2 | [distroless](https://github.com/GoogleContainerTools/distroless)                                      | 2022-05-07 | Starlark   | 2024-09-11   |
+|  3 | [dns](https://github.com/kubernetes/dns)                                                              | 2019-07-19 | Go         | 2024-09-10   |
+|  4 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator) | 2023-09-15 | Go         | 2024-01-05   |
+|  5 | [simkube](https://github.com/acrlabs/simkube)                                                         | 2024-09-10 | Rust       | 2024-09-11   |
 
 <!--END_SECTION:my_github-->
 
