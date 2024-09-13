@@ -87,26 +87,26 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | sum |                                                                    |            |            |                         |    28 |
 
 ## The repos I contributed to
-| ID |                            REPO                             |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
-|----|-------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2020-11-27](https://github.com/kubernetes/kubernetes/pull/96907)  | [2024-09-11](https://github.com/kubernetes/kubernetes/pull/127284) | [478](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
-|  2 | [website](https://github.com/kubernetes/website)            | [2020-12-22](https://github.com/kubernetes/website/pull/25764)     | [2024-08-05](https://github.com/kubernetes/website/pull/47363)     | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)      |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)      | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)  | [2024-03-14](https://github.com/kubernetes/test-infra/pull/32259)  | [39](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
-|  4 | [enhancements](https://github.com/kubernetes/enhancements)  | [2020-12-16](https://github.com/kubernetes/enhancements/pull/2189) | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782) | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
-|  5 | [kubeadm](https://github.com/kubernetes/kubeadm)            | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)      | [2023-11-03](https://github.com/kubernetes/kubeadm/pull/2953)      | [21](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)      |
-|  6 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)   | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)  |
-|  7 | [k8s.io](https://github.com/kubernetes/k8s.io)              | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)       | [2024-07-25](https://github.com/kubernetes/k8s.io/pull/7072)       | [18](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)       |
-|  8 | [containerd](https://github.com/containerd/containerd)      | [2021-03-15](https://github.com/containerd/containerd/pull/5200)   | [2022-12-23](https://github.com/containerd/containerd/pull/7863)   | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)   |
-|  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
+| ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
+|----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-12-07](https://github.com/kubernetes/kubernetes/pull/97099)     | [2024-09-11](https://github.com/kubernetes/kubernetes/pull/127284)     | [475](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  2 | [website](https://github.com/kubernetes/website)                       | [2020-12-22](https://github.com/kubernetes/website/pull/25764)        | [2024-08-05](https://github.com/kubernetes/website/pull/47363)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-09-12](https://github.com/kubernetes/test-infra/pull/33464)      | [41](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-12-16](https://github.com/kubernetes/enhancements/pull/2189)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
+|  5 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-11-03](https://github.com/kubernetes/kubeadm/pull/2953)          | [21](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
+|  6 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts)            | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)       | [2022-09-15](https://github.com/klts-io/kubernetes-lts/pull/174)       | [19](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  7 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2024-07-25](https://github.com/kubernetes/k8s.io/pull/7072)           | [18](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
+|  8 | [containerd](https://github.com/containerd/containerd)                 | [2021-03-15](https://github.com/containerd/containerd/pull/5200)      | [2022-12-23](https://github.com/containerd/containerd/pull/7863)       | [16](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)     | 2023-03-07 | TypeScript | 2024-09-11   |
-|  2 | [distroless](https://github.com/GoogleContainerTools/distroless)                                      | 2022-05-07 | Starlark   | 2024-09-11   |
-|  3 | [dns](https://github.com/kubernetes/dns)                                                              | 2019-07-19 | Go         | 2024-09-10   |
-|  4 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator) | 2023-09-15 | Go         | 2024-01-05   |
-|  5 | [simkube](https://github.com/acrlabs/simkube)                                                         | 2024-09-10 | Rust       | 2024-09-11   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes) | 2020-11-05 | Shell    | 2024-08-21   |
+|  2 | [wrk](https://github.com/wg/wrk)                                   | 2022-03-22 | C        | 2024-09-13   |
+|  3 | [tag-security](https://github.com/cncf/tag-security)               | 2021-10-12 | HTML     | 2024-09-12   |
+|  4 | [hostport-allocator](https://github.com/rmb938/hostport-allocator) | 2020-12-24 | Go       | 2024-09-02   |
+|  5 | [gpu-operator](https://github.com/NVIDIA/gpu-operator)             | 2024-02-23 | Go       | 2024-09-12   |
 
 <!--END_SECTION:my_github-->
 
