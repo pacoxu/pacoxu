@@ -100,13 +100,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes) | 2020-11-05 | Shell    | 2024-08-21   |
-|  2 | [wrk](https://github.com/wg/wrk)                                   | 2022-03-22 | C        | 2024-09-13   |
-|  3 | [tag-security](https://github.com/cncf/tag-security)               | 2021-10-12 | HTML     | 2024-09-12   |
-|  4 | [hostport-allocator](https://github.com/rmb938/hostport-allocator) | 2020-12-24 | Go       | 2024-09-02   |
-|  5 | [gpu-operator](https://github.com/NVIDIA/gpu-operator)             | 2024-02-23 | Go       | 2024-09-12   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                           | 2019-06-05 | Python   | 2024-05-27   |
+|  2 | [containerd](https://github.com/containerd/containerd)                                | 2017-05-31 | Go       | 2024-09-13   |
+|  3 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 2017-06-08 | md       | 2024-09-13   |
+|  4 | [tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)                          | 2023-10-26 | Python   | 2024-08-30   |
+|  5 | [kwok-operator](https://github.com/run-ai/kwok-operator)                              | 2024-08-07 | Go       | 2024-09-01   |
 
 <!--END_SECTION:my_github-->
 
