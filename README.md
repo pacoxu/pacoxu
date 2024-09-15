@@ -102,13 +102,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                           | 2019-06-05 | Python   | 2024-05-27   |
-|  2 | [containerd](https://github.com/containerd/containerd)                                | 2017-05-31 | Go       | 2024-09-13   |
-|  3 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 2017-06-08 | md       | 2024-09-13   |
-|  4 | [tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)                          | 2023-10-26 | Python   | 2024-08-30   |
-|  5 | [kwok-operator](https://github.com/run-ai/kwok-operator)                              | 2024-08-07 | Go       | 2024-09-01   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [jcseg](https://github.com/lionsoul2014/jcseg)                    | 2016-08-19 | Java       | 2024-08-31   |
+|  2 | [release](https://github.com/kubernetes/release)                  | 2021-02-20 | Go         | 2024-09-13   |
+|  3 | [headlamp](https://github.com/headlamp-k8s/headlamp)              | 2023-12-08 | TypeScript | 2024-09-14   |
+|  4 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)  | 2019-11-13 | Shell      | 2021-11-16   |
+|  5 | [slirp4netns](https://github.com/rootless-containers/slirp4netns) | 2021-08-03 | C          | 2024-09-14   |
 
 <!--END_SECTION:my_github-->
 
