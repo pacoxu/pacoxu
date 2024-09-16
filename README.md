@@ -102,13 +102,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [jcseg](https://github.com/lionsoul2014/jcseg)                    | 2016-08-19 | Java       | 2024-08-31   |
-|  2 | [release](https://github.com/kubernetes/release)                  | 2021-02-20 | Go         | 2024-09-13   |
-|  3 | [headlamp](https://github.com/headlamp-k8s/headlamp)              | 2023-12-08 | TypeScript | 2024-09-14   |
-|  4 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)  | 2019-11-13 | Shell      | 2021-11-16   |
-|  5 | [slirp4netns](https://github.com/rootless-containers/slirp4netns) | 2021-08-03 | C          | 2024-09-14   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [istio-dce](https://github.com/yangchuansheng/istio-dce)           | 2019-07-12 | Shell    | 2019-07-26   |
+|  2 | [kubernetes-notes](https://github.com/huweihuang/kubernetes-notes) | 2020-11-05 | Shell    | 2024-08-21   |
+|  3 | [jobset](https://github.com/kubernetes-sigs/jobset)                | 2024-02-18 | Go       | 2024-09-14   |
+|  4 | [slirp4netns](https://github.com/rootless-containers/slirp4netns)  | 2021-08-03 | C        | 2024-09-14   |
+|  5 | [crane-scheduler](https://github.com/gocrane/crane-scheduler)      | 2022-06-24 | Go       | 2024-09-12   |
 
 <!--END_SECTION:my_github-->
 
