@@ -102,13 +102,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes-py](https://github.com/mnubo/kubernetes-py)                               | 2017-06-07 | Python   | 2024-02-02   |
-|  2 | [usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) | 2024-08-12 | Go       | 2024-09-04   |
-|  3 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                           | 2019-06-05 | Python   | 2024-09-15   |
-|  4 | [kopilot](https://github.com/knight42/kopilot)                                        | 2023-03-23 | Go       | 2024-09-11   |
-|  5 | [kubeasz](https://github.com/easzlab/kubeasz)                                         | 2017-12-19 | Jinja    | 2024-09-14   |
+| ID |                              REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [k8s-scripts](https://github.com/rosskukulinski/k8s-scripts)   | 2019-05-28 | Shell    | 2023-02-06   |
+|  2 | [xxhash](https://github.com/cespare/xxhash)                    | 2021-09-20 | Go       | 2024-09-17   |
+|  3 | [kube-scheduler](https://github.com/kubernetes/kube-scheduler) | 2022-02-27 | Go       | 2024-09-15   |
+|  4 | [steering](https://github.com/pacoxu/steering)                 | 2023-10-04 | md       | 2023-10-04   |
+|  5 | [linux](https://github.com/torvalds/linux)                     | 2024-06-18 | C        | 2024-09-18   |
 
 <!--END_SECTION:my_github-->
 
