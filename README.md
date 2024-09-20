@@ -91,7 +91,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-12-07](https://github.com/kubernetes/kubernetes/pull/97099)     | [2024-09-11](https://github.com/kubernetes/kubernetes/pull/127284)     | [475](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-12-07](https://github.com/kubernetes/kubernetes/pull/97099)     | [2024-09-11](https://github.com/kubernetes/kubernetes/pull/127284)     | [474](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2020-12-22](https://github.com/kubernetes/website/pull/25764)        | [2024-08-05](https://github.com/kubernetes/website/pull/47363)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-09-12](https://github.com/kubernetes/test-infra/pull/33464)      | [41](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-12-16](https://github.com/kubernetes/enhancements/pull/2189)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -102,13 +102,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [openshift-docs](https://github.com/openshift/openshift-docs)                        | 2017-06-06 | HTML             | 2024-09-18   |
-|  2 | [steampipe-plugin-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) | 2024-05-08 | Go               | 2024-09-09   |
-|  3 | [landscape](https://github.com/cncf/landscape)                                       | 2023-06-20 | md               | 2024-09-18   |
-|  4 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)                      | 2022-10-21 | Jupyter Notebook | 2024-09-19   |
-|  5 | [toc](https://github.com/cncf/toc)                                                   | 2022-01-26 | md               | 2024-09-18   |
+| ID |                                                   REPO                                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [amazon-ecs-for-open-application-model](https://github.com/awslabs/amazon-ecs-for-open-application-model) | 2020-05-04 | Go         | 2023-08-02   |
+|  2 | [bs-core](https://github.com/zu1k/bs-core)                                                                | 2022-11-30 | TypeScript | 2024-09-19   |
+|  3 | [skywalking](https://github.com/apache/skywalking)                                                        | 2024-01-26 | Java       | 2024-09-19   |
+|  4 | [autok3s](https://github.com/cnrancher/autok3s)                                                           | 2024-05-07 | Go         | 2024-09-20   |
+|  5 | [hwameistor](https://github.com/hwameistor/hwameistor)                                                    | 2022-08-22 | Go         | 2024-09-19   |
 
 <!--END_SECTION:my_github-->
 
