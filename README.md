@@ -102,13 +102,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [community](https://github.com/kubernetes/community)        | [2020-12-16](https://github.com/kubernetes/community/pull/5369)    | [2024-07-31](https://github.com/kubernetes/community/pull/7999)    | [11](https://github.com/kubernetes/community/pulls?q=is%3Apr+author%3Apacoxu)    |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s.io](https://github.com/kubernetes/k8s.io)                   | 2021-03-16 | HCL      | 2024-09-20   |
-|  2 | [delve](https://github.com/go-delve/delve)                       | 2020-06-01 | Go       | 2024-09-21   |
-|  3 | [triage-party](https://github.com/google/triage-party)           | 2021-04-14 | Go       | 2024-09-04   |
-|  4 | [runtime-copilot](https://github.com/copilot-io/runtime-copilot) | 2023-05-15 | Go       | 2024-03-29   |
-|  5 | [awards](https://github.com/cncf/awards)                         | 2023-10-13 | md       | 2024-07-09   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [wrk](https://github.com/wg/wrk)                                                   | 2022-03-22 | C        | 2024-09-23   |
+|  2 | [kube-mesos-framework](https://github.com/kubernetes-retired/kube-mesos-framework) | 2017-09-29 | HTML     | 2024-04-02   |
+|  3 | [Attack_Code](https://github.com/Esonhugh/Attack_Code)                             | 2023-09-07 | Shell    | 2024-09-06   |
+|  4 | [kurator](https://github.com/kurator-dev/kurator)                                  | 2022-06-23 | Go       | 2024-09-19   |
+|  5 | [otelsql](https://github.com/XSAM/otelsql)                                         | 2023-02-02 | Go       | 2024-09-20   |
 
 <!--END_SECTION:my_github-->
 
