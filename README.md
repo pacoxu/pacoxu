@@ -6,22 +6,22 @@
 - Work in **DaoCloud Enterprise & Open Source Team**: [DCE](https://docs.daocloud.io/)([d.run](https://d.run/) infra).
 - [Kubernetes Steering](https://github.com/kubernetes/steering) Committee Member
 - [Kubernetes/Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
-- Kubernetes [v1.30 Release Signal Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.30/release-team.md) Lead
 - [Kubernetes/SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer
-- [LFAPAC Evangelist](https://evangelists.linuxfoundation.cn/evangelists) (2024)
  
  🌱 Learning and Sharing
  🇨🇳 **The only thing that I know is that I know nothing**. 
 
 - Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member & Event Organizer
   - 2024
-    - KubeCon India🇮🇳 2024 as Program Committee Member
-    - KubeCon North America(🇺🇸Salt Lake City) 2024 as Track Chair
-    - [KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024](https://kccncossaidevchn2024.sched.com/) 🇨🇳(Hong Kong🇭🇰) Co-Chair
-    - KCD Shanghai🇨🇳: [Cloud Native Novice & OpenSource Education Track: 01-Kubernetes Contributor Journeys](https://www.bilibili.com/video/BV1nD421T786/?spm_id_from=333.999.0.0) with Nikhita Raghunath & Madhav Jivrajani.
+    - KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**🪑: [Keynote: Kubernetes Community and Cloud Native Activities in China - Paco Xu & Wei Cai](https://www.youtube.com/watch?v=c9YVuEkJGR0)
+    - KubeCon North America(Salt Lake City🇺🇸) as Program Committee Track Chair🪑
     - KubeCon EU(🇫🇷Paris) as Program Committee Member:
       - [Kubernetes Steering Committee: Genesis, Bootstrap, Now & Future](https://sched.co/1YhgX) - Nabarun Pal, Broadcom & Paco Xu, DaoCloud
       - [Kubernetes Contributor Summit](https://www.kubernetes.dev/events/2024/kcseu/): [Steering AMA](https://youtu.be/1Ia75WgGC0g?si=5EjP7XlzgM1-q-8O) - Kubernetes Steering Committee
+    - KubeCon India(🇮🇳) as Program Committee Member
+    - Kubernetes [v1.30 Release Signal Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.30/release-team.md) Lead (2024 Q1)
+    - KCD Shanghai🇨🇳: [Cloud Native Novice & OpenSource Education Track: 01-Kubernetes Contributor Journeys](https://www.bilibili.com/video/BV1nD421T786/?spm_id_from=333.999.0.0) with Nikhita Raghunath & Madhav Jivrajani.
+    - [LFAPAC Evangelist 2024](https://evangelists.linuxfoundation.cn/evangelists)
   - 2023
     - OpenAtom Developer Conference Maintainer Track(Wuxi🇨🇳): [Kubernetes WG-LTS Update and Yearly Upgrade Support](https://www.openatom.org/journalism/detail/q8D7Rf8Cioam).
     - [Kubernetes Contributor Summit China🇨🇳](https://www.kubernetes.dev/events/2023/kcscn/) Organizer: Shanghai.
