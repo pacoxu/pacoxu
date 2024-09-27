@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=pacoxu)
 
 Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/button).
-
-![Metrics](https://github.com/pacoxu/pacoxu/blob/master/github-metrics.svg)
   
  🔭 Working on Kubernetes & Containerd
 - Work in **DaoCloud Enterprise & Open Source Team**: [DCE](https://www.daocloud.io/products/index.html)([d.run](https://d.run/) infra).
@@ -37,6 +35,9 @@ Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/
     - KubeCon China(Virtual🇨🇳): [Kubernetes SIG Node: Intro and Deep Dive](https://kccncosschn21.sched.com/event/pccE/kubernetes-sig-nodedaeptao-ye-ge-kubernetes-sig-node-intro-and-deep-dive-paco-daocloud) - Paco, DaoCloud
     - KCD Shanghai🇨🇳: [Kubeadm & SIG Node Intro and How to Contribute](https://github.com/cncf/presentations/tree/main/chinese/kcd-shanghai)
 - New/Old interests:  DRA & eBPF & CoreDNS
+
+![Metrics](https://github.com/pacoxu/pacoxu/blob/master/github-metrics.svg)
+
 
 <img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="200">
 <img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="200">
