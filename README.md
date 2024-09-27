@@ -102,13 +102,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [chocolatey](https://github.com/chocolatey-archive/chocolatey)                                    | 2013-12-25 | PowerShell | 2024-09-25   |
-|  2 | [aikdocs](https://github.com/aikdocs/aikdocs)                                                     | 2023-07-19 | Python     | 2023-07-26   |
-|  3 | [worldcup](https://github.com/openfootball/worldcup)                                              | 2018-05-13 | md         | 2024-09-23   |
-|  4 | [kube-scheduler-wasm-extension](https://github.com/kubernetes-sigs/kube-scheduler-wasm-extension) | 2023-05-17 | Go         | 2024-09-23   |
-|  5 | [books-1](https://github.com/yowenter/books-1)                                                    | 2019-04-02 | Python     | 2019-12-12   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)                   | 2022-03-10 | Go       | 2024-09-26   |
+|  2 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector)    | 2019-05-03 | Go       | 2024-09-26   |
+|  3 | [GPT-Prompts](https://github.com/jesselau76/GPT-Prompts)                        | 2023-04-08 | md       | 2024-09-20   |
+|  4 | [hwameistor](https://github.com/hwameistor/hwameistor)                          | 2022-08-22 | Go       | 2024-09-26   |
+|  5 | [ecm1240-monitor-docker](https://github.com/tenstartups/ecm1240-monitor-docker) | 2016-05-02 | Python   | 2023-01-28   |
 
 <!--END_SECTION:my_github-->
 
