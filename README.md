@@ -106,13 +106,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)                   | 2022-03-10 | Go       | 2024-09-26   |
-|  2 | [node-problem-detector](https://github.com/kubernetes/node-problem-detector)    | 2019-05-03 | Go       | 2024-09-26   |
-|  3 | [GPT-Prompts](https://github.com/jesselau76/GPT-Prompts)                        | 2023-04-08 | md       | 2024-09-20   |
-|  4 | [hwameistor](https://github.com/hwameistor/hwameistor)                          | 2022-08-22 | Go       | 2024-09-26   |
-|  5 | [ecm1240-monitor-docker](https://github.com/tenstartups/ecm1240-monitor-docker) | 2016-05-02 | Python   | 2023-01-28   |
+| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats)     | 2024-01-04 | Go       | 2024-06-21   |
+|  2 | [kourier](https://github.com/3scale-archive/kourier)                                          | 2019-11-13 | Go       | 2023-11-29   |
+|  3 | [vitess](https://github.com/vitessio/vitess)                                                  | 2018-04-19 | Go       | 2024-09-27   |
+|  4 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile | 2024-09-14   |
+|  5 | [volcano](https://github.com/volcano-sh/volcano)                                              | 2022-09-27 | Go       | 2024-09-27   |
 
 <!--END_SECTION:my_github-->
 
