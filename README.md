@@ -106,13 +106,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [release-team-shadow-stats](https://github.com/kubernetes-sigs/release-team-shadow-stats)     | 2024-01-04 | Go       | 2024-06-21   |
-|  2 | [kourier](https://github.com/3scale-archive/kourier)                                          | 2019-11-13 | Go       | 2023-11-29   |
-|  3 | [vitess](https://github.com/vitessio/vitess)                                                  | 2018-04-19 | Go       | 2024-09-27   |
-|  4 | [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) | 2019-11-27 | Makefile | 2024-09-14   |
-|  5 | [volcano](https://github.com/volcano-sh/volcano)                                              | 2022-09-27 | Go       | 2024-09-27   |
+| ID |                                      REPO                                       | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [community](https://github.com/kubernetes/community)                            | 2019-06-24 | Jupyter Notebook | 2024-09-28   |
+|  2 | [foxtrick](https://github.com/minj/foxtrick)                                    | 2016-09-23 | JavaScript       | 2024-09-25   |
+|  3 | [github-repos-stats](https://github.com/DaoCloud-OpenSource/github-repos-stats) | 2022-02-23 | Go               | 2024-09-27   |
+|  4 | [serverless-landingpage](https://github.com/phodal/serverless-landingpage)      | 2019-10-21 | JavaScript       | 2022-07-26   |
+|  5 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)            | 2021-04-14 | Go               | 2024-08-20   |
 
 <!--END_SECTION:my_github-->
 
