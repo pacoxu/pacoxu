@@ -95,7 +95,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-12-10](https://github.com/kubernetes/kubernetes/pull/97177)     | [2024-09-20](https://github.com/kubernetes/kubernetes/pull/127489)     | [472](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-12-10](https://github.com/kubernetes/kubernetes/pull/97177)     | [2024-09-29](https://github.com/kubernetes/kubernetes/pull/127731)     | [473](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2020-12-22](https://github.com/kubernetes/website/pull/25764)        | [2024-09-20](https://github.com/kubernetes/website/pull/48008)         | [55](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-09-12](https://github.com/kubernetes/test-infra/pull/33464)      | [41](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2020-12-16](https://github.com/kubernetes/enhancements/pull/2189)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [27](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -106,13 +106,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                       | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [community](https://github.com/kubernetes/community)                            | 2019-06-24 | Jupyter Notebook | 2024-09-28   |
-|  2 | [foxtrick](https://github.com/minj/foxtrick)                                    | 2016-09-23 | JavaScript       | 2024-09-25   |
-|  3 | [github-repos-stats](https://github.com/DaoCloud-OpenSource/github-repos-stats) | 2022-02-23 | Go               | 2024-09-27   |
-|  4 | [serverless-landingpage](https://github.com/phodal/serverless-landingpage)      | 2019-10-21 | JavaScript       | 2022-07-26   |
-|  5 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)            | 2021-04-14 | Go               | 2024-08-20   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                    | 2019-01-09 | Go       | 2024-09-29   |
+|  2 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs)                         | 2016-04-02 | Python   | 2024-09-29   |
+|  3 | [wg-device-management](https://github.com/kubernetes-sigs/wg-device-management)    | 2024-08-06 | Go       | 2024-08-06   |
+|  4 | [kube-mesos-framework](https://github.com/kubernetes-retired/kube-mesos-framework) | 2017-09-29 | HTML     | 2024-04-02   |
+|  5 | [recognize](https://github.com/nextcloud/recognize)                                | 2023-10-08 | PHP      | 2024-09-25   |
 
 <!--END_SECTION:my_github-->
 
