@@ -106,13 +106,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                    | 2019-01-09 | Go       | 2024-09-29   |
-|  2 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs)                         | 2016-04-02 | Python   | 2024-09-29   |
-|  3 | [wg-device-management](https://github.com/kubernetes-sigs/wg-device-management)    | 2024-08-06 | Go       | 2024-08-06   |
-|  4 | [kube-mesos-framework](https://github.com/kubernetes-retired/kube-mesos-framework) | 2017-09-29 | HTML     | 2024-04-02   |
-|  5 | [recognize](https://github.com/nextcloud/recognize)                                | 2023-10-08 | PHP      | 2024-09-25   |
+| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cri-resource-manager](https://github.com/intel/cri-resource-manager)           | 2023-05-22 | Go       | 2024-09-30   |
+|  2 | [etcd3-py](https://github.com/Revolution1/etcd3-py)                             | 2021-01-21 | Python   | 2024-08-14   |
+|  3 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng)      | 2018-01-16 | Java     | 2023-04-15   |
+|  4 | [llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) | 2024-09-05 | md       | 2024-09-30   |
+|  5 | [ttrpc](https://github.com/containerd/ttrpc)                                    | 2022-06-09 | Go       | 2024-09-30   |
 
 <!--END_SECTION:my_github-->
 
