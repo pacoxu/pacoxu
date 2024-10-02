@@ -84,7 +84,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|-------------------------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go                      |    10 |
 |   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-08-27 | Python                  |     7 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-09-01 | md                      |     4 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-10-01 | md                      |     4 |
 |   4 | [kubelet-reloader](https://github.com/pacoxu/kubelet-reloader)     | 2022-06-10 | 2022-08-08 | Go                      |     2 |
 |   5 | [xupaco](https://github.com/pacoxu/xupaco)                         | 2012-07-24 | 2023-04-25 | md                      |     1 |
 |   6 | [UIMessage](https://github.com/pacoxu/UIMessage)                   | 2012-08-02 | 2021-04-07 | Java                    |     1 |
@@ -106,13 +106,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                      REPO                                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cri-resource-manager](https://github.com/intel/cri-resource-manager)           | 2023-05-22 | Go       | 2024-09-30   |
-|  2 | [etcd3-py](https://github.com/Revolution1/etcd3-py)                             | 2021-01-21 | Python   | 2024-08-14   |
-|  3 | [test-analytics-ng](https://github.com/rodion-goritskov/test-analytics-ng)      | 2018-01-16 | Java     | 2023-04-15   |
-|  4 | [llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) | 2024-09-05 | md       | 2024-09-30   |
-|  5 | [ttrpc](https://github.com/containerd/ttrpc)                                    | 2022-06-09 | Go       | 2024-09-30   |
+| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [karpenter](https://github.com/kubernetes-sigs/karpenter)        | 2024-09-24 | Go       | 2024-10-01   |
+|  2 | [karmada-operator](https://github.com/DaoCloud/karmada-operator) | 2022-10-12 | Go       | 2022-10-13   |
+|  3 | [mount-utils](https://github.com/kubernetes/mount-utils)         | 2021-02-19 | Go       | 2024-09-23   |
+|  4 | [llmg](https://github.com/lingticio/llmg)                        | 2024-09-05 | Go       | 2024-09-07   |
+|  5 | [runc-lts](https://github.com/klts-io/runc-lts)                  | 2021-11-25 | Shell    | 2023-03-30   |
 
 <!--END_SECTION:my_github-->
 
