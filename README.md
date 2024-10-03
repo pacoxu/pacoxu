@@ -106,13 +106,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [karpenter](https://github.com/kubernetes-sigs/karpenter)        | 2024-09-24 | Go       | 2024-10-01   |
-|  2 | [karmada-operator](https://github.com/DaoCloud/karmada-operator) | 2022-10-12 | Go       | 2022-10-13   |
-|  3 | [mount-utils](https://github.com/kubernetes/mount-utils)         | 2021-02-19 | Go       | 2024-09-23   |
-|  4 | [llmg](https://github.com/lingticio/llmg)                        | 2024-09-05 | Go       | 2024-09-07   |
-|  5 | [runc-lts](https://github.com/klts-io/runc-lts)                  | 2021-11-25 | Shell    | 2023-03-30   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [terminal](https://github.com/microsoft/terminal)                 | 2019-05-07 | C++        | 2024-10-02   |
+|  2 | [monokle](https://github.com/kubeshop/monokle)                    | 2023-06-20 | TypeScript | 2024-10-02   |
+|  3 | [setup-cri-dockerd](https://github.com/klts-io/setup-cri-dockerd) | 2022-04-01 | Shell      | 2024-02-27   |
+|  4 | [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps)       | 2024-07-01 | md         | 2024-10-01   |
+|  5 | [go](https://github.com/golang/go)                                | 2021-09-09 | Go         | 2024-10-02   |
 
 <!--END_SECTION:my_github-->
 
