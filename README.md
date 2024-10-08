@@ -106,13 +106,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [etcd3-py](https://github.com/Revolution1/etcd3-py)                               | 2021-01-21 | Python   | 2024-08-14   |
-|  2 | [spec](https://github.com/oam-dev/spec)                                           | 2020-05-08 | md       | 2024-10-06   |
-|  3 | [logr](https://github.com/go-logr/logr)                                           | 2021-01-23 | Go       | 2024-09-30   |
-|  4 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue      | 2024-10-02   |
-|  5 | [paginate](https://github.com/Pylons/paginate)                                    | 2016-07-05 | Python   | 2024-08-25   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [linkerd2](https://github.com/linkerd/linkerd2)                    | 2021-07-29 | Go       | 2024-10-07   |
+|  2 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial) | 2019-10-07 | C#       | 2024-10-05   |
+|  3 | [gpu-operator](https://github.com/NVIDIA/gpu-operator)             | 2024-02-23 | Go       | 2024-10-07   |
+|  4 | [otelsql](https://github.com/XSAM/otelsql)                         | 2023-02-02 | Go       | 2024-10-06   |
+|  5 | [aikdocs](https://github.com/aikdocs/aikdocs)                      | 2023-07-19 | Python   | 2023-07-26   |
 
 <!--END_SECTION:my_github-->
 
