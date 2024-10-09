@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [linkerd2](https://github.com/linkerd/linkerd2)                    | 2021-07-29 | Go       | 2024-10-07   |
-|  2 | [knative-tutorial](https://github.com/meteatamel/knative-tutorial) | 2019-10-07 | C#       | 2024-10-05   |
-|  3 | [gpu-operator](https://github.com/NVIDIA/gpu-operator)             | 2024-02-23 | Go       | 2024-10-07   |
-|  4 | [otelsql](https://github.com/XSAM/otelsql)                         | 2023-02-02 | Go       | 2024-10-06   |
-|  5 | [aikdocs](https://github.com/aikdocs/aikdocs)                      | 2023-07-19 | Python   | 2023-07-26   |
+| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|----------|--------------|
+|  1 | [hwameistor](https://github.com/hwameistor/hwameistor)    | 2022-08-22 | Go       | 2024-10-02   |
+|  2 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) | 2021-03-03 | Go       | 2024-10-08   |
+|  3 | [nacos](https://github.com/alibaba/nacos)                 | 2018-12-28 | Java     | 2024-10-08   |
+|  4 | [website](https://github.com/klts-io/website)             | 2021-08-31 | HTML     | 2023-09-01   |
+|  5 | [kourier](https://github.com/3scale-archive/kourier)      | 2019-11-13 | Go       | 2023-11-29   |
 
 <!--END_SECTION:my_github-->
 
