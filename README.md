@@ -97,9 +97,9 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-12-28](https://github.com/kubernetes/kubernetes/pull/97551)     | [2024-10-11](https://github.com/kubernetes/kubernetes/pull/127997)     | [468](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2020-12-28](https://github.com/kubernetes/kubernetes/pull/97551)     | [2024-10-11](https://github.com/kubernetes/kubernetes/pull/127997)     | [467](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2021-02-18](https://github.com/kubernetes/website/pull/26607)        | [2024-09-20](https://github.com/kubernetes/website/pull/48008)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-10-11](https://github.com/kubernetes/test-infra/pull/33625)      | [46](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-10-12](https://github.com/kubernetes/test-infra/pull/33636)      | [47](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [25](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-11-03](https://github.com/kubernetes/kubeadm/pull/2953)          | [21](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  6 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2024-10-09](https://github.com/kubernetes/k8s.io/pull/7387)           | [20](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [graal](https://github.com/oracle/graal)                                              | 2019-10-11 | Java     | 2024-10-11   |
-|  2 | [ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape)               | 2024-02-23 | HTML     | 2024-09-29   |
-|  3 | [stable-diffusion-helm](https://github.com/DaoCloud-OpenSource/stable-diffusion-helm) | 2023-11-29 | Smarty   | 2023-11-29   |
-|  4 | [participate-community](https://github.com/tanjunchen/participate-community)          | 2021-03-12 | md       | 2024-09-17   |
-|  5 | [oomd](https://github.com/facebookincubator/oomd)                                     | 2024-07-18 | C++      | 2024-10-05   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [vpnkit](https://github.com/moby/vpnkit)                                             | 2016-05-18 | OCaml      | 2024-10-05   |
+|  2 | [handbook](https://github.com/basecamp/handbook)                                     | 2019-01-13 | md         | 2024-10-12   |
+|  3 | [kubedev](https://github.com/zhouya0/kubedev)                                        | 2020-11-03 | Go         | 2021-06-04   |
+|  4 | [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)                     | 2023-08-05 | TypeScript | 2024-10-11   |
+|  5 | [steampipe-plugin-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) | 2024-05-08 | Go         | 2024-09-09   |
 
 <!--END_SECTION:my_github-->
 
