@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [vpnkit](https://github.com/moby/vpnkit)                                             | 2016-05-18 | OCaml      | 2024-10-05   |
-|  2 | [handbook](https://github.com/basecamp/handbook)                                     | 2019-01-13 | md         | 2024-10-12   |
-|  3 | [kubedev](https://github.com/zhouya0/kubedev)                                        | 2020-11-03 | Go         | 2021-06-04   |
-|  4 | [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)                     | 2023-08-05 | TypeScript | 2024-10-11   |
-|  5 | [steampipe-plugin-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) | 2024-05-08 | Go         | 2024-09-09   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [recognize](https://github.com/nextcloud/recognize)                                | 2023-10-08 | PHP      | 2024-10-13   |
+|  2 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 2018-02-28 | CSS      | 2024-10-12   |
+|  3 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                    | 2019-01-09 | Go       | 2024-10-13   |
+|  4 | [books-1](https://github.com/yowenter/books-1)                                     | 2019-04-02 | Python   | 2019-12-12   |
+|  5 | [federation](https://github.com/kubernetes-retired/federation)                     | 2018-04-08 | Go       | 2024-09-14   |
 
 <!--END_SECTION:my_github-->
 
