@@ -97,9 +97,9 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2021-01-06](https://github.com/kubernetes/kubernetes/pull/97764)     | [2024-10-14](https://github.com/kubernetes/kubernetes/pull/128040)     | [466](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2021-01-07](https://github.com/kubernetes/kubernetes/pull/97789)     | [2024-10-15](https://github.com/kubernetes/kubernetes/pull/128088)     | [465](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2021-02-18](https://github.com/kubernetes/website/pull/26607)        | [2024-09-20](https://github.com/kubernetes/website/pull/48008)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-10-14](https://github.com/kubernetes/test-infra/pull/33642)      | [49](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-10-15](https://github.com/kubernetes/test-infra/pull/33659)      | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [25](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  5 | [kubeadm](https://github.com/kubernetes/kubeadm)                       | [2021-03-26](https://github.com/kubernetes/kubeadm/pull/2421)         | [2023-11-03](https://github.com/kubernetes/kubeadm/pull/2953)          | [21](https://github.com/kubernetes/kubeadm/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  6 | [k8s.io](https://github.com/kubernetes/k8s.io)                         | [2021-01-26](https://github.com/kubernetes/k8s.io/pull/1577)          | [2024-10-09](https://github.com/kubernetes/k8s.io/pull/7387)           | [20](https://github.com/kubernetes/k8s.io/pulls?q=is%3Apr+author%3Apacoxu)            |
@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cni](https://github.com/containernetworking/cni)                   | 2017-12-19 | Go       | 2024-10-14   |
-|  2 | [slides](https://github.com/tao12345666333/slides)                  | 2023-01-03 | md       | 2024-10-14   |
-|  3 | [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) | 2022-04-22 | Dart     | 2024-10-14   |
-|  4 | [azure-powershell](https://github.com/Azure/azure-powershell)       | 2020-06-08 | C#       | 2024-10-14   |
-|  5 | [kueue](https://github.com/kubernetes-sigs/kueue)                   | 2022-04-24 | Go       | 2024-10-14   |
+| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubekit](https://github.com/Orientsoft/kubekit)                                       | 2017-08-31 | Go       | 2024-04-12   |
+|  2 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                        | 2019-01-09 | Go       | 2024-10-15   |
+|  3 | [cluster-api-provider-maas](https://github.com/spectrocloud/cluster-api-provider-maas) | 2022-03-11 | Go       | 2024-10-13   |
+|  4 | [Skill-Tree](https://github.com/linw7/Skill-Tree)                                      | 2019-06-05 | C        | 2024-10-15   |
+|  5 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)                   | 2019-10-14 | Java     | 2024-10-15   |
 
 <!--END_SECTION:my_github-->
 
