@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubekit](https://github.com/Orientsoft/kubekit)                                       | 2017-08-31 | Go       | 2024-04-12   |
-|  2 | [external-dns](https://github.com/kubernetes-sigs/external-dns)                        | 2019-01-09 | Go       | 2024-10-15   |
-|  3 | [cluster-api-provider-maas](https://github.com/spectrocloud/cluster-api-provider-maas) | 2022-03-11 | Go       | 2024-10-13   |
-|  4 | [Skill-Tree](https://github.com/linw7/Skill-Tree)                                      | 2019-06-05 | C        | 2024-10-15   |
-|  5 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)                   | 2019-10-14 | Java     | 2024-10-15   |
+| ID |                                               REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [test-infra](https://github.com/kubernetes/test-infra)                                           | 2020-11-27 | Go       | 2024-10-16   |
+|  2 | [node-maintenance-operator](https://github.com/medik8s/node-maintenance-operator)                | 2024-01-17 | Go       | 2024-10-12   |
+|  3 | [interviews](https://github.com/kdn251/interviews)                                               | 2017-03-23 | Java     | 2024-10-16   |
+|  4 | [jmeter](https://github.com/apache/jmeter)                                                       | 2018-10-22 | Java     | 2024-10-16   |
+|  5 | [simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book) | 2024-08-29 | md       | 2024-10-15   |
 
 <!--END_SECTION:my_github-->
 
