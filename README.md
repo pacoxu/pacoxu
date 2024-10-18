@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                               REPO                                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [test-infra](https://github.com/kubernetes/test-infra)                                           | 2020-11-27 | Go       | 2024-10-16   |
-|  2 | [node-maintenance-operator](https://github.com/medik8s/node-maintenance-operator)                | 2024-01-17 | Go       | 2024-10-12   |
-|  3 | [interviews](https://github.com/kdn251/interviews)                                               | 2017-03-23 | Java     | 2024-10-16   |
-|  4 | [jmeter](https://github.com/apache/jmeter)                                                       | 2018-10-22 | Java     | 2024-10-16   |
-|  5 | [simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book) | 2024-08-29 | md       | 2024-10-15   |
+| ID |                                                               REPO                                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes)                                                                  | 2019-11-13 | Shell    | 2021-11-16   |
+|  2 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                                                                        | 2022-05-20 | Python   | 2024-10-18   |
+|  3 | [summer](https://github.com/Charlie17Li/summer)                                                                                   | 2022-10-20 | Shell    | 2022-10-20   |
+|  4 | [xiaogpt](https://github.com/yihong0618/xiaogpt)                                                                                  | 2023-02-17 | Python   | 2024-10-17   |
+|  5 | [container-object-storage-interface-controller](https://github.com/kubernetes-sigs/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2024-10-06   |
 
 <!--END_SECTION:my_github-->
 
