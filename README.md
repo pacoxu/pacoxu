@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [docker-realtime](https://github.com/2b-t/docker-realtime)                                  | 2023-07-19 | Shell    | 2024-10-17   |
-|  2 | [origin](https://github.com/openshift/origin)                                               | 2019-03-06 | Go       | 2024-10-18   |
-|  3 | [PythonSkillTree](https://github.com/w4n9H/PythonSkillTree)                                 | 2019-06-05 | Python   | 2024-09-15   |
-|  4 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C        | 2024-10-18   |
-|  5 | [ckube](https://github.com/DaoCloud/ckube)                                                  | 2022-03-18 | Go       | 2024-01-24   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [datatunerx](https://github.com/DataTunerX/datatunerx)                      | 2024-02-09 | Go       | 2024-08-16   |
+|  2 | [spiderpool](https://github.com/spidernet-io/spiderpool)                    | 2023-04-11 | Go       | 2024-10-18   |
+|  3 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) | 2023-09-05 | Go       | 2024-10-16   |
+|  4 | [kor](https://github.com/yonahd/kor)                                        | 2023-10-13 | Go       | 2024-10-18   |
+|  5 | [distribution](https://github.com/distribution/distribution)                | 2021-12-24 | Go       | 2024-10-19   |
 
 <!--END_SECTION:my_github-->
 
