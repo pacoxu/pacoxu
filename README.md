@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [datatunerx](https://github.com/DataTunerX/datatunerx)                      | 2024-02-09 | Go       | 2024-08-16   |
-|  2 | [spiderpool](https://github.com/spidernet-io/spiderpool)                    | 2023-04-11 | Go       | 2024-10-18   |
-|  3 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) | 2023-09-05 | Go       | 2024-10-16   |
-|  4 | [kor](https://github.com/yonahd/kor)                                        | 2023-10-13 | Go       | 2024-10-18   |
-|  5 | [distribution](https://github.com/distribution/distribution)                | 2021-12-24 | Go       | 2024-10-19   |
+| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [cluster-api-provider-kwok](https://github.com/capi-samples/cluster-api-provider-kwok) | 2023-08-27 | Go         | 2023-08-27   |
+|  2 | [Manta](https://github.com/InftyAI/Manta)                                              | 2024-09-24 | Go         | 2024-10-18   |
+|  3 | [kube-s3](https://github.com/freegroup/kube-s3)                                        | 2020-07-13 | Shell      | 2024-10-16   |
+|  4 | [jepsen](https://github.com/jepsen-io/jepsen)                                          | 2017-12-12 | Clojure    | 2024-10-20   |
+|  5 | [docker-nodeclub](https://github.com/Carrotzpc/docker-nodeclub)                        | 2016-05-19 | JavaScript | 2019-03-09   |
 
 <!--END_SECTION:my_github-->
 
