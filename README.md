@@ -97,7 +97,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2021-01-08](https://github.com/kubernetes/kubernetes/pull/97849)     | [2024-10-18](https://github.com/kubernetes/kubernetes/pull/128180)     | [464](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2021-01-08](https://github.com/kubernetes/kubernetes/pull/97849)     | [2024-10-21](https://github.com/kubernetes/kubernetes/pull/128216)     | [464](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2021-02-18](https://github.com/kubernetes/website/pull/26607)        | [2024-09-20](https://github.com/kubernetes/website/pull/48008)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-10-15](https://github.com/kubernetes/test-infra/pull/33659)      | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [25](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                          REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [cluster-api-provider-kwok](https://github.com/capi-samples/cluster-api-provider-kwok) | 2023-08-27 | Go         | 2023-08-27   |
-|  2 | [Manta](https://github.com/InftyAI/Manta)                                              | 2024-09-24 | Go         | 2024-10-18   |
-|  3 | [kube-s3](https://github.com/freegroup/kube-s3)                                        | 2020-07-13 | Shell      | 2024-10-16   |
-|  4 | [jepsen](https://github.com/jepsen-io/jepsen)                                          | 2017-12-12 | Clojure    | 2024-10-20   |
-|  5 | [docker-nodeclub](https://github.com/Carrotzpc/docker-nodeclub)                        | 2016-05-19 | JavaScript | 2019-03-09   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [metallb](https://github.com/metallb/metallb)                               | 2019-02-27 | Go       | 2024-10-21   |
+|  2 | [downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) | 2023-06-26 | Go       | 2024-10-17   |
+|  3 | [dubbox](https://github.com/dangdangdotcom/dubbox)                          | 2016-10-31 | Java     | 2024-10-15   |
+|  4 | [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)       | 2023-09-11 | Go       | 2024-10-22   |
+|  5 | [docker-openldap](https://github.com/dinkel/docker-openldap)                | 2016-09-23 | Shell    | 2024-03-25   |
 
 <!--END_SECTION:my_github-->
 
