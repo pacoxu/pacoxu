@@ -97,7 +97,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                                  REPO                                  |                               FIRSTDATE                               |                               LASTEDATE                                |                                        PRCOUNT                                        |
 |----|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2021-01-14](https://github.com/kubernetes/kubernetes/pull/98049)     | [2024-10-22](https://github.com/kubernetes/kubernetes/pull/128261)     | [464](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | [2021-01-14](https://github.com/kubernetes/kubernetes/pull/98049)     | [2024-10-23](https://github.com/kubernetes/kubernetes/pull/128280)     | [464](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)       |
 |  2 | [website](https://github.com/kubernetes/website)                       | [2021-02-18](https://github.com/kubernetes/website/pull/26607)        | [2024-09-20](https://github.com/kubernetes/website/pull/48008)         | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)           |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)                 | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)     | [2024-10-15](https://github.com/kubernetes/test-infra/pull/33659)      | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements)             | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563)    | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782)     | [25](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu)      |
@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                                    REPO                                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [github-pr-summary](https://github.com/flows-network/github-pr-summary)                                    | 2023-06-25 | Rust       | 2024-10-04   |
-|  2 | [externalip-webhook](https://github.com/kubernetes-sigs/externalip-webhook)                                | 2020-12-11 | Go         | 2024-09-27   |
-|  3 | [open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice)                       | 2021-10-18 | Smarty     | 2024-10-11   |
-|  4 | [monkeys](https://github.com/inf-monkeys/monkeys)                                                          | 2024-10-21 | TypeScript | 2024-10-22   |
-|  5 | [cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) | 2021-08-07 | Go         | 2024-10-22   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Blogs](https://github.com/kerthcet/Blogs)                           | 2021-09-22 | md         | 2022-08-06   |
+|  2 | [asciiflow](https://github.com/lewish/asciiflow)                     | 2023-06-15 | TypeScript | 2024-10-23   |
+|  3 | [karpor](https://github.com/KusionStack/karpor)                      | 2024-07-03 | Go         | 2024-10-17   |
+|  4 | [kdoctor](https://github.com/kdoctor-io/kdoctor)                     | 2023-06-15 | Go         | 2024-10-11   |
+|  5 | [unvanished_memory](https://github.com/x13-caesar/unvanished_memory) | 2022-04-23 | md         | 2022-04-23   |
 
 <!--END_SECTION:my_github-->
 
