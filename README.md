@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [Blogs](https://github.com/kerthcet/Blogs)                           | 2021-09-22 | md         | 2022-08-06   |
-|  2 | [asciiflow](https://github.com/lewish/asciiflow)                     | 2023-06-15 | TypeScript | 2024-10-23   |
-|  3 | [karpor](https://github.com/KusionStack/karpor)                      | 2024-07-03 | Go         | 2024-10-17   |
-|  4 | [kdoctor](https://github.com/kdoctor-io/kdoctor)                     | 2023-06-15 | Go         | 2024-10-11   |
-|  5 | [unvanished_memory](https://github.com/x13-caesar/unvanished_memory) | 2022-04-23 | md         | 2022-04-23   |
+| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|----------|--------------|
+|  1 | [dubbox](https://github.com/dangdangdotcom/dubbox)        | 2016-10-31 | Java     | 2024-10-15   |
+|  2 | [duo](https://github.com/duo-rs/duo)                      | 2022-11-02 | Rust     | 2024-10-22   |
+|  3 | [kubespray](https://github.com/kubernetes-sigs/kubespray) | 2022-08-05 | Jinja    | 2024-10-24   |
+|  4 | [ginkgo](https://github.com/onsi/ginkgo)                  | 2020-10-09 | Go       | 2024-10-24   |
+|  5 | [endless](https://github.com/fvbock/endless)              | 2020-11-27 | Go       | 2024-10-24   |
 
 <!--END_SECTION:my_github-->
 
