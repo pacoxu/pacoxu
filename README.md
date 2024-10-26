@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|----------|--------------|
-|  1 | [dubbox](https://github.com/dangdangdotcom/dubbox)        | 2016-10-31 | Java     | 2024-10-15   |
-|  2 | [duo](https://github.com/duo-rs/duo)                      | 2022-11-02 | Rust     | 2024-10-22   |
-|  3 | [kubespray](https://github.com/kubernetes-sigs/kubespray) | 2022-08-05 | Jinja    | 2024-10-24   |
-|  4 | [ginkgo](https://github.com/onsi/ginkgo)                  | 2020-10-09 | Go       | 2024-10-24   |
-|  5 | [endless](https://github.com/fvbock/endless)              | 2020-11-27 | Go       | 2024-10-24   |
+| ID |                                                           REPO                                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcd-diagnosis](https://github.com/ahrtr/etcd-diagnosis)                                                                 | 2023-07-12 | Go       | 2024-10-14   |
+|  2 | [merbridge](https://github.com/merbridge/merbridge)                                                                       | 2022-03-29 | Go       | 2024-10-01   |
+|  3 | [kuasar](https://github.com/kuasar-io/kuasar)                                                                             | 2023-05-04 | Rust     | 2024-10-25   |
+|  4 | [kube-mesos-framework](https://github.com/kubernetes-retired/kube-mesos-framework)                                        | 2017-09-29 | HTML     | 2024-04-02   |
+|  5 | [cluster-resource-override-admission-operator](https://github.com/openshift/cluster-resource-override-admission-operator) | 2024-09-29 | Go       | 2024-10-24   |
 
 <!--END_SECTION:my_github-->
 
