@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                  REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)            | 2023-10-26 | Python   | 2024-10-24   |
-|  2 | [ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) | 2024-02-23 | HTML     | 2024-10-26   |
-|  3 | [kubecon-slides](https://github.com/sbueringer/kubecon-slides)          | 2023-02-17 | PHP      | 2024-10-16   |
-|  4 | [etcd3-py](https://github.com/Revolution1/etcd3-py)                     | 2021-01-21 | Python   | 2024-08-14   |
-|  5 | [kosmos](https://github.com/kosmos-io/kosmos)                           | 2024-05-27 | Go       | 2024-10-23   |
+| ID |                                       REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [community](https://github.com/kubernetes/community)                              | 2019-06-24 | Jupyter Notebook | 2024-10-27   |
+|  2 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue              | 2024-10-26   |
+|  3 | [kubeadmiral](https://github.com/kubewharf/kubeadmiral)                           | 2024-01-30 | Go               | 2024-10-23   |
+|  4 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)                      | 2019-03-29 | JavaScript       | 2024-10-24   |
+|  5 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)              | 2021-04-14 | Go               | 2024-08-20   |
 
 <!--END_SECTION:my_github-->
 
