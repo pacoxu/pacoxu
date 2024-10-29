@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                       REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [community](https://github.com/kubernetes/community)                              | 2019-06-24 | Jupyter Notebook | 2024-10-27   |
-|  2 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue              | 2024-10-26   |
-|  3 | [kubeadmiral](https://github.com/kubewharf/kubeadmiral)                           | 2024-01-30 | Go               | 2024-10-23   |
-|  4 | [SpaceCompany](https://github.com/sparticle999/SpaceCompany)                      | 2019-03-29 | JavaScript       | 2024-10-24   |
-|  5 | [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook)              | 2021-04-14 | Go               | 2024-08-20   |
+| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage) | 2023-01-27 | Mustache | 2024-10-28   |
+|  2 | [bridge](https://github.com/wzshiming/bridge)                            | 2021-02-22 | Go       | 2024-10-24   |
+|  3 | [katalyst-core](https://github.com/kubewharf/katalyst-core)              | 2024-01-30 | Go       | 2024-10-28   |
+|  4 | [transformer-debugger](https://github.com/openai/transformer-debugger)   | 2024-03-12 | Python   | 2024-10-28   |
+|  5 | [spec](https://github.com/oam-dev/spec)                                  | 2020-05-08 | md       | 2024-10-19   |
 
 <!--END_SECTION:my_github-->
 
