@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [dce-charts-repackage](https://github.com/DaoCloud/dce-charts-repackage) | 2023-01-27 | Mustache | 2024-10-28   |
-|  2 | [bridge](https://github.com/wzshiming/bridge)                            | 2021-02-22 | Go       | 2024-10-24   |
-|  3 | [katalyst-core](https://github.com/kubewharf/katalyst-core)              | 2024-01-30 | Go       | 2024-10-28   |
-|  4 | [transformer-debugger](https://github.com/openai/transformer-debugger)   | 2024-03-12 | Python   | 2024-10-28   |
-|  5 | [spec](https://github.com/oam-dev/spec)                                  | 2020-05-08 | md       | 2024-10-19   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [logrotee](https://github.com/singalen/logrotee)                            | 2019-07-19 | C++      | 2024-04-17   |
+|  2 | [externalip-webhook](https://github.com/kubernetes-sigs/externalip-webhook) | 2020-12-11 | Go       | 2024-09-27   |
+|  3 | [conjure-up](https://github.com/conjure-up/conjure-up)                      | 2017-06-07 | Python   | 2024-10-29   |
+|  4 | [datakit](https://github.com/moby/datakit)                                  | 2016-05-18 | OCaml    | 2024-10-14   |
+|  5 | [insights-bot](https://github.com/nekomeowww/insights-bot)                  | 2023-06-05 | Go       | 2024-10-29   |
 
 <!--END_SECTION:my_github-->
 
