@@ -23,7 +23,7 @@ jobs:
         with:
           REPOS_NUM: 3
           STARRED_NUM: 3
-#           WITH_STARED: false
+          WITH_STARED: false
 #           TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
 #           TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
       - name: Push README
