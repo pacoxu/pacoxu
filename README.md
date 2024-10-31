@@ -108,13 +108,13 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  9 | [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | [2021-09-13](https://github.com/DaoCloud/public-image-mirror/pull/13) | [2023-02-20](https://github.com/DaoCloud/public-image-mirror/pull/296) | [11](https://github.com/DaoCloud/public-image-mirror/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 5)
-| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [logrotee](https://github.com/singalen/logrotee)                            | 2019-07-19 | C++      | 2024-04-17   |
-|  2 | [externalip-webhook](https://github.com/kubernetes-sigs/externalip-webhook) | 2020-12-11 | Go       | 2024-09-27   |
-|  3 | [conjure-up](https://github.com/conjure-up/conjure-up)                      | 2017-06-07 | Python   | 2024-10-29   |
-|  4 | [datakit](https://github.com/moby/datakit)                                  | 2016-05-18 | OCaml    | 2024-10-14   |
-|  5 | [insights-bot](https://github.com/nekomeowww/insights-bot)                  | 2023-06-05 | Go       | 2024-10-29   |
+| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [crproxy](https://github.com/DaoCloud/crproxy)                    | 2024-06-11 | Go       | 2024-10-30   |
+|  2 | [berrypost](https://github.com/realityone/berrypost)              | 2021-12-21 | Go       | 2024-01-25   |
+|  3 | [slirp4netns](https://github.com/rootless-containers/slirp4netns) | 2021-08-03 | C        | 2024-10-25   |
+|  4 | [multicluster](https://github.com/coredns/multicluster)           | 2021-12-07 | Go       | 2024-03-16   |
+|  5 | [autok3s](https://github.com/cnrancher/autok3s)                   | 2024-05-07 | Go       | 2024-10-30   |
 
 <!--END_SECTION:my_github-->
 
