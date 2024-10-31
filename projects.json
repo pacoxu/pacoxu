@@ -1,17 +1,12 @@
 { 
     "spec": {
         "repos": {
-            "kubernetes/enhancements": "",
             "kubernetes/kubernetes": "",
             "containerd/containerd": "",
             "kubernetes/kubeadm": "",
-            "coredns/coredns": "",
-            "spidernet-io/spiderpool": "",
-            "hwameistor/hwameistor": "",
-            "merbridge/merbridge": "",
             "clusterpedia-io/clusterpedia": "",
-            "kubean-io/kubean": "",
-            "cloudtty/cloudtty": "",
+            "InftyAI/llmaz": "",
+            "nekomeowww/ollama-operator": "",
             "kubernetes-sigs/kwok": ""
         }
     },
