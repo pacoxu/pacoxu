@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782) | [25](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [duo](https://github.com/duo-rs/duo)                              | 2022-11-02 | Rust     | 2024-10-22   |
-|  2 | [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)     | 2016-11-21 | HTML     | 2024-10-28   |
-|  3 | [e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) | 2023-11-17 | Go       | 2024-10-25   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative)   | 2021-09-22 | md       | 2024-05-24   |
+|  2 | [kubenav](https://github.com/kubenav/kubenav)                        | 2020-11-13 | Dart     | 2024-10-29   |
+|  3 | [project-layout](https://github.com/golang-standards/project-layout) | 2020-06-05 | Makefile | 2024-10-31   |
 
 <!--END_SECTION:my_github-->
 
