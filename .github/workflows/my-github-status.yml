@@ -21,8 +21,8 @@ jobs:
       - name: My GitHub Status
         uses: pacoxu/github-readme-stats@main
         with:
-          REPOS_NUM: 8
-          STARRED_NUM: 5
+          REPOS_NUM: 3
+          STARRED_NUM: 1
 #           WITH_STARED: false
 #           TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
 #           TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
