@@ -26,16 +26,16 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <img alt="KubeCon EU 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="150">
 <img alt="KubeCon EU 2024 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="150">
 <img alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08" width="150">
-<img alt="KubeCon China 2024 Speaker" src="https://github.com/user-attachments/assets/b67e1198-6ca7-4684-b87d-991f68957eee" width="150">
-<img alt="KubeCon China 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="150">
-<img alt="KCD Chengdu 2022 Orginzer(Program Committee)" src="https://github.com/pacoxu/pacoxu/assets/2010320/ec4a7785-216a-456c-ade7-67df2b517bb4" width="150">
-<img alt="KCD 2024 Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d" width="150">
-<img alt="KubeCon China 2021 Virtual Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/496e7308-d8c9-4f64-81ca-be25552b0916" width="150">
-<img alt="KubeCon EU 2024 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="150">
-<img alt="KubeCon China 2023 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/3aa41135-af51-4990-8227-e6f61f6c1700" width="150">
-<img alt="KubeCon India 2024 Program Committee" src="https://github.com/user-attachments/assets/b4b996f8-367c-4b27-b5a1-c7549ccfedc8" width="150">
+<img alt="KubeCon China 2024 Speaker" src="https://github.com/user-attachments/assets/b67e1198-6ca7-4684-b87d-991f68957eee" width="80">
+<img alt="KubeCon China 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="80">
+<img alt="KCD Chengdu 2022 Orginzer(Program Committee)" src="https://github.com/pacoxu/pacoxu/assets/2010320/ec4a7785-216a-456c-ade7-67df2b517bb4" width="80">
+<img alt="KCD 2024 Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d" width="80">
+<img alt="KubeCon China 2021 Virtual Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/496e7308-d8c9-4f64-81ca-be25552b0916" width="80">
+<img alt="KubeCon EU 2024 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="80">
+<img alt="KubeCon China 2023 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/3aa41135-af51-4990-8227-e6f61f6c1700" width="80">
+<img alt="KubeCon India 2024 Program Committee" src="https://github.com/user-attachments/assets/b4b996f8-367c-4b27-b5a1-c7549ccfedc8" width="80">
+<img alt="LFC102: Inclusive Open Source Community Orientation" src="https://github.com/user-attachments/assets/6ad503ac-4dfd-445a-a12f-440c3ff4ed6c" width="80">
 <!--
-<img alt="LFC102: Inclusive Open Source Community Orientation" src="https://github.com/user-attachments/assets/6ad503ac-4dfd-445a-a12f-440c3ff4ed6c" width="150">
 -->
 
 
