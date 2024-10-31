@@ -7,34 +7,17 @@ Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/
 - [Kubernetes Steering](https://github.com/kubernetes/steering) Committee Member
 - [Kubernetes/Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
 - [Kubernetes/SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer
- 
+- LFAPAC Evangelist 2024
+- Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member & Event Organizer
+  - KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**🪑
+  - KubeCon North America 2024 (Salt Lake City🇺🇸) as Program Committee Track Chair🪑
+  - [Kubernetes Contributor Summit China 2023🇨🇳](https://www.kubernetes.dev/events/2023/kcscn/) Organizer
+  - [KCD 🇨🇳Chengdu 2022🐼](https://community.cncf.io/kcd-chengdu/) Organizer
+
  🌱 Learning and Sharing
  🇨🇳 **The only thing that I know is that I know nothing**. 
 
-- Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member & Event Organizer
-  - 2024
-    - KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**🪑: [Keynote: Kubernetes Community and Cloud Native Activities in China - Paco Xu & Wei Cai](https://www.youtube.com/watch?v=c9YVuEkJGR0)
-    - [Kubernetes Podcast from Google]: [Leading Kubernetes into its Second Decade](https://kubernetespodcast.com/episode/228-new-leads/)
-    - KubeCon North America(Salt Lake City🇺🇸) as Program Committee Track Chair🪑
-    - KubeCon EU(🇫🇷Paris) as Program Committee Member:
-      - [Kubernetes Steering Committee: Genesis, Bootstrap, Now & Future](https://sched.co/1YhgX) - Nabarun Pal, Broadcom & Paco Xu, DaoCloud
-      - [Kubernetes Contributor Summit](https://www.kubernetes.dev/events/2024/kcseu/): [Steering AMA](https://youtu.be/1Ia75WgGC0g?si=5EjP7XlzgM1-q-8O) - Kubernetes Steering Committee
-    - KubeCon India(🇮🇳) as Program Committee Member
-    - Kubernetes [v1.30 Release Signal Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.30/release-team.md) Lead (2024 Q1)
-    - KCD Shanghai🇨🇳: [Cloud Native Novice & OpenSource Education Track: 01-Kubernetes Contributor Journeys](https://www.bilibili.com/video/BV1nD421T786/?spm_id_from=333.999.0.0) with Nikhita Raghunath & Madhav Jivrajani.
-    - [LFAPAC Evangelist 2024](https://evangelists.linuxfoundation.cn/evangelists)
-  - 2023
-    - OpenAtom Developer Conference Maintainer Track(Wuxi🇨🇳): [Kubernetes WG-LTS Update and Yearly Upgrade Support](https://www.openatom.org/journalism/detail/q8D7Rf8Cioam).
-    - [Kubernetes Contributor Summit China🇨🇳](https://www.kubernetes.dev/events/2023/kcscn/) Organizer: Shanghai.
-    - KubeCon China(🇨🇳Shanghai) as Program Committee Member:
-      - [Kubernetes SIG Node Intro and Deep Dive](https://kccncosschn2023.sched.com/event/4a2746baff6af89d668edc2eabbcf906) - Paco Xu, DaoCloud & Xiongxiong Yuan, Gitlab China
-      - [How Can Pod Start-up Be Accelerated on Nodes in Large Clusters?](https://sched.co/1PTFR)  - Paco Xu, DaoCloud & Byron Wang, Birentech
-    - KubeCon EU(🇳🇱Amsterdam): [Kubeadm Deep Dive](https://kccnceu2023.sched.com/event/1Iki0/kubeadm-deep-dive-rohit-anand-nec-paco-xu-dao-cloud) - Rohit Anand, NEC & Paco Xu, Dao Cloud
-  - 2022 [KCD 🇨🇳Chengdu🐼](https://community.cncf.io/kcd-chengdu/) Organizer
-  - 2021
-    - KubeCon China(Virtual🇨🇳): [Kubernetes SIG Node: Intro and Deep Dive](https://kccncosschn21.sched.com/event/pccE/kubernetes-sig-nodedaeptao-ye-ge-kubernetes-sig-node-intro-and-deep-dive-paco-daocloud) - Paco, DaoCloud
-    - KCD Shanghai🇨🇳: [Kubeadm & SIG Node Intro and How to Contribute](https://github.com/cncf/presentations/tree/main/chinese/kcd-shanghai)
-- New/Old interests:  DRA & eBPF & CoreDNS
+More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
 
 ![Metrics](https://github.com/pacoxu/pacoxu/blob/master/github-metrics.svg)
 
