@@ -70,17 +70,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                            REPO                            |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
 |----|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-01-14](https://github.com/kubernetes/kubernetes/pull/98049)  | [2024-10-23](https://github.com/kubernetes/kubernetes/pull/128280) | [464](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-01-20](https://github.com/kubernetes/kubernetes/pull/98205)  | [2024-10-23](https://github.com/kubernetes/kubernetes/pull/128280) | [462](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
 |  2 | [website](https://github.com/kubernetes/website)           | [2021-02-18](https://github.com/kubernetes/website/pull/26607)     | [2024-09-20](https://github.com/kubernetes/website/pull/48008)     | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)      |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)  | [2024-10-15](https://github.com/kubernetes/test-infra/pull/33659)  | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
-|  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-08-08](https://github.com/kubernetes/enhancements/pull/4782) | [25](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)  | [2024-10-31](https://github.com/kubernetes/test-infra/pull/33741)  | [52](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
+|  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative)   | 2021-09-22 | md       | 2024-05-24   |
-|  2 | [kubenav](https://github.com/kubenav/kubenav)                        | 2020-11-13 | Dart     | 2024-10-29   |
-|  3 | [project-layout](https://github.com/golang-standards/project-layout) | 2020-06-05 | Makefile | 2024-10-31   |
+| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------|------------|----------|--------------|
+|  1 | [serving](https://github.com/knative/serving)               | 2019-10-28 | Go       | 2024-10-31   |
+|  2 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | 2022-01-20 | Shell    | 2024-09-18   |
+|  3 | [kraken](https://github.com/uber/kraken)                    | 2019-03-11 | Go       | 2024-10-30   |
 
 <!--END_SECTION:my_github-->
 
