@@ -64,7 +64,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-08-27 | Python   |     7 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-10-01 | md       |     4 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-11-01 | md       |     4 |
 | sum |                                                                    |            |            |          |    28 |
 
 ## The repos I contributed to
@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------|------------|----------|--------------|
-|  1 | [serving](https://github.com/knative/serving)               | 2019-10-28 | Go       | 2024-10-31   |
-|  2 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | 2022-01-20 | Shell    | 2024-09-18   |
-|  3 | [kraken](https://github.com/uber/kraken)                    | 2019-03-11 | Go       | 2024-10-30   |
+| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|----------|--------------|
+|  1 | [gotype](https://github.com/wzshiming/gotype)                 | 2022-06-21 | Go       | 2024-09-25   |
+|  2 | [summer](https://github.com/Charlie17Li/summer)               | 2022-10-20 | Shell    | 2022-10-20   |
+|  3 | [AkkaSamples](https://github.com/mariogleichmann/AkkaSamples) | 2013-07-03 | Scala    | 2016-04-25   |
 
 <!--END_SECTION:my_github-->
 
