@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gotype](https://github.com/wzshiming/gotype)                 | 2022-06-21 | Go       | 2024-09-25   |
-|  2 | [summer](https://github.com/Charlie17Li/summer)               | 2022-10-20 | Shell    | 2022-10-20   |
-|  3 | [AkkaSamples](https://github.com/mariogleichmann/AkkaSamples) | 2013-07-03 | Scala    | 2016-04-25   |
+| ID |                       REPO                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty) | 2022-10-27 | Go       | 2024-11-01   |
+|  2 | [antrea](https://github.com/antrea-io/antrea)    | 2020-10-09 | Go       | 2024-11-01   |
+|  3 | [drun-docs](https://github.com/d-run/drun-docs)  | 2024-04-03 | Python   | 2024-11-02   |
 
 <!--END_SECTION:my_github-->
 
