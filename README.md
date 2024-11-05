@@ -70,17 +70,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                            REPO                            |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
 |----|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-01-20](https://github.com/kubernetes/kubernetes/pull/98205)  | [2024-10-23](https://github.com/kubernetes/kubernetes/pull/128280) | [462](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-01-22](https://github.com/kubernetes/kubernetes/pull/98300)  | [2024-10-23](https://github.com/kubernetes/kubernetes/pull/128280) | [461](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
 |  2 | [website](https://github.com/kubernetes/website)           | [2021-02-18](https://github.com/kubernetes/website/pull/26607)     | [2024-09-20](https://github.com/kubernetes/website/pull/48008)     | [54](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)      |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)  | [2024-10-31](https://github.com/kubernetes/test-infra/pull/33741)  | [52](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubean](https://github.com/kubean-io/kubean)                                          | 2022-08-17 | Go       | 2024-11-01   |
-|  2 | [k8s-specific-knowledge-base](https://github.com/kerthcet/k8s-specific-knowledge-base) | 2023-07-28 | Python   | 2024-08-29   |
-|  3 | [cilium-chaining](https://github.com/spidernet-io/cilium-chaining)                     | 2024-06-04 | Shell    | 2024-06-21   |
+| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)                                                      | 2022-10-27 | Go       | 2024-11-01   |
+|  2 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) | 2023-04-20 | Go       | 2024-11-04   |
+|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)                    | 2018-02-28 | CSS      | 2024-11-04   |
 
 <!--END_SECTION:my_github-->
 
