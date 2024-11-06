@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)                                                      | 2022-10-27 | Go       | 2024-11-01   |
-|  2 | [cluster-api-addon-provider-helm](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm) | 2023-04-20 | Go       | 2024-11-04   |
-|  3 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)                    | 2018-02-28 | CSS      | 2024-11-04   |
+| ID |                                  REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [ollama-operator](https://github.com/nekomeowww/ollama-operator)        | 2024-04-15 | Go       | 2024-11-04   |
+|  2 | [crane-scheduler](https://github.com/gocrane/crane-scheduler)           | 2022-06-24 | Go       | 2024-11-04   |
+|  3 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 2024-07-01 | Markdown | 2024-11-06   |
 
 <!--END_SECTION:my_github-->
 
