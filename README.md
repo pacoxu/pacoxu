@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dumb-init](https://github.com/Yelp/dumb-init)                  | 2019-04-18 | Python     | 2024-11-06   |
-|  2 | [cni](https://github.com/containernetworking/cni)               | 2017-12-19 | Go         | 2024-11-07   |
-|  3 | [docker-nodeclub](https://github.com/Carrotzpc/docker-nodeclub) | 2016-05-19 | JavaScript | 2019-03-09   |
+| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [gods](https://github.com/emirpasic/gods)                         | 2019-09-29 | Go       | 2024-11-08   |
+|  2 | [setup-cri-dockerd](https://github.com/klts-io/setup-cri-dockerd) | 2022-04-01 | Shell    | 2024-02-27   |
+|  3 | [resume-vue](https://github.com/nusr/resume-vue)                  | 2023-01-03 | Vue      | 2024-06-14   |
 
 <!--END_SECTION:my_github-->
 
