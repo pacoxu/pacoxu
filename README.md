@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gods](https://github.com/emirpasic/gods)                         | 2019-09-29 | Go       | 2024-11-08   |
-|  2 | [setup-cri-dockerd](https://github.com/klts-io/setup-cri-dockerd) | 2022-04-01 | Shell    | 2024-02-27   |
-|  3 | [resume-vue](https://github.com/nusr/resume-vue)                  | 2023-01-03 | Vue      | 2024-06-14   |
+| ID |                                                               REPO                                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [corefile-migration](https://github.com/coredns/corefile-migration)                                                               | 2023-06-20 | Go       | 2024-08-21   |
+|  2 | [ScaleIO](https://github.com/wlan0/ScaleIO)                                                                                       | 2016-07-26 | Shell    | 2024-01-23   |
+|  3 | [container-object-storage-interface-controller](https://github.com/kubernetes-sigs/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2024-11-05   |
 
 <!--END_SECTION:my_github-->
 
