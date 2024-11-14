@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 2023-03-22 | Python   | 2024-11-12   |
-|  2 | [scaleio-docker](https://github.com/djannot/scaleio-docker)        | 2016-04-24 | md       | 2020-10-29   |
-|  3 | [crane-scheduler](https://github.com/gocrane/crane-scheduler)      | 2022-06-24 | Go       | 2024-11-04   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [external-dns](https://github.com/kubernetes-sigs/external-dns) | 2019-01-09 | Go       | 2024-11-13   |
+|  2 | [cri-tools](https://github.com/kubernetes-sigs/cri-tools)       | 2023-09-01 | Go       | 2024-11-13   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2020-04-29 | Go       | 2024-11-14   |
 
 <!--END_SECTION:my_github-->
 
