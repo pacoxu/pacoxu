@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [external-dns](https://github.com/kubernetes-sigs/external-dns) | 2019-01-09 | Go       | 2024-11-13   |
-|  2 | [cri-tools](https://github.com/kubernetes-sigs/cri-tools)       | 2023-09-01 | Go       | 2024-11-13   |
-|  3 | [velero](https://github.com/vmware-tanzu/velero)                | 2020-04-29 | Go       | 2024-11-14   |
+| ID |                                                        REPO                                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [container-object-storage-interface-api](https://github.com/kubernetes-sigs/container-object-storage-interface-api) | 2021-02-23 | Go       | 2024-11-01   |
+|  2 | [containerd-lts](https://github.com/klts-io/containerd-lts)                                                         | 2021-10-15 | Shell    | 2024-11-12   |
+|  3 | [RocketBot](https://github.com/brianzhouzc/RocketBot)                                                               | 2019-03-08 | C#       | 2024-08-13   |
 
 <!--END_SECTION:my_github-->
 
