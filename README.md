@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                            REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s.io](https://github.com/kubernetes/k8s.io)             | 2021-03-16 | HCL      | 2024-11-15   |
-|  2 | [moby](https://github.com/moby/moby)                       | 2016-04-20 | Go       | 2024-11-16   |
-|  3 | [DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs) | 2016-04-02 | Python   | 2024-11-15   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ)                                     | 2014-09-15 | JavaScript | 2024-11-14   |
+|  2 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path)                                    | 2022-03-11 | md         | 2024-11-01   |
+|  3 | [node-feature-discovery-operator](https://github.com/kubernetes-sigs/node-feature-discovery-operator) | 2024-06-14 | Go         | 2024-07-25   |
 
 <!--END_SECTION:my_github-->
 
