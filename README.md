@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [rclone](https://github.com/rclone/rclone)             | 2024-03-29 | Go       | 2024-11-20   |
-|  2 | [containerd](https://github.com/containerd/containerd) | 2017-05-31 | Go       | 2024-11-20   |
-|  3 | [berrypost](https://github.com/realityone/berrypost)   | 2021-12-21 | Go       | 2024-01-25   |
+| ID |                                REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [vscode](https://github.com/microsoft/vscode)                      | 2019-11-20 | TypeScript | 2024-11-22   |
+|  2 | [kasmcloud](https://github.com/wasmCloud/kasmcloud)                | 2023-09-08 | Rust       | 2024-11-18   |
+|  3 | [contributor-site](https://github.com/kubernetes/contributor-site) | 2021-07-26 | HTML       | 2024-11-20   |
 
 <!--END_SECTION:my_github-->
 
