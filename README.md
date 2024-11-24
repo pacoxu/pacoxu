@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [knative-inspect](https://github.com/nimakaviani/knative-inspect)                 | 2019-11-13 | Go       | 2024-10-23   |
-|  2 | [node-maintenance-operator](https://github.com/medik8s/node-maintenance-operator) | 2024-01-17 | Go       | 2024-11-06   |
-|  3 | [wg-device-management](https://github.com/kubernetes-sigs/wg-device-management)   | 2024-08-06 | Go       | 2024-11-19   |
+| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) | 2017-06-08 | Shell    | 2024-11-19   |
+|  2 | [worldcup](https://github.com/fatiherikli/worldcup)                                                               | 2018-05-13 | Python   | 2024-03-06   |
+|  3 | [xiaogpt](https://github.com/yihong0618/xiaogpt)                                                                  | 2023-02-17 | Python   | 2024-11-23   |
 
 <!--END_SECTION:my_github-->
 
