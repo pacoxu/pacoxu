@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) | 2017-06-08 | Shell    | 2024-11-19   |
-|  2 | [worldcup](https://github.com/fatiherikli/worldcup)                                                               | 2018-05-13 | Python   | 2024-03-06   |
-|  3 | [xiaogpt](https://github.com/yihong0618/xiaogpt)                                                                  | 2023-02-17 | Python   | 2024-11-23   |
+| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [learning-knative](https://github.com/skyao/learning-knative)      | 2019-09-06 | HTML     | 2024-07-24   |
+|  2 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative) | 2021-09-22 | md       | 2024-11-08   |
+|  3 | [cni](https://github.com/containernetworking/cni)                  | 2017-12-19 | Go       | 2024-11-24   |
 
 <!--END_SECTION:my_github-->
 
