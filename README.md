@@ -63,24 +63,24 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
-|   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-08-27 | Python   |     7 |
+|   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-11-25 | Python   |     7 |
 |   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-11-01 | md       |     4 |
 | sum |                                                                    |            |            |          |    28 |
 
 ## The repos I contributed to
 | ID |                            REPO                            |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
 |----|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-02-04](https://github.com/kubernetes/kubernetes/pull/98756)  | [2024-11-20](https://github.com/kubernetes/kubernetes/pull/128875) | [451](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-02-05](https://github.com/kubernetes/kubernetes/pull/98796)  | [2024-11-20](https://github.com/kubernetes/kubernetes/pull/128875) | [450](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
 |  2 | [website](https://github.com/klts-io/website)              | [2021-02-18](https://github.com/kubernetes/website/pull/26607)     | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [56](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)         |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [53](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [learning-knative](https://github.com/skyao/learning-knative)      | 2019-09-06 | HTML     | 2024-07-24   |
-|  2 | [Blogs-CloudNative](https://github.com/kerthcet/Blogs-CloudNative) | 2021-09-22 | md       | 2024-11-08   |
-|  3 | [cni](https://github.com/containernetworking/cni)                  | 2017-12-19 | Go       | 2024-11-24   |
+| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)             | 2019-03-04 | Shell    | 2023-07-24   |
+|  2 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes) | 2019-11-13 | Shell    | 2021-11-16   |
+|  3 | [runtime-spec](https://github.com/opencontainers/runtime-spec)   | 2021-09-23 | Go       | 2024-11-25   |
 
 <!--END_SECTION:my_github-->
 
