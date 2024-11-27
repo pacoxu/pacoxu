@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)             | 2019-03-04 | Shell    | 2023-07-24   |
-|  2 | [KubernetesNotes](https://github.com/panpan0000/KubernetesNotes) | 2019-11-13 | Shell    | 2021-11-16   |
-|  3 | [runtime-spec](https://github.com/opencontainers/runtime-spec)   | 2021-09-23 | Go       | 2024-11-25   |
+| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [plasto-icons](https://github.com/jamiefang/plasto-icons)              | 2019-05-22 | md       | 2022-08-04   |
+|  2 | [ascend-device-plugin](https://github.com/Ascend/ascend-device-plugin) | 2024-06-14 | Go       | 2024-09-29   |
+|  3 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)                 | 2022-03-05 | Go       | 2024-11-26   |
 
 <!--END_SECTION:my_github-->
 
