@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------|------------|----------|--------------|
-|  1 | [paginate](https://github.com/Pylons/paginate)           | 2016-07-05 | Python   | 2024-11-11   |
-|  2 | [velero](https://github.com/vmware-tanzu/velero)         | 2020-04-29 | Go       | 2024-11-27   |
-|  3 | [GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) | 2023-04-08 | md       | 2024-11-18   |
+| ID |                                      REPO                                       | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [o_o](https://github.com/fengwang/o_o)                                          | 2024-09-20 | Python           | 2024-09-20   |
+|  2 | [audit2rbac](https://github.com/liggitt/audit2rbac)                             | 2023-05-24 | Go               | 2024-11-27   |
+|  3 | [llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) | 2024-09-05 | Jupyter Notebook | 2024-11-28   |
 
 <!--END_SECTION:my_github-->
 
