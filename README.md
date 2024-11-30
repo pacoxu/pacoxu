@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                      REPO                                       | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [o_o](https://github.com/fengwang/o_o)                                          | 2024-09-20 | Python           | 2024-09-20   |
-|  2 | [audit2rbac](https://github.com/liggitt/audit2rbac)                             | 2023-05-24 | Go               | 2024-11-27   |
-|  3 | [llm-instance-gateway](https://github.com/kubernetes-sigs/llm-instance-gateway) | 2024-09-05 | Jupyter Notebook | 2024-11-28   |
+| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|----------|--------------|
+|  1 | [maybe](https://github.com/p-e-w/maybe)                   | 2017-12-21 | Python   | 2024-11-18   |
+|  2 | [plugins](https://github.com/containernetworking/plugins) | 2017-12-19 | Go       | 2024-11-28   |
+|  3 | [elasticsearch](https://github.com/pacoxu/elasticsearch)  | 2014-04-18 | Java     | 2021-04-07   |
 
 <!--END_SECTION:my_github-->
 
