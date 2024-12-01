@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|----------|--------------|
-|  1 | [maybe](https://github.com/p-e-w/maybe)                   | 2017-12-21 | Python   | 2024-11-18   |
-|  2 | [plugins](https://github.com/containernetworking/plugins) | 2017-12-19 | Go       | 2024-11-28   |
-|  3 | [elasticsearch](https://github.com/pacoxu/elasticsearch)  | 2014-04-18 | Java     | 2021-04-07   |
+| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                                                      | 2021-03-24 | Go       | 2024-11-30   |
+|  2 | [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) | 2019-07-23 | Go       | 2024-11-28   |
+|  3 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)                                                | 2020-09-14 | Python   | 2020-10-21   |
 
 <!--END_SECTION:my_github-->
 
