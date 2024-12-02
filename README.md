@@ -64,7 +64,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-11-25 | Python   |     7 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-11-01 | md       |     4 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-12-01 | md       |     4 |
 | sum |                                                                    |            |            |          |    28 |
 
 ## The repos I contributed to
@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                                                      | 2021-03-24 | Go       | 2024-11-30   |
-|  2 | [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) | 2019-07-23 | Go       | 2024-11-28   |
-|  3 | [floopcli](https://github.com/ForwardLoopLLC/floopcli)                                                | 2020-09-14 | Python   | 2020-10-21   |
+| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)             | 2022-04-20 | Go       | 2024-11-29   |
+|  2 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) | 2023-09-05 | Go       | 2024-11-17   |
+|  3 | [protobuild](https://github.com/containerd/protobuild)                      | 2021-03-19 | Go       | 2024-09-23   |
 
 <!--END_SECTION:my_github-->
 
