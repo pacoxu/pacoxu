@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                    REPO                                     | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)             | 2022-04-20 | Go       | 2024-11-29   |
-|  2 | [dra-example-driver](https://github.com/kubernetes-sigs/dra-example-driver) | 2023-09-05 | Go       | 2024-11-17   |
-|  3 | [protobuild](https://github.com/containerd/protobuild)                      | 2021-03-19 | Go       | 2024-09-23   |
+| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [community](https://github.com/istio/community)                                                       | 2023-10-02 | Go       | 2024-12-02   |
+|  2 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator) | 2023-09-15 | Go       | 2024-01-05   |
+|  3 | [timeline](https://github.com/ronaldpetty/timeline)                                                   | 2024-06-06 | md       | 2024-06-06   |
 
 <!--END_SECTION:my_github-->
 
