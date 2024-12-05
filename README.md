@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                     REPO                                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubecon-slides](https://github.com/sbueringer/kubecon-slides)                | 2023-02-17 | PHP      | 2024-11-25   |
-|  2 | [Attack_Code](https://github.com/Esonhugh/Attack_Code)                        | 2023-09-07 | Shell    | 2024-11-17   |
-|  3 | [docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) | 2024-06-14 | Shell    | 2024-12-03   |
+| ID |                        REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes](https://github.com/openai/kubernetes) | 2023-03-24 | Go       | 2024-11-16   |
+|  2 | [xupaco](https://github.com/pacoxu/xupaco)         | 2012-07-24 | md       | 2023-04-25   |
+|  3 | [interlock](https://github.com/ehazlett/interlock) | 2016-04-27 | Go       | 2024-11-28   |
 
 <!--END_SECTION:my_github-->
 
