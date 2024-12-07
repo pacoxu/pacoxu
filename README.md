@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|----------|--------------|
-|  1 | [rikka](https://github.com/7sDream/rikka)                 | 2016-09-14 | Go       | 2024-10-23   |
-|  2 | [football](https://github.com/google-research/football)   | 2024-09-14 | Python   | 2024-12-05   |
-|  3 | [karpenter](https://github.com/kubernetes-sigs/karpenter) | 2024-09-24 | Go       | 2024-12-05   |
+| ID |                      REPO                      | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------|------------|----------|--------------|
+|  1 | [modgv](https://github.com/lucasepe/modgv)     | 2021-05-21 | Go       | 2024-12-03   |
+|  2 | [kopilot](https://github.com/knight42/kopilot) | 2023-03-23 | Go       | 2024-12-02   |
+|  3 | [kor](https://github.com/yonahd/kor)           | 2023-10-13 | Go       | 2024-12-05   |
 
 <!--END_SECTION:my_github-->
 
