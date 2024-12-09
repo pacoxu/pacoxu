@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [python-requests-aws](https://github.com/tax/python-requests-aws) | 2016-09-26 | Python   | 2024-03-06   |
-|  2 | [hickory-dns](https://github.com/hickory-dns/hickory-dns)         | 2023-04-04 | Rust     | 2024-12-07   |
-|  3 | [openbao](https://github.com/openbao/openbao)                     | 2024-04-25 | Go       | 2024-12-07   |
+| ID |                           REPO                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|------------|--------------|
+|  1 | [community](https://github.com/open-feature/community)    | 2022-03-05 | JavaScript | 2024-12-07   |
+|  2 | [same](https://github.com/rking/same)                     | 2020-12-17 | Java       | 2023-04-11   |
+|  3 | [hickory-dns](https://github.com/hickory-dns/hickory-dns) | 2023-04-04 | Rust       | 2024-12-08   |
 
 <!--END_SECTION:my_github-->
 
