@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                REPO                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [dlrover](https://github.com/intelligent-machine-learning/dlrover) | 2024-09-20 | Python   | 2024-12-10   |
-|  2 | [youki](https://github.com/youki-dev/youki)                        | 2023-06-20 | Rust     | 2024-12-10   |
-|  3 | [spegel](https://github.com/spegel-org/spegel)                     | 2023-09-01 | Go       | 2024-12-10   |
+| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|----------|--------------|
+|  1 | [pwod](https://github.com/wzshiming/pwod)                       | 2023-07-20 | Go       | 2023-08-25   |
+|  2 | [open-wonderland](https://github.com/X-lab2017/open-wonderland) | 2024-04-22 | md       | 2024-12-10   |
+|  3 | [kube-activator](https://github.com/wzshiming/kube-activator)   | 2023-09-25 | Go       | 2023-10-20   |
 
 <!--END_SECTION:my_github-->
 
