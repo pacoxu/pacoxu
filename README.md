@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                              REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|----------|--------------|
-|  1 | [pwod](https://github.com/wzshiming/pwod)                       | 2023-07-20 | Go       | 2023-08-25   |
-|  2 | [open-wonderland](https://github.com/X-lab2017/open-wonderland) | 2024-04-22 | md       | 2024-12-10   |
-|  3 | [kube-activator](https://github.com/wzshiming/kube-activator)   | 2023-09-25 | Go       | 2023-10-20   |
+| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|----------|--------------|
+|  1 | [volcano](https://github.com/volcano-sh/volcano)          | 2022-09-27 | Go       | 2024-12-12   |
+|  2 | [bpfman](https://github.com/bpfman/bpfman)                | 2023-05-30 | Rust     | 2024-12-12   |
+|  3 | [karpenter](https://github.com/kubernetes-sigs/karpenter) | 2024-09-24 | Go       | 2024-12-12   |
 
 <!--END_SECTION:my_github-->
 
