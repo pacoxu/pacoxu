@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                           REPO                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------|------------|----------|--------------|
-|  1 | [volcano](https://github.com/volcano-sh/volcano)          | 2022-09-27 | Go       | 2024-12-12   |
-|  2 | [bpfman](https://github.com/bpfman/bpfman)                | 2023-05-30 | Rust     | 2024-12-12   |
-|  3 | [karpenter](https://github.com/kubernetes-sigs/karpenter) | 2024-09-24 | Go       | 2024-12-12   |
+| ID |                        REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------|------------|----------|--------------|
+|  1 | [resume-vue](https://github.com/nusr/resume-vue)    | 2023-01-03 | Vue      | 2024-06-14   |
+|  2 | [pipeline](https://github.com/banzaicloud/pipeline) | 2020-06-12 | Go       | 2024-12-06   |
+|  3 | [pgtracer](https://github.com/Aiven-Open/pgtracer)  | 2022-11-01 | Python   | 2024-12-09   |
 
 <!--END_SECTION:my_github-->
 
