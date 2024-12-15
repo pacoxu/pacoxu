@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                        REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------|------------|----------|--------------|
-|  1 | [resume-vue](https://github.com/nusr/resume-vue)    | 2023-01-03 | Vue      | 2024-06-14   |
-|  2 | [pipeline](https://github.com/banzaicloud/pipeline) | 2020-06-12 | Go       | 2024-12-06   |
-|  3 | [pgtracer](https://github.com/Aiven-Open/pgtracer)  | 2022-11-01 | Python   | 2024-12-09   |
+| ID |                         REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubectl-ai](https://github.com/sozercan/kubectl-ai) | 2023-03-21 | Go       | 2024-12-12   |
+|  2 | [gods](https://github.com/emirpasic/gods)            | 2019-09-29 | Go       | 2024-12-14   |
+|  3 | [xupaco](https://github.com/pacoxu/xupaco)           | 2012-07-24 | md       | 2023-04-25   |
 
 <!--END_SECTION:my_github-->
 
