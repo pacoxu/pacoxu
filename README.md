@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                REPO                                                | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [rexray](https://github.com/rexray/rexray)                                                         | 2016-05-10 | Go       | 2024-12-10   |
-|  2 | [OpenSourceSoftwareCase-awesome](https://github.com/MorningSunKing/OpenSourceSoftwareCase-awesome) | 2023-08-04 | md       | 2024-10-03   |
-|  3 | [kube-gce](https://github.com/rimusz/kube-gce)                                                     | 2017-06-08 | Shell    | 2024-01-15   |
+| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kueue](https://github.com/kubernetes-sigs/kueue)                                      | 2022-04-24 | Go       | 2024-12-16   |
+|  2 | [jenkins-pipeline-scripts](https://github.com/docker-archive/jenkins-pipeline-scripts) | 2017-03-06 | Groovy   | 2024-05-15   |
+|  3 | [docker-glusterfs](https://github.com/paulczar/docker-glusterfs)                       | 2016-09-19 | Ruby     | 2019-07-15   |
 
 <!--END_SECTION:my_github-->
 
