@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                           REPO                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------|------------|----------|--------------|
-|  1 | [ropee](https://github.com/DaoCloud/ropee)               | 2019-07-08 | Go       | 2024-11-29   |
-|  2 | [scope](https://github.com/weaveworks/scope)             | 2017-11-27 | Go       | 2024-12-17   |
-|  3 | [kube-bench](https://github.com/aquasecurity/kube-bench) | 2022-06-21 | Go       | 2024-12-17   |
+| ID |                             REPO                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|----------|--------------|
+|  1 | [blixt](https://github.com/kubernetes-sigs/blixt)             | 2024-01-08 | Rust     | 2024-12-18   |
+|  2 | [cmemstat](https://github.com/mtardy/cmemstat)                | 2024-12-12 | Go       | 2024-12-12   |
+|  3 | [openshift-docs](https://github.com/openshift/openshift-docs) | 2017-06-06 | HTML     | 2024-12-18   |
 
 <!--END_SECTION:my_github-->
 
