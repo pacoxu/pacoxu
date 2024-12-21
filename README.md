@@ -70,17 +70,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                            REPO                            |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
 |----|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-02-19](https://github.com/kubernetes/kubernetes/pull/99236)  | [2024-12-17](https://github.com/kubernetes/kubernetes/pull/129250) | [445](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-02-20](https://github.com/kubernetes/kubernetes/pull/99263)  | [2024-12-20](https://github.com/kubernetes/kubernetes/pull/129326) | [444](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
 |  2 | [website](https://github.com/klts-io/website)              | [2021-02-23](https://github.com/kubernetes/website/pull/26675)     | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [55](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)         |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-02-19](https://github.com/kubernetes/test-infra/pull/20909)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [53](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-02-25](https://github.com/kubernetes/test-infra/pull/21022)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [52](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                           REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [aws-lambda-snapstart-java-rules](https://github.com/aws/aws-lambda-snapstart-java-rules) | 2022-12-01 | Java     | 2024-05-26   |
-|  2 | [ascend-device-plugin](https://github.com/Ascend/ascend-device-plugin)                    | 2024-06-14 | Go       | 2024-09-29   |
-|  3 | [TranslateProject](https://github.com/LCTT/TranslateProject)                              | 2019-02-21 | Shell    | 2024-12-16   |
+| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|------------|--------------|
+|  1 | [gateway](https://github.com/Portkey-AI/gateway)             | 2024-07-08 | TypeScript | 2024-12-20   |
+|  2 | [jieba-analysis](https://github.com/huaban/jieba-analysis)   | 2016-03-10 | Java       | 2024-12-20   |
+|  3 | [docker-volumes](https://github.com/cpuguy83/docker-volumes) | 2016-06-15 | Go         | 2024-12-04   |
 
 <!--END_SECTION:my_github-->
 
