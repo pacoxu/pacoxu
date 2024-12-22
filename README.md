@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|------------|--------------|
-|  1 | [gateway](https://github.com/Portkey-AI/gateway)             | 2024-07-08 | TypeScript | 2024-12-20   |
-|  2 | [jieba-analysis](https://github.com/huaban/jieba-analysis)   | 2016-03-10 | Java       | 2024-12-20   |
-|  3 | [docker-volumes](https://github.com/cpuguy83/docker-volumes) | 2016-06-15 | Go         | 2024-12-04   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [dns](https://github.com/kubernetes/dns)                                           | 2019-07-19 | Go       | 2024-12-18   |
+|  2 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories) | 2022-03-15 | Python   | 2023-11-08   |
+|  3 | [kubectl-trace](https://github.com/iovisor/kubectl-trace)                          | 2021-01-19 | Go       | 2024-12-20   |
 
 <!--END_SECTION:my_github-->
 
