@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [dns](https://github.com/kubernetes/dns)                                           | 2019-07-19 | Go       | 2024-12-18   |
-|  2 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories) | 2022-03-15 | Python   | 2023-11-08   |
-|  3 | [kubectl-trace](https://github.com/iovisor/kubectl-trace)                          | 2021-01-19 | Go       | 2024-12-20   |
+| ID |                                    REPO                                     | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [viper](https://github.com/spf13/viper)                                     | 2020-06-16 | Go               | 2024-12-23   |
+|  2 | [node-feature-discovery](https://github.com/marquiz/node-feature-discovery) | 2021-04-07 | Go               | 2024-11-06   |
+|  3 | [stable-diffusion](https://github.com/CompVis/stable-diffusion)             | 2022-10-21 | Jupyter Notebook | 2024-12-22   |
 
 <!--END_SECTION:my_github-->
 
