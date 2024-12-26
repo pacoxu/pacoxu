@@ -68,19 +68,19 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | sum |                                                                    |            |            |          |    28 |
 
 ## The repos I contributed to
-| ID |                            REPO                             |                             FIRSTDATE                             |                             LASTEDATE                              |                                     PRCOUNT                                     |
-|----|-------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2021-02-24](https://github.com/kubernetes/kubernetes/pull/99390) | [2024-12-20](https://github.com/kubernetes/kubernetes/pull/129326) | [442](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu) |
-|  2 | [website](https://github.com/klts-io/website)               | [2021-03-10](https://github.com/kubernetes/website/pull/26986)    | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [54](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)        |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)      | [2021-02-25](https://github.com/kubernetes/test-infra/pull/21022) | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [52](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)  |
-|  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)   | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
+| ID |                            REPO                            |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
+|----|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-03-01](https://github.com/kubernetes/kubernetes/pull/99579)  | [2024-12-20](https://github.com/kubernetes/kubernetes/pull/129326) | [437](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  2 | [website](https://github.com/klts-io/website)              | [2021-03-10](https://github.com/kubernetes/website/pull/26986)     | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [54](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)         |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-03-12](https://github.com/kubernetes/test-infra/pull/21339)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
+|  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                         REPO                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------|------------|------------|--------------|
-|  1 | [Kyodai](https://github.com/andever/Kyodai)          | 2014-10-15 | Java       | 2018-03-03   |
-|  2 | [headlamp](https://github.com/headlamp-k8s/headlamp) | 2023-12-08 | TypeScript | 2024-12-24   |
-|  3 | [maybe](https://github.com/p-e-w/maybe)              | 2017-12-21 | Python     | 2024-12-01   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [node-resource-exporter](https://github.com/dmitsh/node-resource-exporter) | 2024-12-16 | Go         | 2024-12-16   |
+|  2 | [kuryr-kubernetes](https://github.com/openstack/kuryr-kubernetes)          | 2019-02-28 | md         | 2024-11-22   |
+|  3 | [mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes)  | 2024-12-12 | JavaScript | 2024-12-20   |
 
 <!--END_SECTION:my_github-->
 
