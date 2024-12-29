@@ -76,11 +76,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)   | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [community-edition](https://github.com/vmware-tanzu/community-edition) | 2021-10-05 | Go         | 2024-12-23   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | 2021-12-15 | Go         | 2024-12-27   |
-|  3 | [serverless](https://github.com/serverless/serverless)                 | 2019-11-29 | JavaScript | 2024-12-27   |
+| ID |                           REPO                            | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------|------------|------------|--------------|
+|  1 | [schednex](https://github.com/schednex-ai/schednex)       | 2024-10-08 | Go         | 2024-12-16   |
+|  2 | [github-todos](https://github.com/naholyr/github-todos)   | 2020-12-13 | JavaScript | 2024-11-07   |
+|  3 | [kubeadm-test](https://github.com/neolit123/kubeadm-test) | 2024-11-04 | Go         | 2024-11-04   |
 
 <!--END_SECTION:my_github-->
 
