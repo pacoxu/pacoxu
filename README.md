@@ -9,8 +9,8 @@ Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/
 - [Kubernetes/SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer
 - LFAPAC Evangelist 2024
 - Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & PC Member & Organizer
-  - **Co-Chair** of KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 
-  - **Track Chair** of KubeCon North America 2024 (Salt Lake City🇺🇸) in Program Committee
+  - **Co-Chair** of KubeCon + CloudNativeCon + OSS + AI_Dev China 2024 🇨🇳🇭🇰 
+  - **Track Chair** of KubeCon NA 2024 SLC🇺🇸 in Program Committee
 
  🌱 Learning and Sharing
  🇨🇳 **The only thing that I know is that I know nothing**. 
