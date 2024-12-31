@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)   | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [octant-plugin-for-knative](https://github.com/vmware-archive/octant-plugin-for-knative) | 2020-09-16 | TypeScript | 2023-07-13   |
-|  2 | [public-binary-files-mirror](https://github.com/DaoCloud/public-binary-files-mirror)     | 2024-11-11 | Go         | 2024-12-28   |
-|  3 | [HanziToPinyin](https://github.com/codeachange/HanziToPinyin)                            | 2022-10-14 | PHP        | 2022-10-14   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [libcloud](https://github.com/apache/libcloud)                                       | 2016-06-30 | Python   | 2024-12-30   |
+|  2 | [steampipe-plugin-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) | 2024-05-08 | Go       | 2024-12-30   |
+|  3 | [kubeedge](https://github.com/kubeedge/kubeedge)                                     | 2021-03-24 | Go       | 2024-12-30   |
 
 <!--END_SECTION:my_github-->
 
