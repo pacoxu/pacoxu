@@ -62,7 +62,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-12-24 | Python   |     7 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2024-12-01 | md       |     4 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2025-01-01 | md       |     4 |
 | sum |                                                                    |            |            |          |    28 |
 
 ## The repos I contributed to
@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [distroless](https://github.com/GoogleContainerTools/distroless) | 2022-05-07 | Starlark   | 2024-12-31   |
-|  2 | [headlamp](https://github.com/headlamp-k8s/headlamp)             | 2023-12-08 | TypeScript | 2024-12-31   |
-|  3 | [recognize](https://github.com/nextcloud/recognize)              | 2023-10-08 | PHP        | 2024-12-28   |
+| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|------------|--------------|
+|  1 | [HanziToPinyin](https://github.com/codeachange/HanziToPinyin) | 2022-10-14 | PHP        | 2022-10-14   |
+|  2 | [opendal](https://github.com/apache/opendal)                  | 2024-01-03 | Rust       | 2025-01-01   |
+|  3 | [neuri-js](https://github.com/lingticio/neuri-js)             | 2024-09-05 | TypeScript | 2024-12-20   |
 
 <!--END_SECTION:my_github-->
 
