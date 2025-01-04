@@ -68,17 +68,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                            REPO                            |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
 |----|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-03-02](https://github.com/kubernetes/kubernetes/pull/99639)  | [2024-12-31](https://github.com/kubernetes/kubernetes/pull/129438) | [435](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-03-03](https://github.com/kubernetes/kubernetes/pull/99695)  | [2024-12-31](https://github.com/kubernetes/kubernetes/pull/129438) | [434](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
 |  2 | [website](https://github.com/klts-io/website)              | [2021-03-10](https://github.com/kubernetes/website/pull/26986)     | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [54](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)         |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-03-12](https://github.com/kubernetes/test-infra/pull/21339)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                    REPO                                                    | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [crane-scheduler](https://github.com/gocrane/crane-scheduler)                                              | 2022-06-24 | Go       | 2024-12-11   |
-|  2 | [zeitgeist](https://github.com/kubernetes-sigs/zeitgeist)                                                  | 2021-03-03 | Go       | 2024-12-31   |
-|  3 | [cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) | 2021-08-07 | Go       | 2024-12-22   |
+| ID |                        REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------|------------|----------|--------------|
+|  1 | [cloudtty](https://github.com/cloudtty/cloudtty)   | 2022-10-27 | Go       | 2025-01-02   |
+|  2 | [interlock](https://github.com/ehazlett/interlock) | 2016-04-27 | Go       | 2024-11-28   |
+|  3 | [arktos](https://github.com/CentaurusInfra/arktos) | 2023-09-26 | Go       | 2024-09-03   |
 
 <!--END_SECTION:my_github-->
 
