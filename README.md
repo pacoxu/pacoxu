@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                REPO                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [terraform-aws-apigateway-v2](https://github.com/terraform-aws-modules/terraform-aws-apigateway-v2) | 2020-08-17 | HCL      | 2024-12-21   |
-|  2 | [kube-snapshot](https://github.com/BaizeAI/kube-snapshot)                                           | 2024-08-08 | Go       | 2024-12-27   |
-|  3 | [worldcup](https://github.com/openfootball/worldcup)                                                | 2018-05-13 | md       | 2024-12-08   |
+| ID |                         REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------|------------|----------|--------------|
+|  1 | [kube-fencing](https://github.com/kvaps/kube-fencing) | 2020-09-10 | Go       | 2024-11-15   |
+|  2 | [ferry](https://github.com/ferryproxy/ferry)          | 2022-02-26 | Go       | 2024-09-15   |
+|  3 | [llmlite](https://github.com/InftyAI/llmlite)         | 2023-10-09 | Python   | 2024-12-23   |
 
 <!--END_SECTION:my_github-->
 
