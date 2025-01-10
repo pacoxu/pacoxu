@@ -66,19 +66,19 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 | sum |                                                                    |            |            |          |    28 |
 
 ## The repos I contributed to
-| ID |                            REPO                            |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                      |
-|----|------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)     | [2021-03-10](https://github.com/kubernetes/kubernetes/pull/100073) | [2025-01-06](https://github.com/kubernetes/kubernetes/pull/129485) | [429](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu)  |
-|  2 | [website](https://github.com/klts-io/website)              | [2021-03-10](https://github.com/kubernetes/website/pull/26986)     | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [53](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)         |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)     | [2021-03-12](https://github.com/kubernetes/test-infra/pull/21339)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)   |
-|  4 | [enhancements](https://github.com/kubernetes/enhancements) | [2021-03-10](https://github.com/kubernetes/enhancements/pull/2563) | [2024-10-31](https://github.com/kubernetes/enhancements/pull/4938) | [26](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3Apacoxu) |
+| ID |                            REPO                             |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                     |
+|----|-------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2021-03-10](https://github.com/kubernetes/kubernetes/pull/100073) | [2025-01-09](https://github.com/kubernetes/kubernetes/pull/129537) | [431](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu) |
+|  2 | [website](https://github.com/klts-io/website)               | [2021-03-15](https://github.com/kubernetes/website/pull/27061)     | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [52](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)        |
+|  3 | [test-infra](https://github.com/kubernetes/test-infra)      | [2021-03-12](https://github.com/kubernetes/test-infra/pull/21339)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)  |
+|  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler)             | 2019-07-23 | Go       | 2025-01-07   |
-|  2 | [open-source-guides](https://github.com/tisonkun/open-source-guides)                                              | 2022-05-24 | HTML     | 2024-06-19   |
-|  3 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go       | 2024-12-10   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [serverless](https://github.com/serverless/serverless)                                | 2019-11-29 | JavaScript | 2025-01-09   |
+|  2 | [kompose](https://github.com/kubernetes/kompose)                                      | 2017-06-02 | Go         | 2025-01-09   |
+|  3 | [usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) | 2024-08-12 | Go         | 2025-01-09   |
 
 <!--END_SECTION:my_github-->
 
