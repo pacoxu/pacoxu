@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [serverless](https://github.com/serverless/serverless)                                | 2019-11-29 | JavaScript | 2025-01-09   |
-|  2 | [kompose](https://github.com/kubernetes/kompose)                                      | 2017-06-02 | Go         | 2025-01-09   |
-|  3 | [usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) | 2024-08-12 | Go         | 2025-01-09   |
+| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [ropee](https://github.com/DaoCloud/ropee)                       | 2019-07-08 | Go       | 2024-11-29   |
+|  2 | [kubespray](https://github.com/kubernetes-sigs/kubespray)        | 2022-08-05 | Jinja    | 2025-01-10   |
+|  3 | [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) | 2020-10-30 | Shell    | 2025-01-07   |
 
 <!--END_SECTION:my_github-->
 
