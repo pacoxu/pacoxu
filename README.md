@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                               REPO                               | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [ropee](https://github.com/DaoCloud/ropee)                       | 2019-07-08 | Go       | 2024-11-29   |
-|  2 | [kubespray](https://github.com/kubernetes-sigs/kubespray)        | 2022-08-05 | Jinja    | 2025-01-10   |
-|  3 | [pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) | 2020-10-30 | Shell    | 2025-01-07   |
+| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [schednex](https://github.com/schednex-ai/schednex)                                         | 2024-10-08 | Go       | 2025-01-07   |
+|  2 | [volcano](https://github.com/volcano-sh/volcano)                                            | 2022-09-27 | Go       | 2025-01-10   |
+|  3 | [cloud-provider-huaweicloud](https://github.com/kubernetes-sigs/cloud-provider-huaweicloud) | 2024-12-31 | Go       | 2025-01-02   |
 
 <!--END_SECTION:my_github-->
 
