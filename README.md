@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                            REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------|------------|----------|--------------|
-|  1 | [viper](https://github.com/spf13/viper)                     | 2020-06-16 | Go       | 2025-01-12   |
-|  2 | [bfe](https://github.com/bfenetworks/bfe)                   | 2023-10-03 | Go       | 2025-01-12   |
-|  3 | [kube-entropy](https://github.com/alexlokshin/kube-entropy) | 2019-10-14 | Go       | 2024-09-27   |
+| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|----------|--------------|
+|  1 | [helmfile](https://github.com/helmfile/helmfile)       | 2022-09-28 | Go       | 2025-01-14   |
+|  2 | [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | 2022-02-21 | Go       | 2025-01-13   |
+|  3 | [karmada](https://github.com/karmada-io/karmada)       | 2021-07-06 | Go       | 2025-01-13   |
 
 <!--END_SECTION:my_github-->
 
