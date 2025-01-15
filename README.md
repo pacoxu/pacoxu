@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                          REPO                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|----------|--------------|
-|  1 | [helmfile](https://github.com/helmfile/helmfile)       | 2022-09-28 | Go       | 2025-01-14   |
-|  2 | [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | 2022-02-21 | Go       | 2025-01-13   |
-|  3 | [karmada](https://github.com/karmada-io/karmada)       | 2021-07-06 | Go       | 2025-01-13   |
+| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [steering](https://github.com/kubernetes/steering)                                      | 2021-06-11 | md         | 2024-10-26   |
+|  2 | [kubernetes-auditing-dashboard](https://github.com/STRRL/kubernetes-auditing-dashboard) | 2024-09-12 | TypeScript | 2024-09-12   |
+|  3 | [federation](https://github.com/kubernetes-retired/federation)                          | 2018-04-08 | Go         | 2024-09-14   |
 
 <!--END_SECTION:my_github-->
 
