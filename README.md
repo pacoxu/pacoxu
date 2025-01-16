@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [steering](https://github.com/kubernetes/steering)                                      | 2021-06-11 | md         | 2024-10-26   |
-|  2 | [kubernetes-auditing-dashboard](https://github.com/STRRL/kubernetes-auditing-dashboard) | 2024-09-12 | TypeScript | 2024-09-12   |
-|  3 | [federation](https://github.com/kubernetes-retired/federation)                          | 2018-04-08 | Go         | 2024-09-14   |
+| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C        | 2025-01-15   |
+|  2 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories)          | 2022-03-15 | Python   | 2023-11-08   |
+|  3 | [cool-github](https://github.com/alejandrox1/cool-github)                                   | 2021-01-04 | Go       | 2021-01-04   |
 
 <!--END_SECTION:my_github-->
 
