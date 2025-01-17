@@ -10,7 +10,7 @@ Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/
 - LFAPAC Evangelist 2024
 - Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & PC Member & Organizer
   - **Co-Chair** of KubeCon + CloudNativeCon + OSS + AI_Dev China 2024 🇨🇳🇭🇰 
-  - **Track Chair** of KubeCon NA 2024 SLC🇺🇸 in Program Committee
+  - **Track Chair** of KubeCon NA 2024 SLC🇺🇸 and KubeCon EU 2025 London🇬🇧 in Program Committee
 
  🌱 Learning and Sharing
  🇨🇳 **The only thing that I know is that I know nothing**. 
@@ -20,6 +20,7 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 ![Metrics](https://github.com/pacoxu/pacoxu/blob/master/github-metrics.svg)
 
 <img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="80">
+<img alt="KubeCon EU 2025 Track Chair" src="https://github.com/user-attachments/assets/bc6f5cb3-a7c1-4f09-8e21-52b9c337dc8f" width="80">
 <img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="80">
 <img alt="KubeCon EU 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="80">
 <img alt="KubeCon EU 2024 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="80">
