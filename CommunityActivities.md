@@ -2,7 +2,9 @@ Includes activities organization, speeches and Program Committees work.
 
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
   - 2025
+    -
     - 👥📋 KubeCon EU(🏴󠁧󠁢󠁥󠁮󠁧󠁿London) as Program Committee Track Chair
+      - 📅🔜 [A Huge Cluster or Multi-Clusters? Identifying the Bottleneck](https://sched.co/1tx9S) - Paco Xu, DaoCloud
   - 2024
     - 🤝🎖️ KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**
       - 📺 [Keynote: Kubernetes Community and Cloud Native Activities in China - Paco Xu & Wei Cai](https://www.youtube.com/watch?v=c9YVuEkJGR0)
