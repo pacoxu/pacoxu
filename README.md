@@ -74,11 +74,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                            REPO                                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) | 2021-01-29 | C        | 2025-01-15   |
-|  2 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories)          | 2022-03-15 | Python   | 2023-11-08   |
-|  3 | [cool-github](https://github.com/alejandrox1/cool-github)                                   | 2021-01-04 | Go       | 2021-01-04   |
+| ID |                                               REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)   | 2020-12-09 | Go         | 2025-01-16   |
+|  2 | [openshift-windows](https://github.com/openshift/openshift-windows)                               | 2018-12-26 | PowerShell | 2022-01-04   |
+|  3 | [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) | 2023-03-07 | TypeScript | 2025-01-16   |
 
 <!--END_SECTION:my_github-->
 
