@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                 REPO                                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)                                     | 2019-03-07 | md       | 2024-06-26   |
-|  2 | [custom-metrics-apiserver-simulator](https://github.com/wzshiming/custom-metrics-apiserver-simulator) | 2023-09-15 | Go       | 2024-01-05   |
-|  3 | [stackoverflow](https://github.com/pacoxu/stackoverflow)                                              | 2014-10-09 | md       | 2021-04-07   |
+| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [PR-Helper](https://github.com/kerthcet/PR-Helper)             | 2023-08-28 | Python     | 2023-09-16   |
+|  2 | [docker-alpine](https://github.com/alpinelinux/docker-alpine)  | 2021-04-14 | Lua        | 2025-01-19   |
+|  3 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2013-12-25 | PowerShell | 2025-01-16   |
 
 <!--END_SECTION:my_github-->
 
