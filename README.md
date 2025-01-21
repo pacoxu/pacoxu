@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [PR-Helper](https://github.com/kerthcet/PR-Helper)             | 2023-08-28 | Python     | 2023-09-16   |
-|  2 | [docker-alpine](https://github.com/alpinelinux/docker-alpine)  | 2021-04-14 | Lua        | 2025-01-19   |
-|  3 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2013-12-25 | PowerShell | 2025-01-16   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [charts](https://github.com/helm/charts)                             | 2019-04-01 | Go       | 2025-01-19   |
+|  2 | [weekly](https://github.com/ruanyf/weekly)                           | 2022-04-28 | md       | 2025-01-20   |
+|  3 | [project-layout](https://github.com/golang-standards/project-layout) | 2020-06-05 | Makefile | 2025-01-20   |
 
 <!--END_SECTION:my_github-->
 
