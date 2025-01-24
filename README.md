@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                          REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [same](https://github.com/rking/same)                                                  | 2020-12-17 | Java     | 2023-04-11   |
-|  2 | [xcluster](https://github.com/Nordix/xcluster)                                         | 2021-01-23 | Roff     | 2024-12-28   |
-|  3 | [cluster-api-provider-maas](https://github.com/spectrocloud/cluster-api-provider-maas) | 2022-03-11 | Go       | 2024-12-06   |
+| ID |                                           REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [dynamic-resource-allocation](https://github.com/kubernetes/dynamic-resource-allocation) | 2023-12-25 | Go       | 2025-01-24   |
+|  2 | [spiderpool](https://github.com/spidernet-io/spiderpool)                                 | 2023-04-11 | Go       | 2025-01-23   |
+|  3 | [quic-go](https://github.com/quic-go/quic-go)                                            | 2021-11-29 | Go       | 2025-01-23   |
 
 <!--END_SECTION:my_github-->
 
