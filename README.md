@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kcover](https://github.com/BaizeAI/kcover)                          | 2024-08-29 | Go       | 2024-12-23   |
-|  2 | [person-blocker](https://github.com/minimaxir/person-blocker)        | 2019-10-24 | Python   | 2025-01-13   |
-|  3 | [open-source-guides](https://github.com/tisonkun/open-source-guides) | 2022-05-24 | HTML     | 2024-06-19   |
+| ID |                                                                 REPO                                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kube-green](https://github.com/kube-green/kube-green)                                                                               | 2023-10-12 | Go       | 2025-01-26   |
+|  2 | [container-object-storage-interface-controller](https://github.com/kubernetes-retired/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2024-12-26   |
+|  3 | [jepsen](https://github.com/jepsen-io/jepsen)                                                                                        | 2017-12-12 | Clojure  | 2025-01-24   |
 
 <!--END_SECTION:my_github-->
 
