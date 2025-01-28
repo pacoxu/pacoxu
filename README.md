@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                                 REPO                                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kube-green](https://github.com/kube-green/kube-green)                                                                               | 2023-10-12 | Go       | 2025-01-26   |
-|  2 | [container-object-storage-interface-controller](https://github.com/kubernetes-retired/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2024-12-26   |
-|  3 | [jepsen](https://github.com/jepsen-io/jepsen)                                                                                        | 2017-12-12 | Clojure  | 2025-01-24   |
+| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [glasskube](https://github.com/glasskube/glasskube)                                | 2024-07-05 | Go       | 2025-01-27   |
+|  2 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories) | 2022-03-15 | Python   | 2023-11-08   |
+|  3 | [browser-agent](https://github.com/m1guelpf/browser-agent)                         | 2023-03-29 | Rust     | 2025-01-27   |
 
 <!--END_SECTION:my_github-->
 
