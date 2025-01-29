@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                        REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [glasskube](https://github.com/glasskube/glasskube)                                | 2024-07-05 | Go       | 2025-01-27   |
-|  2 | [kubernetes-failure-stories](https://github.com/pacoxu/kubernetes-failure-stories) | 2022-03-15 | Python   | 2023-11-08   |
-|  3 | [browser-agent](https://github.com/m1guelpf/browser-agent)                         | 2023-03-29 | Rust     | 2025-01-27   |
+| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)                              | 2019-03-04 | Shell    | 2023-07-24   |
+|  2 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue      | 2025-01-26   |
+|  3 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin) | 2020-06-11 | Go       | 2023-08-21   |
 
 <!--END_SECTION:my_github-->
 
