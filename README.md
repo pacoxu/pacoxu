@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                       REPO                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [k8s-cleanup](https://github.com/onfido/k8s-cleanup)                              | 2019-03-04 | Shell    | 2023-07-24   |
-|  2 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | 2018-02-07 | Vue      | 2025-01-26   |
-|  3 | [k8s-directx-device-plugin](https://github.com/aarnaud/k8s-directx-device-plugin) | 2020-06-11 | Go       | 2023-08-21   |
+| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go       | 2025-01-27   |
+|  2 | [interlock](https://github.com/ehazlett/interlock)                                                                | 2016-04-27 | Go       | 2024-11-28   |
+|  3 | [velero](https://github.com/vmware-tanzu/velero)                                                                  | 2020-04-29 | Go       | 2025-01-29   |
 
 <!--END_SECTION:my_github-->
 
