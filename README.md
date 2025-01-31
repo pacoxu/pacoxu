@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                       REPO                                                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cluster-kube-controller-manager-operator](https://github.com/openshift/cluster-kube-controller-manager-operator) | 2021-01-16 | Go       | 2025-01-27   |
-|  2 | [interlock](https://github.com/ehazlett/interlock)                                                                | 2016-04-27 | Go       | 2024-11-28   |
-|  3 | [velero](https://github.com/vmware-tanzu/velero)                                                                  | 2020-04-29 | Go       | 2025-01-29   |
+| ID |                                        REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [open-digger](https://github.com/X-lab2017/open-digger)                             | 2025-01-02 | Jupyter Notebook | 2025-01-20   |
+|  2 | [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps)                         | 2024-07-01 | md               | 2025-01-30   |
+|  3 | [node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) | 2021-11-23 | Go               | 2025-01-29   |
 
 <!--END_SECTION:my_github-->
 
