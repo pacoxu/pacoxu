@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                        REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [open-digger](https://github.com/X-lab2017/open-digger)                             | 2025-01-02 | Jupyter Notebook | 2025-01-20   |
-|  2 | [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps)                         | 2024-07-01 | md               | 2025-01-30   |
-|  3 | [node-feature-discovery](https://github.com/kubernetes-sigs/node-feature-discovery) | 2021-11-23 | Go               | 2025-01-29   |
+| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [runtime-copilot](https://github.com/copilot-io/runtime-copilot)                     | 2023-05-15 | Go         | 2024-03-29   |
+|  2 | [vault-action](https://github.com/hashicorp/vault-action)                            | 2020-09-15 | JavaScript | 2025-01-31   |
+|  3 | [public-binary-files-mirror](https://github.com/DaoCloud/public-binary-files-mirror) | 2024-11-11 | Go         | 2025-01-31   |
 
 <!--END_SECTION:my_github-->
 
