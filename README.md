@@ -63,7 +63,7 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |-----|--------------------------------------------------------------------|------------|------------|----------|-------|
 |   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
 |   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-12-24 | Python   |     7 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2025-01-01 | md       |     4 |
+|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2025-02-01 | md       |     4 |
 | sum |                                                                    |            |            |          |    28 |
 
 ## The repos I contributed to
@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                         REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [runtime-copilot](https://github.com/copilot-io/runtime-copilot)                     | 2023-05-15 | Go         | 2024-03-29   |
-|  2 | [vault-action](https://github.com/hashicorp/vault-action)                            | 2020-09-15 | JavaScript | 2025-01-31   |
-|  3 | [public-binary-files-mirror](https://github.com/DaoCloud/public-binary-files-mirror) | 2024-11-11 | Go         | 2025-01-31   |
+| ID |                         REPO                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------|------------|----------|--------------|
+|  1 | [etcd-adapter](https://github.com/api7/etcd-adapter) | 2024-10-31 | Go       | 2024-12-23   |
+|  2 | [graphdot](https://github.com/ewohltman/graphdot)    | 2021-05-21 | Go       | 2024-02-08   |
+|  3 | [draino](https://github.com/planetlabs/draino)       | 2019-04-25 | Go       | 2025-01-24   |
 
 <!--END_SECTION:my_github-->
 
