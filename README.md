@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                             REPO                             | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|----------|--------------|
-|  1 | [Blogs](https://github.com/kerthcet/Blogs)                   | 2021-09-22 | md       | 2022-08-06   |
-|  2 | [LlamaIndex-k8s](https://github.com/kerthcet/LlamaIndex-k8s) | 2023-09-21 | Python   | 2023-09-21   |
-|  3 | [logr](https://github.com/go-logr/logr)                      | 2021-01-23 | Go       | 2025-02-01   |
+| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kubernetes](https://github.com/klts-io/kubernetes)                  | 2022-01-11 | md       | 2022-01-11   |
+|  2 | [unvanished_memory](https://github.com/x13-caesar/unvanished_memory) | 2022-04-23 | md       | 2022-04-23   |
+|  3 | [website](https://github.com/kubernetes/website)                     | 2021-09-28 | HTML     | 2025-02-03   |
 
 <!--END_SECTION:my_github-->
 
