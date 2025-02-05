@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                 REPO                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [kubernetes](https://github.com/klts-io/kubernetes)                  | 2022-01-11 | md       | 2022-01-11   |
-|  2 | [unvanished_memory](https://github.com/x13-caesar/unvanished_memory) | 2022-04-23 | md       | 2022-04-23   |
-|  3 | [website](https://github.com/kubernetes/website)                     | 2021-09-28 | HTML     | 2025-02-03   |
+| ID |                        REPO                        | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|----------------------------------------------------|------------|----------|--------------|
+|  1 | [datakit](https://github.com/moby/datakit)         | 2016-05-18 | OCaml    | 2025-01-27   |
+|  2 | [arktos](https://github.com/CentaurusInfra/arktos) | 2023-09-26 | Go       | 2025-02-03   |
+|  3 | [k8s.io](https://github.com/kubernetes/k8s.io)     | 2021-03-16 | HCL      | 2025-02-04   |
 
 <!--END_SECTION:my_github-->
 
