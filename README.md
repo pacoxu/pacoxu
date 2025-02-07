@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                             REPO                                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [openshift-windows](https://github.com/openshift/openshift-windows)                          | 2018-12-26 | PowerShell | 2022-01-04   |
-|  2 | [2023-China-Open-Source-Report](https://github.com/kaiyuanshe/2023-China-Open-Source-Report) | 2024-04-22 | TypeScript | 2024-12-16   |
-|  3 | [sample-vpa-controller](https://github.com/zhouya0/sample-vpa-controller)                    | 2020-10-30 | Go         | 2020-10-30   |
+| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [hubble-otel](https://github.com/cilium/hubble-otel)           | 2022-02-15 | Go         | 2025-01-05   |
+|  2 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2013-12-25 | PowerShell | 2025-02-06   |
+|  3 | [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)     | 2024-12-17 | Python     | 2025-02-06   |
 
 <!--END_SECTION:my_github-->
 
