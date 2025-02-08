@@ -69,17 +69,17 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 ## The repos I contributed to
 | ID |                            REPO                             |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                     |
 |----|-------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2021-03-12](https://github.com/kubernetes/kubernetes/pull/100181) | [2025-01-22](https://github.com/kubernetes/kubernetes/pull/129751) | [432](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu) |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2021-03-12](https://github.com/kubernetes/kubernetes/pull/100181) | [2025-02-07](https://github.com/kubernetes/kubernetes/pull/130022) | [432](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu) |
 |  2 | [website](https://github.com/klts-io/website)               | [2021-03-15](https://github.com/kubernetes/website/pull/27061)     | [2024-11-18](https://github.com/klts-io/website/pull/72)           | [52](https://github.com/klts-io/website/pulls?q=is%3Apr+author%3Apacoxu)        |
 |  3 | [test-infra](https://github.com/kubernetes/test-infra)      | [2021-03-12](https://github.com/kubernetes/test-infra/pull/21339)  | [2024-11-22](https://github.com/kubernetes/test-infra/pull/33831)  | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)  |
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [hubble-otel](https://github.com/cilium/hubble-otel)           | 2022-02-15 | Go         | 2025-01-05   |
-|  2 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2013-12-25 | PowerShell | 2025-02-06   |
-|  3 | [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)     | 2024-12-17 | Python     | 2025-02-06   |
+| ID |                       REPO                       | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------|------------|----------|--------------|
+|  1 | [kubectl](https://github.com/kubernetes/kubectl) | 2020-11-05 | Go       | 2025-02-06   |
+|  2 | [ferry](https://github.com/ferryproxy/ferry)     | 2022-02-26 | Go       | 2024-09-15   |
+|  3 | [atlas](https://github.com/alibaba/atlas)        | 2017-03-18 | Java     | 2025-01-28   |
 
 <!--END_SECTION:my_github-->
 
