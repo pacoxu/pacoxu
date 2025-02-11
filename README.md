@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                                  REPO                                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [cri-resource-manager](https://github.com/intel/cri-resource-manager)                                   | 2023-05-22 | Go       | 2025-02-06   |
-|  2 | [intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) | 2024-04-09 | Go       | 2025-01-10   |
-|  3 | [etcd](https://github.com/etcd-io/etcd)                                                                 | 2016-07-04 | Go       | 2025-02-09   |
+| ID |                                                                 REPO                                                                 | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [kivy](https://github.com/kivy/kivy)                                                                                                 | 2019-04-18 | Python   | 2025-02-10   |
+|  2 | [container-object-storage-interface-controller](https://github.com/kubernetes-retired/container-object-storage-interface-controller) | 2021-01-19 | Go       | 2024-12-26   |
+|  3 | [jmeter](https://github.com/apache/jmeter)                                                                                           | 2018-10-22 | Java     | 2025-02-10   |
 
 <!--END_SECTION:my_github-->
 
