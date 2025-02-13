@@ -39,7 +39,7 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 
 
 <!--START_SECTION:github_repos-->
-### The intersted repos
+### Curated Repositories: A Snapshot of Projects
 | ID |                               REPO                               | STARS  | UPDATEDAT  | CREATEDAT  | FORKSCOUNT |                                                DESCRIPTIONS                                                |
 |----|------------------------------------------------------------------|--------|------------|------------|------------|------------------------------------------------------------------------------------------------------------|
 |  1 | [kubernetes](https://github.com/kubernetes/kubernetes)           | 113005 | 2025-02-12 | 2014-06-06 |      40194 | Production-Grade Container Scheduling and Management                                                       |
@@ -49,7 +49,6 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 |  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)  |    813 | 2025-02-11 | 2021-10-08 |        121 | The Encyclopedia of Kubernetes clusters                                                                    |
 |  6 | [ollama-operator](https://github.com/nekomeowww/ollama-operator) |    136 | 2025-02-11 | 2024-04-10 |         16 | Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫      |
 |  7 | [llmaz](https://github.com/InftyAI/llmaz)                        |     61 | 2025-02-11 | 2023-11-20 |         11 | ☸️ Easy, advanced inference platform for large language models on Kubernetes. 🌟 Star to support our work! |
-
 
 
 #### Skipped repos
@@ -65,17 +64,6 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/pacoxu/contributed.svg?max_repos=10)
 
-
-<!--END_SECTION:my_github-->
-
-## The repos I stared (random 3)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------|--------------|
-|  1 | [twitter](https://github.com/wordware-ai/twitter)             | 2024-08-07 | TypeScript | 2025-02-11   |
-|  2 | [learning-knative](https://github.com/skyao/learning-knative) | 2019-09-06 | HTML       | 2024-07-24   |
-|  3 | [ebpf](https://github.com/nccgroup/ebpf)                      | 2020-12-02 | Python     | 2024-11-12   |
-
-<!--END_SECTION:my_github-->
 
 <a href="https://pacoxu.wordpress.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
