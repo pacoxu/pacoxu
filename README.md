@@ -56,23 +56,17 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <!--END_SECTION:github_repos-->
 See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 
-
-<!--START_SECTION:my_github-->
 ## The repos I created
-| ID  |                                REPO                                |   START    |   UPDATE   | LAUGUAGE | STARS |
-|-----|--------------------------------------------------------------------|------------|------------|----------|-------|
-|   1 | [kubeadm-operator](https://github.com/pacoxu/kubeadm-operator)     | 2022-03-10 | 2023-09-15 | Go       |    10 |
-|   2 | [slides-crawl](https://github.com/pacoxu/slides-crawl)             | 2023-10-07 | 2024-12-24 | Python   |     7 |
-|   3 | [cncf-learning-path](https://github.com/pacoxu/cncf-learning-path) | 2022-02-21 | 2025-02-01 | md       |     4 |
-| sum |                                                                    |            |            |          |    28 |
+
+![Repos I created](https://github-contrib-stats.vercel.app/pacoxu/created.svg?max_repos=10)
+
 
 ## The repos I contributed to
-| ID |                            REPO                             |                             FIRSTDATE                              |                             LASTEDATE                              |                                     PRCOUNT                                     |
-|----|-------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)      | [2021-03-15](https://github.com/kubernetes/kubernetes/pull/100243) | [2025-02-11](https://github.com/kubernetes/kubernetes/pull/130095) | [430](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Apacoxu) |
-|  2 | [website](https://github.com/kubernetes/website)            | [2021-03-15](https://github.com/kubernetes/website/pull/27061)     | [2025-02-08](https://github.com/kubernetes/website/pull/49685)     | [53](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Apacoxu)     |
-|  3 | [test-infra](https://github.com/kubernetes/test-infra)      | [2021-04-26](https://github.com/kubernetes/test-infra/pull/21949)  | [2025-02-08](https://github.com/kubernetes/test-infra/pull/34299)  | [51](https://github.com/kubernetes/test-infra/pulls?q=is%3Apr+author%3Apacoxu)  |
-|  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
+
+![Repos I contributed to](https://github-contrib-stats.vercel.app/pacoxu/contributed.svg?max_repos=10)
+
+
+<!--END_SECTION:my_github-->
 
 ## The repos I stared (random 3)
 | ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
