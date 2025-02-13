@@ -75,11 +75,11 @@ See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 |  4 | [kubernetes-lts](https://github.com/klts-io/kubernetes-lts) | [2021-11-04](https://github.com/klts-io/kubernetes-lts/pull/94)    | [2024-12-24](https://github.com/klts-io/kubernetes-lts/pull/204)   | [26](https://github.com/klts-io/kubernetes-lts/pulls?q=is%3Apr+author%3Apacoxu) |
 
 ## The repos I stared (random 3)
-| ID |                                REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [elasticsearch](https://github.com/pacoxu/elasticsearch)           | 2014-04-18 | Java       | 2021-04-07   |
-|  2 | [HackFlowy](https://github.com/abhshkdz/HackFlowy)                 | 2014-09-02 | CSS        | 2025-02-09   |
-|  3 | [dce-windows-demos](https://github.com/DaoCloud/dce-windows-demos) | 2019-03-03 | JavaScript | 2019-03-03   |
+| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|------------|--------------|
+|  1 | [twitter](https://github.com/wordware-ai/twitter)             | 2024-08-07 | TypeScript | 2025-02-11   |
+|  2 | [learning-knative](https://github.com/skyao/learning-knative) | 2019-09-06 | HTML       | 2024-07-24   |
+|  3 | [ebpf](https://github.com/nccgroup/ebpf)                      | 2020-12-02 | Python     | 2024-11-12   |
 
 <!--END_SECTION:my_github-->
 
