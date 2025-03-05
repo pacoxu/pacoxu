@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="e3yt6uE5YXcC4EjePvcz">
-    <mxGraphModel>
+    <mxGraphModel dx="1272" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q6xWaygNkAgzFMq6b989-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="460" width="720" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-1" target="q6xWaygNkAgzFMq6b989-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/kubernetes/community/raw/master/icons/png/control_plane_components/labeled/api-128.png;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="128" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-2" target="q6xWaygNkAgzFMq6b989-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/kubernetes/community/raw/master/icons/png/infrastructure_components/labeled/etcd-128.png;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="128" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-3" target="q6xWaygNkAgzFMq6b989-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/kubernetes/community/raw/master/icons/png/infrastructure_components/labeled/etcd-128.png;" vertex="1" parent="1">
+          <mxGeometry x="250" y="480" width="128" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-7" target="q6xWaygNkAgzFMq6b989-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/clusterpedia-io/clusterpedia/raw/main/docs/images/clusterpedia.png;" vertex="1" parent="1">
+          <mxGeometry x="65.09" y="220" width="152.91" height="31.47" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/SSD.svg;" vertex="1" parent="1">
+          <mxGeometry x="191" y="810" width="77" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/kubernetes/community/raw/master/icons/png/infrastructure_components/labeled/etcd-128.png;" vertex="1" parent="1">
+          <mxGeometry x="166.04000000000002" y="630" width="128" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-9" target="q6xWaygNkAgzFMq6b989-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="540" as="sourcePoint" />
+            <mxPoint x="320" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-9" target="q6xWaygNkAgzFMq6b989-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="540" as="sourcePoint" />
+            <mxPoint x="320" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/kubernetes/community/raw/master/icons/png/infrastructure_components/labeled/etcd-128.png;" vertex="1" parent="1">
+          <mxGeometry x="430" y="480" width="128" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-1" target="q6xWaygNkAgzFMq6b989-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-26" value="/events" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-28" target="q6xWaygNkAgzFMq6b989-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-28" target="q6xWaygNkAgzFMq6b989-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-28" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=user" vertex="1" parent="1">
+          <mxGeometry x="90" y="20" width="114.58" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/ds-128.png;" vertex="1" parent="1">
+          <mxGeometry x="570" y="20" width="128" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.974;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-31" target="q6xWaygNkAgzFMq6b989-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-33" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="201.47" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6xWaygNkAgzFMq6b989-37" target="q6xWaygNkAgzFMq6b989-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/pod-128.png;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="128" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-38" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Operators&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="97.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-41" value="Read Cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="201.47" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q6xWaygNkAgzFMq6b989-42" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/SSD.svg;" vertex="1" parent="1">
+          <mxGeometry x="481" y="810" width="77" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
