@@ -8,6 +8,7 @@ Includes activities organization, speeches and Program Committees work.
       - **Future**📅🔜 [Kubernetes New Contributor Orientation](https://sched.co/1x5hB) - Paco Xu, DaoCloud; ZhenYu Jiang, Mashang Consumer Finance; Mengjiao Liu, Independent
     - 👥📋 KubeCon Japan as Program Committee Member
       - **Future**📅🔜  
+    - 🎗️🌍 [LFAPAC Evangelist 2025](https://evangelists.linuxfoundation.cn/evangelists)
   - 2024
     - 🤝🎖️ KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**
       - 📺 [Keynote: Kubernetes Community and Cloud Native Activities in China - Paco Xu & Wei Cai](https://www.youtube.com/watch?v=c9YVuEkJGR0)
@@ -21,7 +22,7 @@ Includes activities organization, speeches and Program Committees work.
     - 👥📋 KubeCon India(🇮🇳) as Program Committee Member
     - 👥🎗️ Kubernetes [v1.30 Release Signal Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.30/release-team.md) Lead (2024 Q1)
     - 📺 KCD Shanghai🇨🇳: [Cloud Native Novice & OpenSource Education Track: 01-Kubernetes Contributor Journeys](https://www.bilibili.com/video/BV1nD421T786/?spm_id_from=333.999.0.0) with Nikhita Raghunath & Madhav Jivrajani.
-    - 🎗️🌍 [LFAPAC Evangelist 2024](https://evangelists.linuxfoundation.cn/evangelists)
+    - 🎗️🌍 [LFAPAC Evangelist 2024](https://mp.weixin.qq.com/s/AMyvpOgAWUmWk8PkrrJa6A)
   - 2023
     - 🤝🎖️ KCSNA, Kubernetes [Contributor Award](https://www.kubernetes.dev/community/awards/2023/) 2023: SIG Node.
     - 🎤 OpenAtom Developer Conference Maintainer Track(Wuxi🇨🇳): [Kubernetes WG-LTS Update and Yearly Upgrade Support](https://www.openatom.org/journalism/detail/q8D7Rf8Cioam).
