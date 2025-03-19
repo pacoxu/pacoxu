@@ -3,11 +3,11 @@ Includes activities organization, speeches and Program Committees work.
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
   - 2025
     - 👥📋 KubeCon EU(🏴󠁧󠁢󠁥󠁮󠁧󠁿London) as Program Committee Track Chair
-      - **Future**📅🔜 [A Huge Cluster or Multi-Clusters? Identifying the Bottleneck](https://sched.co/1tx9S) - Paco Xu, DaoCloud & Saiyam Pathak, Loft Labs
+      - **Future**📅🔜 April 3rd: [A Huge Cluster or Multi-Clusters? Identifying the Bottleneck](https://sched.co/1tx9S) - Paco Xu, DaoCloud & Saiyam Pathak, Loft Labs
     - 👥📋 KubeCon China as Program Committee Member
-      - **Future**📅🔜 [Kubernetes New Contributor Orientation](https://sched.co/1x5hB) - Paco Xu, DaoCloud; ZhenYu Jiang, Mashang Consumer Finance; Mengjiao Liu, Independent
+      - **Future**📅🔜 June 10th: [Kubernetes New Contributor Orientation](https://sched.co/1x5hB) - Paco Xu, DaoCloud; ZhenYu Jiang, Mashang Consumer Finance; Mengjiao Liu, Independent
     - 👥📋 KubeCon Japan as Program Committee Member
-      - **Future**📅🔜  [Kubernetes SIG Node Intro and Deep Dive](https://sched.co/1x6zP) - Sergey Kanzhelev & Narang Dixita Sohanlal, Google; Paco Xu, DaoCloud; Hironori Shiina, Independent
+      - **Future**📅🔜 June 16th: [Kubernetes SIG Node Intro and Deep Dive](https://sched.co/1x6zP) - Sergey Kanzhelev & Narang Dixita Sohanlal, Google; Paco Xu, DaoCloud; Hironori Shiina, Independent
     - 🎗️🌍 [LFAPAC Evangelist 2025](https://evangelists.linuxfoundation.cn/evangelists)
   - 2024
     - 🤝🎖️ KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**
