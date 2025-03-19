@@ -7,7 +7,7 @@ Includes activities organization, speeches and Program Committees work.
     - 👥📋 KubeCon China as Program Committee Member
       - **Future**📅🔜 [Kubernetes New Contributor Orientation](https://sched.co/1x5hB) - Paco Xu, DaoCloud; ZhenYu Jiang, Mashang Consumer Finance; Mengjiao Liu, Independent
     - 👥📋 KubeCon Japan as Program Committee Member
-      - **Future**📅🔜  
+      - **Future**📅🔜  [Kubernetes SIG Node Intro and Deep Dive](https://sched.co/1x6zP) - Sergey Kanzhelev & Narang Dixita Sohanlal, Google; Paco Xu, DaoCloud; Hironori Shiina, Independent
     - 🎗️🌍 [LFAPAC Evangelist 2025](https://evangelists.linuxfoundation.cn/evangelists)
   - 2024
     - 🤝🎖️ KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**
