@@ -24,6 +24,7 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="120">
 <img alt="KubeCon EU 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="80">
 <img alt="KubeCon EU 2024 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="80">
+<img alt="KubeCon EU 2025 Speaker" src="https://github.com/user-attachments/assets/9689e028-6bb6-4a00-baa0-5b194bc2ca1c" width="80">
 <img alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08" width="80">
 <img alt="KubeCon Japan 2025 Program Committee" src="https://github.com/user-attachments/assets/03a00792-c302-4c69-b8cb-cdb833d37239" width="80">
 <img alt="KubeCon Japan 2025 Program Committee" src="https://github.com/user-attachments/assets/82000382-6ac0-4c6f-aa29-000246975e16" width="80">
