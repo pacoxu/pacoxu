@@ -2,18 +2,12 @@
 
 Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/button).
   
- 🔭 Working on Kubernetes & Containerd
-- Work in **DaoCloud Enterprise & Open Source Team**: [DCE](https://www.daocloud.io/products/index.html)([d.run](https://d.run/) infra).
-- [Kubernetes Steering](https://github.com/kubernetes/steering) Committee Member
-- [Kubernetes/Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer
-- [Kubernetes/SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer
-- LFAPAC Evangelist
-- Community Activities: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & PC Member & Organizer
-  - **Co-Chair** of KubeCon + CloudNativeCon + OSS + AI_Dev China 2024 🇨🇳🇭🇰 
-  - **Track Chair** of KubeCon NA 2024 SLC🇺🇸 and KubeCon EU 2025 London🇬🇧 in Program Committee
+| 🔭** Working on Kubernetes & Containerd** |  **Event Links & Dates**       | 
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Work in **DaoCloud Enterprise & Open Source Team**: [DCE](https://www.daocloud.io/products/index.html)([d.run](https://d.run/) infra).<br> - [Kubernetes Steering](https://github.com/kubernetes/steering) Committee Member <br> - [Kubernetes/Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer <br> - [Kubernetes/SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer <br> - LFAPAC Evangelist <br><br> **Community Activities**: [KubeCon Speaker](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & PC Member & Organizer <br> - **Co-Chair** of KubeCon + CloudNativeCon + OSS + AI_Dev China 2024 🇨🇳🇭🇰 <br>  - **Track Chair** of KubeCon NA 2024 SLC🇺🇸 and KubeCon EU 2025 London🇬🇧 | 🎥 KubeCon + OSS + AI_dev China 🇨🇳 2024 (Hong Kong🇭🇰): [playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2NcAGHRxgBHY8x3QTfnZQCv)<br>🎤 KCD Beijing 🇨🇳 2025 [Bilibili KCD China](https://space.bilibili.com/1274679632)<br>📅 **KubeCon China 🇨🇳 2025 (Hong Kong🇭🇰)** June 10-11,[Schedule](https://kccncchn2025.sched.com/)<br>📅 KubeCon Japan🇯🇵 2025 (Tokyo🗼) June 16–17, [Schedule](https://kccncjpn2025.sched.com/)<br>📅 KCD Hangzhou 2025 Nov 14th, 2025 <br> 📅 KubeCon North America 2025 🇺🇸 (Atlanta): Nov 10–13 <br> 📅 KubeCon Europe 2026 🇪🇺 (Amsterdam): Mar 23–26 <br> 📅 KubeCon North America 2026 🇺🇸 (**Los Angeles**): Oct 26–29 <br> 📅 KubeCon Europe 2027 🇪🇺 (**Barcelona**): Mar 15–18<br>| 
 
- 🌱 Learning and Sharing
- 🇨🇳 **The only thing that I know is that I know nothing**. 
+🌱 Learning and Sharing 
+🇨🇳 **The only thing that I know is that I know nothing**.
 
 More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
 
