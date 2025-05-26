@@ -37,20 +37,19 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 
 <!--START_SECTION:github_repos-->
 ### The intersted repos
-| ID |                               REPO                               | STARS  | UPDATEDAT  | CREATEDAT  | FORKSCOUNT |                                                DESCRIPTIONS                                                |
-|----|------------------------------------------------------------------|--------|------------|------------|------------|------------------------------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)           | 115283 | 2025-05-23 | 2014-06-06 |      40594 | Production-Grade Container Scheduling and Management                                                       |
-|  2 | [containerd](https://github.com/containerd/containerd)           |  18616 | 2025-05-23 | 2015-11-13 |       3547 | An open and reliable container runtime                                                                     |
-|  3 | [kubeadm](https://github.com/kubernetes/kubeadm)                 |   3846 | 2025-05-21 | 2016-11-22 |        718 | Aggregator for issues filed against kubeadm                                                                |
-|  4 | [kwok](https://github.com/kubernetes-sigs/kwok)                  |   2817 | 2025-05-22 | 2022-07-28 |        225 | Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.                                   |
-|  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)  |    832 | 2025-05-22 | 2021-10-08 |        122 | The Encyclopedia of Kubernetes clusters                                                                    |
-|  6 | [ollama-operator](https://github.com/nekomeowww/ollama-operator) |    188 | 2025-05-21 | 2024-04-10 |         24 | 🚢 Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫   |
-|  7 | [llmaz](https://github.com/InftyAI/llmaz)                        |    177 | 2025-05-22 | 2023-11-20 |         29 | ☸️ Easy, advanced inference platform for large language models on Kubernetes. 🌟 Star to support our work! |
+| ID | REPO | STARS | UPDATEDAT | CREATEDAT | FORKSCOUNT | DESCRIPTIONS |
+|----|------|-------|-----------|-----------|------------|--------------|
 
 
 
 #### Skipped repos
-<!--END_SECTION:github_repos-->
+nekomeowww/ollama-operator
+kubernetes-sigs/kwok
+kubernetes/kubernetes
+containerd/containerd
+kubernetes/kubeadm
+clusterpedia-io/clusterpedia
+InftyAI/llmaz<!--END_SECTION:github_repos-->
 See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 
 ## The repos I created
