@@ -2,6 +2,7 @@ Includes activities organization, speeches and Program Committees work.
 
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
   - 2025
+    - 👥📋 CNCF [TAG Workloads Chair](https://github.com/cncf/toc/issues/1659)
     - 👥📋 KubeCon EU(🏴󠁧󠁢󠁥󠁮󠁧󠁿London) as Program Committee Track Chair
       - [A Huge Cluster or Multi-Clusters? Identifying the Bottleneck](https://www.youtube.com/watch?v=6l5zCt5QsdY) - Paco Xu, DaoCloud & Saiyam Pathak, Loft Labs
     - 👥📋 KubeCon China as Program Committee Member
