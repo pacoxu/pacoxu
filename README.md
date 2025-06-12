@@ -22,6 +22,7 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <img alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08" width="80">
 <img alt="KubeCon Japan 2025 Program Committee" src="https://github.com/user-attachments/assets/03a00792-c302-4c69-b8cb-cdb833d37239" width="80">
 <img alt="KubeCon Japan 2025 Program Committee" src="https://github.com/user-attachments/assets/82000382-6ac0-4c6f-aa29-000246975e16" width="80">
+<img alt="KubeCon China 2025 Speaker" src="https://github.com/user-attachments/assets/936df824-427d-41d4-8527-aef8d56a65c0" width="80">
 <img alt="KubeCon China 2024 Speaker" src="https://github.com/user-attachments/assets/b67e1198-6ca7-4684-b87d-991f68957eee" width="80">
 <img alt="KubeCon China 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="80">
 <img alt="KCD Chengdu 2022 Orginzer(Program Committee)" src="https://github.com/pacoxu/pacoxu/assets/2010320/ec4a7785-216a-456c-ade7-67df2b517bb4" width="80">
