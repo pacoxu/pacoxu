@@ -6,9 +6,8 @@ Includes activities organization, speeches and Program Committees work.
     - 👥📋 KubeCon EU(🏴󠁧󠁢󠁥󠁮󠁧󠁿London) as Program Committee Track Chair
       - [A Huge Cluster or Multi-Clusters? Identifying the Bottleneck](https://www.youtube.com/watch?v=6l5zCt5QsdY) - Paco Xu, DaoCloud & Saiyam Pathak, Loft Labs
     - 👥📋 KubeCon China as Program Committee Member
-      - **Future**📅🔜 June 10th: [Kubernetes New Contributor Orientation](https://sched.co/1x5hB) - Paco Xu, DaoCloud; ZhenYu Jiang, Mashang Consumer Finance; Mengjiao Liu, Independent
+      - June 10th: [Kubernetes New Contributor Orientation](https://www.youtube.com/watch?v=5UABmfrYu9s&list=PLj6h78yzYM2P1xtALqTcCmRAa6142uERl&index=59&t=1294s) - Paco Xu, DaoCloud; ZhenYu Jiang, Mashang Consumer Finance; Mengjiao Liu, Independent
     - 👥📋 KubeCon Japan as Program Committee Member
-      - **Future**📅🔜 June 16th: [Kubernetes SIG Node Intro and Deep Dive](https://sched.co/1x6zP) - Narang Dixita Sohanlal, Google; Paco Xu, DaoCloud; Hironori Shiina, Independent
     - 🎗️🌍 [LFAPAC Evangelist 2025](https://evangelists.linuxfoundation.cn/evangelists)
   - 2024
     - 🤝🎖️ KubeCon + CloudNativeCon + Open Source Summit + AI_Dev China 2024 🇨🇳🇭🇰 **Co-Chair**
