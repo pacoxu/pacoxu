@@ -40,12 +40,12 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 ### The intersted repos
 | ID |                               REPO                               | STARS  | UPDATEDAT  | CREATEDAT  | FORKSCOUNT |                                                DESCRIPTIONS                                                |
 |----|------------------------------------------------------------------|--------|------------|------------|------------|------------------------------------------------------------------------------------------------------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)           | 115952 | 2025-06-26 | 2014-06-06 |      40822 | Production-Grade Container Scheduling and Management                                                       |
-|  2 | [containerd](https://github.com/containerd/containerd)           |  18851 | 2025-06-26 | 2015-11-13 |       3599 | An open and reliable container runtime                                                                     |
-|  3 | [kubeadm](https://github.com/kubernetes/kubeadm)                 |   3866 | 2025-06-26 | 2016-11-22 |        723 | Aggregator for issues filed against kubeadm                                                                |
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)           | 115979 | 2025-06-27 | 2014-06-06 |      40837 | Production-Grade Container Scheduling and Management                                                       |
+|  2 | [containerd](https://github.com/containerd/containerd)           |  18856 | 2025-06-27 | 2015-11-13 |       3600 | An open and reliable container runtime                                                                     |
+|  3 | [kubeadm](https://github.com/kubernetes/kubeadm)                 |   3868 | 2025-06-26 | 2016-11-22 |        723 | Aggregator for issues filed against kubeadm                                                                |
 |  4 | [kwok](https://github.com/kubernetes-sigs/kwok)                  |   2854 | 2025-06-25 | 2022-07-28 |        225 | Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.                                   |
 |  5 | [clusterpedia](https://github.com/clusterpedia-io/clusterpedia)  |    835 | 2025-06-26 | 2021-10-08 |        122 | The Encyclopedia of Kubernetes clusters                                                                    |
-|  6 | [llmaz](https://github.com/InftyAI/llmaz)                        |    208 | 2025-06-25 | 2023-11-20 |         32 | ☸️ Easy, advanced inference platform for large language models on Kubernetes. 🌟 Star to support our work! |
+|  6 | [llmaz](https://github.com/InftyAI/llmaz)                        |    209 | 2025-06-26 | 2023-11-20 |         32 | ☸️ Easy, advanced inference platform for large language models on Kubernetes. 🌟 Star to support our work! |
 |  7 | [ollama-operator](https://github.com/nekomeowww/ollama-operator) |    195 | 2025-06-25 | 2024-04-10 |         24 | 🚢 Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫   |
 
 
