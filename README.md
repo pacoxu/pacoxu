@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=pacoxu)
-
 Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/button).
   
 | 🔭** Working on Kubernetes & Containerd** |  **Event Links & Dates**       | 
@@ -10,8 +8,6 @@ Buy me a soccer⚽️/coffee☕ [Sponsor me](https://github.com/sponsors/pacoxu/
 🇨🇳 **The only thing that I know is that I know nothing**.
 
 More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
-
-![Metrics](https://github.com/pacoxu/pacoxu/blob/master/github-metrics.svg)
 
 <img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="120">
 <img alt="KubeCon EU 2025 Track Chair" src="https://github.com/user-attachments/assets/bc6f5cb3-a7c1-4f09-8e21-52b9c337dc8f" width="120">
@@ -35,6 +31,17 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <!--
 -->
 
+## The repos I created
+
+![Repos I created](https://github-contrib-stats.vercel.app/pacoxu/created.svg?max_repos=4)
+
+
+## The repos I contributed to
+
+![Repos I contributed to](https://github-contrib-stats.vercel.app/pacoxu/contributed.svg?max_repos=10)
+
+![Metrics](https://github.com/pacoxu/pacoxu/blob/master/github-metrics.svg)
+
 
 <!--START_SECTION:github_repos-->
 ### The intersted repos
@@ -49,25 +56,17 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 |  7 | [ollama-operator](https://github.com/nekomeowww/ollama-operator) |    196 | 2025-07-09 | 2024-04-10 |         24 | 🚢 Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫   |
 
 
-
 #### Skipped repos
 <!--END_SECTION:github_repos-->
 See more in https://github.com/pacoxu/github-repos-stats/blob/daocloud/README.md
 
-## The repos I created
+![](https://komarev.com/ghpvc/?username=pacoxu)
 
-![Repos I created](https://github-contrib-stats.vercel.app/pacoxu/created.svg?max_repos=10)
-
-
-## The repos I contributed to
-
-![Repos I contributed to](https://github-contrib-stats.vercel.app/pacoxu/contributed.svg?max_repos=10)
-
+<!--  
 
 <a href="https://pacoxu.wordpress.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pacoxu&show_icons=true" />
 </a>
 
-
-<!--  If a trivial fix such as a broken link, typo, or grammar mistake, review the entire document for other potential mistakes. Do not open multiple PRs for small fixes in the same document.
+If a trivial fix such as a broken link, typo, or grammar mistake, review the entire document for other potential mistakes. Do not open multiple PRs for small fixes in the same document.
 https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#trivial-edits -->
