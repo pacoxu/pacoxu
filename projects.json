@@ -1,12 +1,7 @@
 { 
     "spec": {
         "repos": {
-            "kubernetes/kubernetes": "",
-            "containerd/containerd": "",
-            "kubernetes/kubeadm": "",
             "clusterpedia-io/clusterpedia": "",
-            "InftyAI/llmaz": "",
-            "nekomeowww/ollama-operator": "",
             "kubernetes-sigs/kwok": ""
         }
     },
