@@ -21,6 +21,7 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <img alt="KCD 2024 Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d" width="80">
 <img alt="KubeCon China 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="80">
 <img alt="KubeCon China 2021 Virtual Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/496e7308-d8c9-4f64-81ca-be25552b0916" width="80">
+<img alt="KubeCon EU 2026 Program Committee" src="https://github.com/user-attachments/assets/83754e6b-ee04-4e2d-b0f3-a794ce0a0102" width="80">
 <img alt="KubeCon NA 2025 Program Committee" src="https://github.com/user-attachments/assets/18e85bc5-b982-4f9e-b1ea-1eb7352632f0" width="80">
 <img alt="KubeCon China 2025 Program Committee" src="https://github.com/user-attachments/assets/03a00792-c302-4c69-b8cb-cdb833d37239" width="80">
 <img alt="KubeCon Japan 2025 Program Committee" src="https://github.com/user-attachments/assets/82000382-6ac0-4c6f-aa29-000246975e16" width="80">
