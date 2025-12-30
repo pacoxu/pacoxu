@@ -2,7 +2,10 @@ Includes activities organization, speeches and Program Committees work.
 
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
   - 2025
+    - 📺 KCD Hangzhou 2025: [Keynotes-2 Kubernetes 社区新动向：AI Gateway, Integration 与 Conformance 工作组建立](https://www.bilibili.com/video/BV1LkUYBCEZ1)
+    - 🎙️ 开猿面对面：[对话PacoXu（二）：AI与程序员，云原生与社区，五代史与足球](https://juejin.cn/post/7579921879974117422)
     - 👥📋 CNCF [TAG Workloads Chair](https://github.com/cncf/toc/issues/1659)
+    - 🎡 开源之夏 [基于 KEDA 实现 llmaz Serverless 弹性扩展](https://summer-ospp.ac.cn/)
     - 👥📋 KubeCon EU(🏴󠁧󠁢󠁥󠁮󠁧󠁿London) as Program Committee Track Chair
       - [A Huge Cluster or Multi-Clusters? Identifying the Bottleneck](https://www.youtube.com/watch?v=6l5zCt5QsdY) - Paco Xu, DaoCloud & Saiyam Pathak, Loft Labs
     - 👥📋 KubeCon China as Program Committee Member
