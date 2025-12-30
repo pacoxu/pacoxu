@@ -18,6 +18,7 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <img alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08" width="80">
 <img alt="KubeCon China 2025 Speaker" src="https://github.com/user-attachments/assets/936df824-427d-41d4-8527-aef8d56a65c0" width="80">
 <img alt="KubeCon China 2024 Speaker" src="https://github.com/user-attachments/assets/b67e1198-6ca7-4684-b87d-991f68957eee" width="80">
+<img alt="KCD 2025 Hangzhou speaker" src="https://github.com/user-attachments/assets/38ad9728-55ca-4b58-9b4e-8c56819ecf0c" width="80">
 <img alt="KCD 2024 Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d" width="80">
 <img alt="KubeCon China 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="80">
 <img alt="KubeCon China 2021 Virtual Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/496e7308-d8c9-4f64-81ca-be25552b0916" width="80">
