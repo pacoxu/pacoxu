@@ -1,12 +1,16 @@
 ### Blogs Authored by Me or Related to My Work
 
+- [开猿面对面：对话道客开源负责人PacoXu，Kubernetes全球指导委员会的唯一中国人（一）](https://juejin.cn/post/7579716343454351403)
+- [重新定义大模型智能推理：Volcano社区发起Kthena子项目](https://mp.weixin.qq.com/s/rjD370fBKthGOOX83qpJ9g)
 - [Announcing the 2025 Steering Committee Election Results](https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/) [Mentions]
 - [Kubernetes v1.31: kubeadm v1beta4](https://kubernetes.io/blog/2024/08/23/kubernetes-1-31-kubeadm-v1beta4/) [Author]
+- [Kubernetes v1.30 初探](https://v1-32.docs.kubernetes.io/zh-cn/blog/2024/03/12/kubernetes-1-30-upcoming-changes/) [Translator]
 - [A Quick Recap of 2023 China Kubernetes Contributor Summit](https://kubernetes.io/blog/2023/10/20/kcs-shanghai/) [Author]
 - [Announcing the 2023 Steering Committee Election Results](https://kubernetes.io/blog/2023/10/02/steering-committee-results-2023/) [Mentions]
 - [kubeadm: Use etcd Learner to Join a Control Plane Node Safely](https://kubernetes.io/blog/2023/09/25/kubeadm-use-etcd-learner-mode/) [Author]
 - [Kubernetes 1.27: updates on speeding up Pod startup](https://kubernetes.io/blog/2023/05/15/speed-up-pod-startup/) [Author]
 - [Kubernetes 1.27: Quality-of-Service for Memory Resources (alpha)](https://kubernetes.io/blog/2023/05/05/qos-memory-resources/) [Mentions]
+- [Kubernetes 的容器检查点分析](https://kubernetes.io/zh-cn/blog/2023/03/10/forensic-container-analysis/) [Translator]
 - [DaoCloud Case Study](https://kubernetes.io/case-studies/daocloud/) [Mentions]
 - [Meet Our Contributors - APAC (China region)](https://kubernetes.io/blog/2022/08/15/meet-our-contributors-china-ep-03/) [Mentions]
 - [SIG Node CI Subproject Celebrates Two Years of Test Improvements](https://kubernetes.io/blog/2022/02/16/sig-node-ci-subproject-celebrates/)
