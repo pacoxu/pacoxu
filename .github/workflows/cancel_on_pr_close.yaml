@@ -3,6 +3,7 @@ name: Cancel Running Workflows on PR Close
 on:
   pull_request:
     types: [closed]
+    
 
 jobs:
   cancel-running-workflows:
