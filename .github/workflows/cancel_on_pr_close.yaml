@@ -7,9 +7,8 @@ on:
 jobs:
   cancel-running-workflows:
     runs-on: ubuntu-latest
-
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Cancel workflows for this PR
         uses: rokroskar/workflow-run-cleanup-action@v0.3.3
-        with:
-          token: ${{ github.token }}
