@@ -1,0 +1,26 @@
+name: PR Sleep Test
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    # "synchronize" ensures that new pushes to the PR trigger a new run
+
+concurrency:
+  group: "pr-${{ github.event.pull_request.number }}"
+  cancel-in-progress: true
+
+jobs:
+  sleep_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Print starting
+        run: echo "Sleeping for 600 seconds for testing..."
+
+      - name: Sleep 600 seconds
+        run: sleep 600
+
+      - name: Finished
+        run: echo "Done sleeping"
