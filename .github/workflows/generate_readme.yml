@@ -1,0 +1,47 @@
+name: Generate Blog README
+
+on:
+  workflow_dispatch:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - main.py
+
+jobs:
+  sync:
+    name: Generate README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    if: github.repository_owner_id == github.event.issue.user.id || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate new md
+        run: |
+          python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+
+      - name: Push README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add BACKUP/*.md feed.xml || true
+          git commit -a -m 'update blog' || echo "nothing to commit"
+          git push || echo "nothing to push"
