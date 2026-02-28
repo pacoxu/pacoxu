@@ -1,4 +1,584 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/pacoxu/pacoxu</id><title>RSS feed of pacoxu's pacoxu</title><updated>2026-02-28T06:54:41.486565+00:00</updated><author><name>pacoxu</name></author><link href="https://github.com/pacoxu/pacoxu"/><link href="https://raw.githubusercontent.com/pacoxu/pacoxu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/pacoxu/pacoxu/issues/12</id><title>[Test] Kubernetes Pod Startup Speed Optimization Guide</title><updated>2026-02-28T06:54:41.788425+00:00</updated><content type="html"><![CDATA[<p><a href="https://pacoxu.wordpress.com/2026/01/30/kubernetes-pod-startup-speed-optimization-guide/">https://pacoxu.wordpress.com/2026/01/30/kubernetes-pod-startup-speed-optimization-guide/</a></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/pacoxu/pacoxu</id><title>RSS feed of pacoxu's pacoxu</title><updated>2026-02-28T06:57:04.177297+00:00</updated><author><name>pacoxu</name></author><link href="https://github.com/pacoxu/pacoxu"/><link href="https://raw.githubusercontent.com/pacoxu/pacoxu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/pacoxu/pacoxu/issues/13</id><title>Add a travel map for the github blog</title><updated>2026-02-28T06:57:04.477477+00:00</updated><content type="html"><![CDATA[<ul>
+<li>添加交互式地图页面展示去过的地方</li>
+<li>使用 react-leaflet 和 OpenStreetMap</li>
+<li>支持点击标记查看地点详细信息（名称、国家、访问时间、备注）</li>
+<li>在导航栏添加&quot;足迹&quot;链接</li>
+</ul>
+<p>map.html 内容</p>
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;zh-CN&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot; /&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+  &lt;title&gt;行万里路 - Paco 的足迹地图&lt;/title&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.9.4/dist/leaflet.css&quot; /&gt;
+  &lt;style&gt;
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif; background: #f5f5f5; }
+    nav {
+      background: #2c3e50;
+      color: white;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      height: 48px;
+    }
+    nav .brand { font-size: 1rem; font-weight: bold; color: white; text-decoration: none; }
+    nav a {
+      color: #bdc3c7;
+      text-decoration: none;
+      font-size: 0.875rem;
+      padding: 4px 8px;
+      border-radius: 4px;
+      transition: background 0.2s;
+    }
+    nav a:hover { background: rgba(255,255,255,0.1); color: white; }
+    nav a.active { color: white; background: rgba(255,255,255,0.15); }
+    #subheader {
+      background: #34495e;
+      color: #ecf0f1;
+      padding: 10px 24px;
+      font-size: 0.82rem;
+    }
+    #map { height: calc(100vh - 118px); width: 100%; }
+    #legend {
+      background: white;
+      padding: 8px 16px;
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      font-size: 0.8rem;
+      border-top: 1px solid #ddd;
+      align-items: center;
+    }
+    #legend span { display: flex; align-items: center; gap: 6px; }
+    .legend-dot { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+    .popup-wrap { min-width: 180px; }
+    .popup-title { font-weight: bold; font-size: 1rem; margin-bottom: 6px; }
+    .popup-row {
+      display: flex; gap: 6px; font-size: 0.82rem;
+      color: #444; margin-bottom: 3px; align-items: flex-start;
+    }
+    .popup-label { color: #888; white-space: nowrap; flex-shrink: 0; }
+    .popup-category { font-size: 0.75rem; margin-top: 6px; padding-top: 6px; border-top: 1px solid #eee; }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;nav&gt;
+    &lt;a class=&quot;brand&quot; href=&quot;../README.md&quot;&gt;🌐 Paco Agents&lt;/a&gt;
+    &lt;a href=&quot;../travels/History.md&quot;&gt;旅行记录&lt;/a&gt;
+    &lt;a href=&quot;#&quot; class=&quot;active&quot;&gt;🗺️ 足迹&lt;/a&gt;
+  &lt;/nav&gt;
+  &lt;div id=&quot;subheader&quot;&gt;行万里路 · Travel Footprint Map &amp;nbsp;|&amp;nbsp; 点击标记查看详情&lt;/div&gt;
+  &lt;div id=&quot;map&quot;&gt;&lt;/div&gt;
+  &lt;div id=&quot;legend&quot;&gt;
+    &lt;strong&gt;图例：&lt;/strong&gt;
+    &lt;span&gt;&lt;span class=&quot;legend-dot&quot; style=&quot;background:#e74c3c;&quot;&gt;&lt;/span&gt;居住地&lt;/span&gt;
+    &lt;span&gt;&lt;span class=&quot;legend-dot&quot; style=&quot;background:#3498db;&quot;&gt;&lt;/span&gt;国内旅行&lt;/span&gt;
+    &lt;span&gt;&lt;span class=&quot;legend-dot&quot; style=&quot;background:#9b59b6;&quot;&gt;&lt;/span&gt;国际旅行&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;script src=&quot;https://unpkg.com/leaflet@1.9.4/dist/leaflet.js&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+    const map = L.map(&#x27;map&#x27;).setView([35, 105], 4);
+
+    L.tileLayer(&#x27;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#x27;, {
+      attribution: &#x27;© &lt;a href=&quot;https://www.openstreetmap.org/copyright&quot;&gt;OpenStreetMap&lt;/a&gt; contributors&#x27;,
+      maxZoom: 18
+    }).addTo(map);
+
+    // Categories: &quot;home&quot; = residence, &quot;domestic&quot; = domestic travel, &quot;international&quot; = international travel
+    const COLORS = { home: &#x27;#e74c3c&#x27;, domestic: &#x27;#3498db&#x27;, international: &#x27;#9b59b6&#x27; };
+
+    function makeIcon(color) {
+      const svg = `&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;36&quot; viewBox=&quot;0 0 24 36&quot;&gt;
+        &lt;path d=&quot;M12 0C5.4 0 0 5.4 0 12c0 9 12 24 12 24s12-15 12-24C24 5.4 18.6 0 12 0z&quot;
+              fill=&quot;${color}&quot; stroke=&quot;white&quot; stroke-width=&quot;1.5&quot;/&gt;
+        &lt;circle cx=&quot;12&quot; cy=&quot;12&quot; r=&quot;5&quot; fill=&quot;white&quot;/&gt;
+      &lt;/svg&gt;`;
+      return L.divIcon({
+        html: svg,
+        iconSize: [24, 36],
+        iconAnchor: [12, 36],
+        popupAnchor: [0, -36],
+        className: &#x27;&#x27;
+      });
+    }
+
+    // Each place: name, lat, lng, country, firstVisitDate, notes, category
+    const places = [
+      // Residences
+      {
+        name: &#x27;泗水&#x27;, lat: 35.6413, lng: 117.2514,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;1990&#x27;,
+        notes: &#x27;故乡，成长之地，胡家小学/泗水六中&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;济宁&#x27;, lat: 35.4154, lng: 116.5871,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2004&#x27;,
+        notes: &#x27;高中就读（育才中学），15-17岁&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;南京&#x27;, lat: 32.0584, lng: 118.7965,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2006-12&#x27;,
+        notes: &#x27;南京大学 本科+研究生，18-23岁。玄武湖/雨花台/中山陵&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;上海&#x27;, lat: 31.2304, lng: 121.4737,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2011-03&#x27;,
+        notes: &#x27;工作定居，24岁至今。EMC → DaoCloud&#x27;,
+        category: &#x27;home&#x27;
+      },
+      // Domestic travel
+      {
+        name: &#x27;潍坊&#x27;, lat: 36.7059, lng: 119.1616,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2020-10&#x27;,
+        notes: &#x27;老婆家（大家洼），多次往来&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;青岛&#x27;, lat: 36.0671, lng: 120.3826,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2025-07&#x27;,
+        notes: &#x27;八大关/五四广场&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;烟台乳山&#x27;, lat: 36.9198, lng: 121.5298,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2008-08&#x27;,
+        notes: &#x27;乳山银滩，暑期旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;威海（山大分校）&#x27;, lat: 37.5298, lng: 122.0574,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2008-08&#x27;,
+        notes: &#x27;山东大学威海分校，暑假旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;北京&#x27;, lat: 39.9042, lng: 116.4074,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;1999&#x27;,
+        notes: &#x27;多次到访：天安门/故宫/香山/八达岭长城/自主招生等&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;天津&#x27;, lat: 39.3434, lng: 117.3616,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2000&#x27;,
+        notes: &#x27;姨姥家/舅舅姨家&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;济南&#x27;, lat: 36.6512, lng: 117.1201,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;1999&#x27;,
+        notes: &#x27;自主招生考试 + 多次旅行：大明湖/趵突泉&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;苏州&#x27;, lat: 31.2983, lng: 120.5832,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2011-03&#x27;,
+        notes: &#x27;多次旅行：寒山寺/诚品书店&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;杭州&#x27;, lat: 30.2741, lng: 120.1551,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2021-06&#x27;,
+        notes: &#x27;多次旅行：西湖/灵隐寺&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;三亚&#x27;, lat: 18.2524, lng: 109.5118,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2026-01&#x27;,
+        notes: &#x27;2026年寒假旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;福州&#x27;, lat: 26.0745, lng: 119.2965,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2026-01&#x27;,
+        notes: &#x27;2026年寒假旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;香港&#x27;, lat: 22.3193, lng: 114.1694,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2024-08&#x27;,
+        notes: &#x27;KubeCon China 2024/2025；迪士尼&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;西宁&#x27;, lat: 36.6171, lng: 101.7782,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2021-05&#x27;,
+        notes: &#x27;毕业旅行：青海湖骑行/茶卡盐湖/青海博物馆&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;桂林&#x27;, lat: 25.2736, lng: 110.2906,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2021-06&#x27;,
+        notes: &#x27;毕业旅行：漓江山水&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;成都&#x27;, lat: 30.5728, lng: 104.0668,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2022-11&#x27;,
+        notes: &#x27;KCD 成都 2022&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;重庆&#x27;, lat: 29.5630, lng: 106.5516,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2017-10&#x27;,
+        notes: &#x27;2017年旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;西安&#x27;, lat: 34.3416, lng: 108.9398,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2017-10&#x27;,
+        notes: &#x27;2017年旅行：西安博物馆/大明宫&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;兰州&#x27;, lat: 36.0611, lng: 103.8343,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2017-10&#x27;,
+        notes: &#x27;2017年旅行：中山桥&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;武汉&#x27;, lat: 30.5928, lng: 114.3055,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2017-10&#x27;,
+        notes: &#x27;2017年旅行：黄鹤楼&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;长沙&#x27;, lat: 28.2282, lng: 112.9388,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;岳麓书院旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;昆明&#x27;, lat: 25.0390, lng: 102.7183,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;滇池旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;大理&#x27;, lat: 25.5987, lng: 100.2679,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;苍山洱海旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;张家界&#x27;, lat: 29.1170, lng: 110.4793,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;天门山旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;临沂&#x27;, lat: 35.1043, lng: 118.3565,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;1999&#x27;,
+        notes: &#x27;蒙山旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;泰安&#x27;, lat: 36.2045, lng: 117.0870,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;1999&#x27;,
+        notes: &#x27;泰山/岱庙旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;新泰&#x27;, lat: 35.9095, lng: 117.7580,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2003&#x27;,
+        notes: &#x27;小学时考察私立高中&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;邹城&#x27;, lat: 35.4051, lng: 116.9649,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;孟府孟庙旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;曲阜&#x27;, lat: 35.5963, lng: 116.9864,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;三孔旅行：孔庙/孔府/孔林&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;菏泽&#x27;, lat: 35.2333, lng: 115.4813,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2008&#x27;,
+        notes: &#x27;大学同学家，途经许昌南街村考察&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;许昌&#x27;, lat: 34.0224, lng: 113.8558,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2008&#x27;,
+        notes: &#x27;许昌南街村考察&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;扬州&#x27;, lat: 32.3943, lng: 119.4137,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2008&#x27;,
+        notes: &#x27;大一学院春游：珍珠泉/瘦西湖&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;西塘&#x27;, lat: 30.9533, lng: 120.8861,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2009&#x27;,
+        notes: &#x27;大二秋游：西塘古镇&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;黄山&#x27;, lat: 29.7148, lng: 118.3385,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2012-12&#x27;,
+        notes: &#x27;黄山/宏村旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;绍兴&#x27;, lat: 29.9996, lng: 120.5817,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2014&#x27;,
+        notes: &#x27;EMC工作期间旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;焦作/云台山&#x27;, lat: 35.2154, lng: 113.2419,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2014&#x27;,
+        notes: &#x27;河南云台山旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;千岛湖&#x27;, lat: 29.6050, lng: 119.0393,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2014&#x27;,
+        notes: &#x27;千岛湖旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;合肥&#x27;, lat: 31.8201, lng: 117.2272,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2014&#x27;,
+        notes: &#x27;EMC工作期间旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;镇江&#x27;, lat: 32.1894, lng: 119.4248,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2014&#x27;,
+        notes: &#x27;北固亭/看球赛&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;无锡&#x27;, lat: 31.4912, lng: 120.3119,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2014-05&#x27;,
+        notes: &#x27;太湖/三国城；2023年开放原子开发者大会&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;桐庐&#x27;, lat: 29.7933, lng: 119.6910,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2018&#x27;,
+        notes: &#x27;2018年旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;烟台&#x27;, lat: 37.4638, lng: 121.4479,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2021-04&#x27;,
+        notes: &#x27;烟台辛安，姑姑家，多次往来&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;海阳市辛安镇&#x27;, lat: 36.7428, lng: 121.2469,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2021-04&#x27;,
+        notes: &#x27;姑姑家，多次往来&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;广州&#x27;, lat: 23.1291, lng: 113.2644,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;2025-01&#x27;,
+        notes: &#x27;广州塔&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;宁波&#x27;, lat: 29.8683, lng: 121.5440,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;南通&#x27;, lat: 32.0122, lng: 120.8946,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;恩施&#x27;, lat: 30.3016, lng: 109.4845,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;厦门&#x27;, lat: 24.4798, lng: 118.0894,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      // 上海周边
+      {
+        name: &#x27;崇明东平森林公园&#x27;, lat: 31.6268, lng: 121.4124,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;崇明岛，上海周边旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;海昌海洋公园&#x27;, lat: 30.9012, lng: 121.9133,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;临港新城，上海周边旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;朱家角&#x27;, lat: 31.1127, lng: 121.0575,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;青浦区古镇，上海周边旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;上海对外经贸大学松江校区&#x27;, lat: 31.0186, lng: 121.2260,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;松江大学城&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;虹口足球场&#x27;, lat: 31.2694, lng: 121.4905,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;虹口区，看足球&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;吴淞口&#x27;, lat: 31.3920, lng: 121.5045,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;宝山区，吴淞炮台湾国家湿地公园&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;上海体育馆&#x27;, lat: 31.1833, lng: 121.4376,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;徐汇区，看演出/赛事&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      {
+        name: &#x27;上海共青森林公园&#x27;, lat: 31.3003, lng: 121.5352,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;杨浦区，上海周边旅行&#x27;,
+        category: &#x27;domestic&#x27;
+      },
+      // 公司和租房
+      {
+        name: &#x27;祁连山南路地铁站&#x27;, lat: 31.3082, lng: 121.3836,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;普陀区，租房/上班附近&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;翔殷路地铁站&#x27;, lat: 31.2836, lng: 121.5339,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;杨浦区，租房/上班附近&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;市光路地铁站&#x27;, lat: 31.2919, lng: 121.5347,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;杨浦区，租房/上班附近&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;上海财经大学&#x27;, lat: 31.2972, lng: 121.5072,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;杨浦区，附近工作/生活&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;上海大学&#x27;, lat: 31.3375, lng: 121.3946,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;宝山区，附近工作/生活&#x27;,
+        category: &#x27;home&#x27;
+      },
+      {
+        name: &#x27;南陈路地铁站&#x27;, lat: 31.2009, lng: 121.4139,
+        country: &#x27;中国&#x27;, firstVisitDate: &#x27;&#x27;,
+        notes: &#x27;徐汇区，租房/上班附近&#x27;,
+        category: &#x27;home&#x27;
+      },
+      // International travel
+      {
+        name: &#x27;阿姆斯特丹&#x27;, lat: 52.3676, lng: 4.9041,
+        country: &#x27;荷兰&#x27;, firstVisitDate: &#x27;2023-04&#x27;,
+        notes: &#x27;KubeCon Europe 2023&#x27;,
+        category: &#x27;international&#x27;
+      },
+      {
+        name: &#x27;巴黎&#x27;, lat: 48.8566, lng: 2.3522,
+        country: &#x27;法国&#x27;, firstVisitDate: &#x27;2024-03&#x27;,
+        notes: &#x27;KubeCon Europe 2024&#x27;,
+        category: &#x27;international&#x27;
+      },
+      {
+        name: &#x27;伦敦&#x27;, lat: 51.5074, lng: -0.1278,
+        country: &#x27;英国&#x27;, firstVisitDate: &#x27;2025-04&#x27;,
+        notes: &#x27;KubeCon Europe 2025&#x27;,
+        category: &#x27;international&#x27;
+      },
+      {
+        name: &#x27;大阪&#x27;, lat: 34.6937, lng: 135.5022,
+        country: &#x27;日本&#x27;, firstVisitDate: &#x27;2019-12&#x27;,
+        notes: &#x27;环球影城/大阪城&#x27;,
+        category: &#x27;international&#x27;
+      },
+      {
+        name: &#x27;神户&#x27;, lat: 34.6901, lng: 135.1956,
+        country: &#x27;日本&#x27;, firstVisitDate: &#x27;2019-12&#x27;,
+        notes: &#x27;神户海洋馆&#x27;,
+        category: &#x27;international&#x27;
+      },
+      {
+        name: &#x27;京都&#x27;, lat: 35.0116, lng: 135.7681,
+        country: &#x27;日本&#x27;, firstVisitDate: &#x27;2019-12&#x27;,
+        notes: &#x27;伏见稻荷&#x27;,
+        category: &#x27;international&#x27;
+      },
+      {
+        name: &#x27;奈良&#x27;, lat: 34.6851, lng: 135.8050,
+        country: &#x27;日本&#x27;, firstVisitDate: &#x27;2019-12&#x27;,
+        notes: &#x27;奈良公园/东大寺&#x27;,
+        category: &#x27;international&#x27;
+      },
+      {
+        name: &#x27;东京&#x27;, lat: 35.6762, lng: 139.6503,
+        country: &#x27;日本&#x27;, firstVisitDate: &#x27;2020-01&#x27;,
+        notes: &#x27;东京塔/国立竞技场&#x27;,
+        category: &#x27;international&#x27;
+      }
+    ];
+
+    const categoryLabels = { home: &#x27;居住地&#x27;, domestic: &#x27;国内旅行&#x27;, international: &#x27;国际旅行&#x27; };
+
+    places.forEach(p =&gt; {
+      const icon = makeIcon(COLORS[p.category]);
+      const marker = L.marker([p.lat, p.lng], { icon }).addTo(map);
+      const dateRow = p.firstVisitDate
+        ? `&lt;div class=&quot;popup-row&quot;&gt;&lt;span class=&quot;popup-label&quot;&gt;首访：&lt;/span&gt;&lt;span&gt;${p.firstVisitDate}&lt;/span&gt;&lt;/div&gt;`
+        : &#x27;&#x27;;
+      const notesRow = p.notes
+        ? `&lt;div class=&quot;popup-row&quot;&gt;&lt;span class=&quot;popup-label&quot;&gt;备注：&lt;/span&gt;&lt;span&gt;${p.notes}&lt;/span&gt;&lt;/div&gt;`
+        : &#x27;&#x27;;
+      marker.bindPopup(`
+        &lt;div class=&quot;popup-wrap&quot;&gt;
+          &lt;div class=&quot;popup-title&quot;&gt;${p.name}&lt;/div&gt;
+          &lt;div class=&quot;popup-row&quot;&gt;&lt;span class=&quot;popup-label&quot;&gt;国家/地区：&lt;/span&gt;&lt;span&gt;${p.country}&lt;/span&gt;&lt;/div&gt;
+          ${dateRow}
+          ${notesRow}
+          &lt;div class=&quot;popup-category&quot; style=&quot;color:${COLORS[p.category]}&quot;&gt;● ${categoryLabels[p.category]}&lt;/div&gt;
+        &lt;/div&gt;
+      `);
+    });
+  &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+]]></content><link href="https://github.com/pacoxu/pacoxu/issues/13"/><published>2026-02-28T06:56:46+00:00</published></entry><entry><id>https://github.com/pacoxu/pacoxu/issues/12</id><title>[Test] Kubernetes Pod Startup Speed Optimization Guide</title><updated>2026-02-28T06:57:04.610566+00:00</updated><content type="html"><![CDATA[<p><a href="https://pacoxu.wordpress.com/2026/01/30/kubernetes-pod-startup-speed-optimization-guide/">https://pacoxu.wordpress.com/2026/01/30/kubernetes-pod-startup-speed-optimization-guide/</a></p>
 <p>(for test)</p>
 ]]></content><link href="https://github.com/pacoxu/pacoxu/issues/12"/><published>2026-02-28T06:44:12+00:00</published></entry></feed>
