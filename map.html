@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>行万里路 - Paco 的足迹地图</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #f5f5f5; }
+    nav {
+      background: #2c3e50;
+      color: white;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      height: 48px;
+    }
+    nav .brand { font-size: 1rem; font-weight: bold; color: white; text-decoration: none; }
+    nav a {
+      color: #bdc3c7;
+      text-decoration: none;
+      font-size: 0.875rem;
+      padding: 4px 8px;
+      border-radius: 4px;
+      transition: background 0.2s;
+    }
+    nav a:hover { background: rgba(255,255,255,0.1); color: white; }
+    nav a.active { color: white; background: rgba(255,255,255,0.15); }
+    #subheader {
+      background: #34495e;
+      color: #ecf0f1;
+      padding: 10px 24px;
+      font-size: 0.82rem;
+    }
+    #map { height: calc(100vh - 118px); width: 100%; }
+    #legend {
+      background: white;
+      padding: 8px 16px;
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      font-size: 0.8rem;
+      border-top: 1px solid #ddd;
+      align-items: center;
+    }
+    #legend span { display: flex; align-items: center; gap: 6px; }
+    .legend-dot { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+    .popup-wrap { min-width: 180px; }
+    .popup-title { font-weight: bold; font-size: 1rem; margin-bottom: 6px; }
+    .popup-row {
+      display: flex; gap: 6px; font-size: 0.82rem;
+      color: #444; margin-bottom: 3px; align-items: flex-start;
+    }
+    .popup-label { color: #888; white-space: nowrap; flex-shrink: 0; }
+    .popup-category { font-size: 0.75rem; margin-top: 6px; padding-top: 6px; border-top: 1px solid #eee; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="brand" href="README.md">🌐 Paco Agents</a>
+    <a href="travels/History.md">旅行记录</a>
+    <a href="#" class="active">🗺️ 足迹</a>
+  </nav>
+  <div id="subheader">行万里路 · Travel Footprint Map &nbsp;|&nbsp; 点击标记查看详情</div>
+  <div id="map"></div>
+  <div id="legend">
+    <strong>图例：</strong>
+    <span><span class="legend-dot" style="background:#e74c3c;"></span>居住地</span>
+    <span><span class="legend-dot" style="background:#3498db;"></span>国内旅行</span>
+    <span><span class="legend-dot" style="background:#9b59b6;"></span>国际旅行</span>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([35, 105], 4);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 18
+    }).addTo(map);
+
+    // Categories: "home" = residence, "domestic" = domestic travel, "international" = international travel
+    const COLORS = { home: '#e74c3c', domestic: '#3498db', international: '#9b59b6' };
+
+    function makeIcon(color) {
+      const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="36" viewBox="0 0 24 36">
+        <path d="M12 0C5.4 0 0 5.4 0 12c0 9 12 24 12 24s12-15 12-24C24 5.4 18.6 0 12 0z"
+              fill="${color}" stroke="white" stroke-width="1.5"/>
+        <circle cx="12" cy="12" r="5" fill="white"/>
+      </svg>`;
+      return L.divIcon({
+        html: svg,
+        iconSize: [24, 36],
+        iconAnchor: [12, 36],
+        popupAnchor: [0, -36],
+        className: ''
+      });
+    }
+
+    // Each place: name, lat, lng, country, firstVisitDate, notes, category
+    const places = [
+      // Residences
+      {
+        name: '泗水', lat: 35.6413, lng: 117.2514,
+        country: '中国', firstVisitDate: '1990',
+        notes: '故乡，成长之地，胡家小学/泗水六中',
+        category: 'home'
+      },
+      {
+        name: '济宁', lat: 35.4154, lng: 116.5871,
+        country: '中国', firstVisitDate: '2004',
+        notes: '高中就读（育才中学），15-17岁',
+        category: 'home'
+      },
+      {
+        name: '南京', lat: 32.0584, lng: 118.7965,
+        country: '中国', firstVisitDate: '2006-12',
+        notes: '南京大学 本科+研究生，18-23岁。玄武湖/雨花台/中山陵',
+        category: 'home'
+      },
+      {
+        name: '上海', lat: 31.2304, lng: 121.4737,
+        country: '中国', firstVisitDate: '2011-03',
+        notes: '工作定居，24岁至今。EMC → DaoCloud',
+        category: 'home'
+      },
+      // Domestic travel
+      {
+        name: '潍坊', lat: 36.7059, lng: 119.1616,
+        country: '中国', firstVisitDate: '2020-10',
+        notes: '老婆家（大家洼），多次往来',
+        category: 'domestic'
+      },
+      {
+        name: '青岛', lat: 36.0671, lng: 120.3826,
+        country: '中国', firstVisitDate: '2025-07',
+        notes: '八大关/五四广场',
+        category: 'domestic'
+      },
+      {
+        name: '烟台乳山', lat: 36.9198, lng: 121.5298,
+        country: '中国', firstVisitDate: '2008-08',
+        notes: '乳山银滩，暑期旅行',
+        category: 'domestic'
+      },
+      {
+        name: '威海（山大分校）', lat: 37.5298, lng: 122.0574,
+        country: '中国', firstVisitDate: '2008-08',
+        notes: '山东大学威海分校，暑假旅行',
+        category: 'domestic'
+      },
+      {
+        name: '北京', lat: 39.9042, lng: 116.4074,
+        country: '中国', firstVisitDate: '1999',
+        notes: '多次到访：天安门/故宫/香山/八达岭长城/自主招生等',
+        category: 'domestic'
+      },
+      {
+        name: '天津', lat: 39.3434, lng: 117.3616,
+        country: '中国', firstVisitDate: '2000',
+        notes: '姨姥家/舅舅姨家',
+        category: 'domestic'
+      },
+      {
+        name: '济南', lat: 36.6512, lng: 117.1201,
+        country: '中国', firstVisitDate: '1999',
+        notes: '自主招生考试 + 多次旅行：大明湖/趵突泉',
+        category: 'domestic'
+      },
+      {
+        name: '苏州', lat: 31.2983, lng: 120.5832,
+        country: '中国', firstVisitDate: '2011-03',
+        notes: '多次旅行：寒山寺/诚品书店',
+        category: 'domestic'
+      },
+      {
+        name: '杭州', lat: 30.2741, lng: 120.1551,
+        country: '中国', firstVisitDate: '2021-06',
+        notes: '多次旅行：西湖/灵隐寺',
+        category: 'domestic'
+      },
+      {
+        name: '三亚', lat: 18.2524, lng: 109.5118,
+        country: '中国', firstVisitDate: '2026-01',
+        notes: '2026年寒假旅行',
+        category: 'domestic'
+      },
+      {
+        name: '福州', lat: 26.0745, lng: 119.2965,
+        country: '中国', firstVisitDate: '2026-01',
+        notes: '2026年寒假旅行',
+        category: 'domestic'
+      },
+      {
+        name: '香港', lat: 22.3193, lng: 114.1694,
+        country: '中国', firstVisitDate: '2024-08',
+        notes: 'KubeCon China 2024/2025；迪士尼',
+        category: 'domestic'
+      },
+      {
+        name: '西宁', lat: 36.6171, lng: 101.7782,
+        country: '中国', firstVisitDate: '2021-05',
+        notes: '毕业旅行：青海湖骑行/茶卡盐湖/青海博物馆',
+        category: 'domestic'
+      },
+      {
+        name: '桂林', lat: 25.2736, lng: 110.2906,
+        country: '中国', firstVisitDate: '2021-06',
+        notes: '毕业旅行：漓江山水',
+        category: 'domestic'
+      },
+      {
+        name: '成都', lat: 30.5728, lng: 104.0668,
+        country: '中国', firstVisitDate: '2022-11',
+        notes: 'KCD 成都 2022',
+        category: 'domestic'
+      },
+      {
+        name: '重庆', lat: 29.5630, lng: 106.5516,
+        country: '中国', firstVisitDate: '2017-10',
+        notes: '2017年旅行',
+        category: 'domestic'
+      },
+      {
+        name: '西安', lat: 34.3416, lng: 108.9398,
+        country: '中国', firstVisitDate: '2017-10',
+        notes: '2017年旅行：西安博物馆/大明宫',
+        category: 'domestic'
+      },
+      {
+        name: '兰州', lat: 36.0611, lng: 103.8343,
+        country: '中国', firstVisitDate: '2017-10',
+        notes: '2017年旅行：中山桥',
+        category: 'domestic'
+      },
+      {
+        name: '武汉', lat: 30.5928, lng: 114.3055,
+        country: '中国', firstVisitDate: '2017-10',
+        notes: '2017年旅行：黄鹤楼',
+        category: 'domestic'
+      },
+      {
+        name: '长沙', lat: 28.2282, lng: 112.9388,
+        country: '中国', firstVisitDate: '',
+        notes: '岳麓书院旅行',
+        category: 'domestic'
+      },
+      {
+        name: '昆明', lat: 25.0390, lng: 102.7183,
+        country: '中国', firstVisitDate: '',
+        notes: '滇池旅行',
+        category: 'domestic'
+      },
+      {
+        name: '大理', lat: 25.5987, lng: 100.2679,
+        country: '中国', firstVisitDate: '',
+        notes: '苍山洱海旅行',
+        category: 'domestic'
+      },
+      {
+        name: '张家界', lat: 29.1170, lng: 110.4793,
+        country: '中国', firstVisitDate: '',
+        notes: '天门山旅行',
+        category: 'domestic'
+      },
+      {
+        name: '临沂', lat: 35.1043, lng: 118.3565,
+        country: '中国', firstVisitDate: '1999',
+        notes: '蒙山旅行',
+        category: 'domestic'
+      },
+      {
+        name: '泰安', lat: 36.2045, lng: 117.0870,
+        country: '中国', firstVisitDate: '1999',
+        notes: '泰山/岱庙旅行',
+        category: 'domestic'
+      },
+      {
+        name: '新泰', lat: 35.9095, lng: 117.7580,
+        country: '中国', firstVisitDate: '2003',
+        notes: '小学时考察私立高中',
+        category: 'domestic'
+      },
+      {
+        name: '邹城', lat: 35.4051, lng: 116.9649,
+        country: '中国', firstVisitDate: '',
+        notes: '孟府孟庙旅行',
+        category: 'domestic'
+      },
+      {
+        name: '曲阜', lat: 35.5963, lng: 116.9864,
+        country: '中国', firstVisitDate: '',
+        notes: '三孔旅行：孔庙/孔府/孔林',
+        category: 'domestic'
+      },
+      {
+        name: '菏泽', lat: 35.2333, lng: 115.4813,
+        country: '中国', firstVisitDate: '2008',
+        notes: '大学同学家，途经许昌南街村考察',
+        category: 'domestic'
+      },
+      {
+        name: '许昌', lat: 34.0224, lng: 113.8558,
+        country: '中国', firstVisitDate: '2008',
+        notes: '许昌南街村考察',
+        category: 'domestic'
+      },
+      {
+        name: '扬州', lat: 32.3943, lng: 119.4137,
+        country: '中国', firstVisitDate: '2008',
+        notes: '大一学院春游：珍珠泉/瘦西湖',
+        category: 'domestic'
+      },
+      {
+        name: '西塘', lat: 30.9533, lng: 120.8861,
+        country: '中国', firstVisitDate: '2009',
+        notes: '大二秋游：西塘古镇',
+        category: 'domestic'
+      },
+      {
+        name: '黄山', lat: 29.7148, lng: 118.3385,
+        country: '中国', firstVisitDate: '2012-12',
+        notes: '黄山/宏村旅行',
+        category: 'domestic'
+      },
+      {
+        name: '绍兴', lat: 29.9996, lng: 120.5817,
+        country: '中国', firstVisitDate: '2014',
+        notes: 'EMC工作期间旅行',
+        category: 'domestic'
+      },
+      {
+        name: '焦作/云台山', lat: 35.2154, lng: 113.2419,
+        country: '中国', firstVisitDate: '2014',
+        notes: '河南云台山旅行',
+        category: 'domestic'
+      },
+      {
+        name: '千岛湖', lat: 29.6050, lng: 119.0393,
+        country: '中国', firstVisitDate: '2014',
+        notes: '千岛湖旅行',
+        category: 'domestic'
+      },
+      {
+        name: '合肥', lat: 31.8201, lng: 117.2272,
+        country: '中国', firstVisitDate: '2014',
+        notes: 'EMC工作期间旅行',
+        category: 'domestic'
+      },
+      {
+        name: '镇江', lat: 32.1894, lng: 119.4248,
+        country: '中国', firstVisitDate: '2014',
+        notes: '北固亭/看球赛',
+        category: 'domestic'
+      },
+      {
+        name: '无锡', lat: 31.4912, lng: 120.3119,
+        country: '中国', firstVisitDate: '2014-05',
+        notes: '太湖/三国城；2023年开放原子开发者大会',
+        category: 'domestic'
+      },
+      {
+        name: '桐庐', lat: 29.7933, lng: 119.6910,
+        country: '中国', firstVisitDate: '2018',
+        notes: '2018年旅行',
+        category: 'domestic'
+      },
+      {
+        name: '烟台', lat: 37.4638, lng: 121.4479,
+        country: '中国', firstVisitDate: '2021-04',
+        notes: '烟台辛安，姑姑家，多次往来',
+        category: 'domestic'
+      },
+      {
+        name: '海阳市辛安镇', lat: 36.7428, lng: 121.2469,
+        country: '中国', firstVisitDate: '2021-04',
+        notes: '姑姑家，多次往来',
+        category: 'domestic'
+      },
+      {
+        name: '广州', lat: 23.1291, lng: 113.2644,
+        country: '中国', firstVisitDate: '2025-01',
+        notes: '广州塔',
+        category: 'domestic'
+      },
+      {
+        name: '宁波', lat: 29.8683, lng: 121.5440,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行',
+        category: 'domestic'
+      },
+      {
+        name: '南通', lat: 32.0122, lng: 120.8946,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行',
+        category: 'domestic'
+      },
+      {
+        name: '恩施', lat: 30.3016, lng: 109.4845,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行',
+        category: 'domestic'
+      },
+      {
+        name: '厦门', lat: 24.4798, lng: 118.0894,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行',
+        category: 'domestic'
+      },
+      // 上海周边
+      {
+        name: '崇明东平森林公园', lat: 31.6268, lng: 121.4124,
+        country: '中国', firstVisitDate: '',
+        notes: '崇明岛，上海周边旅行',
+        category: 'domestic'
+      },
+      {
+        name: '海昌海洋公园', lat: 30.9012, lng: 121.9133,
+        country: '中国', firstVisitDate: '',
+        notes: '临港新城，上海周边旅行',
+        category: 'domestic'
+      },
+      {
+        name: '朱家角', lat: 31.1127, lng: 121.0575,
+        country: '中国', firstVisitDate: '',
+        notes: '青浦区古镇，上海周边旅行',
+        category: 'domestic'
+      },
+      {
+        name: '上海对外经贸大学松江校区', lat: 31.0186, lng: 121.2260,
+        country: '中国', firstVisitDate: '',
+        notes: '松江大学城',
+        category: 'domestic'
+      },
+      {
+        name: '虹口足球场', lat: 31.2694, lng: 121.4905,
+        country: '中国', firstVisitDate: '',
+        notes: '虹口区，看足球',
+        category: 'domestic'
+      },
+      {
+        name: '吴淞口', lat: 31.3920, lng: 121.5045,
+        country: '中国', firstVisitDate: '',
+        notes: '宝山区，吴淞炮台湾国家湿地公园',
+        category: 'domestic'
+      },
+      {
+        name: '上海体育馆', lat: 31.1833, lng: 121.4376,
+        country: '中国', firstVisitDate: '',
+        notes: '徐汇区，看演出/赛事',
+        category: 'domestic'
+      },
+      {
+        name: '上海共青森林公园', lat: 31.3003, lng: 121.5352,
+        country: '中国', firstVisitDate: '',
+        notes: '杨浦区，上海周边旅行',
+        category: 'domestic'
+      },
+      // 公司和租房
+      {
+        name: '祁连山南路地铁站', lat: 31.3082, lng: 121.3836,
+        country: '中国', firstVisitDate: '',
+        notes: '普陀区，租房/上班附近',
+        category: 'home'
+      },
+      {
+        name: '翔殷路地铁站', lat: 31.2836, lng: 121.5339,
+        country: '中国', firstVisitDate: '',
+        notes: '杨浦区，租房/上班附近',
+        category: 'home'
+      },
+      {
+        name: '市光路地铁站', lat: 31.2919, lng: 121.5347,
+        country: '中国', firstVisitDate: '',
+        notes: '杨浦区，租房/上班附近',
+        category: 'home'
+      },
+      {
+        name: '上海财经大学', lat: 31.2972, lng: 121.5072,
+        country: '中国', firstVisitDate: '',
+        notes: '杨浦区，附近工作/生活',
+        category: 'home'
+      },
+      {
+        name: '上海大学', lat: 31.3375, lng: 121.3946,
+        country: '中国', firstVisitDate: '',
+        notes: '宝山区，附近工作/生活',
+        category: 'home'
+      },
+      {
+        name: '南陈路地铁站', lat: 31.2009, lng: 121.4139,
+        country: '中国', firstVisitDate: '',
+        notes: '徐汇区，租房/上班附近',
+        category: 'home'
+      },
+      // International travel
+      {
+        name: '阿姆斯特丹', lat: 52.3676, lng: 4.9041,
+        country: '荷兰', firstVisitDate: '2023-04',
+        notes: 'KubeCon Europe 2023',
+        category: 'international'
+      },
+      {
+        name: '巴黎', lat: 48.8566, lng: 2.3522,
+        country: '法国', firstVisitDate: '2024-03',
+        notes: 'KubeCon Europe 2024',
+        category: 'international'
+      },
+      {
+        name: '伦敦', lat: 51.5074, lng: -0.1278,
+        country: '英国', firstVisitDate: '2025-04',
+        notes: 'KubeCon Europe 2025',
+        category: 'international'
+      },
+      {
+        name: '大阪', lat: 34.6937, lng: 135.5022,
+        country: '日本', firstVisitDate: '2019-12',
+        notes: '环球影城/大阪城',
+        category: 'international'
+      },
+      {
+        name: '神户', lat: 34.6901, lng: 135.1956,
+        country: '日本', firstVisitDate: '2019-12',
+        notes: '神户海洋馆',
+        category: 'international'
+      },
+      {
+        name: '京都', lat: 35.0116, lng: 135.7681,
+        country: '日本', firstVisitDate: '2019-12',
+        notes: '伏见稻荷',
+        category: 'international'
+      },
+      {
+        name: '奈良', lat: 34.6851, lng: 135.8050,
+        country: '日本', firstVisitDate: '2019-12',
+        notes: '奈良公园/东大寺',
+        category: 'international'
+      },
+      {
+        name: '东京', lat: 35.6762, lng: 139.6503,
+        country: '日本', firstVisitDate: '2020-01',
+        notes: '东京塔/国立竞技场',
+        category: 'international'
+      }
+    ];
+
+    const categoryLabels = { home: '居住地', domestic: '国内旅行', international: '国际旅行' };
+
+    places.forEach(p => {
+      const icon = makeIcon(COLORS[p.category]);
+      const marker = L.marker([p.lat, p.lng], { icon }).addTo(map);
+      const dateRow = p.firstVisitDate
+        ? `<div class="popup-row"><span class="popup-label">首访：</span><span>${p.firstVisitDate}</span></div>`
+        : '';
+      const notesRow = p.notes
+        ? `<div class="popup-row"><span class="popup-label">备注：</span><span>${p.notes}</span></div>`
+        : '';
+      marker.bindPopup(`
+        <div class="popup-wrap">
+          <div class="popup-title">${p.name}</div>
+          <div class="popup-row"><span class="popup-label">国家/地区：</span><span>${p.country}</span></div>
+          ${dateRow}
+          ${notesRow}
+          <div class="popup-category" style="color:${COLORS[p.category]}">● ${categoryLabels[p.category]}</div>
+        </div>
+      `);
+    });
+  </script>
+</body>
+</html>
