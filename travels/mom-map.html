@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>行万里路 - 妈妈的足迹地图</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #f5f5f5; }
+    nav {
+      background: #2c3e50;
+      color: white;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      height: 48px;
+    }
+    nav .brand { font-size: 1rem; font-weight: bold; color: white; text-decoration: none; }
+    nav a {
+      color: #bdc3c7;
+      text-decoration: none;
+      font-size: 0.875rem;
+      padding: 4px 8px;
+      border-radius: 4px;
+      transition: background 0.2s;
+    }
+    nav a:hover { background: rgba(255,255,255,0.1); color: white; }
+    nav a.active { color: white; background: rgba(255,255,255,0.15); }
+    #subheader {
+      background: #34495e;
+      color: #ecf0f1;
+      padding: 10px 24px;
+      font-size: 0.82rem;
+    }
+    #map { height: calc(100vh - 118px); width: 100%; }
+    #legend {
+      background: white;
+      padding: 8px 16px;
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      font-size: 0.8rem;
+      border-top: 1px solid #ddd;
+      align-items: center;
+    }
+    #legend span { display: flex; align-items: center; gap: 6px; }
+    .legend-dot { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+    .popup-wrap { min-width: 180px; }
+    .popup-title { font-weight: bold; font-size: 1rem; margin-bottom: 6px; }
+    .popup-row {
+      display: flex; gap: 6px; font-size: 0.82rem;
+      color: #444; margin-bottom: 3px; align-items: flex-start;
+    }
+    .popup-label { color: #888; white-space: nowrap; flex-shrink: 0; }
+    .popup-category { font-size: 0.75rem; margin-top: 6px; padding-top: 6px; border-top: 1px solid #eee; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="brand" href="../README.md">🌐 Paco Agents</a>
+    <a href="../travels/History.md">旅行记录</a>
+    <a href="map.html">🗺️ Paco 的足迹</a>
+    <a href="dad-map.html">🗺️ 爸爸的足迹</a>
+    <a href="#" class="active">🗺️ 妈妈的足迹</a>
+    <a href="cherry-map.html">🗺️ Cherry 的足迹</a>
+    <a href="daughter-map.html">🗺️ 小豹子的足迹</a>
+  </nav>
+  <div id="subheader">行万里路 · 妈妈的足迹地图 &nbsp;|&nbsp; 点击标记查看详情</div>
+  <div id="map"></div>
+  <div id="legend">
+    <strong>图例：</strong>
+    <span><span class="legend-dot" style="background:#e74c3c;"></span>居住地</span>
+    <span><span class="legend-dot" style="background:#3498db;"></span>旅行/工作</span>
+    <span><span class="legend-dot" style="background:#9b59b6;"></span>国际旅行</span>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([35.5, 116], 5);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 18
+    }).addTo(map);
+
+    // Categories: "home" = residence, "travel" = travel/work, "international" = international travel
+    const COLORS = { home: '#e74c3c', travel: '#3498db', international: '#9b59b6' };
+
+    function makeIcon(color) {
+      const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="36" viewBox="0 0 24 36">
+        <path d="M12 0C5.4 0 0 5.4 0 12c0 9 12 24 12 24s12-15 12-24C24 5.4 18.6 0 12 0z"
+              fill="${color}" stroke="white" stroke-width="1.5"/>
+        <circle cx="12" cy="12" r="5" fill="white"/>
+      </svg>`;
+      return L.divIcon({
+        html: svg,
+        iconSize: [24, 36],
+        iconAnchor: [12, 36],
+        popupAnchor: [0, -36],
+        className: ''
+      });
+    }
+
+    // Each place: name, lat, lng, country, firstVisitDate, notes, category
+    const places = [
+      // Residence
+      {
+        name: '泗水', lat: 35.6413, lng: 117.2514,
+        country: '中国', firstVisitDate: '',
+        notes: '老家，出生成长之地',
+        category: 'home'
+      },
+      // Travel / work
+      {
+        name: '邹城', lat: 35.4051, lng: 116.9649,
+        country: '中国', firstVisitDate: '',
+        notes: '造蛋糕',
+        category: 'travel'
+      },
+      {
+        name: '济宁', lat: 35.4154, lng: 116.5871,
+        country: '中国', firstVisitDate: '',
+        notes: '动物园',
+        category: 'travel'
+      },
+      {
+        name: '济南', lat: 36.6512, lng: 117.1201,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行走亲戚',
+        category: 'travel'
+      },
+      {
+        name: '曲阜', lat: 35.5963, lng: 116.9864,
+        country: '中国', firstVisitDate: '',
+        notes: '爬山走亲戚',
+        category: 'travel'
+      },
+      {
+        name: '北京', lat: 39.9042, lng: 116.4074,
+        country: '中国', firstVisitDate: '',
+        notes: '儿子自主招生',
+        category: 'travel'
+      },
+      {
+        name: '青海湖/茶卡盐湖', lat: 36.9302, lng: 100.5170,
+        country: '中国', firstVisitDate: '',
+        notes: '保险公司旅行',
+        category: 'travel'
+      },
+      {
+        name: '杭州', lat: 30.2741, lng: 120.1551,
+        country: '中国', firstVisitDate: '',
+        notes: '家人旅行',
+        category: 'travel'
+      },
+      {
+        name: '临沂', lat: 35.1043, lng: 118.3565,
+        country: '中国', firstVisitDate: '',
+        notes: '蒙山旅行',
+        category: 'travel'
+      },
+      {
+        name: '牡丹江', lat: 44.5827, lng: 129.6108,
+        country: '中国', firstVisitDate: '',
+        notes: '黑龙江，走亲戚',
+        category: 'travel'
+      },
+      {
+        name: '哈尔滨', lat: 45.8038, lng: 126.5349,
+        country: '中国', firstVisitDate: '',
+        notes: '保险公司旅行',
+        category: 'travel'
+      },
+      {
+        name: '香港', lat: 22.3193, lng: 114.1694,
+        country: '中国', firstVisitDate: '',
+        notes: '保险公司旅行',
+        category: 'travel'
+      },
+      {
+        name: '澳门', lat: 22.1987, lng: 113.5439,
+        country: '中国', firstVisitDate: '',
+        notes: '保险公司旅行',
+        category: 'travel'
+      },
+      {
+        name: '重庆', lat: 29.5630, lng: 106.5516,
+        country: '中国', firstVisitDate: '',
+        notes: '保险公司开会',
+        category: 'travel'
+      },
+      {
+        name: '平顶山', lat: 33.7659, lng: 113.2990,
+        country: '中国', firstVisitDate: '',
+        notes: '钙片销售',
+        category: 'travel'
+      },
+      {
+        name: '漯河', lat: 33.5706, lng: 114.0164,
+        country: '中国', firstVisitDate: '',
+        notes: '钙片销售',
+        category: 'travel'
+      },
+      {
+        name: '宁波', lat: 29.8683, lng: 121.5440,
+        country: '中国', firstVisitDate: '',
+        notes: '钙片销售',
+        category: 'travel'
+      },
+      {
+        name: '天津', lat: 39.3434, lng: 117.3616,
+        country: '中国', firstVisitDate: '',
+        notes: '姐姐家',
+        category: 'travel'
+      },
+      {
+        name: '潍坊', lat: 36.7059, lng: 119.1616,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行',
+        category: 'travel'
+      },
+      {
+        name: '丽水', lat: 28.4680, lng: 119.9229,
+        country: '中国', firstVisitDate: '',
+        notes: '钙片销售',
+        category: 'travel'
+      },
+      {
+        name: '驻马店', lat: 33.0114, lng: 113.9630,
+        country: '中国', firstVisitDate: '',
+        notes: '钙片销售',
+        category: 'travel'
+      },
+      {
+        name: '信阳', lat: 32.1285, lng: 114.0671,
+        country: '中国', firstVisitDate: '',
+        notes: '钙片销售',
+        category: 'travel'
+      },
+      {
+        name: '三亚', lat: 18.2524, lng: 109.5117,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行',
+        category: 'travel'
+      },
+      {
+        name: '张家界', lat: 29.1168, lng: 110.4790,
+        country: '中国', firstVisitDate: '',
+        notes: '旅行',
+        category: 'travel'
+      },
+      // International travel
+      {
+        name: '莫斯科', lat: 55.7558, lng: 37.6173,
+        country: '俄罗斯', firstVisitDate: '',
+        notes: '保险公司旅行',
+        category: 'international'
+      },
+      {
+        name: '河内', lat: 21.0285, lng: 105.8542,
+        country: '越南', firstVisitDate: '',
+        notes: '保险公司旅行',
+        category: 'international'
+      }
+    ];
+
+    const categoryLabels = { home: '居住地', travel: '旅行/工作', international: '国际旅行' };
+
+    places.forEach(p => {
+      const icon = makeIcon(COLORS[p.category]);
+      const marker = L.marker([p.lat, p.lng], { icon }).addTo(map);
+      const dateRow = p.firstVisitDate
+        ? `<div class="popup-row"><span class="popup-label">首访：</span><span>${p.firstVisitDate}</span></div>`
+        : '';
+      const notesRow = p.notes
+        ? `<div class="popup-row"><span class="popup-label">备注：</span><span>${p.notes}</span></div>`
+        : '';
+      marker.bindPopup(`
+        <div class="popup-wrap">
+          <div class="popup-title">${p.name}</div>
+          <div class="popup-row"><span class="popup-label">国家/地区：</span><span>${p.country}</span></div>
+          ${dateRow}
+          ${notesRow}
+          <div class="popup-category" style="color:${COLORS[p.category]}">● ${categoryLabels[p.category]}</div>
+        </div>
+      `);
+    });
+  </script>
+</body>
+</html>
