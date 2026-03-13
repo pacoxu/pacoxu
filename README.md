@@ -4,7 +4,7 @@
 
 🇨🇳 **The only thing that I know is that I know nothing**.
 
-More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
+More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md), [my talks](https://github.com/pacoxu/talks/blob/main/README_zh.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
 
 <img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="120">
 <img alt="KubeCon EU 2025 Track Chair" src="https://github.com/user-attachments/assets/bc6f5cb3-a7c1-4f09-8e21-52b9c337dc8f" width="120">
