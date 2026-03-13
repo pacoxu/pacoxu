@@ -49,5 +49,5 @@ Blog posts are managed via [GitHub Issues](https://github.com/pacoxu/pacoxu/issu
 [RSS Feed](https://raw.githubusercontent.com/pacoxu/pacoxu/master/feed.xml)
 
 ## 最近更新
-- [Add a travel map for the github blog](https://github.com/pacoxu/pacoxu/issues/13)--2026-02-28
+- [Add a link to https://github.com/pacoxu/talks/blob/main/README_zh.md](https://github.com/pacoxu/pacoxu/issues/15)--2026-03-13
 - [[Test] Kubernetes Pod Startup Speed Optimization Guide](https://github.com/pacoxu/pacoxu/issues/12)--2026-02-28
