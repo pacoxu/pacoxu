@@ -1,5 +1,8 @@
 ### Blogs Authored by Me or Related to My Work
 
+- [Kubernetes v1.36：控制器陈旧性缓解与可观测性](https://github.com/pacoxu/website/blob/v1.36-fine-grained-kubelet-auth/content/zh-cn/blog/_posts/2026/staleness-mitigation-for-controllers.md) [Translator]
+- [Kubernetes v1.36：挂起 Job 的可变 Pod 资源升级到 Beta](https://github.com/pacoxu/website/blob/v1.36-fine-grained-kubelet-auth/content/zh-cn/blog/_posts/2026/mutable-pod-resources-for-suspended-jobs.md) [Translator]
+- [Kubernetes v1.36：细粒度 kubelet API 授权正式发布](https://github.com/pacoxu/website/blob/v1.36-fine-grained-kubelet-auth/content/zh-cn/blog/_posts/2026/fine-grained-kubelet-authz.md) [Translator]
 - [开猿面对面：对话道客开源负责人PacoXu，Kubernetes全球指导委员会的唯一中国人（一）](https://juejin.cn/post/7579716343454351403)
 - [重新定义大模型智能推理：Volcano社区发起Kthena子项目](https://mp.weixin.qq.com/s/rjD370fBKthGOOX83qpJ9g)
 - [Announcing the 2025 Steering Committee Election Results](https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/) [Mentions]
