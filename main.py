@@ -2,6 +2,7 @@
 import argparse
 import os
 import re
+from datetime import datetime, timezone
 
 import markdown
 from feedgen.feed import FeedGenerator
@@ -11,13 +12,21 @@ from marko.ext.gfm import gfm as marko
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
+BLOG_LABELS = ["Blog"]
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]
 ABOUT_LABELS = ["About"]
 THINGS_LABELS = ["Things"]
+BLOG_PUBLISHED_PATTERN = re.compile(
+    r"<!--\s*BLOG_PUBLISHED:\s*(?P<value>.*?)\s*-->", re.IGNORECASE
+)
+BLOG_SOURCE_URL_PATTERN = re.compile(
+    r"<!--\s*BLOG_SOURCE_URL:\s*(?P<value>.*?)\s*-->", re.IGNORECASE
+)
 IGNORE_LABELS = (
-    FRIENDS_LABELS
+    BLOG_LABELS
+    + FRIENDS_LABELS
     + TOP_ISSUES_LABELS
     + TODO_ISSUES_LABELS
     + ABOUT_LABELS
@@ -84,6 +93,53 @@ def format_time(time):
     return str(time)[:10]
 
 
+def parse_blog_metadata(body):
+    body = body or ""
+    published_match = BLOG_PUBLISHED_PATTERN.search(body)
+    source_url_match = BLOG_SOURCE_URL_PATTERN.search(body)
+    return {
+        "published": published_match.group("value") if published_match else "",
+        "source_url": source_url_match.group("value") if source_url_match else "",
+    }
+
+
+def get_issue_published_at(issue):
+    metadata = parse_blog_metadata(issue.body)
+    published = metadata["published"]
+    if published:
+        try:
+            return datetime.fromisoformat(published)
+        except ValueError:
+            pass
+    created_at = issue.created_at
+    if created_at.tzinfo is None:
+        created_at = created_at.replace(tzinfo=timezone.utc)
+    return created_at
+
+
+def get_issue_source_url(issue):
+    return parse_blog_metadata(issue.body)["source_url"]
+
+
+def get_issue_display_time(issue):
+    return format_time(get_issue_published_at(issue).date())
+
+
+def is_blog_issue(issue, me):
+    if issue.pull_request or not is_me(issue, me):
+        return False
+    label_names = {label.name for label in issue.labels}
+    return BLOG_LABELS[0] in label_names
+
+
+def sort_issues_by_published_at_desc(issues):
+    return sorted(
+        issues,
+        key=lambda issue: (get_issue_published_at(issue), issue.number),
+        reverse=True,
+    )
+
+
 def login(token):
     return Github(token)
 
@@ -106,7 +162,7 @@ def parse_TODO(issue):
 
 
 def get_top_issues(repo):
-    return repo.get_issues(labels=TOP_ISSUES_LABELS)
+    return repo.get_issues(labels=TOP_ISSUES_LABELS, state="all")
 
 
 def get_todo_issues(repo):
@@ -117,12 +173,19 @@ def get_repo_labels(repo):
     return [l for l in repo.get_labels()]
 
 
-def get_issues_from_label(repo, label):
-    return repo.get_issues(labels=(label,))
+def get_issues_from_label(repo, label, state="open"):
+    return repo.get_issues(labels=(label,), state=state)
+
+
+def get_blog_issues(repo, me, state="all"):
+    issues = get_issues_from_label(repo, BLOG_LABELS[0], state=state)
+    return sort_issues_by_published_at_desc(
+        [issue for issue in issues if is_blog_issue(issue, me)]
+    )
 
 
 def add_issue_info(issue, md):
-    time = format_time(issue.created_at)
+    time = get_issue_display_time(issue)
     md.write(f"- [{issue.title}]({issue.html_url})--{time}\n")
 
 
@@ -143,14 +206,15 @@ def add_md_todo(repo, md, me):
 
 
 def add_md_top(repo, md, me):
-    top_issues = list(get_top_issues(repo))
+    top_issues = [
+        issue for issue in list(get_top_issues(repo)) if is_blog_issue(issue, me)
+    ]
     if not TOP_ISSUES_LABELS or not top_issues:
         return
     with open(md, "a+", encoding="utf-8") as md:
         md.write("## 置顶文章\n")
-        for issue in top_issues:
-            if is_me(issue, me):
-                add_issue_info(issue, md)
+        for issue in sort_issues_by_published_at_desc(top_issues):
+            add_issue_info(issue, md)
 
 
 def add_md_friends(repo, md, me):
@@ -183,17 +247,12 @@ def add_md_friends(repo, md, me):
 def add_md_recent(repo, md, me, limit=5):
     count = 0
     with open(md, "a+", encoding="utf-8") as md:
-        # one the issue that only one issue and delete (pyGitHub raise an exception)
-        try:
-            md.write("## 最近更新\n")
-            for issue in repo.get_issues(sort="created", direction="desc"):
-                if is_me(issue, me):
-                    add_issue_info(issue, md)
-                    count += 1
-                    if count >= limit:
-                        break
-        except Exception as e:
-            print(str(e))
+        md.write("## 最近更新\n")
+        for issue in get_blog_issues(repo, me)[:limit]:
+            add_issue_info(issue, md)
+            count += 1
+            if count >= limit:
+                break
 
 
 def add_md_header(md, repo_name):
@@ -233,20 +292,19 @@ def add_md_label(repo, md, me):
             if label.name in IGNORE_LABELS:
                 continue
 
-            issues = get_issues_from_label(repo, label)
-            issues = list(sorted(issues, key=lambda x: x.created_at, reverse=True))
+            issues = get_issues_from_label(repo, label, state="all")
+            issues = sort_issues_by_published_at_desc(
+                [issue for issue in issues if is_blog_issue(issue, me)]
+            )
             if len(issues) != 0:
                 md.write("## " + label.name + "\n\n")
             i = 0
             for issue in issues:
-                if not issue:
-                    continue
-                if is_me(issue, me):
-                    if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
-                        md.write("\n")
-                    add_issue_info(issue, md)
-                    i += 1
+                if i == ANCHOR_NUMBER:
+                    md.write("<details><summary>显示更多</summary>\n")
+                    md.write("\n")
+                add_issue_info(issue, md)
+                i += 1
             if i > ANCHOR_NUMBER:
                 md.write("</details>\n")
                 md.write("\n")
@@ -259,12 +317,12 @@ def get_to_generate_issues(repo, dir_name, issue_number=None):
     ]
     to_generate_issues = [
         i
-        for i in list(repo.get_issues())
+        for i in list(repo.get_issues(labels=BLOG_LABELS, state="all"))
         if int(i.number) not in generated_issues_numbers
     ]
     if issue_number:
         to_generate_issues.append(repo.get_issue(int(issue_number)))
-    return to_generate_issues
+    return sort_issues_by_published_at_desc(to_generate_issues)
 
 
 def generate_rss_feed(repo, filename, me):
@@ -279,15 +337,17 @@ def generate_rss_feed(repo, filename, me):
         href=f"https://raw.githubusercontent.com/{repo.full_name}/master/{filename}",
         rel="self",
     )
-    for issue in repo.get_issues():
-        if not issue.body or not is_me(issue, me) or issue.pull_request:
+    for issue in reversed(get_blog_issues(repo, me)):
+        if not issue.body:
             continue
         item = generator.add_entry(order="append")
         item.id(issue.html_url)
         item.link(href=issue.html_url)
         item.title(issue.title)
-        item.published(issue.created_at.strftime("%Y-%m-%dT%H:%M:%SZ"))
+        item.published(get_issue_published_at(issue).isoformat())
         for label in issue.labels:
+            if label.name == BLOG_LABELS[0]:
+                continue
             item.category({"term": label.name})
         body = "".join(c for c in issue.body if _valid_xml_char_ordinal(c))
         item.content(CDATA(marko.convert(body)), type="html")

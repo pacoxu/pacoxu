@@ -44,6 +44,6 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 
 ## My Blog
 
-Blog posts are managed via [GitHub Issues](https://github.com/pacoxu/pacoxu/issues). Create a new issue to write a blog post.
+Blog posts are managed via [GitHub Issues](https://github.com/pacoxu/pacoxu/issues). Create a new issue with the `Blog` label to publish a blog post.
 
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
