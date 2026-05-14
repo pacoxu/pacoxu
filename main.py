@@ -11,6 +11,11 @@ from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
 BACKUP_DIR = "BACKUP"
+README_FILE = "README.md"
+BLOG_LIST_FILE = "blog-list.md"
+README_TEMPLATE_FILE = "README_TEMPLATE.md"
+BLOG_LIST_TEMPLATE_FILE = "BLOG_LIST_TEMPLATE.md"
+BLOG_LIST_APPENDIX_FILE = "BLOG_LIST_APPENDIX.md"
 ANCHOR_NUMBER = 5
 BLOG_LABELS = ["Blog"]
 TOP_ISSUES_LABELS = ["Top"]
@@ -255,8 +260,7 @@ def add_md_recent(repo, md, me, limit=5):
                 break
 
 
-def add_md_header(md, repo_name):
-    template_file = "README_TEMPLATE.md"
+def write_md_from_template(md, repo_name, template_file, fallback):
     if os.path.exists(template_file):
         with open(template_file, "r", encoding="utf-8") as f:
             header = f.read()
@@ -265,10 +269,21 @@ def add_md_header(md, repo_name):
             out.write("\n")
     else:
         with open(md, "w", encoding="utf-8") as out:
-            out.write(
-                f"## My Blog\n\nBlog posts via [GitHub Issues](https://github.com/{repo_name}/issues).\n"
-                f"[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)\n\n"
-            )
+            out.write(fallback.format(repo_name=repo_name))
+            out.write("\n")
+
+
+def append_markdown_file(md, source_file):
+    if not os.path.exists(source_file):
+        return
+    with open(source_file, "r", encoding="utf-8") as source:
+        content = source.read().strip()
+    if not content:
+        return
+    with open(md, "a+", encoding="utf-8") as out:
+        out.write("\n")
+        out.write(content)
+        out.write("\n")
 
 
 def add_md_label(repo, md, me):
@@ -354,14 +369,44 @@ def generate_rss_feed(repo, filename, me):
     generator.atom_file(filename)
 
 
+def generate_profile_readme(repo_name):
+    write_md_from_template(
+        README_FILE,
+        repo_name,
+        README_TEMPLATE_FILE,
+        (
+            "## My Blog\n\n"
+            "The full archive lives in [blog-list.md](https://github.com/{repo_name}/blob/master/blog-list.md).\n\n"
+            "[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)\n"
+        ),
+    )
+
+
+def generate_blog_list(repo, repo_name, me):
+    write_md_from_template(
+        BLOG_LIST_FILE,
+        repo_name,
+        BLOG_LIST_TEMPLATE_FILE,
+        (
+            "# My Blog\n\n"
+            "The full archive lives here so the profile README can stay focused.\n\n"
+            "- [Back to profile](https://github.com/{repo_name})\n"
+            "- [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)\n"
+            "- [GitHub Issues](https://github.com/{repo_name}/issues)\n\n"
+            "Blog posts are managed via GitHub Issues. Create a new issue with the `Blog` label to publish a blog post.\n"
+        ),
+    )
+    for func in [add_md_top, add_md_recent, add_md_label]:
+        func(repo, BLOG_LIST_FILE, me)
+    append_markdown_file(BLOG_LIST_FILE, BLOG_LIST_APPENDIX_FILE)
+
+
 def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     user = login(token)
     me = get_me(user)
     repo = get_repo(user, repo_name)
-    # add to readme one by one, change order here
-    add_md_header("README.md", repo_name)
-    for func in [add_md_friends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
-        func(repo, "README.md", me)
+    generate_profile_readme(repo_name)
+    generate_blog_list(repo, repo_name, me)
 
     generate_rss_feed(repo, "feed.xml", me)
     to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
