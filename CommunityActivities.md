@@ -1,6 +1,11 @@
 Includes activities organization, speeches and Program Committees work.
 
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
+  - 2026
+    - 🎙️ [KCD Beijing & vLLM Day 2026](https://sessionize.com/kcd-beijing-2026/) Speaker
+    - 👥📋 KubeCon EU(🇳🇱Amsterdam) as Program Committee Member
+    - 👥📋 KubeCon Japan(🇯🇵Yokohama) as Program Committee Member
+    - 👥📋 [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/) as Program Committee Member and upcoming Speaker
   - 2025
     - 📺 KCD Hangzhou 2025: [Keynotes-2 Kubernetes 社区新动向：AI Gateway, Integration 与 Conformance 工作组建立](https://www.bilibili.com/video/BV1LkUYBCEZ1)
     - 🎙️ 开猿面对面：[对话PacoXu（二）：AI与程序员，云原生与社区，五代史与足球](https://juejin.cn/post/7579921879974117422)
@@ -41,4 +46,3 @@ Includes activities organization, speeches and Program Committees work.
     - 🏅 KCSNA, Kubernetes [Contributor Award](https://www.kubernetes.dev/community/awards/2021/) 2021: SIG Cluster Lifecycle and SIG Cli.
     - 📺 KCD Shanghai🇨🇳: [Kubeadm & SIG Node Intro and How to Contribute](https://github.com/cncf/presentations/tree/main/chinese/kcd-shanghai)
 - New/Old interests:  DRA & eBPF & CoreDNS
-
