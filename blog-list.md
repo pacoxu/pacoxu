@@ -14,7 +14,6 @@ Blog posts are managed via [GitHub Issues](https://github.com/pacoxu/pacoxu/issu
 - [2025年终小结](https://github.com/pacoxu/pacoxu/issues/82)--2025-12-25
 - [Agones: Kubernetes-Native Game Server Hosting](https://github.com/pacoxu/pacoxu/issues/81)--2025-12-09
 - [How to choose the inference orchestration solution? AIBrix or Kthena or Dynamo?](https://github.com/pacoxu/pacoxu/issues/80)--2025-12-03
-
 ## 未分类
 
 - [One Diagram for Model Distribution: Hugging Face, MatrixHub, Harbor, Dragonfly, ModelPack, and ModelExpress](https://github.com/pacoxu/pacoxu/issues/84)--2026-04-28
@@ -84,19 +83,16 @@ Blog posts are managed via [GitHub Issues](https://github.com/pacoxu/pacoxu/issu
 
 - [［瓦伦本土射手］帕科 vs 比利亚 vs 索尔达多 vs 内格雷多](https://github.com/pacoxu/pacoxu/issues/26)--2015-12-31
 - [帕科 阿尔卡塞尔（Paco Alcácer）](https://github.com/pacoxu/pacoxu/issues/23)--2015-10-10
-
 ## 生活
 
 - [2024年年终小节](https://github.com/pacoxu/pacoxu/issues/71)--2025-02-11
 - [旅游Plan](https://github.com/pacoxu/pacoxu/issues/22)--2015-10-04
-
 ## 西甲
 
 - [万达西班牙计划后续](https://github.com/pacoxu/pacoxu/issues/46)--2016-11-22
 - [About the leave of Paco Alcacer](https://github.com/pacoxu/pacoxu/issues/37)--2016-08-26
 - [［瓦伦本土射手］帕科 vs 比利亚 vs 索尔达多 vs 内格雷多](https://github.com/pacoxu/pacoxu/issues/26)--2015-12-31
 - [帕科 阿尔卡塞尔（Paco Alcácer）](https://github.com/pacoxu/pacoxu/issues/23)--2015-10-10
-
 ## 足球
 
 - [万达西班牙计划后续](https://github.com/pacoxu/pacoxu/issues/46)--2016-11-22
@@ -109,11 +105,9 @@ Blog posts are managed via [GitHub Issues](https://github.com/pacoxu/pacoxu/issu
 - [贴吧那点事blabla](https://github.com/pacoxu/pacoxu/issues/20)--2015-09-30
 </details>
 
+
 ## Related Writing Elsewhere
 
-- [Kubernetes v1.36：控制器陈旧性缓解与可观测性](https://github.com/pacoxu/website/blob/v1.36-fine-grained-kubelet-auth/content/zh-cn/blog/_posts/2026/staleness-mitigation-for-controllers.md) [Translator]
-- [Kubernetes v1.36：挂起 Job 的可变 Pod 资源升级到 Beta](https://github.com/pacoxu/website/blob/v1.36-fine-grained-kubelet-auth/content/zh-cn/blog/_posts/2026/mutable-pod-resources-for-suspended-jobs.md) [Translator]
-- [Kubernetes v1.36：细粒度 kubelet API 授权正式发布](https://github.com/pacoxu/website/blob/v1.36-fine-grained-kubelet-auth/content/zh-cn/blog/_posts/2026/fine-grained-kubelet-authz.md) [Translator]
 - [开猿面对面：对话道客开源负责人PacoXu，Kubernetes全球指导委员会的唯一中国人（一）](https://juejin.cn/post/7579716343454351403)
 - [重新定义大模型智能推理：Volcano社区发起Kthena子项目](https://mp.weixin.qq.com/s/rjD370fBKthGOOX83qpJ9g)
 - [Announcing the 2025 Steering Committee Election Results](https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/) [Mentions]
