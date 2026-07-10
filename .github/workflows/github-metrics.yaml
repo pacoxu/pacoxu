@@ -20,6 +20,9 @@ jobs:
           template: classic
           base: header
           config_timezone: Asia/Shanghai
+          retries: 3
+          retries_delay: 60
+          plugins_errors_fatal: yes
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_notable: yes
