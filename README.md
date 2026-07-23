@@ -16,6 +16,7 @@ More info can be found in [my Community Activities](https://github.com/pacoxu/pa
 <img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="120">
 <img alt="KubeCon EU 2025 Track Chair" src="https://github.com/user-attachments/assets/bc6f5cb3-a7c1-4f09-8e21-52b9c337dc8f" width="120">
 <img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="120">
+<img alt="KubeCon China 2026 PMC" src="https://github.com/user-attachments/assets/3c969711-ce18-4e0d-8370-d8d9ffd79371" width="80">
 <img alt="KubeCon EU 2025 Speaker" src="https://github.com/user-attachments/assets/9689e028-6bb6-4a00-baa0-5b194bc2ca1c" width="80">
 <img alt="KubeCon EU 2024 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="80">
 <img alt="KubeCon EU 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="80">
