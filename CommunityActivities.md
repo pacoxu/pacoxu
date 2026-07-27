@@ -3,6 +3,7 @@ Includes activities organization, speeches and Program Committees work.
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
   - 2026
     - 🎙️ [KCD Beijing & vLLM Day 2026](https://community2.cncf.io/events/details/cncf-kcd-beijing-presents-kcd-beijing-vllm-2026/) Speaker
+    - 📅 KCD Hangzhou 2026 (🇨🇳Hangzhou), Nov 28
     - 👥📋 KubeCon EU(🇳🇱Amsterdam) as Program Committee Member
     - 👥📋 KubeCon Japan(🇯🇵Yokohama) as Program Committee Member
     - 👥📋 [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/) as Program Committee Member and upcoming Speaker
