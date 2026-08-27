@@ -7,6 +7,10 @@ Includes activities organization, speeches and Program Committees work.
     - 👥📋 KubeCon EU(🇳🇱Amsterdam) as Program Committee Member
     - 👥📋 KubeCon Japan(🇯🇵Yokohama) as Program Committee Member
     - 👥📋 [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/) as Program Committee Member and upcoming Speaker
+      - 🎙️ [Kubernetes DRA Architecture: Scheduling, Status, and Topology at Scale](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1223308)
+    - 🎙️ KubeCon North America 2026 (🇺🇸Salt Lake City):
+      - [Steering the Ship: Ask the Kubernetes Steering Committee](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1289694)
+      - [Explore TAG Workloads Foundation: Core Runtime, Batch Scheduling, and Moar](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1289723)
   - 2025
     - 📺 KCD Hangzhou 2025: [Keynotes-2 Kubernetes 社区新动向：AI Gateway, Integration 与 Conformance 工作组建立](https://www.bilibili.com/video/BV1LkUYBCEZ1)
     - 🎙️ 开猿面对面：[对话PacoXu（二）：AI与程序员，云原生与社区，五代史与足球](https://juejin.cn/post/7579921879974117422)
