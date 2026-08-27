@@ -273,17 +273,19 @@ def write_md_from_template(md, repo_name, template_file, fallback):
             out.write("\n")
 
 
-def append_markdown_file(md, source_file):
+def prepend_markdown_file(md, source_file):
     if not os.path.exists(source_file):
         return
     with open(source_file, "r", encoding="utf-8") as source:
         content = source.read().strip()
     if not content:
         return
-    with open(md, "a+", encoding="utf-8") as out:
-        out.write("\n")
+    with open(md, "r", encoding="utf-8") as existing_file:
+        existing = existing_file.read().lstrip()
+    with open(md, "w", encoding="utf-8") as out:
         out.write(content)
-        out.write("\n")
+        out.write("\n\n")
+        out.write(existing)
 
 
 def add_md_label(repo, md, me):
@@ -398,7 +400,7 @@ def generate_blog_list(repo, repo_name, me):
     )
     for func in [add_md_top, add_md_recent, add_md_label]:
         func(repo, BLOG_LIST_FILE, me)
-    append_markdown_file(BLOG_LIST_FILE, BLOG_LIST_APPENDIX_FILE)
+    prepend_markdown_file(BLOG_LIST_FILE, BLOG_LIST_APPENDIX_FILE)
 
 
 def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
