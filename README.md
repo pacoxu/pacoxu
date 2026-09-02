@@ -6,7 +6,7 @@
 
 More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
 
-<img alt="CNCF Ambassadors 2025-2027" src="https://github.com/user-attachments/assets/3ba014f1-dd64-4d98-9953-beb9a88da14e" width="120">
+<img alt="CNCF Ambassadors 2026-2028" src="https://github.com/user-attachments/assets/a007f1a2-39c7-4b48-96b3-99df1b8e2e51" width="120">
 <img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="120">
 <img alt="KubeCon EU 2025 Track Chair" src="https://github.com/user-attachments/assets/bc6f5cb3-a7c1-4f09-8e21-52b9c337dc8f" width="120">
 <img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="120">
