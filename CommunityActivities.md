@@ -3,11 +3,11 @@ Includes activities organization, speeches and Program Committees work.
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
   - 2026
     - 🎙️ [KCD Beijing & vLLM Day 2026](https://community2.cncf.io/events/details/cncf-kcd-beijing-presents-kcd-beijing-vllm-2026/) Speaker
-    - 📢 [KCD Hangzhou 2026](https://mp.weixin.qq.com/s/2AqIdvZmUHdG5-F1nVvbeA) (🇨🇳Hangzhou), Nov 28 — [CFP](https://sessionize.com/kcd-hangzhou-2026/) closes Sep 30
+    - 📅 [KCD Hangzhou 2026](https://mp.weixin.qq.com/s/2AqIdvZmUHdG5-F1nVvbeA) (🇨🇳Hangzhou), Nov 28
     - 👥📋 KubeCon EU(🇳🇱Amsterdam) as Program Committee Member
     - 👥📋 KubeCon Japan(🇯🇵Yokohama) as Program Committee Member
-    - 👥📋 [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/) as Program Committee Member and upcoming Speaker
-      - 🎙️ [Kubernetes DRA Architecture: Scheduling, Status, and Topology at Scale](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1223308)
+    - 👥📋 [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/) as Program Committee Member and Speaker
+      - 📺 [Kubernetes DRA Architecture: Scheduling, Status, and Topology at Scale](https://www.youtube.com/watch?v=XEv5c6p0Jx0&list=PLGcxfZT6qI-w&index=39) - Paco Xu, DaoCloud & Kang Zhang, NVIDIA
     - 🎙️ KubeCon North America 2026 (🇺🇸Salt Lake City):
       - [Steering the Ship: Ask the Kubernetes Steering Committee](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1289694)
       - [Explore TAG Workloads Foundation: Core Runtime, Batch Scheduling, and Moar](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1289723)
