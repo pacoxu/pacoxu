@@ -1,5 +1,6 @@
 ## Related Writing Elsewhere
 
+- [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) [Author]
 - [Kubernetes v1.36：更多驱动程序、新特性以及下一代 DRA](https://kubernetes.io/zh-cn/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/) [Translator]
 - [Kubernetes v1.36：Job 挂起时可变更的容器资源（Beta）](https://kubernetes.io/zh-cn/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) [Translator]
 - [Kubernetes v1.36：细粒度 kubelet API 鉴权正式发布（GA）](https://kubernetes.io/zh-cn/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) [Translator]
