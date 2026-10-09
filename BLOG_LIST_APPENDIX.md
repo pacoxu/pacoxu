@@ -1,6 +1,11 @@
 ## Related Writing Elsewhere
 
 - [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) [Author]
+- [Kubernetes v1.37：Memory QoS 进阶到 Beta](https://kubernetes.io/zh-cn/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/) [Translator]
+- [Kubernetes v1.37：工作负载感知调度继续演进](https://kubernetes.io/zh-cn/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/) [Translator]
+- [Kubernetes v1.37：DRA 新进展](https://kubernetes.io/zh-cn/blog/2026/09/03/kubernetes-v1-37-dra-updates/) [Translator]
+- [Kubernetes v1.37：Metrics API 进阶至稳定版](https://kubernetes.io/zh-cn/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) [Translator]
+- [Kubernetes v1.37：Garhwal](https://kubernetes.io/zh-cn/blog/2026/08/26/kubernetes-v1-37-release/) [Translator]
 - [Kubernetes v1.36：更多驱动程序、新特性以及下一代 DRA](https://kubernetes.io/zh-cn/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/) [Translator]
 - [Kubernetes v1.36：Job 挂起时可变更的容器资源（Beta）](https://kubernetes.io/zh-cn/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) [Translator]
 - [Kubernetes v1.36：细粒度 kubelet API 鉴权正式发布（GA）](https://kubernetes.io/zh-cn/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) [Translator]
