@@ -6,32 +6,7 @@
 
 More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
 
-<img alt="CNCF Ambassadors 2026-2028" src="https://github.com/user-attachments/assets/a007f1a2-39c7-4b48-96b3-99df1b8e2e51" width="120">
-<img alt="KubeCon China 2024 Co-Chair" src="https://github.com/user-attachments/assets/ec1dfcfd-f0a8-4a9a-b50d-014f094bf20d" width="120">
-<img alt="KubeCon EU 2025 Track Chair" src="https://github.com/user-attachments/assets/bc6f5cb3-a7c1-4f09-8e21-52b9c337dc8f" width="120">
-<img alt="KubeCon NA 2024 Track Chair" src="https://github.com/user-attachments/assets/353295cf-b247-48f9-a983-a389cb84671e" width="120">
-<img alt="KubeCon NA 2026 Speaker" src="images/kubecon-na-2026-speaker.png" width="80">
-<img alt="KubeCon China 2026 Speaker" src="https://github.com/user-attachments/assets/c6e8569d-7964-4606-a415-2136dcd18861" width="80">
-<img alt="KubeCon EU 2025 Speaker" src="https://github.com/user-attachments/assets/9689e028-6bb6-4a00-baa0-5b194bc2ca1c" width="80">
-<img alt="KubeCon China 2025 Speaker" src="https://github.com/user-attachments/assets/936df824-427d-41d4-8527-aef8d56a65c0" width="80">
-<img alt="KubeCon China 2024 Speaker" src="https://github.com/user-attachments/assets/b67e1198-6ca7-4684-b87d-991f68957eee" width="80">
-<img alt="KubeCon EU 2024 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/fa2d7ee7-c136-4a36-bab1-3b22ac1a6009" width="80">
-<img alt="KCD 2025 Hangzhou speaker" src="https://github.com/user-attachments/assets/38ad9728-55ca-4b58-9b4e-8c56819ecf0c" width="80">
-<img alt="KCD 2024 Shanghai speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/dd491e98-23a0-40af-8cfe-37646334b93d" width="80">
-<img alt="KubeCon EU 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/cc81330f-29bf-4f63-a4c2-028cd2d0e787" width="80">
-<img alt="KubeCon China 2023 Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/1f105886-ed27-4e9f-9e3a-ac72faf75e1d" width="80">
-<img alt="KubeCon China 2021 Virtual Speaker" src="https://github.com/pacoxu/pacoxu/assets/2010320/496e7308-d8c9-4f64-81ca-be25552b0916" width="80">
-<img alt="KubeCon Japan 2026 Program Committee" src="https://github.com/user-attachments/assets/e72c43a0-ac96-4fb3-a84f-d56f7634b51b" width="80">
-<img alt="KubeCon EU 2026 Program Committee" src="https://github.com/user-attachments/assets/83754e6b-ee04-4e2d-b0f3-a794ce0a0102" width="80">
-<img alt="KubeCon China 2025 Program Committee" src="https://github.com/user-attachments/assets/03a00792-c302-4c69-b8cb-cdb833d37239" width="80">
-<img alt="KubeCon NA 2025 Program Committee" src="https://github.com/user-attachments/assets/18e85bc5-b982-4f9e-b1ea-1eb7352632f0" width="80">
-<img alt="KubeCon Japan 2025 Program Committee" src="https://github.com/user-attachments/assets/82000382-6ac0-4c6f-aa29-000246975e16" width="80">
-<img alt="KubeCon EU 2024 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/a167e695-9e44-4e67-add1-599c8e5c05a8" width="80">
-<img alt="KubeCon India 2024 Program Committee" src="https://github.com/user-attachments/assets/b4b996f8-367c-4b27-b5a1-c7549ccfedc8" width="80">
-<img alt="KubeCon China 2023 Program Committee" src="https://github.com/pacoxu/pacoxu/assets/2010320/3aa41135-af51-4990-8227-e6f61f6c1700" width="80">
-<img alt="KCD Chengdu 2022 Orginzer(Program Committee)" src="https://github.com/user-attachments/assets/a4815c55-3807-4449-a029-43e53d650d78" width="80">
-<img alt="LFAPAC Open Source Evangelist" src="https://github.com/pacoxu/pacoxu/assets/2010320/dcaff1e1-44e2-4d01-8e75-d91d767bfb08" width="80">
-<img alt="LFC102: Inclusive Open Source Community Orientation" src="https://github.com/user-attachments/assets/6ad503ac-4dfd-445a-a12f-440c3ff4ed6c" width="80">
+<a href="https://www.cncf.io/people/ambassadors/?_sft_lf-country=cn&amp;p=paco-xu&amp;_sf_s=paco+xu"><img alt="CNCF Ambassadors 2026-2028" src="images/cncf-ambassadors-2026-2028.png" width="120"></a> <img alt="KubeCon China 2024 Co-Chair" src="images/kubecon-china-2024-co-chair.png" width="120"> <img alt="KubeCon EU 2025 Track Chair" src="images/kubecon-eu-2025-track-chair.png" width="120"> <img alt="KubeCon NA 2024 Track Chair" src="images/kubecon-na-2024-track-chair.png" width="120"> <img alt="KubeCon NA 2026 Speaker" src="images/kubecon-na-2026-speaker.png" width="80"> <img alt="KubeCon China 2026 Speaker" src="images/kubecon-china-2026-speaker.png" width="80"> <img alt="KubeCon EU 2025 Speaker" src="images/kubecon-eu-2025-speaker.png" width="80"> <img alt="KubeCon China 2025 Speaker" src="images/kubecon-china-2025-speaker.png" width="80"> <img alt="KubeCon China 2024 Speaker" src="images/kubecon-china-2024-speaker.png" width="80"> <img alt="KubeCon EU 2024 Speaker" src="images/kubecon-eu-2024-speaker.png" width="80"> <img alt="KCD 2025 Hangzhou speaker" src="images/kcd-hangzhou-2025-speaker.png" width="80"> <img alt="KCD 2024 Shanghai speaker" src="images/kcd-shanghai-2024-speaker.png" width="80"> <img alt="KubeCon EU 2023 Speaker" src="images/kubecon-eu-2023-speaker.png" width="80"> <img alt="KubeCon China 2023 Speaker" src="images/kubecon-china-2023-speaker.png" width="80"> <img alt="KubeCon China 2021 Virtual Speaker" src="images/kubecon-china-2021-speaker.png" width="80"> <img alt="KubeCon Japan 2026 Program Committee" src="images/kubecon-japan-2026-program-committee.png" width="80"> <img alt="KubeCon EU 2026 Program Committee" src="images/kubecon-eu-2026-program-committee.png" width="80"> <img alt="KubeCon China 2025 Program Committee" src="images/kubecon-china-2025-program-committee.png" width="80"> <img alt="KubeCon NA 2025 Program Committee" src="images/kubecon-na-2025-program-committee.png" width="80"> <img alt="KubeCon Japan 2025 Program Committee" src="images/kubecon-japan-2025-program-committee.png" width="80"> <img alt="KubeCon EU 2024 Program Committee" src="images/kubecon-eu-2024-program-committee.png" width="80"> <img alt="KubeCon India 2024 Program Committee" src="images/kubecon-india-2024-program-committee.png" width="80"> <img alt="KubeCon China 2023 Program Committee" src="images/kubecon-china-2023-program-committee.png" width="80"> <img alt="KCD Chengdu 2022 Orginzer(Program Committee)" src="images/kcd-chengdu-2022-program-committee.png" width="80"> <img alt="LFAPAC Open Source Evangelist" src="images/lfapac-open-source-evangelist.png" width="80"> <img alt="LFC102: Inclusive Open Source Community Orientation" src="images/lfc102-community-orientation.png" width="80">
 
 ## The repos I created
 
