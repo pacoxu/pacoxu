@@ -1,62 +1,54 @@
-| 🔭** Working on Kubernetes & Learning [AI Infra](https://github.com/pacoxu/AI-Infra)** |  **Event Links & Dates** [More](https://github.com/pacoxu/developers-conferences-agenda)      | 
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Work in **DaoCloud Open Source Team**: [DCE](https://www.daocloud.io/products/index.html),[d.run](https://d.run/).<br> - [CNCF Ambassador / CNCF 大使](https://www.cncf.io/people/ambassadors/?_sft_lf-country=cn&p=paco-xu&_sf_s=paco+xu) <br> - [Kubernetes Steering](https://github.com/kubernetes/steering) Committee Member <br> - [CNCF TAG Workloads](https://github.com/cncf/tag-workloads/) Chair <br> - [Kubernetes/Kubeadm](https://github.com/kubernetes/kubeadm/) Maintainer <br> - [Kubernetes/SIG-Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md) Reviewer <br> - [Kubernetes/SIG-Scheduling](https://github.com/kubernetes/community/blob/master/sig-scheduling/README.md) Reviewer <br><br> **Community Activities**: [Speak](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & [CFP Review](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/submission-reviewer-guidelines/) & Organize <br> - [KubeCon China 2024](https://events.linuxfoundation.org/archive/2024/kubecon-cloudnativecon-open-source-summit-ai-dev-china/) Co-Chair 🇨🇳🇭🇰 <br>  - **Track Chair** of KubeCon NA 2024🇺🇸 and EU 2025🇬🇧 <br>  - [LFAPAC Evangelist](https://evangelists.linuxfoundation.cn/evangelists) 2024/25 | 🎥 KubeCon China 🇨🇳 2025 (HK🇭🇰) [Videos](https://www.youtube.com/playlist?list=PLj6h78yzYM2P1xtALqTcCmRAa6142uERl) <br>🎙️ [KCD Beijing & vLLM Day 2026](https://sessionize.com/kcd-beijing-2026/) Mar 21 <br>🎙️ KCD Beijing 2027 (🇨🇳Beijing): Mar 20 <br> 👥 [KubeCon EU](https://kccnceu2026.sched.com/) 2026 🇳🇱 (Amsterdam): Mar 23–26 <br> 🎥 [KubeCon China & PyTorchCon 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/) 🇨🇳 (**Shanghai**): Sep 7–9 [Videos](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w) <br> 📅 [KubeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) 🇺🇸 (SLC): Nov 9–12 <br> 🎙️ [KCD Hangzhou 2026](https://sessionize.com/view/9wf3k38o/GridSmart?format=Embed_Styled_Html&isDark=False&title=KCD%20Hangzhou%202026) 🇨🇳 (**Hangzhou**): Nov 28 <br> 📢 [KubeCon EU 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) 🇪🇸 (**Barcelona**): Mar 15–18<br> 📅 [KubeCon Japan 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) 🇯🇵 (**Yokohama**): Aug 25–26 <br> 📅 [KubeCon China 2027](https://www.lfopensource.cn/open-nexus-china/) <br> 📅 [KubeCon NA 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) 🇺🇸 (NOLA): Nov 8–11 <br> 📅 [KubeCon EU 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) 🇩🇪 (**Berlin**): Apr 24–27 <br> 📅 [KubeCon NA 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2028/) <br>|
+<!-- Hand-maintained profile README (no longer generated from a template). The full event calendar lives in CommunityActivities.md. -->
 
-🇨🇳 **The only thing that I know is that I know nothing**.
+### Hi, I'm Paco 👋
 
-More info can be found in [my Community Activities](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) and [my blogs](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md)
+**Kubernetes** — [Steering Committee](https://github.com/kubernetes/steering) · [kubeadm](https://github.com/kubernetes/kubeadm/) maintainer · [SIG Node](https://github.com/kubernetes/community/blob/main/sig-node/README.md)/[Scheduling](https://github.com/kubernetes/community/blob/main/sig-scheduling/README.md) reviewer<br>
+**CNCF** — [TAG Workloads Foundation](https://github.com/cncf/toc/tree/main/tags/tag-workloads-foundation) Chair · [Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=cn&p=paco-xu&_sf_s=paco+xu)<br>
+**DaoCloud** — open source team ([DCE](https://www.daocloud.io/products/index.html), [d.run](https://d.run/))<br>
+<sub>Past: [KubeCon China 2024](https://events.linuxfoundation.org/archive/2024/kubecon-cloudnativecon-open-source-summit-ai-dev-china/) Co-Chair · KubeCon NA 2024 & EU 2025 Track Chair · [LFAPAC Evangelist](https://evangelists.linuxfoundation.cn/evangelists) 2024/25</sub>
+
+- 🔭 **Now:** AI infra & LLM inference ([vLLM](https://github.com/vllm-project/vllm)) · DRA & [Agent Sandbox](https://github.com/kubernetes-sigs/agent-sandbox) · Kubernetes performance — notes in [AI-Infra](https://github.com/pacoxu/AI-Infra)
+- 🎙️ **Talks:** next at [KCD Hangzhou](https://sessionize.com/view/9wf3k38o/GridSmart?format=Embed_Styled_Html&isDark=False&title=KCD%20Hangzhou%202026), Nov 28 (agent-sandbox → Dynamic Containers) · recently at [KubeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) (Steering AMA, TAG Workloads)
+- 📚 **More:** [events & talks](https://github.com/pacoxu/pacoxu/blob/master/CommunityActivities.md) · [videos](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) · [blog](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md) · [RSS](https://raw.githubusercontent.com/pacoxu/pacoxu/master/feed.xml)
 
 <p>
-<a href="https://www.cncf.io/people/ambassadors/?_sft_lf-country=cn&amp;p=paco-xu&amp;_sf_s=paco+xu"><img alt="CNCF Ambassadors 2026-2028" src="images/cncf-ambassadors-2026-2028.png" width="120"></a>
-<img alt="KubeCon China 2024 Co-Chair" src="images/kubecon-china-2024-co-chair.png" width="120">
-<img alt="KubeCon EU 2025 Track Chair" src="images/kubecon-eu-2025-track-chair.png" width="120">
-<img alt="KubeCon NA 2024 Track Chair" src="images/kubecon-na-2024-track-chair.png" width="120">
-<img alt="KubeCon NA 2026 Speaker" src="images/kubecon-na-2026-speaker.png" width="80">
-<img alt="KubeCon China 2026 Speaker" src="images/kubecon-china-2026-speaker.png" width="80">
-<img alt="KubeCon Japan 2026 Program Committee" src="images/kubecon-japan-2026-program-committee.png" width="80">
-<img alt="KubeCon EU 2026 Program Committee" src="images/kubecon-eu-2026-program-committee.png" width="80">
+<a href="https://www.cncf.io/people/ambassadors/?_sft_lf-country=cn&amp;p=paco-xu&amp;_sf_s=paco+xu"><img alt="CNCF Ambassador 2026-2028" src="images/cncf-ambassadors-2026-2028.png" width="88"></a>
+<img alt="KubeCon China 2024 Co-Chair" src="images/kubecon-china-2024-co-chair.png" width="88">
+<img alt="KubeCon EU 2025 Track Chair" src="images/kubecon-eu-2025-track-chair.png" width="88">
+<img alt="KubeCon NA 2024 Track Chair" src="images/kubecon-na-2024-track-chair.png" width="88">
+<img alt="KubeCon NA 2026 Speaker" src="images/kubecon-na-2026-speaker.png" width="88">
+<img alt="KubeCon China 2026 Speaker" src="images/kubecon-china-2026-speaker.png" width="88">
 </p>
 
 <details>
-<summary>Other badges</summary>
+<summary>More badges: speaker · program committee · LF</summary>
 
 <p>
-<img alt="KubeCon EU 2025 Speaker" src="images/kubecon-eu-2025-speaker.png" width="80">
-<img alt="KubeCon China 2025 Speaker" src="images/kubecon-china-2025-speaker.png" width="80">
-<img alt="KubeCon China 2024 Speaker" src="images/kubecon-china-2024-speaker.png" width="80">
-<img alt="KubeCon EU 2024 Speaker" src="images/kubecon-eu-2024-speaker.png" width="80">
-<img alt="KCD 2025 Hangzhou speaker" src="images/kcd-hangzhou-2025-speaker.png" width="80">
-<img alt="KCD 2024 Shanghai speaker" src="images/kcd-shanghai-2024-speaker.png" width="80">
-<img alt="KubeCon EU 2023 Speaker" src="images/kubecon-eu-2023-speaker.png" width="80">
-<img alt="KubeCon China 2023 Speaker" src="images/kubecon-china-2023-speaker.png" width="80">
-<img alt="KubeCon China 2021 Virtual Speaker" src="images/kubecon-china-2021-speaker.png" width="80">
-<img alt="KubeCon China 2025 Program Committee" src="images/kubecon-china-2025-program-committee.png" width="80">
-<img alt="KubeCon NA 2025 Program Committee" src="images/kubecon-na-2025-program-committee.png" width="80">
-<img alt="KubeCon Japan 2025 Program Committee" src="images/kubecon-japan-2025-program-committee.png" width="80">
-<img alt="KubeCon EU 2024 Program Committee" src="images/kubecon-eu-2024-program-committee.png" width="80">
-<img alt="KubeCon India 2024 Program Committee" src="images/kubecon-india-2024-program-committee.png" width="80">
-<img alt="KubeCon China 2023 Program Committee" src="images/kubecon-china-2023-program-committee.png" width="80">
-<img alt="KCD Chengdu 2022 Orginzer(Program Committee)" src="images/kcd-chengdu-2022-program-committee.png" width="80">
-<img alt="LFAPAC Open Source Evangelist" src="images/lfapac-open-source-evangelist.png" width="80">
-<img alt="LFC102: Inclusive Open Source Community Orientation" src="images/lfc102-community-orientation.png" width="80">
+<img alt="KubeCon EU 2025 Speaker" src="images/kubecon-eu-2025-speaker.png" width="56">
+<img alt="KubeCon China 2025 Speaker" src="images/kubecon-china-2025-speaker.png" width="56">
+<img alt="KCD Hangzhou 2025 Speaker" src="images/kcd-hangzhou-2025-speaker.png" width="56">
+<img alt="KubeCon China 2024 Speaker" src="images/kubecon-china-2024-speaker.png" width="56">
+<img alt="KubeCon EU 2024 Speaker" src="images/kubecon-eu-2024-speaker.png" width="56">
+<img alt="KCD Shanghai 2024 Speaker" src="images/kcd-shanghai-2024-speaker.png" width="56">
+<img alt="KubeCon EU 2023 Speaker" src="images/kubecon-eu-2023-speaker.png" width="56">
+<img alt="KubeCon China 2023 Speaker" src="images/kubecon-china-2023-speaker.png" width="56">
+<img alt="KubeCon China 2021 Virtual Speaker" src="images/kubecon-china-2021-speaker.png" width="56">
+<br>
+<img alt="KubeCon Japan 2026 Program Committee" src="images/kubecon-japan-2026-program-committee.png" width="56">
+<img alt="KubeCon EU 2026 Program Committee" src="images/kubecon-eu-2026-program-committee.png" width="56">
+<img alt="KubeCon China 2025 Program Committee" src="images/kubecon-china-2025-program-committee.png" width="56">
+<img alt="KubeCon NA 2025 Program Committee" src="images/kubecon-na-2025-program-committee.png" width="56">
+<img alt="KubeCon Japan 2025 Program Committee" src="images/kubecon-japan-2025-program-committee.png" width="56">
+<img alt="KubeCon EU 2024 Program Committee" src="images/kubecon-eu-2024-program-committee.png" width="56">
+<img alt="KubeCon India 2024 Program Committee" src="images/kubecon-india-2024-program-committee.png" width="56">
+<img alt="KubeCon China 2023 Program Committee" src="images/kubecon-china-2023-program-committee.png" width="56">
+<img alt="KCD Chengdu 2022 Organizer (Program Committee)" src="images/kcd-chengdu-2022-program-committee.png" width="56">
+<br>
+<img alt="LFAPAC Open Source Evangelist" src="images/lfapac-open-source-evangelist.png" width="56">
+<img alt="LFC102: Inclusive Open Source Community Orientation" src="images/lfc102-community-orientation.png" width="56">
 </p>
 </details>
 
-## The repos I created
+<img alt="Repos I contributed to" src="https://github-contrib-stats.vercel.app/pacoxu/contributed.svg?max_repos=6" width="600">
 
-![Repos I created](https://github-contrib-stats.vercel.app/pacoxu/created.svg?max_repos=4)
-
-
-## The repos I contributed to
-
-![Repos I contributed to](https://github-contrib-stats.vercel.app/pacoxu/contributed.svg?max_repos=10)
-
-![Metrics](https://github.com/pacoxu/pacoxu/blob/master/github-metrics.svg)
-
-![](https://komarev.com/ghpvc/?username=pacoxu)
-
-## My Blog
-
-The full archive lives in [blog-list.md](https://github.com/pacoxu/pacoxu/blob/master/blog-list.md).
-
-[RSS Feed](https://raw.githubusercontent.com/pacoxu/pacoxu/master/feed.xml)
+🇨🇳 *The only thing that I know is that I know nothing.*
