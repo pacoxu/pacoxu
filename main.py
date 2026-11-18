@@ -11,9 +11,7 @@ from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
 BACKUP_DIR = "BACKUP"
-README_FILE = "README.md"
 BLOG_LIST_FILE = "blog-list.md"
-README_TEMPLATE_FILE = "README_TEMPLATE.md"
 BLOG_LIST_TEMPLATE_FILE = "BLOG_LIST_TEMPLATE.md"
 BLOG_LIST_APPENDIX_FILE = "BLOG_LIST_APPENDIX.md"
 ANCHOR_NUMBER = 5
@@ -371,19 +369,6 @@ def generate_rss_feed(repo, filename, me):
     generator.atom_file(filename)
 
 
-def generate_profile_readme(repo_name):
-    write_md_from_template(
-        README_FILE,
-        repo_name,
-        README_TEMPLATE_FILE,
-        (
-            "## My Blog\n\n"
-            "The full archive lives in [blog-list.md](https://github.com/{repo_name}/blob/master/blog-list.md).\n\n"
-            "[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)\n"
-        ),
-    )
-
-
 def generate_blog_list(repo, repo_name, me):
     write_md_from_template(
         BLOG_LIST_FILE,
@@ -407,7 +392,8 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     user = login(token)
     me = get_me(user)
     repo = get_repo(user, repo_name)
-    generate_profile_readme(repo_name)
+    # README.md is maintained by hand; this script only refreshes the blog
+    # archive (blog-list.md), the RSS feed and the BACKUP copies.
     generate_blog_list(repo, repo_name, me)
 
     generate_rss_feed(repo, "feed.xml", me)
