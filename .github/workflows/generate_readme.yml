@@ -1,4 +1,4 @@
-name: Generate Blog README
+name: Generate blog list and RSS
 
 on:
   workflow_dispatch:
@@ -15,7 +15,7 @@ on:
 
 jobs:
   sync:
-    name: Generate README
+    name: Generate blog list
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -38,7 +38,7 @@ jobs:
         run: |
           python main.py ${{ secrets.METRICS_TOKEN }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
 
-      - name: Push README
+      - name: Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"

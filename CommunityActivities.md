@@ -1,5 +1,20 @@
 Includes activities organization, speeches and Program Committees work.
 
+## Upcoming events
+
+<sub>🎙️ speaking · 📢 CFP open · 📅 on the calendar — more developer events in China: [developers-conferences-agenda](https://github.com/pacoxu/developers-conferences-agenda)</sub>
+
+- **Nov 28, 2026** · 🎙️ [KCD Hangzhou 2026](https://sessionize.com/view/9wf3k38o/GridSmart?format=Embed_Styled_Html&isDark=False&title=KCD%20Hangzhou%202026) · 🇨🇳 Hangzhou
+- **Mar 15–18, 2027** · 📅 [KubeCon EU 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) · 🇪🇸 Barcelona
+- **Mar 20, 2027** · 🎙️ KCD Beijing 2027 · 🇨🇳 Beijing
+- **Aug 25–26, 2027** · 📅 [KubeCon Japan 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) · 🇯🇵 Yokohama
+- **2027, date TBA** · 📅 [KubeCon China 2027](https://www.lfopensource.cn/open-nexus-china/) · 🇨🇳
+- **Nov 8–11, 2027** · 📅 [KubeCon NA 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) · 🇺🇸 New Orleans
+- **Apr 24–27, 2028** · 📅 [KubeCon EU 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) · 🇩🇪 Berlin
+- **2028, date TBA** · 📅 [KubeCon NA 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2028/) · 🇺🇸
+
+## Activities by year
+
 - Community Activities: [KubeCon Speaker 📺](https://www.youtube.com/playlist?list=PLROmsd5kH8pBiN0Km1EepbzKoDiM5S6Ok) & Program Committee Member 👥📋 & Event Organizer 🤝🎖️
   - 2026
     - 🎙️ [KCD Beijing & vLLM Day 2026](https://community2.cncf.io/events/details/cncf-kcd-beijing-presents-kcd-beijing-vllm-2026/) Speaker
@@ -9,7 +24,7 @@ Includes activities organization, speeches and Program Committees work.
     - 👥📋 KubeCon Japan(🇯🇵Yokohama) as Program Committee Member
     - 👥📋 [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/) as Program Committee Member and Speaker
       - 📺 [Kubernetes DRA Architecture: Scheduling, Status, and Topology at Scale](https://www.youtube.com/watch?v=XEv5c6p0Jx0&list=PLGcxfZT6qI-w&index=39) - Paco Xu, DaoCloud & Kang Zhang, NVIDIA
-    - 📺 KubeCon North America 2026 (🇺🇸Salt Lake City):
+    - 📺 KubeCon North America 2026 (🇺🇸Salt Lake City), my first talks in North America:
       - [Steering the Ship: Ask the Kubernetes Steering Committee](https://www.youtube.com/watch?v=GQV-jIUnZ6Q) - Kat Cosgrove, Independent; Maciej Szulik, Defense Unicorns; Paco Xu, DaoCloud & Michael McCune, Red Hat
       - [Explore TAG Workloads Foundation: Core Runtime, Batch Scheduling, and Moar](https://www.youtube.com/watch?v=FkuUMUZWO-g) - Marlow Warnicke, NVIDIA; Yuan Tang, TensorScale AI; Stephen Rust, Akamai Cloud; Paco Xu, DaoCloud & Rajas Kakodkar, VMware by Broadcom
   - 2025
@@ -20,7 +35,7 @@ Includes activities organization, speeches and Program Committees work.
     - 👥📋 [Kubernetes New Contributor Orientation](https://www.youtube.com/watch?v=5UABmfrYu9s) - Paco Xu, DaoCloud; ZhenYu Jiang & Mengjiao Liu, Independent
     - 👥📋 KubeCon EU(🏴󠁧󠁢󠁥󠁮󠁧󠁿London) as Program Committee Track Chair
       - [A Huge Cluster or Multi-Clusters? Identifying the Bottleneck](https://www.youtube.com/watch?v=6l5zCt5QsdY) - Paco Xu, DaoCloud & Saiyam Pathak, Loft Labs
-    - 👥📋 KubeCon China as Program Committee Member
+    - 👥📋 KubeCon China (🇭🇰Hong Kong) as Program Committee Member · [Videos](https://www.youtube.com/playlist?list=PLj6h78yzYM2P1xtALqTcCmRAa6142uERl)
       - June 10th: [Kubernetes New Contributor Orientation](https://www.youtube.com/watch?v=5UABmfrYu9s&list=PLj6h78yzYM2P1xtALqTcCmRAa6142uERl&index=59&t=1294s) - Paco Xu, DaoCloud; ZhenYu Jiang, Mashang Consumer Finance; Mengjiao Liu, Independent
     - 👥📋 KubeCon Japan as Program Committee Member
     - 🎗️🌍 [LFAPAC Evangelist 2025](https://evangelists.linuxfoundation.cn/evangelists)
